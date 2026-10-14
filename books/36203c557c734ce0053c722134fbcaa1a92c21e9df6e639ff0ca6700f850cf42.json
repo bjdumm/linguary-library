@@ -1,0 +1,394 @@
+{
+  "id": "ar-mutanabbi-horse-night",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "part": "قصيدة",
+      "title": "وا حر قلباه ممن قلبه شبم",
+      "blocks": [
+        {
+          "id": "b00001",
+          "text": "وَا حَـرَّ قَلبـاهُ مِمَّـن قـَلْـبُهُ شَبـِمُ\nومَـن بِجـِسمـي وَحـالي عِنْـدَهُ سَقَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00002",
+          "text": "ما لي أُكَتِّـمُ حُبّـاً قد بَـرَى جَسَـدي\nوتَدَّعِـي حُـبَّ سَيـفِ الدَولـةِ الأُمَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00003",
+          "text": "إِنْ كـانَ يَـجمَـعـُنـا حُبٌّ لِغُـرَّتـِهِ\nفَلَـيتَ أَنَّـا بِقَـدْرِ الحُـبِّ نَقـتَسِـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00004",
+          "text": "قـد زُرتُـه وسُيـُوفُ الهـِنـدِ مُغمَدةٌ\nوقـد نَظَـرتُ إليـهِ والسُـيُـوفُ دَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00005",
+          "text": "وَ كـانَ أَحـسَـنَ خـَلـقِ الله كُلِّهـِـمِ\nوكانَ أَحْسَنَ مـا في الأَحسَـنِ الشِيَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00006",
+          "text": "فـَوتُ العَـدُوِّ الِّـذي يَمَّمْتـَهُ ظَفَـرٌ\nفي طَـيِّـهِ أَسَــفٌ في طَـيِّــهِ نِـعَــمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00007",
+          "text": "قد نابَ عنكَ شَدِيدُ الخَوفِ واصطَنَعـَتْ\nلَكَ المَهابةُ مـا لا تَصْنـعُ البُـهَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00008",
+          "text": "أَلزَمْتَ نَفْسَكَ شَيْئاً لَيـسَ يَلْزَمـُهـا\nأَنْ لا يُـوارِيَـهُـم أرضٌ ولا عَـلَــمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00009",
+          "text": "أَكـلما رُمتَ جَيشاً فانثَنـَى هَرَبـاً\nتَـصَـرَّفَـتْ بِـكَ في آثـارِهِ الـهِمَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00010",
+          "text": "عـلَـيـكَ هَـزمـُهـُمُ في كُـلِّ مُعْتَـرَكٍ\nوما عَلَيكَ بِهِمْ عـارٌ إِذا انهَزَمـوا",
+          "kind": "verse"
+        },
+        {
+          "id": "b00011",
+          "text": "أَمـا تَرَى ظَفـَراً حُلواً سـِوَى ظَفـَرٍ\nتَصافَحَتْفيهِ بيـضُ الهِـنْدِ والِلمَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00012",
+          "text": "يـا أَعـدَلَ النـاسِ إِلاَّ في مُعامَلَـتي\nفيكَ الخِصـامُ وأَنـتَ الخَصْـمُ والحَكَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00013",
+          "text": "أُعِيـذُهـا نَظَــراتٍ مِنْـكَ صادِقـَـةً\nأَنْ تَحْسَبَ الشَحمَ فيمَـن شَحْمُـهُ وَرَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00014",
+          "text": "وما انتِفاعُ أَخي الدُنيا بِناظـرِهِ\nإِذا استَوَتْ عِنـدَهُ الأَنوارُ والظُلَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00015",
+          "text": "سَيَعْلَـمُ الجَمْـعُ مِمَّـن ضَـمَّ مَجْلِسُنـا\nبِأنَّني خَيْرُ مَـن تَسْـعَـى بـِـهِ قـدَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00016",
+          "text": "أَنـا الَّذي نَظَرَ الأَعمَـى إلى أَدَبـي\nوأَسمَـعَـتْ كَلِماتـي مَـن بـِـهِ صَمَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00017",
+          "text": "أَنـامُ مِـلءَ جُفُـوفي عـن شَوارِدِهـا\nويَسْـهَـرُ الخَلْـقُ جَرَّاهـا ويَختَـصِـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00018",
+          "text": "وَجَـاهِـلٍ مَــدَّهُ في جَهـلِـهِ ضـَحِكـِي\nحَـتَّـى أَتَـتْـهُ يَـدٌ فَـرَّاسـةٌ وفَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00019",
+          "text": "إِذا رَأيـتَ نُيُـوبَ اللّيـثِ بـارِزَةً\nفَـلا تَظُـنَّـنَ أَنَّ اللَيـثَ يَبْـتَـسِـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00020",
+          "text": "ومُهجةٍ مُهجتـي مِن هَــمِّ صـاحِبِهـا\nأَدرَكْـتُهـا بـِجَـوادٍ ظَـهْـرُهُ حَـرَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00021",
+          "text": "رِجلاهُ في الـرَكضِ رِجْلٌ واليَـدانِ يَدٌ\nوفِعْلُهُ مـا تُريـدُ الكَـفُّ والقَـدَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00022",
+          "text": "ومُرهَفٍ سِـرتُ بَينَ الجَـحْـفَـلَيـنِ بـِهِ\nحتَّى ضَرَبْتُ ومَـوجُ المَـوتِ يَلْـتَـطِـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00023",
+          "text": "الخَيْلُ واللّيلُ والبَيداءُ تَعرِفُـنـي\nوالسَيفُ والرُمْحُ والقِرطاسُ والقَلَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00024",
+          "text": "صَحِبتُ في الفَلَواتِ الوَحشَ مُـنْفـَرِداً\nحتَّـى تَعَـجَّـبَ منَّي القُـورُ والأَكَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00025",
+          "text": "يـا مَن يَعِزُّ عَلَينـا أن نُفارِقَهـم\nوَجداننـا كُـلَّ شَيءٍ بَعـدَكـُمْ عَـدَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00026",
+          "text": "مـا كانَ أَخلَقَنـا مِنكُم بِتَكـرِمـة\nلَـو أَن أَمرَكـُمُ مـِن أَمـرِنا أَمـَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00027",
+          "text": "إِن كـانَ سَرَّكـُـمُ ما قـالَ حاسِدُنا\nفَـمـا لِجُـرْحٍ إِذا أَرضـاكُـمُ أَلـَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00028",
+          "text": "وبَينَنـا لَو رَعَيْتُـمْ ذاكَ مَعـرِفـةٌ\nإِنَّ المَعـارِفَ في أَهلِ النُهـَى ذِمـَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00029",
+          "text": "كَم تَطلُبُـونَ لَنـا عَيبـاً فيُعجِزُكم\nويَكـرَهُ الله مـا تـأْتُـونَ والكَـرَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00030",
+          "text": "ما أَبعَدَ العَيْبَ والنُقصانَ من شَرَفي\nأَنا الثُرَيَّا وَذانِ الشَيبُ والـهَرَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00031",
+          "text": "لَيتَ الغَمـامَ الذي عِندِي صَواعِقُـهُ\nيُـزِيلُـهُـنَّ إلى مَـن عِنـدَه الدِيـَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00032",
+          "text": "أَرَى النَـوَى يَقْتَضِيني كُــلَّ مَرْحَلـةٍ\nلا تَستَقِلُّ بـِها الوَخَـّادةُ الرُسـُـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00033",
+          "text": "لَئِـن تَرَكْـنَ ضُمَيـراً عن مَيامِنِنـا\nلَيـَحْـدُثَـنَّ لِمـَنْ ودَّعْتـُهُـمْ نَــدَمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00034",
+          "text": "إذا تَرَحَّلْتَ عن قَـومٍ وقد قَــدَروا\nأَن لا تُفـارِقَهم فالـراحِـلُونَ هُـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00035",
+          "text": "شَـرُّ البـِلادِ مَكـانٌ لا صـَديـقَ بـهِ\nوشَرُّ ما يَكْسِـبُ الإِنسـانُ مـا يَصِـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00036",
+          "text": "وشَــرُّ ما قَنَصَتْــهُ راحَـتـي قَنـَصٌ\nشُهْبُ البُـزاةِ سَواءٌ فيـهِ والرَخَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00037",
+          "text": "بأَيَّ لَفْـظٍ تَقُـولُ الشِعْـرَ زِعْنِـفـةٌ\nتـجـُوزْ عِنـدَكَ لا عـُرْبٌ وِلا عـَجـَـمُ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00038",
+          "text": "هـذا عِـتابــكَ إِلاَّ أَنـَّـهُ مـِقـَـةٌ\nقـد ضُمـِّـنَ الـدُرَّ إِلاَّ أَنَّـهُ كَـلِـمُ",
+          "kind": "verse"
+        }
+      ],
+      "english": [
+        {
+          "id": "en-00001",
+          "kind": "verse",
+          "text": "Ah, my heart burns for one whose heart is cold,\nin whose regard my body and fortunes are ailing."
+        },
+        {
+          "id": "en-00002",
+          "kind": "verse",
+          "text": "Why should I hide a love that has worn my body away,\nwhile whole nations claim to love Sayf al-Dawla?"
+        },
+        {
+          "id": "en-00003",
+          "kind": "verse",
+          "text": "If love for his radiant face unites us,\nwould that our shares of his favor matched our love."
+        },
+        {
+          "id": "en-00004",
+          "kind": "verse",
+          "text": "I have visited him when Indian swords were sheathed,\nand looked upon him when those swords were bloodied."
+        },
+        {
+          "id": "en-00005",
+          "kind": "verse",
+          "text": "He was the finest of all God's creatures,\nand the finest thing in that finest man was his character."
+        },
+        {
+          "id": "en-00006",
+          "kind": "verse",
+          "text": "The escape of the enemy you pursued is a victory\nthat contains regret, yet within that regret are blessings."
+        },
+        {
+          "id": "en-00007",
+          "kind": "verse",
+          "text": "Great terror has acted in your place;\nyour awe has accomplished what fearless warriors could not."
+        },
+        {
+          "id": "en-00008",
+          "kind": "verse",
+          "text": "You have imposed on yourself a duty that is not yours:\nthat neither land nor mountain should shelter them."
+        },
+        {
+          "id": "en-00009",
+          "kind": "verse",
+          "text": "Must your ambition send you following their tracks\nevery time you seek an army and it turns in flight?"
+        },
+        {
+          "id": "en-00010",
+          "kind": "verse",
+          "text": "Your task is to defeat them on every battlefield;\nthere is no disgrace to you when they flee."
+        },
+        {
+          "id": "en-00011",
+          "kind": "verse",
+          "text": "Do you see no sweet victory except one\nin which bright Indian blades meet the hair upon their heads?"
+        },
+        {
+          "id": "en-00012",
+          "kind": "verse",
+          "text": "Most just of men, except in your treatment of me!\nThe quarrel concerns you, and you are both opponent and judge."
+        },
+        {
+          "id": "en-00013",
+          "kind": "verse",
+          "text": "I would protect your discerning gaze\nfrom mistaking a man's swelling for healthy flesh."
+        },
+        {
+          "id": "en-00014",
+          "kind": "verse",
+          "text": "What use are a man's eyes in this world\nif light and darkness are alike to him?"
+        },
+        {
+          "id": "en-00015",
+          "kind": "verse",
+          "text": "Everyone gathered in our assembly will learn\nthat I am the best of those whom feet carry."
+        },
+        {
+          "id": "en-00016",
+          "kind": "verse",
+          "text": "I am the one whose verse the blind have seen,\nwhose words have reached even the deaf."
+        },
+        {
+          "id": "en-00017",
+          "kind": "verse",
+          "text": "I sleep with eyelids full, untroubled by my roaming verses,\nwhile others stay awake over them and dispute."
+        },
+        {
+          "id": "en-00018",
+          "kind": "verse",
+          "text": "Many a fool my laughter encouraged in his folly,\nuntil a rending hand and mouth came upon him."
+        },
+        {
+          "id": "en-00019",
+          "kind": "verse",
+          "text": "When you see the lion's fangs exposed,\ndo not suppose the lion is smiling."
+        },
+        {
+          "id": "en-00020",
+          "kind": "verse",
+          "text": "Many a life whose owner sought my own\nI overtook on a noble horse whose back was a sanctuary."
+        },
+        {
+          "id": "en-00021",
+          "kind": "verse",
+          "text": "In running, his two hind legs are one, his forelegs one;\nhe does whatever hand and foot command."
+        },
+        {
+          "id": "en-00022",
+          "kind": "verse",
+          "text": "With many a keen-edged sword I went between two armies\nand struck while the waves of death crashed together."
+        },
+        {
+          "id": "en-00023",
+          "kind": "verse",
+          "text": "Horses, night, and the wilderness know me,\nand sword, spear, paper, and pen."
+        },
+        {
+          "id": "en-00024",
+          "kind": "verse",
+          "text": "Alone I kept company with wild beasts in empty lands,\nuntil the hills and heights marveled at me."
+        },
+        {
+          "id": "en-00025",
+          "kind": "verse",
+          "text": "You whose parting is so painful to us,\nfinding everything after you is finding nothing."
+        },
+        {
+          "id": "en-00026",
+          "kind": "verse",
+          "text": "How worthy we were of honor from you,\nif your disposition toward us had resembled ours toward you."
+        },
+        {
+          "id": "en-00027",
+          "kind": "verse",
+          "text": "If what our envier said has pleased you,\nthen a wound that satisfies you gives us no pain."
+        },
+        {
+          "id": "en-00028",
+          "kind": "verse",
+          "text": "Between us is an acquaintance, if you would honor it;\namong people of understanding, such ties are obligations."
+        },
+        {
+          "id": "en-00029",
+          "kind": "verse",
+          "text": "How often you seek a fault in us and fail!\nGod and generosity alike reject what you do."
+        },
+        {
+          "id": "en-00030",
+          "kind": "verse",
+          "text": "How far are fault and deficiency from my honor!\nI am the Pleiades; those two are gray hair and old age."
+        },
+        {
+          "id": "en-00031",
+          "kind": "verse",
+          "text": "Would that the cloud whose thunderbolts strike me\nwould carry them to those who receive its gentle rains."
+        },
+        {
+          "id": "en-00032",
+          "kind": "verse",
+          "text": "I see separation demanding journey after journey of me,\nsuch as swift, long-striding she-camels cannot undertake."
+        },
+        {
+          "id": "en-00033",
+          "kind": "verse",
+          "text": "If they leave Dumayr on our right,\nthose I have said farewell to will surely come to regret it."
+        },
+        {
+          "id": "en-00034",
+          "kind": "verse",
+          "text": "When you depart from people who had the power\nto keep you with them, it is they who have departed."
+        },
+        {
+          "id": "en-00035",
+          "kind": "verse",
+          "text": "The worst of lands is a place without a friend;\nthe worst thing a person gains is what brings disgrace."
+        },
+        {
+          "id": "en-00036",
+          "kind": "verse",
+          "text": "The worst quarry my hand has ever caught\nis prey in which gray falcons and vultures have equal shares."
+        },
+        {
+          "id": "en-00037",
+          "kind": "verse",
+          "text": "With what language does that rabble compose poetry\nthat passes with you, though they are neither Arabs nor non-Arabs?"
+        },
+        {
+          "id": "en-00038",
+          "kind": "verse",
+          "text": "This is my reproach to you, yet it is affection;\nit contains pearls, though it is made of words."
+        }
+      ]
+    }
+  ]
+}

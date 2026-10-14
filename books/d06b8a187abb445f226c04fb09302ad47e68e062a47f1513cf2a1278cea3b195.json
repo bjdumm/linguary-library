@@ -1,0 +1,784 @@
+{
+  "id": "ar-imru-al-qays-muallaqa",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "part": "قصيدة",
+      "title": "قفا نبك — معلقة امرئ القيس",
+      "blocks": [
+        {
+          "id": "b00001",
+          "text": "قفا نبك من ذِكرى حبيب ومنزل\nبسِقطِ اللِّوى بينَ الدَّخول فحَوْملِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00002",
+          "text": "فتوضح فالمقراة لم يَعفُ رسمهاَ\nلما نسجتْها من جَنُوب وشمالِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00003",
+          "text": "ترى بَعَرَ الأرْآمِ في عَرَصاتِها\nوقيعانها كأنه حبَّ فلفل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00004",
+          "text": "كأني غَداةَ البَيْنِ يَوْمَ تَحَمَلّوا\nلدى سَمُراتِ الحَيّ ناقِفُ حنظلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00005",
+          "text": "وُقوفاً بها صَحْبي عَليَّ مَطِيَّهُمْ\nيقُولون لا تهلكْ أسىً وتجمّل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00006",
+          "text": "وإنَّ شفائي عبرةٌ مهراقةٌ\nفهلْ عند رَسمٍ دارِسٍ من مُعوَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00007",
+          "text": "كدأبكَ من أمِّ الحويَرثِ قبلها\nوجارتها أمَّ الربابِ بمأسل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00008",
+          "text": "فَفاضَت دُموعُ العَينِ مِنّي صَبابَةً\nعَلى النَحرِ حَتّى بَلَّ دَمعِيَ مِحمَلي",
+          "kind": "verse"
+        },
+        {
+          "id": "b00009",
+          "text": "ألا ربَّ يومٍ لك مِنْهُنَّ صالح\nولا سيّما يومٍ بدارَةِ جُلْجُلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00010",
+          "text": "ويوم عقرتُ للعذارى مطيتي\nفيا عَجَباً من كورِها المُتَحَمَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00011",
+          "text": "فظلَّ العذارى يرتمينَ بلحمها\nوشحمٍ كهداب الدمقس المفتل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00012",
+          "text": "ويوم دخلتُ الخدرِ خدر عنيزة\nفقالت لك الويلات إنكَ مُرجلي",
+          "kind": "verse"
+        },
+        {
+          "id": "b00013",
+          "text": "تقولُ وقد مالَ الغَبيطُ بنا معاً\nعقرت بعيري يا امرأ القيس فانزلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00014",
+          "text": "فقُلتُ لها سيري وأرْخي زِمامَهُ\nولا تُبعديني من جناك المعللِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00015",
+          "text": "فمِثلِكِ حُبْلى قد طَرَقْتُ ومُرْضعٍ\nفألهيتُها عن ذي تمائمَ محول",
+          "kind": "verse"
+        },
+        {
+          "id": "b00016",
+          "text": "إذا ما بكى من خلفها انْصَرَفَتْ لهُ\nبشِقٍّ وَتحتي شِقُّها لم يُحَوَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00017",
+          "text": "ويوماً على ظهر الكثيبِ تعذَّرت\nعَليّ وَآلَتْ حَلْفَةً لم تَحَلَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00018",
+          "text": "أفاطِمُ مهلاً بعض هذا التدلل\nوإن كنتِ قد أزمعت صرمي فأجملي",
+          "kind": "verse"
+        },
+        {
+          "id": "b00019",
+          "text": "وَإنْ تكُ قد ساءتكِ مني خَليقَةٌ\nفسُلّي ثيابي من ثيابِكِ تَنْسُلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00020",
+          "text": "أغَرّكِ مني أنّ حُبّكِ قاتِلي\nوأنكِ مهما تأمري القلب يفعل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00021",
+          "text": "ومَا ذَرَفَتْ عَيْناكِ إلا لتَضْرِبي\nبسَهمَيكِ في أعشارِ قَلبٍ مُقَتَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00022",
+          "text": "و بيضةِ خدر لا يرامُ خباؤها\nتَمَتّعتُ من لَهْوٍ بها غيرَ مُعجَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00023",
+          "text": "تجاوزْتُ أحْراساً إلَيها ومَعْشَراً\nعليّ حِراساً لو يُسروّن مقتلي",
+          "kind": "verse"
+        },
+        {
+          "id": "b00024",
+          "text": "إذا ما الثريا في السماء تعرضت\nتعرضَ أثناء الوشاح المفصَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00025",
+          "text": "فجِئْتُ وقد نَضَّتْ لنَوْمٍ ثيابَها\nلدى السِّترِ إلاَّ لِبْسَةَ المُتَفَضِّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00026",
+          "text": "فقالت يمين الله ما لكَ حيلةٌ\nوما إن أرى عنك الغوايةَ تنجلي",
+          "kind": "verse"
+        },
+        {
+          "id": "b00027",
+          "text": "خَرَجْتُ بها أمشي تَجُرّ وَراءَنا\nعلى أثَرَيْنا ذَيْلَ مِرْطٍ مُرَحَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00028",
+          "text": "فلما أجزْنا ساحة الحيِّ وانتحى\nبنا بطنُ خَبْتٍ ذي حِقافٍ عَقَنْقَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00029",
+          "text": "هصرتُ بِفودي رأسها فتمايلت\nعليَّ هضيمَ الكَشحِ رِيّا المُخَلخَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00030",
+          "text": "إِذا اِلتَفَتَت نَحوي تَضَوَّعَ ريحُها\nنَسيمَ الصَبا جاءَت بِرَيّا القَرَنفُلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00031",
+          "text": "مُهَفْهَفَةٌ بَيْضاءُ غيرُ مُفاضَةٍ\nترائبها مصقولةٌ كالسجنجل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00032",
+          "text": "كِبِكْرِ المُقاناةِ البَياضِ بصُفْرَةٍ\nغذاها نميرُ الماء غير المحللِِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00033",
+          "text": "تصد وتبدي عن أسيلٍ وتتَّقي\nبناظرَةٍ من وَحش وَجْرَةَ مُطفِلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00034",
+          "text": "وجيد كجيد الرئم ليس بفاحِش\nإذا هيَ نَصّتْهُ وَلا بمُعَطَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00035",
+          "text": "وَفَرعٍ يَزينُ المَتنَ أَسوَدَ فاحِمٍ\nأَثيثٍ كَقِنوِ النَخلَةِ المُتَعَثكِلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00036",
+          "text": "غَدائِرُها مُستَشزِراتٌ إِلى العُلا\nتَضِلُّ العِقاصَ في مُثَنّىً وَمُرسَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00037",
+          "text": "وكشح لطيف كالجديل مخصر\nوساق كأنبوبِ السقي المُذلل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00038",
+          "text": "وَتَعْطو برخَصٍ غيرِ شَثْنٍ كأنّهُ\nأساريعُ ظبي أو مساويكُ إسحلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00039",
+          "text": "تُضيء الظلامَ بالعشاء كأنها\nمنارةُ ممسى راهب متبتل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00040",
+          "text": "وَتُضْحي فَتِيتُ المِسكِ فوق فراشها\nنؤومُ الضُّحى لم تَنْتَطِقْ عن تَفضُّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00041",
+          "text": "إلى مثلها يرنو الحليمُ صبابة\nإذا ما اسبكَرّتْ بينَ درْعٍ ومِجْوَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00042",
+          "text": "تَسَلَّت عِماياتُ الرِجالِ عَنِ الصِبا\nوَلَيسَ فُؤادي عَن هَواكِ بِمُنسَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00043",
+          "text": "ألا رُبّ خَصْمٍ فيكِ ألْوَى رَدَدتُه\nنصيح على تعذَاله غير مؤتل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00044",
+          "text": "وليل كموج البحر أرخى سدولهُ\nعليَّ بأنواع الهموم ليبتلي",
+          "kind": "verse"
+        },
+        {
+          "id": "b00045",
+          "text": "فَقُلْتُ لَهُ لما تَمَطّى بصلبه\nوأردَف أعجازاً وناءَ بكلْكلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00046",
+          "text": "ألا أيّها اللّيلُ الطّويلُ ألا انْجَلي\nبصُبْحٍ وما الإصْباحَ مِنك بأمثَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00047",
+          "text": "فيا لكَ من ليلْ كأنَّ نجومهُ\nبكل مغار الفتل شدت بيذبلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00048",
+          "text": "كأن الثريا علِّقت في مصامها\nبأمْراسِ كتّانٍ إلى صُمّ جَندَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00049",
+          "text": "وَقَد أَغتَدي وَالطَيرُ في وُكُناتِها\nبِمُنجَرِدٍ قَيدِ الأَوابِدِ هَيكَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00050",
+          "text": "مِكَرٍّ مِفَرٍّ مُقبِلٍ مُدبِرٍ مَعاً\nكَجُلمودِ صَخرٍ حَطَّهُ السَيلُ مِن عَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00051",
+          "text": "كُمَيتٍ يَزِلُّ اللِبدُ عَن حالِ مَتنِهِ\nكَما زَلَّتِ الصَفواءُ بِالمُتَنَزَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00052",
+          "text": "مسحٍّ إذا ما السابحاتُ على الونى\nأثرنَ غباراً بالكديد المركل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00053",
+          "text": "على العقبِ جيَّاش كأن اهتزامهُ\nإذا جاش فيه حميُه غَليُ مِرْجلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00054",
+          "text": "يطيرُ الغلامُ الخفُّ على صهواته\nوَيُلْوي بأثْوابِ العَنيفِ المُثقَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00055",
+          "text": "دَريرٍ كَخُذْروفِ الوَليدِ أمَرّهُ\nتقلبُ كفيهِ بخيطٍ مُوصلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00056",
+          "text": "لهُ أيطلا ظبيٍ وساقا نعامة\nوإرخاء سرحانٍ وتقريبُ تنفلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00057",
+          "text": "كأن على الكتفين منه إذا انتحى\nمَداكَ عَروسٍ أوْ صَلايةَ حنظلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00058",
+          "text": "وباتَ عَلَيْهِ سَرْجُهُ وَلجامُهُ\nوباتَ بعيني قائماً غير مرسل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00059",
+          "text": "فعنَّ لنا سربٌ كأنَّ نعاجَه\nعَذارَى دَوارٍ في مُلاءٍ مُذَيَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00060",
+          "text": "فأدبرنَ كالجزع المفصل بينه\nبجيدِ مُعَمٍّ في العَشيرَةِ مُخْوَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00061",
+          "text": "فألحَقَنا بالهادِياتِ وَدُونَهُ\nجواحِرها في صرةٍ لم تزيَّل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00062",
+          "text": "فَعادى عِداءً بَينَ ثَوْرٍ وَنَعْجَةٍ\nدِراكاً ولم يَنْضَحْ بماءٍ فيُغسَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00063",
+          "text": "وظلّ طُهاةُ اللّحمِ من بينِ مُنْضِجٍ\nصَفيفَ شِواءٍ أوْ قَديرٍ مُعَجَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00064",
+          "text": "ورُحنا راحَ الطرفُ ينفض رأسه\nمتى ما تَرَقَّ العينُ فيه تَسَفَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00065",
+          "text": "كأنَّ دماءَ الهادياتِ بنحره\nعُصارةُ حِنّاءٍ بشَيْبٍ مُرْجّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00066",
+          "text": "وأنتَ إذا استدبرتُه سدَّ فرجه\nبضاف فويق الأرض ليس بأعزل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00067",
+          "text": "أحار ترى برقاً أريك وميضه\nكلمع اليدينِ في حبي مُكلل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00068",
+          "text": "يُضيءُ سَناهُ أوْ مَصَابيحُ راهِبٍ\nأهان السليط في الذَّبال المفتَّل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00069",
+          "text": "قعدت له وصحيبتي بين حامر\nوبين اكام بعدم متأمل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00070",
+          "text": "وأضحى يسحُّ الماء عن كل فيقة\nيكبُّ على الأذقان دوحَ الكنهبل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00071",
+          "text": "وتيماءَ لم يترُك بها جِذع نخلة\nوَلا أُطُماً إلا مَشيداً بجَنْدَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00072",
+          "text": "كأن ذرى رأس المجيمر غدوةً\nمن السَّيلِ وَالأغْثاء فَلكةُ مِغزَلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00073",
+          "text": "كأنَّ أباناً في أفانينِ ودقهِ\nكَبيرُ أُناسٍ في بِجادٍ مُزَمَّلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00074",
+          "text": "وَألْقى بصَحْراءِ الغَبيطِ بَعاعَهُ\nنزول اليماني ذي العياب المخوَّل",
+          "kind": "verse"
+        },
+        {
+          "id": "b00075",
+          "text": "كَأَنَّ سِباعاً فيهِ غَرقى غُدَيَّةً\nبِأَرجائِهِ القُصوى أَنابيشُ عَنصُلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00076",
+          "text": "على قَطَنٍ بالشَّيْمِ أيْمَنُ صَوْبهِ\nوَأيْسَرُهُ عَلى السّتارِ فَيَذْبُلِ",
+          "kind": "verse"
+        },
+        {
+          "id": "b00077",
+          "text": "وَأَلقى بِبَيسانَ مَعَ اللَيلِ بَركَهُ\nفَأَنزَلَ مِنهُ العَصمَ مِن كُلِّ مَنزِلِ",
+          "kind": "verse"
+        }
+      ],
+      "english": [
+        {
+          "id": "en-00001",
+          "kind": "verse",
+          "text": "Stop, you two: let us weep at the memory of a beloved and a dwelling,\nat the edge of the winding sands between al-Dakhul and Hawmal."
+        },
+        {
+          "id": "en-00002",
+          "kind": "verse",
+          "text": "And Tudih and al-Miqrat: its traces have not vanished,\nfor south wind and north wind have woven over them."
+        },
+        {
+          "id": "en-00003",
+          "kind": "verse",
+          "text": "You see the droppings of white antelope in its courtyards\nand low places, like scattered peppercorns."
+        },
+        {
+          "id": "en-00004",
+          "kind": "verse",
+          "text": "On the morning of separation, when they loaded up to leave,\nI stood by the tribe's acacias like one splitting bitter colocynth."
+        },
+        {
+          "id": "en-00005",
+          "kind": "verse",
+          "text": "My companions halted their mounts beside me there,\nsaying, 'Do not destroy yourself with grief; bear it well.'"
+        },
+        {
+          "id": "en-00006",
+          "kind": "verse",
+          "text": "My cure is tears poured out;\nbut is there any solace at an effaced encampment?"
+        },
+        {
+          "id": "en-00007",
+          "kind": "verse",
+          "text": "It is as you were with Umm al-Huwayrith before her,\nand her neighbor Umm al-Rabab at Ma'sal."
+        },
+        {
+          "id": "en-00008",
+          "kind": "verse",
+          "text": "My eyes overflowed with tears of longing\nonto my chest, until my tears soaked my sword-belt."
+        },
+        {
+          "id": "en-00009",
+          "kind": "verse",
+          "text": "How many happy days you had with them,\nespecially that day at Darat Juljul!"
+        },
+        {
+          "id": "en-00010",
+          "kind": "verse",
+          "text": "The day I slaughtered my riding camel for the maidens:\nhow strange the burden of her gear as they carried it!"
+        },
+        {
+          "id": "en-00011",
+          "kind": "verse",
+          "text": "The maidens kept tossing portions of her flesh to one another,\nand fat like the fringes of tightly woven silk."
+        },
+        {
+          "id": "en-00012",
+          "kind": "verse",
+          "text": "And the day I entered the curtained litter of Unayza;\nshe said, 'Woe to you! You will make me walk!'"
+        },
+        {
+          "id": "en-00013",
+          "kind": "verse",
+          "text": "As the litter tilted under us both, she said,\n'You have crippled my camel, Imru al-Qays. Get down!'"
+        },
+        {
+          "id": "en-00014",
+          "kind": "verse",
+          "text": "I told her, 'Go on, and let his rein hang loose;\ndo not keep me from the fruit you offer again and again.'"
+        },
+        {
+          "id": "en-00015",
+          "kind": "verse",
+          "text": "Many a pregnant woman like you, and many a nursing mother, I visited by night,\ndistracting her from her amulet-wearing year-old child."
+        },
+        {
+          "id": "en-00016",
+          "kind": "verse",
+          "text": "When he cried behind her, she turned toward him\nwith one side, while the side beneath me did not move."
+        },
+        {
+          "id": "en-00017",
+          "kind": "verse",
+          "text": "One day upon the sand dune she resisted me\nand swore an oath she would not release herself from."
+        },
+        {
+          "id": "en-00018",
+          "kind": "verse",
+          "text": "Fatima, gently: enough of this disdain!\nIf you have resolved to break with me, do it graciously."
+        },
+        {
+          "id": "en-00019",
+          "kind": "verse",
+          "text": "If some trait of mine has offended you,\ndraw my clothes from yours, and they will slip away."
+        },
+        {
+          "id": "en-00020",
+          "kind": "verse",
+          "text": "Has it made you bold that your love is killing me,\nand that my heart will do whatever you command?"
+        },
+        {
+          "id": "en-00021",
+          "kind": "verse",
+          "text": "Your eyes shed tears only to strike\nwith their two arrows the shattered pieces of my stricken heart."
+        },
+        {
+          "id": "en-00022",
+          "kind": "verse",
+          "text": "Many a secluded beauty, her tent beyond approach,\nI have enjoyed at leisure, without being hurried away."
+        },
+        {
+          "id": "en-00023",
+          "kind": "verse",
+          "text": "I passed guards to reach her, and a company\neager for my death, if only they could conceal it."
+        },
+        {
+          "id": "en-00024",
+          "kind": "verse",
+          "text": "When the Pleiades stretched across the sky\nlike the jeweled folds of a woman's sash,"
+        },
+        {
+          "id": "en-00025",
+          "kind": "verse",
+          "text": "I came to her when she had taken off her clothes for sleep\nbehind the curtain, keeping only a loose house garment."
+        },
+        {
+          "id": "en-00026",
+          "kind": "verse",
+          "text": "She said, 'By God, there is no dealing with you!\nI see that your waywardness will never leave you.'"
+        },
+        {
+          "id": "en-00027",
+          "kind": "verse",
+          "text": "I led her out on foot; behind us she dragged\nthe hem of her figured mantle over our two trails."
+        },
+        {
+          "id": "en-00028",
+          "kind": "verse",
+          "text": "When we had passed beyond the camp's open ground,\nand a hollow among tangled sand ridges sheltered us,"
+        },
+        {
+          "id": "en-00029",
+          "kind": "verse",
+          "text": "I drew her toward me by the locks beside her head; she leaned against me,\nslender at the waist, full where the anklets rested."
+        },
+        {
+          "id": "en-00030",
+          "kind": "verse",
+          "text": "When she turned toward me, her fragrance spread\nlike the east wind carrying the scent of cloves."
+        },
+        {
+          "id": "en-00031",
+          "kind": "verse",
+          "text": "Slender and fair, with no heaviness of body,\nher breastbone shone polished as a mirror."
+        },
+        {
+          "id": "en-00032",
+          "kind": "verse",
+          "text": "Like a first ostrich egg, its white mingled with yellow,\nnourished by pure water that no crowd has troubled."
+        },
+        {
+          "id": "en-00033",
+          "kind": "verse",
+          "text": "She turns away, then shows a smooth cheek, guarding herself\nwith the gaze of a wild doe of Wajra that has a fawn."
+        },
+        {
+          "id": "en-00034",
+          "kind": "verse",
+          "text": "Her neck is like an antelope's, not overlong\nwhen she raises it, nor bare of ornaments."
+        },
+        {
+          "id": "en-00035",
+          "kind": "verse",
+          "text": "Coal-black hair adorns her back,\nthick as the clustered fruit of a laden palm."
+        },
+        {
+          "id": "en-00036",
+          "kind": "verse",
+          "text": "Its braids are lifted upward;\nthe tied locks lose themselves among twisted and loosened strands."
+        },
+        {
+          "id": "en-00037",
+          "kind": "verse",
+          "text": "A delicate waist, slender as a twisted rein,\nand a leg like the stem of a well-watered, tended palm."
+        },
+        {
+          "id": "en-00038",
+          "kind": "verse",
+          "text": "She reaches with soft fingers, not coarse ones,\nlike the small worms of Zaby or tooth-sticks cut from the ishl tree."
+        },
+        {
+          "id": "en-00039",
+          "kind": "verse",
+          "text": "At evening she lights the darkness, as though she were\nthe lamp at the night retreat of a solitary monk."
+        },
+        {
+          "id": "en-00040",
+          "kind": "verse",
+          "text": "Morning finds crumbled musk upon her bed;\nshe sleeps late, without girding herself for work over her loose garment."
+        },
+        {
+          "id": "en-00041",
+          "kind": "verse",
+          "text": "Even a sober man gazes longingly at one like her\nwhen she stands tall between gown and light robe."
+        },
+        {
+          "id": "en-00042",
+          "kind": "verse",
+          "text": "Other men's blind passions have found relief from youthful love,\nbut my heart has not slipped free of loving you."
+        },
+        {
+          "id": "en-00043",
+          "kind": "verse",
+          "text": "How many stubborn opponents I have turned back over you,\nsincere advisers who spared no effort in their reproaches!"
+        },
+        {
+          "id": "en-00044",
+          "kind": "verse",
+          "text": "Many a night, like the waves of the sea, let down its curtains\nupon me with every kind of care, to put me to the test."
+        },
+        {
+          "id": "en-00045",
+          "kind": "verse",
+          "text": "I said to it, as it stretched its spine,\ndragged its hindquarters after it, and pressed down its chest:"
+        },
+        {
+          "id": "en-00046",
+          "kind": "verse",
+          "text": "'Long night, will you not clear away\nwith morning? Yet morning is no better than you.'"
+        },
+        {
+          "id": "en-00047",
+          "kind": "verse",
+          "text": "What a night you are! Its stars seem tied\nto Mount Yadhbul with every tightly twisted rope."
+        },
+        {
+          "id": "en-00048",
+          "kind": "verse",
+          "text": "As though the Pleiades were hung fast in their places\nby ropes of flax bound to solid rock."
+        },
+        {
+          "id": "en-00049",
+          "kind": "verse",
+          "text": "Often I set out early, while birds were still in their nests,\non a great, sleek horse that holds wild game captive."
+        },
+        {
+          "id": "en-00050",
+          "kind": "verse",
+          "text": "Charging, retreating, advancing, wheeling, all at once,\nlike a boulder swept down from a height by a flood."
+        },
+        {
+          "id": "en-00051",
+          "kind": "verse",
+          "text": "A dark bay: the saddle-felt slips from his smooth back\nas a polished stone slips beneath one descending it."
+        },
+        {
+          "id": "en-00052",
+          "kind": "verse",
+          "text": "He pours onward when other swift horses, weary,\nraise dust from the hard ground their hooves have beaten."
+        },
+        {
+          "id": "en-00053",
+          "kind": "verse",
+          "text": "Even after running he surges with strength; his snorting,\nwhen his heat rises, is like the boiling of a cauldron."
+        },
+        {
+          "id": "en-00054",
+          "kind": "verse",
+          "text": "He throws the light boy from his back\nand sends the clothes of the heavy, rough rider flying."
+        },
+        {
+          "id": "en-00055",
+          "kind": "verse",
+          "text": "Unflagging, like a child's spinning toy\nset whirling by the turns of his hands on a joined string."
+        },
+        {
+          "id": "en-00056",
+          "kind": "verse",
+          "text": "He has the flanks of an antelope, the legs of an ostrich,\nthe easy stride of a wolf, and the short gallop of a young fox."
+        },
+        {
+          "id": "en-00057",
+          "kind": "verse",
+          "text": "Across his shoulders, when he turns, it is as though there lay\na bride's grinding stone or a slab for crushing colocynth."
+        },
+        {
+          "id": "en-00058",
+          "kind": "verse",
+          "text": "He spent the night with saddle and bridle upon him;\nhe stood before my eyes, not turned loose."
+        },
+        {
+          "id": "en-00059",
+          "kind": "verse",
+          "text": "A herd appeared before us; its cows were like\nmaidens circling Duwar in long, trailing robes."
+        },
+        {
+          "id": "en-00060",
+          "kind": "verse",
+          "text": "They turned away like onyx beads strung with other gems\naround the neck of one richly endowed with paternal and maternal kin."
+        },
+        {
+          "id": "en-00061",
+          "kind": "verse",
+          "text": "He brought us up to the leaders while behind them\nthe stragglers remained in a close, unbroken cluster."
+        },
+        {
+          "id": "en-00062",
+          "kind": "verse",
+          "text": "He overtook a bull and a cow in a single pursuit,\nand did not break into sweat that needed washing off."
+        },
+        {
+          "id": "en-00063",
+          "kind": "verse",
+          "text": "The cooks stayed at their meat: some roasting\nsliced flesh, others hastily boiling it in a pot."
+        },
+        {
+          "id": "en-00064",
+          "kind": "verse",
+          "text": "We returned, and the noble horse came back tossing his head;\nwhenever the eye climbed over his beauty, it was drawn downward again."
+        },
+        {
+          "id": "en-00065",
+          "kind": "verse",
+          "text": "The blood of the leading beasts upon his chest\nwas like the juice of henna upon combed gray hair."
+        },
+        {
+          "id": "en-00066",
+          "kind": "verse",
+          "text": "Seen from behind, the space between his legs was filled\nby a full tail just above the ground, never swept to one side."
+        },
+        {
+          "id": "en-00067",
+          "kind": "verse",
+          "text": "Harith, do you see that lightning whose flash I show you,\nlike the flicker of hands in a bank of crowned clouds?"
+        },
+        {
+          "id": "en-00068",
+          "kind": "verse",
+          "text": "Its brightness shines like the lamps of a monk\nwho has poured oil freely upon their twisted wicks."
+        },
+        {
+          "id": "en-00069",
+          "kind": "verse",
+          "text": "My companions and I sat watching it between Hamir\nand Akam, far from the storm we observed."
+        },
+        {
+          "id": "en-00070",
+          "kind": "verse",
+          "text": "By morning it poured water from every swollen cloud,\nthrowing the great kanahbal trees face down."
+        },
+        {
+          "id": "en-00071",
+          "kind": "verse",
+          "text": "At Tayma it left no palm trunk standing,\nnor fortress, except one built firmly of stone."
+        },
+        {
+          "id": "en-00072",
+          "kind": "verse",
+          "text": "At dawn the summit of al-Mujaymir, encircled\nby floodwater and debris, looked like a spindle-whorl."
+        },
+        {
+          "id": "en-00073",
+          "kind": "verse",
+          "text": "Aban, amid the varied streams of its downpour,\nwas like a great chief wrapped in a striped cloak."
+        },
+        {
+          "id": "en-00074",
+          "kind": "verse",
+          "text": "It cast its heavy rain upon the plain of al-Ghabit,\nlike a well-equipped Yemeni merchant unloading his packs."
+        },
+        {
+          "id": "en-00075",
+          "kind": "verse",
+          "text": "At dawn the drowned wild beasts in its farthest reaches\nlooked like uprooted bulbs of wild onion."
+        },
+        {
+          "id": "en-00076",
+          "kind": "verse",
+          "text": "As we watched, the right edge of its rain lay over Qatan,\nand its left over al-Sitar and Yadhbul."
+        },
+        {
+          "id": "en-00077",
+          "kind": "verse",
+          "text": "At night it laid its heavy breast upon Baysan,\nand drove the white-marked mountain goats from every refuge."
+        }
+      ]
+    }
+  ]
+}

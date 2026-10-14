@@ -2,7 +2,8 @@ LINGUARY DOWNLOADABLE READING LIBRARY
 
 Prepared text editions for offline reading in Linguary.
 Original and available English text travel together in each book package.
-English coverage may be complete, partial, or absent; consult each edition credit.
+Consult each edition credit for the translator, source recension and English coverage.
+Historical editions may differ from the originals; study translations are labeled.
 This repository contains book content and credits, not application source or user data.
 
 RIGHTS AND ATTRIBUTION
@@ -35,16 +36,17 @@ English: The Sorrows of Young Werther, R. Dillon Boylan: https://www.gutenberg.o
 
 de-faust: Faust I & II
 Johann Wolfgang von Goethe
-Bayard Taylor. Separate English text for Part I. An English edition of Part II is not included.
+English translation by Bayard Taylor (1870–1871). Part I is preserved from Project Gutenberg; all five acts of Part II are supplied from the historical edition transcribed on Wikisource. English scenes are grouped under their corresponding German acts. These are separate literary editions, not line-by-line translations; page positions correspond approximately. Translator's notes, introductions, illustrations and publishing matter are omitted.
 German: Faust, Part I (1808): https://www.gutenberg.org/ebooks/2229
 German: Faust, Part II (1832): https://www.gutenberg.org/ebooks/2230
 English: Faust, Part I, Bayard Taylor: https://www.gutenberg.org/ebooks/14591
+English: Faust, Part II, Bayard Taylor (historical edition): https://en.wikisource.org/wiki/Faust_(trans._Bayard_Taylor)/Second-Part
 
 es-becquer-leyendas-rimas: Leyendas y Rimas
 Gustavo Adolfo Bécquer
-Cornelia Frances Bates and Katharine Lee Bates, Romantic Legends of Spain (1909). Separate English versions of all 12 stories. The 76 poems are available in Spanish only. This collection follows the Leyendas and Rimas sections of Obras escogidas (1912); it does not include every tale by Bécquer.
+Legends: Cornelia Frances Bates and Katharine Lee Bates, Romantic Legends of Spain (1909), separate English versions of all 12 stories. Poems: original AI-assisted English study translations prepared for Linguary (2026), following every stanza of the 76 included Spanish Rimas. These meaning-first verse translations do not reproduce the original rhyme and meter. The collection follows the Leyendas and Rimas sections of Obras escogidas (1912); it does not include every tale by Bécquer.
 Spanish: Obras escogidas, Edición del Monumento (1912): https://www.gutenberg.org/ebooks/53552
-English: Romantic Legends of Spain, Bates and Bates (1909): https://www.gutenberg.org/ebooks/50044
+English legends: Romantic Legends of Spain, Bates and Bates (1909): https://www.gutenberg.org/ebooks/50044
 
 fr-tour-du-monde: Le Tour du monde en quatre-vingts jours
 Jules Verne
@@ -99,7 +101,7 @@ Read Genesis on Sefaria: https://www.sefaria.org/Genesis.1?lang=bi
 
 ar-kalila-wa-dimna: كليلة ودمنة • Kalila wa-Dimna
 ابن المقفع • Ibn al-Muqaffa
-Arabic only; no English translation is included. Adapted into reading blocks with whitespace normalized; website navigation, illustrations and captions are omitted. Arabic Wikisource contributors, nineteen-section transcription; the site does not identify its underlying print edition. Source spelling and repeated passages are retained. The original work is public domain. These adapted text resources are distributed under CC BY-SA 4.0, with pinned source pages and contributor histories linked below.
+Adapted into reading blocks with whitespace normalized; website navigation, illustrations and captions are omitted. Arabic Wikisource contributors, nineteen-section transcription; the site does not identify its underlying print edition. Source spelling and repeated passages are retained. The original work is public domain. These adapted text resources are distributed under CC BY-SA 4.0, with pinned source pages and contributor histories linked below. English: original AI-assisted study translation prepared for Linguary (2026), directly from every block of this Arabic recension, including its prefatory sections, embedded fables and verse. This adapted English text is also distributed under CC BY-SA 4.0. Source repetitions and surviving incomplete passages are retained rather than silently reconstructed. The English is a prose study rendering, not a metrical or independently certified literary translation.
 كليلة ودمنة/باب مقدمة الكتاب: https://ar.wikisource.org/w/index.php?oldid=488570
 كليلة ودمنة/باب بعثة برزويه إلى بلاد الهند: https://ar.wikisource.org/w/index.php?oldid=245550
 كليلة ودمنة/باب عرض الكتاب ترجمة عبد الله بن المقفع: https://ar.wikisource.org/w/index.php?oldid=245551
@@ -123,7 +125,7 @@ Text reuse license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
 
 ar-arabian-nights-1: ألف ليلة وليلة • Arabian Nights
 Anonymous • Traditional tales
-Arabic only; no prepared English edition is included. Complete six-volume Hindawi edition (2022), via Andreas Hallberg, The Arabic E-Book Corpus (Version 1, 2024), University of Gothenburg. Includes the frame narrative, nights 1–1001, embedded poetry and conclusion. Original literary text is public domain; corpus reuse is CC BY 4.0. Whitespace normalized; navigation, illustrations and captions omitted. Original Volume I reading IDs are preserved.
+Complete six-volume Hindawi edition (2022), via Andreas Hallberg, The Arabic E-Book Corpus (Version 1, 2024), University of Gothenburg. Includes the frame narrative, nights 1–1001, embedded poetry and conclusion. Original literary text is public domain; corpus reuse is CC BY 4.0. Whitespace normalized; navigation, illustrations and captions omitted. Original Volume I reading IDs are preserved. English: Richard F. Burton, The Book of the Thousand Nights and a Night (1885), complete main narrative in ten volumes, including all 1,001 nights, frame story and conclusion. Public-domain historical translation. English follows Burton’s separate recension, mapped by night number; it can differ substantially in wording and length from the Arabic edition and is not a line-by-line translation. Translator’s notes, essays, indexes, publishing matter and the separate Supplemental Nights are not included. English spelling and embedded verse are retained.
 Arabic: Hindawi, Volume 1 (2022): https://www.safahat.org/books/61961973/
 Arabic: Hindawi, Volume 2 (2022): https://www.safahat.org/books/36973840/
 Arabic: Hindawi, Volume 3 (2022): https://www.safahat.org/books/85931905/
@@ -132,10 +134,20 @@ Arabic: Hindawi, Volume 5 (2022): https://www.safahat.org/books/75264279/
 Arabic: Hindawi, Volume 6 (2022): https://www.safahat.org/books/27482482/
 Andreas Hallberg: The Arabic E-Book Corpus, Version 1: https://researchdata.se/en/catalogue/dataset/2024-145
 Corpus reuse: CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+English: Burton, volume 1 (historical translation): https://www.gutenberg.org/ebooks/51252
+English: Burton, volume 2 (historical translation): https://www.gutenberg.org/ebooks/51775
+English: Burton, volume 3 (historical translation): https://www.gutenberg.org/ebooks/52564
+English: Burton, volume 4 (historical translation): https://www.gutenberg.org/ebooks/53254
+English: Burton, volume 5 (historical translation): https://www.gutenberg.org/ebooks/54257
+English: Burton, volume 6 (historical translation): https://www.gutenberg.org/ebooks/54525
+English: Burton, volume 7 (historical translation): https://www.gutenberg.org/ebooks/54778
+English: Burton, volume 8 (historical translation): https://www.gutenberg.org/ebooks/55091
+English: Burton, volume 9 (historical translation): https://www.gutenberg.org/ebooks/55587
+English: Burton, volume 10 (historical translation): https://www.gutenberg.org/ebooks/58360
 
 ar-hayy-ibn-yaqzan: حي بن يقظان • Hayy ibn Yaqzan
 ابن طفيل • Ibn Tufayl
-Arabic only; no prepared English edition is included. Narrative and concluding address: Hindawi (2011), via Andreas Hallberg’s Arabic E-Book Corpus, CC BY 4.0, unchanged from the previous package. The missing authorial preface is restored from the public-domain Ibn Tufayl text in IslamArchive’s alternate-edition transcription, pages 15–25; modern editorial summaries, footnotes and duplicated page previews are omitted. This is a composite reading edition; orthography differs between its preface and narrative. Narrative chapter and block IDs are preserved.
+Narrative and concluding address: Hindawi (2011), via Andreas Hallberg’s Arabic E-Book Corpus, CC BY 4.0, unchanged from the previous package. The missing authorial preface is restored from the public-domain Ibn Tufayl text in IslamArchive’s alternate-edition transcription, pages 15–25; modern editorial summaries, footnotes and duplicated page previews are omitted. This is a composite reading edition; orthography differs between its preface and narrative. Narrative chapter and block IDs are preserved. English: Simon Ockley (1708), The Improvement of Human Reason, public domain, via Project Gutenberg ebook 16831. Includes the author’s introduction and complete narrative, including its concluding address. Ockley’s dedication, publisher’s prefaces, annotations and Christian theological appendix are not part of Ibn Tufayl’s work and are omitted. Historical spelling retained; source section-number typo repaired. The Arabic and English editions differ in wording and paragraph divisions; reading position is approximate.
 Arabic: Hindawi, Hayy ibn Yaqzan: https://www.safahat.org/books/90463596/
 Andreas Hallberg: The Arabic E-Book Corpus, Version 1: https://researchdata.se/en/catalogue/dataset/2024-145
 Corpus reuse license: CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
@@ -150,6 +162,7 @@ Ibn Tufayl: authorial preface, source page 22: https://www.islamarchive.cc/ketab
 Ibn Tufayl: authorial preface, source page 23: https://www.islamarchive.cc/ketab_content/55075/p-23
 Ibn Tufayl: authorial preface, source page 24: https://www.islamarchive.cc/ketab_content/55075/p-24
 Ibn Tufayl: authorial preface, source page 25: https://www.islamarchive.cc/ketab_content/55075/p-25
+English: Simon Ockley (1708), Project Gutenberg 16831: https://www.gutenberg.org/ebooks/16831
 
 zh-daodejing: 道德經 • Tao Te Ching
 老子 • Laozi
@@ -159,17 +172,20 @@ English: James Legge, The Tao Teh King: https://www.gutenberg.org/ebooks/216
 
 zh-yijing: 易經 • I Ching
 Anonymous • Traditional Chinese classic
-Classical Chinese in traditional characters, not Modern Mandarin prose. Source punctuation and wording are retained; physical line wraps and indentation are removed. Playback uses modern Mandarin device pronunciation, not reconstructed ancient pronunciation. Project Gutenberg no. 25501, transcribed by Winnie Zhou. All 64 hexagrams are included with their interleaved Tuan and Xiang commentaries and the Wenyan for Qian and Kun. Five further sections contain Xici I–II, Shuogua, Xugua and Zagua, completing the traditional Ten Wings. No English translation is included. The ancient original is public domain. This is the received text in the selected transcription, not a reconstruction of early manuscripts.
+Classical Chinese in traditional characters, not Modern Mandarin prose. Source punctuation and wording are retained; physical line wraps and indentation are removed. Playback uses modern Mandarin device pronunciation, not reconstructed ancient pronunciation. Project Gutenberg no. 25501, transcribed by Winnie Zhou. All 64 hexagrams are included with their interleaved Tuan and Xiang commentaries and the Wenyan for Qian and Kun. Five further sections contain Xici I–II, Shuogua, Xugua and Zagua, completing the traditional Ten Wings. The ancient original is public domain. This is the received text in the selected transcription, not a reconstruction of early manuscripts. English: James Legge (1882). Complete historical English translation across 64 hexagrams and all Ten Wings, arranged in 69 sections. Archaic spelling and interpretation retained; a separate edition, not a word-for-word gloss. English follows the corresponding book/chapter or hexagram. Paragraph lengths and wording differ between editions.
 Chinese: 易經, Winnie Zhou transcription: https://www.gutenberg.org/ebooks/25501
+Historical English edition and source transcription: https://archive.org/details/sacredbooksofchi16conf
+Historical English edition and source transcription: https://tianmu.org/good-work-library/confucian/general-texts/the-i-ching-james-legge
 
 zh-analects: 論語 • Analects
 孔子及弟子 • Confucius and his disciples
-Classical Chinese in source character forms. No English translation is included. Physical line wrapping and indentation are removed; source wording and punctuation are retained. Playback uses modern Mandarin pronunciation. Project Gutenberg no. 23839, produced by Wen Yen. All twenty books of the selected transcription are included. Its section numbering is retained, including repeated or skipped numbers and multiple numbered sayings in one paragraph; it differs from other editions. The introductory production credit and erratum notice are omitted; the corrected 己知 is already present in 1.16. The ancient original is public domain.
+Classical Chinese in source character forms. Physical line wrapping and indentation are removed; source wording and punctuation are retained. Playback uses modern Mandarin pronunciation. Project Gutenberg no. 23839, produced by Wen Yen. All twenty books of the selected transcription are included. Its section numbering is retained, including repeated or skipped numbers and multiple numbered sayings in one paragraph; it differs from other editions. The introductory production credit and erratum notice are omitted; the corrected 己知 is already present in 1.16. The ancient original is public domain. English: James Legge (1861). Complete historical English translation across 20 books. Archaic spelling and interpretation retained; a separate edition, not a word-for-word gloss. English follows the corresponding book/chapter or hexagram. Paragraph lengths and wording differ between editions.
 Chinese: 論語, Wen Yen transcription: https://www.gutenberg.org/ebooks/23839
+Historical English edition and source transcription: https://www.gutenberg.org/cache/epub/3330/pg3330-images.html
 
 zh-zhuangzi: 莊子 • Zhuangzi
 莊周及後學 • Zhuang Zhou and later writers
-Classical Chinese in source character forms. No English translation is included. Physical line wrapping and indentation are removed; source wording and punctuation are retained. Playback uses modern Mandarin pronunciation. Chinese Wikisource contributors: the received 33-chapter text, with seven Inner, fifteen Outer and eleven Miscellaneous Chapters. The transcription does not identify a specific print edition. Source variant and rare-character templates retain their displayed main character; alternative readings, glyph descriptions, one editorial footnote and navigation are omitted. Language-conversion markup uses the unconverted source character. The source’s approximate character 韲 and its unresolved glyph notation ■{梨} are retained. The ancient original is public domain. This adapted text resource is distributed under CC BY-SA 4.0. Pinned pages provide source and contributor attribution.
+Classical Chinese in source character forms. Physical line wrapping and indentation are removed; source wording and punctuation are retained. Playback uses modern Mandarin pronunciation. Chinese Wikisource contributors: the received 33-chapter text, with seven Inner, fifteen Outer and eleven Miscellaneous Chapters. The transcription does not identify a specific print edition. Source variant and rare-character templates retain their displayed main character; alternative readings, glyph descriptions, one editorial footnote and navigation are omitted. Language-conversion markup uses the unconverted source character. The source’s approximate character 韲 and its unresolved glyph notation ■{梨} are retained. The ancient original is public domain. This adapted text resource is distributed under CC BY-SA 4.0. Pinned pages provide source and contributor attribution. English: Herbert Allen Giles (1889). Complete historical English translation across 33 chapters. Archaic spelling and interpretation retained; a separate edition, not a word-for-word gloss. English follows the corresponding book/chapter or hexagram. Paragraph lengths and wording differ between editions.
 莊子/逍遙遊: https://zh.wikisource.org/w/index.php?oldid=9852766
 莊子/齊物論: https://zh.wikisource.org/w/index.php?oldid=9852855
 莊子/養生主: https://zh.wikisource.org/w/index.php?oldid=9852874
@@ -204,11 +220,14 @@ Classical Chinese in source character forms. No English translation is included.
 莊子/列禦寇: https://zh.wikisource.org/w/index.php?oldid=9856042
 莊子/天下: https://zh.wikisource.org/w/index.php?oldid=9856089
 Text reuse license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Historical English edition and source transcription: https://www.gutenberg.org/cache/epub/59709/pg59709-images.html
 
 de-grimm: Grimms Märchen
 Jacob und Wilhelm Grimm
-German text only. All tale sections in Deutsche Märchen gesammelt durch die Brüder Grimm, edited by M. Thilo-Luyken (1921). This historic selection is not the complete 200-tale Kinder- und Hausmärchen. Original spelling and Low German tales are retained. Illustrations, page numbers and publishing matter are omitted.
+German: Deutsche Märchen, edited by M. Thilo-Luyken (1921), with original spelling and Low German retained. English: Margaret Hunt, Grimm's Household Tales (1884), the complete corresponding tales arranged in the German selection's order. The 62-section selection is not the full Kinder- und Hausmärchen collection. The Elves includes all three stories and Mrs. Fox both stories. Historical editions differ in wording and paragraph divisions; page positions correspond approximately. Illustrations, notes and publishing matter are omitted.
 Deutsche Märchen (1921), German source edition: https://www.gutenberg.org/ebooks/77905
+English: Grimm's Household Tales, Volume 1, Margaret Hunt (1884): https://en.wikisource.org/wiki/Grimm's_Household_Tales,_Volume_1
+English: Grimm's Household Tales, Volume 2, Margaret Hunt (1884): https://en.wikisource.org/wiki/Grimm's_Household_Tales,_Volume_2
 
 es-quijote: Don Quijote de la Mancha
 Miguel de Cervantes
@@ -247,13 +266,13 @@ Wikisource text reuse: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/
 
 ar-imru-al-qays-muallaqa: قفا نبك • Muʿallaqa
 امرؤ القيس • Imruʾ al-Qays
-Arabic only; no complete prepared English translation is included. Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0.
+Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0. English: original study translation prepared for Linguary with AI assistance (2026), translated directly from all 77 Arabic couplets in this edition. No modern published translation is reproduced. The English follows the packaged Arabic verse order, including variant order; it is a prose study rendering, not a metrical translation.
 Arabic Wikisource contributors: pinned complete poem: https://ar.wikisource.org/w/index.php?oldid=429826
 Text reuse: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 ar-mutanabbi-horse-night: وا حر قلباه • Wā ḥarra qalbāh
 المتنبي • Al-Mutanabbi
-Arabic only; no complete prepared English translation is included. Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0.
+Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0. English: original study translation prepared for Linguary with AI assistance (2026), translated directly from all 38 Arabic couplets in this edition. No modern published translation is reproduced. The English follows the packaged Arabic verse order, including variant order; it is a prose study rendering, not a metrical translation.
 Arabic Wikisource contributors: pinned complete poem: https://ar.wikisource.org/w/index.php?oldid=478546
 Text reuse: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 

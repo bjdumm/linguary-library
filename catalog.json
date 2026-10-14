@@ -86,9 +86,9 @@
         "language": "German",
         "title": "Faust I & II",
         "author": "Johann Wolfgang von Goethe",
-        "summary": "Part I: dedication, prologues and 25 scenes • Part II: all five acts",
+        "summary": "Complete Parts I and II • German and English editions",
         "legacyPassageID": "",
-        "translationCredit": "Bayard Taylor. Separate English text for Part I. An English edition of Part II is not included.",
+        "translationCredit": "English translation by Bayard Taylor (1870–1871). Part I is preserved from Project Gutenberg; all five acts of Part II are supplied from the historical edition transcribed on Wikisource. English scenes are grouped under their corresponding German acts. These are separate literary editions, not line-by-line translations; page positions correspond approximately. Translator's notes, introductions, illustrations and publishing matter are omitted.",
         "resource": "de-faust",
         "sources": [
           {
@@ -102,12 +102,16 @@
           {
             "title": "English: Faust, Part I, Bayard Taylor",
             "url": "https://www.gutenberg.org/ebooks/14591"
+          },
+          {
+            "title": "English: Faust, Part II, Bayard Taylor (historical edition)",
+            "url": "https://en.wikisource.org/wiki/Faust_(trans._Bayard_Taylor)/Second-Part"
           }
         ]
       },
-      "sha256": "fa0f19684d49ef676c1a3ec9523ea12a7b3871c256fa9170530787c04fe7ff8c",
-      "byteCount": 2613852,
-      "englishCoverage": "partial"
+      "sha256": "598ef07e2ec6a82e91a1edbd52c16b02bd5acdca5864725e874987d770659245",
+      "byteCount": 3788347,
+      "englishCoverage": "complete"
     },
     {
       "info": {
@@ -115,25 +119,25 @@
         "language": "Spanish",
         "title": "Leyendas y Rimas",
         "author": "Gustavo Adolfo Bécquer",
-        "summary": "12 complete legends and all 76 Rimas from the 1912 edition",
+        "summary": "12 complete legends and 76 Rimas • Spanish and English",
         "collectionLabel": "STORIES & POEMS",
         "legacyPassageID": "es-rima",
         "resource": "es-becquer-leyendas-rimas",
-        "translationCredit": "Cornelia Frances Bates and Katharine Lee Bates, Romantic Legends of Spain (1909). Separate English versions of all 12 stories. The 76 poems are available in Spanish only. This collection follows the Leyendas and Rimas sections of Obras escogidas (1912); it does not include every tale by Bécquer.",
+        "translationCredit": "Legends: Cornelia Frances Bates and Katharine Lee Bates, Romantic Legends of Spain (1909), separate English versions of all 12 stories. Poems: original AI-assisted English study translations prepared for Linguary (2026), following every stanza of the 76 included Spanish Rimas. These meaning-first verse translations do not reproduce the original rhyme and meter. The collection follows the Leyendas and Rimas sections of Obras escogidas (1912); it does not include every tale by Bécquer.",
         "sources": [
           {
             "title": "Spanish: Obras escogidas, Edición del Monumento (1912)",
             "url": "https://www.gutenberg.org/ebooks/53552"
           },
           {
-            "title": "English: Romantic Legends of Spain, Bates and Bates (1909)",
+            "title": "English legends: Romantic Legends of Spain, Bates and Bates (1909)",
             "url": "https://www.gutenberg.org/ebooks/50044"
           }
         ]
       },
-      "sha256": "e3d5fb9cfe32a80ba422ea246ee7304fd0a4a76515d1b716c6f14983a249ef55",
-      "byteCount": 821711,
-      "englishCoverage": "partial"
+      "sha256": "31bfdc3b11581c3b377602f6a2cf2fc48b7f41b271024b94cdc8ec1738b78839",
+      "byteCount": 889599,
+      "englishCoverage": "complete"
     },
     {
       "info": {
@@ -352,10 +356,10 @@
         "id": "ar-kalila-wa-dimna",
         "title": "كليلة ودمنة • Kalila wa-Dimna",
         "author": "ابن المقفع • Ibn al-Muqaffa",
-        "summary": "19 sections • Four prefatory sections and fifteen fable chapters • Arabic only",
+        "summary": "19 complete sections • Four prefaces and fifteen fable chapters • Arabic and study English",
         "collectionLabel": "CLASSIC FABLE COLLECTION",
         "legacyPassageID": "",
-        "translationCredit": "Arabic only; no English translation is included. Adapted into reading blocks with whitespace normalized; website navigation, illustrations and captions are omitted. Arabic Wikisource contributors, nineteen-section transcription; the site does not identify its underlying print edition. Source spelling and repeated passages are retained. The original work is public domain. These adapted text resources are distributed under CC BY-SA 4.0, with pinned source pages and contributor histories linked below.",
+        "translationCredit": "Adapted into reading blocks with whitespace normalized; website navigation, illustrations and captions are omitted. Arabic Wikisource contributors, nineteen-section transcription; the site does not identify its underlying print edition. Source spelling and repeated passages are retained. The original work is public domain. These adapted text resources are distributed under CC BY-SA 4.0, with pinned source pages and contributor histories linked below. English: original AI-assisted study translation prepared for Linguary (2026), directly from every block of this Arabic recension, including its prefatory sections, embedded fables and verse. This adapted English text is also distributed under CC BY-SA 4.0. Source repetitions and surviving incomplete passages are retained rather than silently reconstructed. The English is a prose study rendering, not a metrical or independently certified literary translation.",
         "sources": [
           {
             "title": "كليلة ودمنة/باب مقدمة الكتاب",
@@ -441,19 +445,19 @@
         "language": "Arabic",
         "resource": "ar-kalila-wa-dimna"
       },
-      "sha256": "2ad4fc981b597288ad16c0928abee24f57c54c4073e862af8a5a5288005d0664",
-      "byteCount": 445701,
-      "englishCoverage": "none"
+      "sha256": "e687ff7454ee832fbf2818ba70c10fece688dbda3435b1fc488f14c28a0d68f5",
+      "byteCount": 810876,
+      "englishCoverage": "complete"
     },
     {
       "info": {
         "id": "ar-arabian-nights-1",
         "title": "ألف ليلة وليلة • Arabian Nights",
         "author": "Anonymous • Traditional tales",
-        "summary": "All six volumes • Frame story, nights 1–1001 and conclusion • Arabic only",
+        "summary": "Complete 1,001 nights, frame and conclusion • Arabic and English editions",
         "collectionLabel": "COMPLETE SIX-VOLUME EDITION",
         "legacyPassageID": "ar-nights-opening",
-        "translationCredit": "Arabic only; no prepared English edition is included. Complete six-volume Hindawi edition (2022), via Andreas Hallberg, The Arabic E-Book Corpus (Version 1, 2024), University of Gothenburg. Includes the frame narrative, nights 1–1001, embedded poetry and conclusion. Original literary text is public domain; corpus reuse is CC BY 4.0. Whitespace normalized; navigation, illustrations and captions omitted. Original Volume I reading IDs are preserved.",
+        "translationCredit": "Complete six-volume Hindawi edition (2022), via Andreas Hallberg, The Arabic E-Book Corpus (Version 1, 2024), University of Gothenburg. Includes the frame narrative, nights 1–1001, embedded poetry and conclusion. Original literary text is public domain; corpus reuse is CC BY 4.0. Whitespace normalized; navigation, illustrations and captions omitted. Original Volume I reading IDs are preserved. English: Richard F. Burton, The Book of the Thousand Nights and a Night (1885), complete main narrative in ten volumes, including all 1,001 nights, frame story and conclusion. Public-domain historical translation. English follows Burton’s separate recension, mapped by night number; it can differ substantially in wording and length from the Arabic edition and is not a line-by-line translation. Translator’s notes, essays, indexes, publishing matter and the separate Supplemental Nights are not included. English spelling and embedded verse are retained.",
         "sources": [
           {
             "title": "Arabic: Hindawi, Volume 1 (2022)",
@@ -486,24 +490,64 @@
           {
             "title": "Corpus reuse: CC BY 4.0",
             "url": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          {
+            "title": "English: Burton, volume 1 (historical translation)",
+            "url": "https://www.gutenberg.org/ebooks/51252"
+          },
+          {
+            "title": "English: Burton, volume 2 (historical translation)",
+            "url": "https://www.gutenberg.org/ebooks/51775"
+          },
+          {
+            "title": "English: Burton, volume 3 (historical translation)",
+            "url": "https://www.gutenberg.org/ebooks/52564"
+          },
+          {
+            "title": "English: Burton, volume 4 (historical translation)",
+            "url": "https://www.gutenberg.org/ebooks/53254"
+          },
+          {
+            "title": "English: Burton, volume 5 (historical translation)",
+            "url": "https://www.gutenberg.org/ebooks/54257"
+          },
+          {
+            "title": "English: Burton, volume 6 (historical translation)",
+            "url": "https://www.gutenberg.org/ebooks/54525"
+          },
+          {
+            "title": "English: Burton, volume 7 (historical translation)",
+            "url": "https://www.gutenberg.org/ebooks/54778"
+          },
+          {
+            "title": "English: Burton, volume 8 (historical translation)",
+            "url": "https://www.gutenberg.org/ebooks/55091"
+          },
+          {
+            "title": "English: Burton, volume 9 (historical translation)",
+            "url": "https://www.gutenberg.org/ebooks/55587"
+          },
+          {
+            "title": "English: Burton, volume 10 (historical translation)",
+            "url": "https://www.gutenberg.org/ebooks/58360"
           }
         ],
         "language": "Arabic",
         "resource": "ar-arabian-nights-1"
       },
-      "sha256": "b6c8ad38f51eeb46b15e70417b438a649ec29fa665d810dc786aa33a8abcca85",
-      "byteCount": 8192473,
-      "englishCoverage": "none"
+      "sha256": "7dea0d3f077c40da5d2c5db395dc5059a83beb9a824ff14e1ffb64cac9ccfa1b",
+      "byteCount": 15620307,
+      "englishCoverage": "complete"
     },
     {
       "info": {
         "id": "ar-hayy-ibn-yaqzan",
         "title": "حي بن يقظان • Hayy ibn Yaqzan",
         "author": "ابن طفيل • Ibn Tufayl",
-        "summary": "Author’s philosophical preface and complete narrative • Arabic only",
+        "summary": "Author’s philosophical preface and complete narrative • Arabic with complete English edition",
         "collectionLabel": "PHILOSOPHICAL NARRATIVE",
         "legacyPassageID": "",
-        "translationCredit": "Arabic only; no prepared English edition is included. Narrative and concluding address: Hindawi (2011), via Andreas Hallberg’s Arabic E-Book Corpus, CC BY 4.0, unchanged from the previous package. The missing authorial preface is restored from the public-domain Ibn Tufayl text in IslamArchive’s alternate-edition transcription, pages 15–25; modern editorial summaries, footnotes and duplicated page previews are omitted. This is a composite reading edition; orthography differs between its preface and narrative. Narrative chapter and block IDs are preserved.",
+        "translationCredit": "Narrative and concluding address: Hindawi (2011), via Andreas Hallberg’s Arabic E-Book Corpus, CC BY 4.0, unchanged from the previous package. The missing authorial preface is restored from the public-domain Ibn Tufayl text in IslamArchive’s alternate-edition transcription, pages 15–25; modern editorial summaries, footnotes and duplicated page previews are omitted. This is a composite reading edition; orthography differs between its preface and narrative. Narrative chapter and block IDs are preserved. English: Simon Ockley (1708), The Improvement of Human Reason, public domain, via Project Gutenberg ebook 16831. Includes the author’s introduction and complete narrative, including its concluding address. Ockley’s dedication, publisher’s prefaces, annotations and Christian theological appendix are not part of Ibn Tufayl’s work and are omitted. Historical spelling retained; source section-number typo repaired. The Arabic and English editions differ in wording and paragraph divisions; reading position is approximate.",
         "sources": [
           {
             "title": "Arabic: Hindawi, Hayy ibn Yaqzan",
@@ -560,14 +604,18 @@
           {
             "title": "Ibn Tufayl: authorial preface, source page 25",
             "url": "https://www.islamarchive.cc/ketab_content/55075/p-25"
+          },
+          {
+            "title": "English: Simon Ockley (1708), Project Gutenberg 16831",
+            "url": "https://www.gutenberg.org/ebooks/16831"
           }
         ],
         "language": "Arabic",
         "resource": "ar-hayy-ibn-yaqzan"
       },
-      "sha256": "6c1fd5a2f913c4d02a0254b97aa75cc76a74058fba33f17909d69d221d669097",
-      "byteCount": 241466,
-      "englishCoverage": "none"
+      "sha256": "963af5b3568585370d302cfa5b082b0fc03b6facb08e4dfe042b906a07804bac",
+      "byteCount": 447965,
+      "englishCoverage": "complete"
     },
     {
       "info": {
@@ -599,51 +647,63 @@
         "id": "zh-yijing",
         "title": "易經 • I Ching",
         "author": "Anonymous • Traditional Chinese classic",
-        "summary": "64 hexagrams and traditional commentaries • Classical Chinese only",
+        "summary": "Complete Classical Chinese work with prepared historical English • 64 hexagrams and all Ten Wings, arranged in 69 sections",
         "legacyPassageID": "zh-yijing-qian",
-        "translationCredit": "Classical Chinese in traditional characters, not Modern Mandarin prose. Source punctuation and wording are retained; physical line wraps and indentation are removed. Playback uses modern Mandarin device pronunciation, not reconstructed ancient pronunciation. Project Gutenberg no. 25501, transcribed by Winnie Zhou. All 64 hexagrams are included with their interleaved Tuan and Xiang commentaries and the Wenyan for Qian and Kun. Five further sections contain Xici I–II, Shuogua, Xugua and Zagua, completing the traditional Ten Wings. No English translation is included. The ancient original is public domain. This is the received text in the selected transcription, not a reconstruction of early manuscripts.",
+        "translationCredit": "Classical Chinese in traditional characters, not Modern Mandarin prose. Source punctuation and wording are retained; physical line wraps and indentation are removed. Playback uses modern Mandarin device pronunciation, not reconstructed ancient pronunciation. Project Gutenberg no. 25501, transcribed by Winnie Zhou. All 64 hexagrams are included with their interleaved Tuan and Xiang commentaries and the Wenyan for Qian and Kun. Five further sections contain Xici I–II, Shuogua, Xugua and Zagua, completing the traditional Ten Wings. The ancient original is public domain. This is the received text in the selected transcription, not a reconstruction of early manuscripts. English: James Legge (1882). Complete historical English translation across 64 hexagrams and all Ten Wings, arranged in 69 sections. Archaic spelling and interpretation retained; a separate edition, not a word-for-word gloss. English follows the corresponding book/chapter or hexagram. Paragraph lengths and wording differ between editions.",
         "sources": [
           {
             "title": "Chinese: 易經, Winnie Zhou transcription",
             "url": "https://www.gutenberg.org/ebooks/25501"
+          },
+          {
+            "title": "Historical English edition and source transcription",
+            "url": "https://archive.org/details/sacredbooksofchi16conf"
+          },
+          {
+            "title": "Historical English edition and source transcription",
+            "url": "https://tianmu.org/good-work-library/confucian/general-texts/the-i-ching-james-legge"
           }
         ],
         "language": "Mandarin",
         "resource": "zh-yijing"
       },
-      "sha256": "9597990b406293d07e2a3341df46c7496283926007471286867f70bc59626b66",
-      "byteCount": 170547,
-      "englishCoverage": "none"
+      "sha256": "5a2177c982453557ba594f3206213508651df9404527e18967d1bebeefd58568",
+      "byteCount": 620103,
+      "englishCoverage": "complete"
     },
     {
       "info": {
         "id": "zh-analects",
         "title": "論語 • Analects",
         "author": "孔子及弟子 • Confucius and his disciples",
-        "summary": "Complete received work • 20 books • Classical Chinese only",
+        "summary": "Complete Classical Chinese work with prepared historical English • 20 books",
         "legacyPassageID": "",
-        "translationCredit": "Classical Chinese in source character forms. No English translation is included. Physical line wrapping and indentation are removed; source wording and punctuation are retained. Playback uses modern Mandarin pronunciation. Project Gutenberg no. 23839, produced by Wen Yen. All twenty books of the selected transcription are included. Its section numbering is retained, including repeated or skipped numbers and multiple numbered sayings in one paragraph; it differs from other editions. The introductory production credit and erratum notice are omitted; the corrected 己知 is already present in 1.16. The ancient original is public domain.",
+        "translationCredit": "Classical Chinese in source character forms. Physical line wrapping and indentation are removed; source wording and punctuation are retained. Playback uses modern Mandarin pronunciation. Project Gutenberg no. 23839, produced by Wen Yen. All twenty books of the selected transcription are included. Its section numbering is retained, including repeated or skipped numbers and multiple numbered sayings in one paragraph; it differs from other editions. The introductory production credit and erratum notice are omitted; the corrected 己知 is already present in 1.16. The ancient original is public domain. English: James Legge (1861). Complete historical English translation across 20 books. Archaic spelling and interpretation retained; a separate edition, not a word-for-word gloss. English follows the corresponding book/chapter or hexagram. Paragraph lengths and wording differ between editions.",
         "sources": [
           {
             "title": "Chinese: 論語, Wen Yen transcription",
             "url": "https://www.gutenberg.org/ebooks/23839"
+          },
+          {
+            "title": "Historical English edition and source transcription",
+            "url": "https://www.gutenberg.org/cache/epub/3330/pg3330-images.html"
           }
         ],
         "language": "Mandarin",
         "resource": "zh-analects"
       },
-      "sha256": "2b05075f121ba1e9f74f176f18e2802c7681498f7e9093e2eb4cd89877a2e23e",
-      "byteCount": 117689,
-      "englishCoverage": "none"
+      "sha256": "68b5fc5c2f37f21802aa0c2b3abf19e85e6ca7e7c344afe3bca0042d21a057d0",
+      "byteCount": 327143,
+      "englishCoverage": "complete"
     },
     {
       "info": {
         "id": "zh-zhuangzi",
         "title": "莊子 • Zhuangzi",
         "author": "莊周及後學 • Zhuang Zhou and later writers",
-        "summary": "Complete received work • 33 chapters • Classical Chinese only",
+        "summary": "Complete Classical Chinese work with prepared historical English • 33 chapters",
         "legacyPassageID": "zh-zhuangzi-butterfly",
-        "translationCredit": "Classical Chinese in source character forms. No English translation is included. Physical line wrapping and indentation are removed; source wording and punctuation are retained. Playback uses modern Mandarin pronunciation. Chinese Wikisource contributors: the received 33-chapter text, with seven Inner, fifteen Outer and eleven Miscellaneous Chapters. The transcription does not identify a specific print edition. Source variant and rare-character templates retain their displayed main character; alternative readings, glyph descriptions, one editorial footnote and navigation are omitted. Language-conversion markup uses the unconverted source character. The source’s approximate character 韲 and its unresolved glyph notation ■{梨} are retained. The ancient original is public domain. This adapted text resource is distributed under CC BY-SA 4.0. Pinned pages provide source and contributor attribution.",
+        "translationCredit": "Classical Chinese in source character forms. Physical line wrapping and indentation are removed; source wording and punctuation are retained. Playback uses modern Mandarin pronunciation. Chinese Wikisource contributors: the received 33-chapter text, with seven Inner, fifteen Outer and eleven Miscellaneous Chapters. The transcription does not identify a specific print edition. Source variant and rare-character templates retain their displayed main character; alternative readings, glyph descriptions, one editorial footnote and navigation are omitted. Language-conversion markup uses the unconverted source character. The source’s approximate character 韲 and its unresolved glyph notation ■{梨} are retained. The ancient original is public domain. This adapted text resource is distributed under CC BY-SA 4.0. Pinned pages provide source and contributor attribution. English: Herbert Allen Giles (1889). Complete historical English translation across 33 chapters. Archaic spelling and interpretation retained; a separate edition, not a word-for-word gloss. English follows the corresponding book/chapter or hexagram. Paragraph lengths and wording differ between editions.",
         "sources": [
           {
             "title": "莊子/逍遙遊",
@@ -780,14 +840,18 @@
           {
             "title": "Text reuse license: CC BY-SA 4.0",
             "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "Historical English edition and source transcription",
+            "url": "https://www.gutenberg.org/cache/epub/59709/pg59709-images.html"
           }
         ],
         "language": "Mandarin",
         "resource": "zh-zhuangzi"
       },
-      "sha256": "f2022d8fd5bfe38d6d238ea8ef5be896a372c19982ed878b334df68ed164788b",
-      "byteCount": 334802,
-      "englishCoverage": "none"
+      "sha256": "d13c8503a7b6dbbd781b045892722bc40b701c76edc4c9b12e8f3ae7681e9230",
+      "byteCount": 1049312,
+      "englishCoverage": "complete"
     },
     {
       "info": {
@@ -795,21 +859,29 @@
         "language": "German",
         "title": "Grimms Märchen",
         "author": "Jacob und Wilhelm Grimm",
-        "summary": "62 tale sections • Complete 1921 selection • German",
+        "summary": "62 tale sections • Complete 1921 selection • German and English",
         "collectionLabel": "FAIRY-TALE COLLECTION",
         "legacyPassageID": "de-frosch",
         "resource": "de-grimm",
-        "translationCredit": "German text only. All tale sections in Deutsche Märchen gesammelt durch die Brüder Grimm, edited by M. Thilo-Luyken (1921). This historic selection is not the complete 200-tale Kinder- und Hausmärchen. Original spelling and Low German tales are retained. Illustrations, page numbers and publishing matter are omitted.",
+        "translationCredit": "German: Deutsche Märchen, edited by M. Thilo-Luyken (1921), with original spelling and Low German retained. English: Margaret Hunt, Grimm's Household Tales (1884), the complete corresponding tales arranged in the German selection's order. The 62-section selection is not the full Kinder- und Hausmärchen collection. The Elves includes all three stories and Mrs. Fox both stories. Historical editions differ in wording and paragraph divisions; page positions correspond approximately. Illustrations, notes and publishing matter are omitted.",
         "sources": [
           {
             "title": "Deutsche Märchen (1921), German source edition",
             "url": "https://www.gutenberg.org/ebooks/77905"
+          },
+          {
+            "title": "English: Grimm's Household Tales, Volume 1, Margaret Hunt (1884)",
+            "url": "https://en.wikisource.org/wiki/Grimm's_Household_Tales,_Volume_1"
+          },
+          {
+            "title": "English: Grimm's Household Tales, Volume 2, Margaret Hunt (1884)",
+            "url": "https://en.wikisource.org/wiki/Grimm's_Household_Tales,_Volume_2"
           }
         ]
       },
-      "sha256": "a83b1cc650137c6e6f94db2ea69917363e1042ee808bbfbc6aa0081b79a865c2",
-      "byteCount": 583336,
-      "englishCoverage": "none"
+      "sha256": "0cd01c5f8ef0571af314b62e60d8024306545bc0bfc606b01858026306ff866f",
+      "byteCount": 1195670,
+      "englishCoverage": "complete"
     },
     {
       "info": {
@@ -962,9 +1034,9 @@
         "language": "Arabic",
         "title": "قفا نبك • Muʿallaqa",
         "author": "امرؤ القيس • Imruʾ al-Qays",
-        "summary": "Complete poem in the cited recension • 77 couplets • Arabic only",
+        "summary": "Complete poem in the cited recension • 77 couplets • Arabic with complete English edition",
         "legacyPassageID": "ar-imru-al-qays-muallaqa",
-        "translationCredit": "Arabic only; no complete prepared English translation is included. Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0.",
+        "translationCredit": "Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0. English: original study translation prepared for Linguary with AI assistance (2026), translated directly from all 77 Arabic couplets in this edition. No modern published translation is reproduced. The English follows the packaged Arabic verse order, including variant order; it is a prose study rendering, not a metrical translation.",
         "resource": "ar-imru-al-qays-muallaqa",
         "sources": [
           {
@@ -978,9 +1050,9 @@
         ],
         "collectionLabel": "COMPLETE POEM"
       },
-      "sha256": "2e6495d6d4a7e45c2fb6fb73dd058caf0f82fdec6a7a07feec6eba57c6df523b",
-      "byteCount": 16808,
-      "englishCoverage": "none"
+      "sha256": "d06b8a187abb445f226c04fb09302ad47e68e062a47f1513cf2a1278cea3b195",
+      "byteCount": 32279,
+      "englishCoverage": "complete"
     },
     {
       "info": {
@@ -988,9 +1060,9 @@
         "language": "Arabic",
         "title": "وا حر قلباه • Wā ḥarra qalbāh",
         "author": "المتنبي • Al-Mutanabbi",
-        "summary": "Complete poem in the cited recension • 38 couplets • Arabic only",
+        "summary": "Complete poem in the cited recension • 38 couplets • Arabic with complete English edition",
         "legacyPassageID": "ar-mutanabbi-horse-night",
-        "translationCredit": "Arabic only; no complete prepared English translation is included. Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0.",
+        "translationCredit": "Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0. English: original study translation prepared for Linguary with AI assistance (2026), translated directly from all 38 Arabic couplets in this edition. No modern published translation is reproduced. The English follows the packaged Arabic verse order, including variant order; it is a prose study rendering, not a metrical translation.",
         "resource": "ar-mutanabbi-horse-night",
         "sources": [
           {
@@ -1004,9 +1076,9 @@
         ],
         "collectionLabel": "COMPLETE POEM"
       },
-      "sha256": "1c58a9ba7861a3a77b2ae9c6472f65491a3a0df2cb84c2db4ba926e2f35d3ff2",
-      "byteCount": 9998,
-      "englishCoverage": "none"
+      "sha256": "36203c557c734ce0053c722134fbcaa1a92c21e9df6e639ff0ca6700f850cf42",
+      "byteCount": 17429,
+      "englishCoverage": "complete"
     },
     {
       "info": {
