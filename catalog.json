@@ -1007,6 +1007,209 @@
       "sha256": "1c58a9ba7861a3a77b2ae9c6472f65491a3a0df2cb84c2db4ba926e2f35d3ff2",
       "byteCount": 9998,
       "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ru-dostoevsky-crime-punishment",
+        "language": "Russian",
+        "title": "Преступление и наказание • Crime and Punishment",
+        "author": "Фёдор Достоевский • Fyodor Dostoevsky",
+        "summary": "All six parts and both epilogue chapters • Russian and English",
+        "legacyPassageID": "ru-dostoevsky-crime-punishment",
+        "resource": "ru-dostoevsky-crime-punishment",
+        "translationCredit": "Constance Garnett. Original literary works and historical translations are public domain. Russian Wikisource transcriptions adapted into reading blocks with formatting normalized and editorial footnotes/navigation omitted, under CC BY-SA 4.0; these adapted Russian texts retain that license. English introductory essays and editorial notes are omitted. Chapters correspond, but paragraph and page divisions differ.",
+        "sources": [
+          {
+            "title": "Russian: Wikisource contributors, complete edition contents",
+            "url": "https://ru.wikisource.org/w/index.php?oldid=5680441"
+          },
+          {
+            "title": "English: Constance Garnett",
+            "url": "https://www.gutenberg.org/ebooks/2554"
+          },
+          {
+            "title": "Adapted transcription license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "2ecacc92c8b47b97b9dd6421da2ee73f633846f1f073fc8acfd6eaaad01efe77",
+      "byteCount": 3834095,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "ru-tolstoy-anna-karenina",
+        "language": "Russian",
+        "title": "Анна Каренина • Anna Karenina",
+        "author": "Лев Толстой • Leo Tolstoy",
+        "summary": "All eight parts • 239 chapters • Russian and English",
+        "legacyPassageID": "ru-tolstoy-anna-karenina",
+        "resource": "ru-tolstoy-anna-karenina",
+        "translationCredit": "Constance Garnett. The original epigraph is restored from the 90-volume collected edition, volume 18; it is not present in this English edition. Original literary works and historical translations are public domain. Russian Wikisource transcriptions adapted into reading blocks with formatting normalized and editorial footnotes/navigation omitted, under CC BY-SA 4.0; these adapted Russian texts retain that license. English introductory essays and editorial notes are omitted. Chapters correspond, but paragraph and page divisions differ.",
+        "sources": [
+          {
+            "title": "Russian: Wikisource contributors, complete edition contents",
+            "url": "https://ru.wikisource.org/w/index.php?oldid=3829834"
+          },
+          {
+            "title": "Tolstoy: original book epigraph, collected works volume 18",
+            "url": "https://ru.wikisource.org/w/index.php?oldid=3697860"
+          },
+          {
+            "title": "English: Constance Garnett",
+            "url": "https://www.gutenberg.org/ebooks/1399"
+          },
+          {
+            "title": "Adapted transcription license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "be5368573d0a2240e58fdf87920677f1487995fc134a38128abc45640e8cca97",
+      "byteCount": 6565142,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "ru-pushkin-captains-daughter",
+        "language": "Russian",
+        "title": "Капитанская дочка • The Captain’s Daughter",
+        "author": "Александр Пушкин • Alexander Pushkin",
+        "summary": "Complete novel • 14 chapters and concluding publisher’s note • Russian and English",
+        "legacyPassageID": "ru-pushkin-captains-daughter",
+        "resource": "ru-pushkin-captains-daughter",
+        "translationCredit": "Mrs. Milne Home (The Daughter of the Commandant). The Russian book and chapter epigraphs are retained; the English edition omits them. The concluding fictional publisher’s note is retained. Original literary works and historical translations are public domain. Russian Wikisource transcriptions adapted into reading blocks with formatting normalized and editorial footnotes/navigation omitted, under CC BY-SA 4.0; these adapted Russian texts retain that license. English introductory essays and editorial notes are omitted. Chapters correspond, but paragraph and page divisions differ.",
+        "sources": [
+          {
+            "title": "Russian: Wikisource contributors, complete edition contents",
+            "url": "https://ru.wikisource.org/w/index.php?oldid=5755301"
+          },
+          {
+            "title": "English: Mrs. Milne Home (The Daughter of the Commandant)",
+            "url": "https://www.gutenberg.org/ebooks/13511"
+          },
+          {
+            "title": "Adapted transcription license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "be217a61f986920d0ab263c563f3d55a7f7dcf5ced27140cc0c6271694a8ff1a",
+      "byteCount": 730961,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "el-plato-apology",
+        "language": "Greek",
+        "title": "Ἀπολογία Σωκράτους • Apology",
+        "author": "Πλάτων • Plato",
+        "summary": "Complete dialogue • Sections 17–42 • Ancient Greek and English",
+        "legacyPassageID": "el-plato-apology",
+        "resource": "el-plato-apology",
+        "translationCredit": "Greek: John Burnet (1905). English: Harold North Fowler (1914). Section boundaries follow the source edition. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with commentary omitted, under CC BY-SA 4.0. These adapted text resources retain that license. The original Greek literary works are public domain. English pages are independently typeset.",
+        "sources": [
+          {
+            "title": "Greek: complete Perseus TEI edition",
+            "url": "https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0059/tlg002/tlg0059.tlg002.perseus-grc2.xml"
+          },
+          {
+            "title": "English: complete Perseus TEI edition",
+            "url": "https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0059/tlg002/tlg0059.tlg002.perseus-eng2.xml"
+          },
+          {
+            "title": "Adapted transcription license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "c8c4f6c35a760e8a2ceed1b94df21d91f59da582df0b06c1bfa71d0729b2322d",
+      "byteCount": 184155,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "el-sophocles-antigone",
+        "language": "Greek",
+        "title": "Ἀντιγόνη • Antigone",
+        "author": "Σοφοκλῆς • Sophocles",
+        "summary": "Complete play • 16 dramatic sections • Ancient Greek and English",
+        "legacyPassageID": "el-sophocles-antigone",
+        "resource": "el-sophocles-antigone",
+        "translationCredit": "Greek: Francis Storr (1912). English: Richard Jebb (1891), modernized by Perseus. Speakers, stage directions and lyric passages are retained. The source groups some numbered lines; the final Greek line is numbered 1353. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with commentary omitted, under CC BY-SA 4.0. These adapted text resources retain that license. The original Greek literary works are public domain. English pages are independently typeset.",
+        "sources": [
+          {
+            "title": "Greek: complete Perseus TEI edition",
+            "url": "https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0011/tlg002/tlg0011.tlg002.perseus-grc2.xml"
+          },
+          {
+            "title": "English: complete Perseus TEI edition",
+            "url": "https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0011/tlg002/tlg0011.tlg002.perseus-eng2.xml"
+          },
+          {
+            "title": "Adapted transcription license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "48d8511f096490be138734a4fff04ab43196038dcedc1364e818758531312017",
+      "byteCount": 385942,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "el-john",
+        "language": "Greek",
+        "title": "Κατὰ Ἰωάννην • Gospel of John",
+        "author": "Traditional attribution: John",
+        "summary": "Complete Gospel • 21 chapters • Koine Greek and English",
+        "legacyPassageID": "el-john-prologue",
+        "resource": "el-john",
+        "translationCredit": "Greek: Westcott and Hort critical text, Harper edition (1882–1892). English: World English Bible, Rainbow Missions. The Greek edition omits John 5:4 (retained in English) and uses critical readings such as θεός at 1:18. Editorial brackets are preserved; verse numbering follows each edition. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with commentary omitted, under CC BY-SA 4.0. These adapted text resources retain that license. The original Greek literary works are public domain. English pages are independently typeset.",
+        "sources": [
+          {
+            "title": "Greek: complete Perseus TEI edition",
+            "url": "https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0031/tlg004/tlg0031.tlg004.perseus-grc2.xml"
+          },
+          {
+            "title": "English: complete Perseus TEI edition",
+            "url": "https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0031/tlg004/tlg0031.tlg004.perseus-eng2.xml"
+          },
+          {
+            "title": "Adapted transcription license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "98f0376b8fef966d6c1e014b010dffb743510ce5beabd2da75a903d670f5b80b",
+      "byteCount": 447643,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "he-ecclesiastes",
+        "language": "Hebrew",
+        "title": "קהלת • Ecclesiastes",
+        "author": "Traditional attribution: Solomon / Kohelet",
+        "summary": "Complete book • 12 chapters, 222 verses • Hebrew and English",
+        "legacyPassageID": "he-ecclesiastes-seasons",
+        "resource": "he-ecclesiastes",
+        "translationCredit": "Hebrew: Tanach with Nikkud (tanach.us), via Sefaria. English: Jewish Publication Society, The Holy Scriptures (1917), transcribed by the Open Siddur Project and imported by Sefaria. Both source exports are explicitly Public Domain. Hebrew vowel points and source verse divisions are preserved, including the bracketed customary repetition at the ending. HTML presentation markup is omitted; English is a prepared edition, not generated translation.",
+        "sources": [
+          {
+            "title": "Hebrew: Sefaria public-domain Tanach with Nikkud export",
+            "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Writings/Ecclesiastes/Hebrew/Tanach%20with%20Nikkud.json?generation=1790826225182517"
+          },
+          {
+            "title": "English: Sefaria public-domain JPS 1917 export",
+            "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Writings/Ecclesiastes/English/The%20Holy%20Scriptures%20A%20New%20Translation%20JPS%201917.json?generation=1790826225144588"
+          }
+        ]
+      },
+      "sha256": "10745d9c786e147f397a258afc0e9a3bd1227db9a8b4762f681e9b4be027ed72",
+      "byteCount": 117953,
+      "englishCoverage": "complete"
     }
   ]
 }

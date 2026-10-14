@@ -256,3 +256,52 @@ ar-mutanabbi-horse-night: وا حر قلباه • Wā ḥarra qalbāh
 Arabic only; no complete prepared English translation is included. Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0.
 Arabic Wikisource contributors: pinned complete poem: https://ar.wikisource.org/w/index.php?oldid=478546
 Text reuse: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ru-dostoevsky-crime-punishment: Преступление и наказание • Crime and Punishment
+Фёдор Достоевский • Fyodor Dostoevsky
+Constance Garnett. Original literary works and historical translations are public domain. Russian Wikisource transcriptions adapted into reading blocks with formatting normalized and editorial footnotes/navigation omitted, under CC BY-SA 4.0; these adapted Russian texts retain that license. English introductory essays and editorial notes are omitted. Chapters correspond, but paragraph and page divisions differ.
+Russian: Wikisource contributors, complete edition contents: https://ru.wikisource.org/w/index.php?oldid=5680441
+English: Constance Garnett: https://www.gutenberg.org/ebooks/2554
+Adapted transcription license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ru-tolstoy-anna-karenina: Анна Каренина • Anna Karenina
+Лев Толстой • Leo Tolstoy
+Constance Garnett. The original epigraph is restored from the 90-volume collected edition, volume 18; it is not present in this English edition. Original literary works and historical translations are public domain. Russian Wikisource transcriptions adapted into reading blocks with formatting normalized and editorial footnotes/navigation omitted, under CC BY-SA 4.0; these adapted Russian texts retain that license. English introductory essays and editorial notes are omitted. Chapters correspond, but paragraph and page divisions differ.
+Russian: Wikisource contributors, complete edition contents: https://ru.wikisource.org/w/index.php?oldid=3829834
+Tolstoy: original book epigraph, collected works volume 18: https://ru.wikisource.org/w/index.php?oldid=3697860
+English: Constance Garnett: https://www.gutenberg.org/ebooks/1399
+Adapted transcription license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ru-pushkin-captains-daughter: Капитанская дочка • The Captain’s Daughter
+Александр Пушкин • Alexander Pushkin
+Mrs. Milne Home (The Daughter of the Commandant). The Russian book and chapter epigraphs are retained; the English edition omits them. The concluding fictional publisher’s note is retained. Original literary works and historical translations are public domain. Russian Wikisource transcriptions adapted into reading blocks with formatting normalized and editorial footnotes/navigation omitted, under CC BY-SA 4.0; these adapted Russian texts retain that license. English introductory essays and editorial notes are omitted. Chapters correspond, but paragraph and page divisions differ.
+Russian: Wikisource contributors, complete edition contents: https://ru.wikisource.org/w/index.php?oldid=5755301
+English: Mrs. Milne Home (The Daughter of the Commandant): https://www.gutenberg.org/ebooks/13511
+Adapted transcription license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+el-plato-apology: Ἀπολογία Σωκράτους • Apology
+Πλάτων • Plato
+Greek: John Burnet (1905). English: Harold North Fowler (1914). Section boundaries follow the source edition. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with commentary omitted, under CC BY-SA 4.0. These adapted text resources retain that license. The original Greek literary works are public domain. English pages are independently typeset.
+Greek: complete Perseus TEI edition: https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0059/tlg002/tlg0059.tlg002.perseus-grc2.xml
+English: complete Perseus TEI edition: https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0059/tlg002/tlg0059.tlg002.perseus-eng2.xml
+Adapted transcription license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+el-sophocles-antigone: Ἀντιγόνη • Antigone
+Σοφοκλῆς • Sophocles
+Greek: Francis Storr (1912). English: Richard Jebb (1891), modernized by Perseus. Speakers, stage directions and lyric passages are retained. The source groups some numbered lines; the final Greek line is numbered 1353. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with commentary omitted, under CC BY-SA 4.0. These adapted text resources retain that license. The original Greek literary works are public domain. English pages are independently typeset.
+Greek: complete Perseus TEI edition: https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0011/tlg002/tlg0011.tlg002.perseus-grc2.xml
+English: complete Perseus TEI edition: https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0011/tlg002/tlg0011.tlg002.perseus-eng2.xml
+Adapted transcription license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+el-john: Κατὰ Ἰωάννην • Gospel of John
+Traditional attribution: John
+Greek: Westcott and Hort critical text, Harper edition (1882–1892). English: World English Bible, Rainbow Missions. The Greek edition omits John 5:4 (retained in English) and uses critical readings such as θεός at 1:18. Editorial brackets are preserved; verse numbering follows each edition. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with commentary omitted, under CC BY-SA 4.0. These adapted text resources retain that license. The original Greek literary works are public domain. English pages are independently typeset.
+Greek: complete Perseus TEI edition: https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0031/tlg004/tlg0031.tlg004.perseus-grc2.xml
+English: complete Perseus TEI edition: https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0031/tlg004/tlg0031.tlg004.perseus-eng2.xml
+Adapted transcription license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+he-ecclesiastes: קהלת • Ecclesiastes
+Traditional attribution: Solomon / Kohelet
+Hebrew: Tanach with Nikkud (tanach.us), via Sefaria. English: Jewish Publication Society, The Holy Scriptures (1917), transcribed by the Open Siddur Project and imported by Sefaria. Both source exports are explicitly Public Domain. Hebrew vowel points and source verse divisions are preserved, including the bracketed customary repetition at the ending. HTML presentation markup is omitted; English is a prepared edition, not generated translation.
+Hebrew: Sefaria public-domain Tanach with Nikkud export: https://storage.googleapis.com/sefaria-export/json/Tanakh/Writings/Ecclesiastes/Hebrew/Tanach%20with%20Nikkud.json?generation=1790826225182517
+English: Sefaria public-domain JPS 1917 export: https://storage.googleapis.com/sefaria-export/json/Tanakh/Writings/Ecclesiastes/English/The%20Holy%20Scriptures%20A%20New%20Translation%20JPS%201917.json?generation=1790826225144588
