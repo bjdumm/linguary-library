@@ -121,19 +121,35 @@ Arabic only; no English translation is included. Adapted into reading blocks wit
 كليلة ودمنة/باب الحمامة والثعلب ومالك الحزين: https://ar.wikisource.org/w/index.php?oldid=231369
 Text reuse license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
-ar-arabian-nights-1: ألف ليلة وليلة • Arabian Nights, Volume I
+ar-arabian-nights-1: ألف ليلة وليلة • Arabian Nights
 Anonymous • Traditional tales
-Arabic only; no English translation is included. Adapted into reading blocks with whitespace normalized; website navigation, illustrations and captions are omitted. Hindawi edition, via Andreas Hallberg, The Arabic E-Book Corpus (Version 1, 2024), University of Gothenburg. Original literary text is public domain; corpus reuse is CC BY 4.0. Hindawi 2022, Volume I: the complete opening frame story and nights 1–129, including embedded poetry. Later volumes are not included.
-Arabic: Hindawi, Volume I (2022): https://www.safahat.org/books/61961973/
+Arabic only; no prepared English edition is included. Complete six-volume Hindawi edition (2022), via Andreas Hallberg, The Arabic E-Book Corpus (Version 1, 2024), University of Gothenburg. Includes the frame narrative, nights 1–1001, embedded poetry and conclusion. Original literary text is public domain; corpus reuse is CC BY 4.0. Whitespace normalized; navigation, illustrations and captions omitted. Original Volume I reading IDs are preserved.
+Arabic: Hindawi, Volume 1 (2022): https://www.safahat.org/books/61961973/
+Arabic: Hindawi, Volume 2 (2022): https://www.safahat.org/books/36973840/
+Arabic: Hindawi, Volume 3 (2022): https://www.safahat.org/books/85931905/
+Arabic: Hindawi, Volume 4 (2022): https://www.safahat.org/books/39419251/
+Arabic: Hindawi, Volume 5 (2022): https://www.safahat.org/books/75264279/
+Arabic: Hindawi, Volume 6 (2022): https://www.safahat.org/books/27482482/
 Andreas Hallberg: The Arabic E-Book Corpus, Version 1: https://researchdata.se/en/catalogue/dataset/2024-145
-Corpus reuse license: CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Corpus reuse: CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 ar-hayy-ibn-yaqzan: حي بن يقظان • Hayy ibn Yaqzan
 ابن طفيل • Ibn Tufayl
-Arabic only; no English translation is included. Adapted into reading blocks with whitespace normalized; website navigation, illustrations and captions are omitted. Hindawi edition, via Andreas Hallberg, The Arabic E-Book Corpus (Version 1, 2024), University of Gothenburg. Original literary text is public domain; corpus reuse is CC BY 4.0. Hindawi 2011 edition. The narrative and concluding address are included. This edition begins with the island account and does not include the author’s preceding philosophical preface.
+Arabic only; no prepared English edition is included. Narrative and concluding address: Hindawi (2011), via Andreas Hallberg’s Arabic E-Book Corpus, CC BY 4.0, unchanged from the previous package. The missing authorial preface is restored from the public-domain Ibn Tufayl text in IslamArchive’s alternate-edition transcription, pages 15–25; modern editorial summaries, footnotes and duplicated page previews are omitted. This is a composite reading edition; orthography differs between its preface and narrative. Narrative chapter and block IDs are preserved.
 Arabic: Hindawi, Hayy ibn Yaqzan: https://www.safahat.org/books/90463596/
 Andreas Hallberg: The Arabic E-Book Corpus, Version 1: https://researchdata.se/en/catalogue/dataset/2024-145
 Corpus reuse license: CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Ibn Tufayl: authorial preface, source page 15: https://www.islamarchive.cc/ketab_content/55075/p-15
+Ibn Tufayl: authorial preface, source page 16: https://www.islamarchive.cc/ketab_content/55075/p-16
+Ibn Tufayl: authorial preface, source page 17: https://www.islamarchive.cc/ketab_content/55075/p-17
+Ibn Tufayl: authorial preface, source page 18: https://www.islamarchive.cc/ketab_content/55075/p-18
+Ibn Tufayl: authorial preface, source page 19: https://www.islamarchive.cc/ketab_content/55075/p-19
+Ibn Tufayl: authorial preface, source page 20: https://www.islamarchive.cc/ketab_content/55075/p-20
+Ibn Tufayl: authorial preface, source page 21: https://www.islamarchive.cc/ketab_content/55075/p-21
+Ibn Tufayl: authorial preface, source page 22: https://www.islamarchive.cc/ketab_content/55075/p-22
+Ibn Tufayl: authorial preface, source page 23: https://www.islamarchive.cc/ketab_content/55075/p-23
+Ibn Tufayl: authorial preface, source page 24: https://www.islamarchive.cc/ketab_content/55075/p-24
+Ibn Tufayl: authorial preface, source page 25: https://www.islamarchive.cc/ketab_content/55075/p-25
 
 zh-daodejing: 道德經 • Tao Te Ching
 老子 • Laozi
@@ -193,3 +209,50 @@ de-grimm: Grimms Märchen
 Jacob und Wilhelm Grimm
 German text only. All tale sections in Deutsche Märchen gesammelt durch die Brüder Grimm, edited by M. Thilo-Luyken (1921). This historic selection is not the complete 200-tale Kinder- und Hausmärchen. Original spelling and Low German tales are retained. Illustrations, page numbers and publishing matter are omitted.
 Deutsche Märchen (1921), German source edition: https://www.gutenberg.org/ebooks/77905
+
+es-quijote: Don Quijote de la Mancha
+Miguel de Cervantes
+John Ormsby (1885). Prepared English for both parts, including authorial prefaces and commendatory verses. The Spanish preliminary printing approvals are retained; these have no counterpart in the English edition. Preliminary texts are grouped by part; narrative chapters correspond across editions.
+Spanish: Don Quijote, complete Parts I and II: https://www.gutenberg.org/ebooks/2000
+English: Don Quixote, John Ormsby (1885): https://www.gutenberg.org/ebooks/996
+
+es-lazarillo: Lazarillo de Tormes
+Anonymous
+Sir Clements Markham (1908), translated from the Burgos 1554 edition. Prepared English for the prologue and all seven tratados. The editor’s introductory essays, illustrations, index and notes are omitted. Editions differ in wording and paragraph divisions.
+Spanish: Lazarillo de Tormes, complete novel: https://www.gutenberg.org/ebooks/320
+English: The Life of Lazarillo de Tormes, Clements Markham (1908): https://www.gutenberg.org/ebooks/53489
+
+fr-candide: Candide, ou l’optimisme
+Voltaire
+English text from the Boni and Liveright edition (1918), translator unnamed in the source. All 30 chapters; editorial introduction and explanatory footnotes omitted.
+French: Candide, complete novel: https://www.gutenberg.org/ebooks/4650
+English: Candide, Boni and Liveright (1918): https://www.gutenberg.org/ebooks/19942
+
+fr-monte-cristo: Le Comte de Monte-Cristo
+Alexandre Dumas, with Auguste Maquet
+Prepared English from the public-domain edition in Project Gutenberg 1184; translator unnamed in that edition. All 117 chapters, paired with the corresponding French chapters. Paragraph and page divisions differ; illustrations and editorial footnotes are omitted.
+French: Le Comte de Monte-Cristo, Tome 1: https://www.gutenberg.org/ebooks/17989
+French: Le Comte de Monte-Cristo, Tome 2: https://www.gutenberg.org/ebooks/17990
+French: Le Comte de Monte-Cristo, Tome 3: https://www.gutenberg.org/ebooks/17991
+French: Le Comte de Monte-Cristo, Tome 4: https://www.gutenberg.org/ebooks/17992
+English: The Count of Monte Cristo, complete novel: https://www.gutenberg.org/ebooks/1184
+
+fr-chaperon: Le petit Chaperon rouge
+Charles Perrault
+French tale: Casterman (1902), Wikisource transcription; original moral restored from the 1697 text reprinted in Andrew Lang’s edition (1888). English: The Fairy Tales of Charles Perrault (1922), credited to J. E. Mansion in Gutenberg metadata. Includes the complete tale and moral; French and English paragraphs are independent. Wikisource transcription adapted by whitespace normalization, with navigation omitted; that adapted text is CC BY-SA 4.0.
+French tale: Wikisource contributors, pinned 1902 transcription: https://fr.wikisource.org/w/index.php?oldid=13218359
+French moral: Perrault’s 1697 text, Andrew Lang edition (1888): https://www.gutenberg.org/ebooks/33931
+English: The Fairy Tales of Charles Perrault (1922): https://www.gutenberg.org/ebooks/29021
+Wikisource text reuse: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ar-imru-al-qays-muallaqa: قفا نبك • Muʿallaqa
+امرؤ القيس • Imruʾ al-Qays
+Arabic only; no complete prepared English translation is included. Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0.
+Arabic Wikisource contributors: pinned complete poem: https://ar.wikisource.org/w/index.php?oldid=429826
+Text reuse: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ar-mutanabbi-horse-night: وا حر قلباه • Wā ḥarra qalbāh
+المتنبي • Al-Mutanabbi
+Arabic only; no complete prepared English translation is included. Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0.
+Arabic Wikisource contributors: pinned complete poem: https://ar.wikisource.org/w/index.php?oldid=478546
+Text reuse: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/

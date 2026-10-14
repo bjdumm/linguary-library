@@ -448,31 +448,51 @@
     {
       "info": {
         "id": "ar-arabian-nights-1",
-        "title": "ألف ليلة وليلة • Arabian Nights, Volume I",
+        "title": "ألف ليلة وليلة • Arabian Nights",
         "author": "Anonymous • Traditional tales",
-        "summary": "Complete first volume • Frame story and nights 1–129 • Arabic only",
-        "collectionLabel": "COMPLETE FIRST VOLUME",
+        "summary": "All six volumes • Frame story, nights 1–1001 and conclusion • Arabic only",
+        "collectionLabel": "COMPLETE SIX-VOLUME EDITION",
         "legacyPassageID": "ar-nights-opening",
-        "translationCredit": "Arabic only; no English translation is included. Adapted into reading blocks with whitespace normalized; website navigation, illustrations and captions are omitted. Hindawi edition, via Andreas Hallberg, The Arabic E-Book Corpus (Version 1, 2024), University of Gothenburg. Original literary text is public domain; corpus reuse is CC BY 4.0. Hindawi 2022, Volume I: the complete opening frame story and nights 1–129, including embedded poetry. Later volumes are not included.",
+        "translationCredit": "Arabic only; no prepared English edition is included. Complete six-volume Hindawi edition (2022), via Andreas Hallberg, The Arabic E-Book Corpus (Version 1, 2024), University of Gothenburg. Includes the frame narrative, nights 1–1001, embedded poetry and conclusion. Original literary text is public domain; corpus reuse is CC BY 4.0. Whitespace normalized; navigation, illustrations and captions omitted. Original Volume I reading IDs are preserved.",
         "sources": [
           {
-            "title": "Arabic: Hindawi, Volume I (2022)",
+            "title": "Arabic: Hindawi, Volume 1 (2022)",
             "url": "https://www.safahat.org/books/61961973/"
+          },
+          {
+            "title": "Arabic: Hindawi, Volume 2 (2022)",
+            "url": "https://www.safahat.org/books/36973840/"
+          },
+          {
+            "title": "Arabic: Hindawi, Volume 3 (2022)",
+            "url": "https://www.safahat.org/books/85931905/"
+          },
+          {
+            "title": "Arabic: Hindawi, Volume 4 (2022)",
+            "url": "https://www.safahat.org/books/39419251/"
+          },
+          {
+            "title": "Arabic: Hindawi, Volume 5 (2022)",
+            "url": "https://www.safahat.org/books/75264279/"
+          },
+          {
+            "title": "Arabic: Hindawi, Volume 6 (2022)",
+            "url": "https://www.safahat.org/books/27482482/"
           },
           {
             "title": "Andreas Hallberg: The Arabic E-Book Corpus, Version 1",
             "url": "https://researchdata.se/en/catalogue/dataset/2024-145"
           },
           {
-            "title": "Corpus reuse license: CC BY 4.0",
+            "title": "Corpus reuse: CC BY 4.0",
             "url": "https://creativecommons.org/licenses/by/4.0/"
           }
         ],
         "language": "Arabic",
         "resource": "ar-arabian-nights-1"
       },
-      "sha256": "d750367f483144e4dfb3ccacb9a303da4bc109dcf2b9cd9b0b5e8680270b7044",
-      "byteCount": 1579594,
+      "sha256": "b6c8ad38f51eeb46b15e70417b438a649ec29fa665d810dc786aa33a8abcca85",
+      "byteCount": 8192473,
       "englishCoverage": "none"
     },
     {
@@ -480,10 +500,10 @@
         "id": "ar-hayy-ibn-yaqzan",
         "title": "حي بن يقظان • Hayy ibn Yaqzan",
         "author": "ابن طفيل • Ibn Tufayl",
-        "summary": "Complete narrative in the Hindawi edition • Arabic only",
+        "summary": "Author’s philosophical preface and complete narrative • Arabic only",
         "collectionLabel": "PHILOSOPHICAL NARRATIVE",
         "legacyPassageID": "",
-        "translationCredit": "Arabic only; no English translation is included. Adapted into reading blocks with whitespace normalized; website navigation, illustrations and captions are omitted. Hindawi edition, via Andreas Hallberg, The Arabic E-Book Corpus (Version 1, 2024), University of Gothenburg. Original literary text is public domain; corpus reuse is CC BY 4.0. Hindawi 2011 edition. The narrative and concluding address are included. This edition begins with the island account and does not include the author’s preceding philosophical preface.",
+        "translationCredit": "Arabic only; no prepared English edition is included. Narrative and concluding address: Hindawi (2011), via Andreas Hallberg’s Arabic E-Book Corpus, CC BY 4.0, unchanged from the previous package. The missing authorial preface is restored from the public-domain Ibn Tufayl text in IslamArchive’s alternate-edition transcription, pages 15–25; modern editorial summaries, footnotes and duplicated page previews are omitted. This is a composite reading edition; orthography differs between its preface and narrative. Narrative chapter and block IDs are preserved.",
         "sources": [
           {
             "title": "Arabic: Hindawi, Hayy ibn Yaqzan",
@@ -496,13 +516,57 @@
           {
             "title": "Corpus reuse license: CC BY 4.0",
             "url": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 15",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-15"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 16",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-16"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 17",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-17"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 18",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-18"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 19",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-19"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 20",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-20"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 21",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-21"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 22",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-22"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 23",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-23"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 24",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-24"
+          },
+          {
+            "title": "Ibn Tufayl: authorial preface, source page 25",
+            "url": "https://www.islamarchive.cc/ketab_content/55075/p-25"
           }
         ],
         "language": "Arabic",
         "resource": "ar-hayy-ibn-yaqzan"
       },
-      "sha256": "3bc8f690fe7c01495ecb0f8e56b3c778c82e4df92e8313363065837dbc5e2979",
-      "byteCount": 211894,
+      "sha256": "6c1fd5a2f913c4d02a0254b97aa75cc76a74058fba33f17909d69d221d669097",
+      "byteCount": 241466,
       "englishCoverage": "none"
     },
     {
@@ -745,6 +809,203 @@
       },
       "sha256": "a83b1cc650137c6e6f94db2ea69917363e1042ee808bbfbc6aa0081b79a865c2",
       "byteCount": 583336,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "es-quijote",
+        "language": "Spanish",
+        "title": "Don Quijote de la Mancha",
+        "author": "Miguel de Cervantes",
+        "summary": "Complete Parts I & II • 126 chapters and preliminary texts • Spanish and English",
+        "legacyPassageID": "es-quijote",
+        "translationCredit": "John Ormsby (1885). Prepared English for both parts, including authorial prefaces and commendatory verses. The Spanish preliminary printing approvals are retained; these have no counterpart in the English edition. Preliminary texts are grouped by part; narrative chapters correspond across editions.",
+        "resource": "es-quijote",
+        "sources": [
+          {
+            "title": "Spanish: Don Quijote, complete Parts I and II",
+            "url": "https://www.gutenberg.org/ebooks/2000"
+          },
+          {
+            "title": "English: Don Quixote, John Ormsby (1885)",
+            "url": "https://www.gutenberg.org/ebooks/996"
+          }
+        ]
+      },
+      "sha256": "61655deebce78b086eabcb85d06393f883c5ac1a52fe189e8177ea2e6032344d",
+      "byteCount": 5224220,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "es-lazarillo",
+        "language": "Spanish",
+        "title": "Lazarillo de Tormes",
+        "author": "Anonymous",
+        "summary": "Complete prologue and seven tratados • Spanish and English",
+        "legacyPassageID": "es-lazarillo",
+        "translationCredit": "Sir Clements Markham (1908), translated from the Burgos 1554 edition. Prepared English for the prologue and all seven tratados. The editor’s introductory essays, illustrations, index and notes are omitted. Editions differ in wording and paragraph divisions.",
+        "resource": "es-lazarillo",
+        "sources": [
+          {
+            "title": "Spanish: Lazarillo de Tormes, complete novel",
+            "url": "https://www.gutenberg.org/ebooks/320"
+          },
+          {
+            "title": "English: The Life of Lazarillo de Tormes, Clements Markham (1908)",
+            "url": "https://www.gutenberg.org/ebooks/53489"
+          }
+        ]
+      },
+      "sha256": "134d4ad481e75684bd1b997015228c81d9186a6bb9194ab9edb45abe22577eb0",
+      "byteCount": 251522,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "fr-candide",
+        "language": "French",
+        "title": "Candide, ou l’optimisme",
+        "author": "Voltaire",
+        "summary": "Complete novel • 30 chapters • French and English",
+        "legacyPassageID": "fr-candide",
+        "translationCredit": "English text from the Boni and Liveright edition (1918), translator unnamed in the source. All 30 chapters; editorial introduction and explanatory footnotes omitted.",
+        "resource": "fr-candide",
+        "sources": [
+          {
+            "title": "French: Candide, complete novel",
+            "url": "https://www.gutenberg.org/ebooks/4650"
+          },
+          {
+            "title": "English: Candide, Boni and Liveright (1918)",
+            "url": "https://www.gutenberg.org/ebooks/19942"
+          }
+        ]
+      },
+      "sha256": "dbb16691909053d4dda21b5bc0cee9853717b11ced1e8883c97f0fd4d7b2f8b4",
+      "byteCount": 480484,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "fr-monte-cristo",
+        "language": "French",
+        "title": "Le Comte de Monte-Cristo",
+        "author": "Alexandre Dumas, with Auguste Maquet",
+        "summary": "Complete novel • All four volumes, 117 chapters • French and English",
+        "legacyPassageID": "fr-monte-cristo-arrival",
+        "translationCredit": "Prepared English from the public-domain edition in Project Gutenberg 1184; translator unnamed in that edition. All 117 chapters, paired with the corresponding French chapters. Paragraph and page divisions differ; illustrations and editorial footnotes are omitted.",
+        "resource": "fr-monte-cristo",
+        "sources": [
+          {
+            "title": "French: Le Comte de Monte-Cristo, Tome 1",
+            "url": "https://www.gutenberg.org/ebooks/17989"
+          },
+          {
+            "title": "French: Le Comte de Monte-Cristo, Tome 2",
+            "url": "https://www.gutenberg.org/ebooks/17990"
+          },
+          {
+            "title": "French: Le Comte de Monte-Cristo, Tome 3",
+            "url": "https://www.gutenberg.org/ebooks/17991"
+          },
+          {
+            "title": "French: Le Comte de Monte-Cristo, Tome 4",
+            "url": "https://www.gutenberg.org/ebooks/17992"
+          },
+          {
+            "title": "English: The Count of Monte Cristo, complete novel",
+            "url": "https://www.gutenberg.org/ebooks/1184"
+          }
+        ]
+      },
+      "sha256": "a7bc3c95804f267370ab812f81fe86bcf2b2ea399099ac14b0d0fcb07cc51176",
+      "byteCount": 8772901,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "fr-chaperon",
+        "language": "French",
+        "title": "Le petit Chaperon rouge",
+        "author": "Charles Perrault",
+        "summary": "Complete tale and moral • French and English",
+        "legacyPassageID": "fr-chaperon",
+        "translationCredit": "French tale: Casterman (1902), Wikisource transcription; original moral restored from the 1697 text reprinted in Andrew Lang’s edition (1888). English: The Fairy Tales of Charles Perrault (1922), credited to J. E. Mansion in Gutenberg metadata. Includes the complete tale and moral; French and English paragraphs are independent. Wikisource transcription adapted by whitespace normalization, with navigation omitted; that adapted text is CC BY-SA 4.0.",
+        "resource": "fr-chaperon",
+        "sources": [
+          {
+            "title": "French tale: Wikisource contributors, pinned 1902 transcription",
+            "url": "https://fr.wikisource.org/w/index.php?oldid=13218359"
+          },
+          {
+            "title": "French moral: Perrault’s 1697 text, Andrew Lang edition (1888)",
+            "url": "https://www.gutenberg.org/ebooks/33931"
+          },
+          {
+            "title": "English: The Fairy Tales of Charles Perrault (1922)",
+            "url": "https://www.gutenberg.org/ebooks/29021"
+          },
+          {
+            "title": "Wikisource text reuse: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "4905f1d70f9bcc28d20a98daa6162baf4eb612d68d2e8198750a1c1219c78a52",
+      "byteCount": 13592,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "ar-imru-al-qays-muallaqa",
+        "language": "Arabic",
+        "title": "قفا نبك • Muʿallaqa",
+        "author": "امرؤ القيس • Imruʾ al-Qays",
+        "summary": "Complete poem in the cited recension • 77 couplets • Arabic only",
+        "legacyPassageID": "ar-imru-al-qays-muallaqa",
+        "translationCredit": "Arabic only; no complete prepared English translation is included. Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0.",
+        "resource": "ar-imru-al-qays-muallaqa",
+        "sources": [
+          {
+            "title": "Arabic Wikisource contributors: pinned complete poem",
+            "url": "https://ar.wikisource.org/w/index.php?oldid=429826"
+          },
+          {
+            "title": "Text reuse: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ],
+        "collectionLabel": "COMPLETE POEM"
+      },
+      "sha256": "2e6495d6d4a7e45c2fb6fb73dd058caf0f82fdec6a7a07feec6eba57c6df523b",
+      "byteCount": 16808,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ar-mutanabbi-horse-night",
+        "language": "Arabic",
+        "title": "وا حر قلباه • Wā ḥarra qalbāh",
+        "author": "المتنبي • Al-Mutanabbi",
+        "summary": "Complete poem in the cited recension • 38 couplets • Arabic only",
+        "legacyPassageID": "ar-mutanabbi-horse-night",
+        "translationCredit": "Arabic only; no complete prepared English translation is included. Public-domain original, Arabic Wikisource transcription. The complete cited recension is retained; verse counts and readings vary between editions. Hemistichs are paired into couplets with whitespace normalized and source navigation omitted. This adapted text is CC BY-SA 4.0.",
+        "resource": "ar-mutanabbi-horse-night",
+        "sources": [
+          {
+            "title": "Arabic Wikisource contributors: pinned complete poem",
+            "url": "https://ar.wikisource.org/w/index.php?oldid=478546"
+          },
+          {
+            "title": "Text reuse: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ],
+        "collectionLabel": "COMPLETE POEM"
+      },
+      "sha256": "1c58a9ba7861a3a77b2ae9c6472f65491a3a0df2cb84c2db4ba926e2f35d3ff2",
+      "byteCount": 9998,
       "englishCoverage": "none"
     }
   ]
