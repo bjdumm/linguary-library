@@ -1,0 +1,332 @@
+{
+  "id": "ru-tolstoy-stories",
+  "chapters": [
+    {
+      "id": "dog-and-shadow",
+      "part": "Рассказы и басни",
+      "title": "Собака и её тень",
+      "blocks": [
+        {
+          "id": "dog-and-shadow-blocks-001",
+          "text": "Собака шла по дощечке через речку, а в зубах несла мясо. Увидала она себя в воде и подумала, что там другая собака мясо несёт, – она бросила своё мясо и кинулась отнимать у той собаки: того мяса вовсе не было, а своё волною унесло.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "dog-and-shadow-blocks-002",
+          "text": "И осталась собака ни при чём.",
+          "kind": "paragraph"
+        }
+      ],
+      "english": [
+        {
+          "id": "dog-and-shadow-english-001",
+          "text": "A dog was crossing a little river on a plank, carrying some meat in her teeth. She saw herself in the water and thought another dog was carrying meat down there. She dropped her own meat and rushed to snatch the other dog's: that meat did not exist at all, and a wave carried her own away.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "dog-and-shadow-english-002",
+          "text": "And the dog was left with nothing.",
+          "kind": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "filipok",
+      "part": "Рассказы и басни",
+      "title": "Филипок",
+      "blocks": [
+        {
+          "id": "filipok-blocks-001",
+          "text": "Был мальчик, звали его Филипп. Пошли раз все ребята в школу. Филипп взял шапку и хотел тоже идти. Но мать сказала ему: куда ты, Филипок, собрался? — В школу. — Ты еще мал, не ходи,— и мать оставила его дома. Ребята ушли в школу. Отец еще с утра уехал в лес, мать ушла на поденную работу. Остались в избе Филипок да бабушка на печке. Стало Филипку скучно одному, бабушка заснула, а он стал искать шапку. Своей не нашел, взял старую, отцовскую и пошел в школу.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-blocks-002",
+          "text": "Школа была за селом у церкви. Когда Филипп шел по своей слободе, собаки не трогали его, они его знали. Но когда он вышел к чужим дворам, выскочила Жучка, залаяла, а за Жучкой большая собака Волчок. Филипок бросился бежать, собаки за ним. Филипок стал кричать, споткнулся и упал. Вышел мужик, отогнал собак и сказал: куда ты, постреленок, один бежишь? Филипок ничего не сказал, подобрал полы и пустился бежать во весь дух. Прибежал он к школе. На крыльце никого нет, а в школе слышны гудят голоса ребят.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-blocks-003",
+          "text": "На Филипка нашел страх: что, как учитель меня прогонит? И стал он думать, что ему делать. Назад идти — опять собака заест, в школу идти — учителя боится. Шла мимо школы баба с ведром и говорит: все учатся, а ты что тут стоишь? Филипок и пошел в школу. В сенцах снял шапку и отворил дверь. Школа вся была полна ребят. Все кричали свое, и учитель в красном шарфе ходил посередине.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-blocks-004",
+          "text": "— Ты что? — закричал он на Филипка. Филипок ухватился за шапку и ничего не говорил. — Да ты кто? — Филипок молчал. — Или ты немой? — Филипок так напугался, что говорить не мог. — Ну так иди домой, коли говорить не хочешь. — А Филипок и рад бы что сказать, да в горле у него от страха пересохло. Он посмотрел на учителя и заплакал. Тогда учителю жалко его стало. Он погладил его по голове и спросил у ребят, кто этот мальчик.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-blocks-005",
+          "text": "— Это Филипок, Костюшкин брат, он давно просится в школу, да мать не пускает его, и он украдкой пришел в школу.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-blocks-006",
+          "text": "— Ну, садись на лавку возле брата, а я твою мать попрошу, чтоб пускала тебя в школу.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-blocks-007",
+          "text": "Учитель стал показывать Филипку буквы, а Филипок их уж знал и немножко читать умел.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-blocks-008",
+          "text": "— Ну-ка, сложи свое имя. — Филипок сказал: хве-и-хви, —ле-и-ли, —пеок-пок. — Все засмеялись.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-blocks-009",
+          "text": "— Молодец,— сказал учитель. — Кто же тебя учил читать?",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-blocks-010",
+          "text": "Филипок осмелился и сказал: Костюшка. Я бедовый, я сразу все понял. Я страсть какой ловкий! — Учитель засмеялся и сказал: а молитвы ты знаешь? — Филипок сказал: знаю,— и начал говорить Богородицу; но всякое слово говорил не так. Учитель остановил его и сказал: ты погоди хвалиться, а поучись.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-blocks-011",
+          "text": "С тех пор Филипок стал ходить с ребятами в школу.",
+          "kind": "paragraph"
+        }
+      ],
+      "english": [
+        {
+          "id": "filipok-english-001",
+          "text": "There was a boy named Filipp. One day all the children went to school. Filipp took his cap and wanted to go too. But his mother said, ‘Where are you off to, Filipok?’ ‘To school.’ ‘You're still too little. Don't go.’ And she kept him at home. The children went to school. His father had gone to the forest early that morning, and his mother went out to work for the day. Only Filipok and his grandmother, up on the stove, were left in the cottage. Filipok grew bored on his own. His grandmother fell asleep, and he began looking for his cap. He could not find it, so he took his father's old one and went to school.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-english-002",
+          "text": "The school was beyond the village, near the church. As Filipp walked through his own neighborhood, the dogs left him alone: they knew him. But when he reached unfamiliar yards, Zhuchka dashed out barking, followed by a big dog called Volchok. Filipok ran, and the dogs chased him. He began to shout, tripped, and fell. A peasant came out, drove the dogs away, and said, ‘Where are you running all alone, you little rascal?’ Filipok said nothing. He gathered up the skirts of his coat and ran as fast as he could. He reached the school. Nobody was on the porch, but inside he could hear the hum of children's voices.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-english-003",
+          "text": "Filipok grew frightened: what if the teacher sent him away? He began wondering what to do. If he went back, the dog would attack him again; if he went into school, he was afraid of the teacher. A woman carrying a bucket passed the school and said, ‘Everyone is studying. Why are you standing here?’ So Filipok went in. He took off his cap in the entryway and opened the door. The school was full of children. Each was shouting out a lesson, and the teacher, wearing a red scarf, was walking among them.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-english-004",
+          "text": "‘What do you want?’ he shouted at Filipok. Filipok clutched his cap and said nothing. ‘Who are you?’ Filipok remained silent. ‘Can't you speak?’ Filipok was so frightened that he could not talk. ‘Well, go home, then, if you won't speak.’ Filipok would gladly have said something, but fear had made his throat dry. He looked at the teacher and began to cry. Then the teacher felt sorry for him. He stroked his head and asked the children who this boy was.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-english-005",
+          "text": "‘That's Filipok, Kostyushka's brother. He's been asking to come to school for a long time, but his mother won't let him, so he came in secret.’",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-english-006",
+          "text": "‘Well, sit on the bench beside your brother, and I'll ask your mother to let you come to school.’",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-english-007",
+          "text": "The teacher began showing Filipok the letters, but Filipok already knew them and could read a little.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-english-008",
+          "text": "‘Now, sound out your name.’ Filipok said, ‘F-and-i, fi; l-and-i, li; p-o-k, pok,’ stumbling over the letter sounds. Everyone laughed.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-english-009",
+          "text": "‘Well done,’ said the teacher. ‘Who taught you to read?’",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-english-010",
+          "text": "Filipok grew bolder and said, ‘Kostyushka. I'm a clever one. I understood everything straight away. I'm awfully quick!’ The teacher laughed and said, ‘Do you know your prayers?’ Filipok said, ‘I do,’ and began reciting the prayer to the Mother of God, but he got every word wrong. The teacher stopped him and said, ‘Wait a while before boasting. Learn first.’",
+          "kind": "paragraph"
+        },
+        {
+          "id": "filipok-english-011",
+          "text": "From then on, Filipok went to school with the other children.",
+          "kind": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "lion-and-dog",
+      "part": "Рассказы и басни",
+      "title": "Лев и собачка",
+      "blocks": [
+        {
+          "id": "lion-and-dog-blocks-001",
+          "text": "В Лондоне показывали диких зверей и за смотренье брали деньгами или собаками и кошками на корм диким зверям.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-002",
+          "text": "Одному человеку захотелось поглядеть зверей: он ухватил на улице собачонку и принес ее в зверинец. Его пустили смотреть, а собачонку взяли и бросили в клетку ко льву на съеденье.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-003",
+          "text": "Собачка поджала хвост и прижалась в угол клетки. Лев подошел к ней и понюхал ее.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-004",
+          "text": "Собачка легла на спину, подняла лапки и стала махать хвостиком.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-005",
+          "text": "Лев тронул ее лапой и перевернул.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-006",
+          "text": "Собачка вскочила и стала перед львом на задние лапки.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-007",
+          "text": "Лев смотрел на собачку, поворачивал голову со стороны на сторону и не трогал ее.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-008",
+          "text": "Когда хозяин бросил льву мяса, лев оторвал кусок и оставил собачке.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-009",
+          "text": "Вечером, когда лев лег спать, собачка легла подле него и положила свою голову ему на лапу.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-010",
+          "text": "С тех пор собачка жила в одной клетке со львом, лев не трогал ее, ел корм, спал с ней вместе, а иногда играл с ней.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-011",
+          "text": "Один раз барин пришел в зверинец и узнал свою собачку; он сказал, что собачка его собственная, и попросил хозяина зверинца отдать ему. Хозяин хотел отдать, но как только стали звать собачку, чтобы взять ее из клетки, лев ощетинился и зарычал.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-012",
+          "text": "Так прожили лев и собачка целый год в одной клетке.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-013",
+          "text": "Через год собачка заболела и издохла. Лев перестал есть, а все нюхал, лизал собачку и трогал ее лапой.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-014",
+          "text": "Когда он понял, что она умерла, он вдруг вспрыгнул, ощетинился, стал хлестать себя, хвостом по бокам, бросился на стену клетки и стал грызть засовы и пол.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-015",
+          "text": "Целый день он бился, метался в клетке и ревел, потом лег подле мертвой собачки и затих. Хозяин хотел унести мертвую собачку, но лев никого не подпускал к ней.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-016",
+          "text": "Хозяин думал, что лев забудет свое горе, если ему дать другую собачку, и пустил к нему в клетку живую собачку; но лев тотчас разорвал ее на куски. Потом он обнял своими лапами мертвую собачку и так лежал пять дней.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-blocks-017",
+          "text": "На шестой день лев умер.",
+          "kind": "paragraph"
+        }
+      ],
+      "english": [
+        {
+          "id": "lion-and-dog-english-001",
+          "text": "In London, wild animals were exhibited, and admission was paid either in money or in dogs and cats to feed the wild animals.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-002",
+          "text": "A man wanted to see the animals, so he caught a little dog in the street and brought her to the menagerie. They let him in, took the little dog, and threw her into the lion's cage to be eaten.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-003",
+          "text": "The little dog tucked in her tail and huddled in a corner of the cage. The lion came over and sniffed her.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-004",
+          "text": "The little dog lay on her back, raised her paws, and began wagging her tail.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-005",
+          "text": "The lion touched her with his paw and rolled her over.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-006",
+          "text": "The little dog jumped up and stood before the lion on her hind legs.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-007",
+          "text": "The lion watched the little dog, turning his head from side to side, and did not hurt her.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-008",
+          "text": "When the owner threw some meat to the lion, the lion tore off a piece and left it for the little dog.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-009",
+          "text": "That evening, when the lion lay down to sleep, the little dog lay beside him and rested her head on his paw.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-010",
+          "text": "From then on, the little dog lived in the same cage as the lion. He did not hurt her; he ate his food, slept beside her, and sometimes played with her.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-011",
+          "text": "One day a gentleman came to the menagerie and recognized his little dog. He said she belonged to him and asked the owner to give her back. The owner was willing, but as soon as they called the little dog to take her out of the cage, the lion bristled and growled.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-012",
+          "text": "The lion and the little dog lived together in one cage like this for a whole year.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-013",
+          "text": "After a year, the little dog fell ill and died. The lion stopped eating and kept sniffing her, licking her, and touching her with his paw.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-014",
+          "text": "When he realized she was dead, he suddenly sprang up, bristled, lashed his sides with his tail, hurled himself against the wall of the cage, and began gnawing the bolts and the floor.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-015",
+          "text": "All day he struggled, dashed about the cage, and roared. Then he lay beside the dead little dog and grew quiet. The owner wanted to carry her away, but the lion would let no one near her.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-016",
+          "text": "The owner thought the lion would forget his grief if he were given another little dog, and put a living one into the cage. But the lion immediately tore her to pieces. Then he wrapped his paws around the dead little dog and lay like that for five days.",
+          "kind": "paragraph"
+        },
+        {
+          "id": "lion-and-dog-english-017",
+          "text": "On the sixth day, the lion died.",
+          "kind": "paragraph"
+        }
+      ]
+    }
+  ]
+}
