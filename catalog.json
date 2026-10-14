@@ -28,6 +28,31 @@
     },
     {
       "info": {
+        "id": "it-pinocchio",
+        "language": "Italian",
+        "title": "Le avventure di Pinocchio",
+        "author": "Carlo Collodi",
+        "summary": "Complete novel • All 36 chapters",
+        "legacyPassageID": "it-pinocchio",
+        "resource": "it-pinocchio",
+        "translationCredit": "Carol Della Chiesa (1926). Prepared English text for all 36 chapters; paragraph divisions differ from the Italian edition.",
+        "sources": [
+          {
+            "title": "Italian: Le avventure di Pinocchio, Bemporad edition (1902)",
+            "url": "https://www.gutenberg.org/ebooks/52484"
+          },
+          {
+            "title": "English: The Adventures of Pinocchio, Carol Della Chiesa",
+            "url": "https://www.gutenberg.org/ebooks/500"
+          }
+        ]
+      },
+      "sha256": "4e9229f47c753fc404acc4c76ed41ed827ac95ff3dbf77f5a9b00766590ffd96",
+      "byteCount": 809325,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
         "id": "de-werther",
         "language": "German",
         "title": "Die Leiden des jungen Werther",

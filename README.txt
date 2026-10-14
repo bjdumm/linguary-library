@@ -20,6 +20,12 @@ Henry Wadsworth Longfellow (1867). Separate English text for every canto.
 Italian: La Divina Commedia (all three cantiche): https://www.gutenberg.org/ebooks/1000
 English: Henry Wadsworth Longfellow, complete Comedy (1867): https://www.gutenberg.org/ebooks/1004
 
+it-pinocchio: Le avventure di Pinocchio
+Carlo Collodi
+Carol Della Chiesa (1926). Prepared English text for all 36 chapters; paragraph divisions differ from the Italian edition.
+Italian: Le avventure di Pinocchio, Bemporad edition (1902): https://www.gutenberg.org/ebooks/52484
+English: The Adventures of Pinocchio, Carol Della Chiesa: https://www.gutenberg.org/ebooks/500
+
 de-werther: Die Leiden des jungen Werther
 Johann Wolfgang von Goethe
 R. Dillon Boylan. Separate English text for both books; letter divisions differ between editions.
