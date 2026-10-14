@@ -305,3 +305,16 @@ Traditional attribution: Solomon / Kohelet
 Hebrew: Tanach with Nikkud (tanach.us), via Sefaria. English: Jewish Publication Society, The Holy Scriptures (1917), transcribed by the Open Siddur Project and imported by Sefaria. Both source exports are explicitly Public Domain. Hebrew vowel points and source verse divisions are preserved, including the bracketed customary repetition at the ending. HTML presentation markup is omitted; English is a prepared edition, not generated translation.
 Hebrew: Sefaria public-domain Tanach with Nikkud export: https://storage.googleapis.com/sefaria-export/json/Tanakh/Writings/Ecclesiastes/Hebrew/Tanach%20with%20Nikkud.json?generation=1790826225182517
 English: Sefaria public-domain JPS 1917 export: https://storage.googleapis.com/sefaria-export/json/Tanakh/Writings/Ecclesiastes/English/The%20Holy%20Scriptures%20A%20New%20Translation%20JPS%201917.json?generation=1790826225144588
+
+la-caesar-gaul: De bello Gallico • The Gallic War
+Julius Caesar; Book VIII by Aulus Hirtius
+Latin: The Latin Library transcription, all eight books and Hirtius’s preface to Balbus. English: W. A. MacDevitt (also catalogued as W. A. McDevitte), Everyman’s Library edition (1915), via Project Gutenberg 10657. Public-domain original and historical translation. Latin sentence numbers and website navigation are omitted. English II.27’s mislabeled heading is corrected, and merged paragraphs at VI.10, VII.89 and VIII.46 are separated with restored chapter labels; literary wording is unchanged. The surviving Latin ends at VIII.55 with an incomplete word sequence, “Contendit . . .”, retained from the source; no lost continuation is invented. Editorial introduction, index and the separate Civil War are omitted. Book boundaries correspond; page divisions differ.
+Latin: The Latin Library, Gallic War Book 1: https://www.thelatinlibrary.com/caesar/gall1.shtml
+Latin: The Latin Library, Gallic War Book 2: https://www.thelatinlibrary.com/caesar/gall2.shtml
+Latin: The Latin Library, Gallic War Book 3: https://www.thelatinlibrary.com/caesar/gall3.shtml
+Latin: The Latin Library, Gallic War Book 4: https://www.thelatinlibrary.com/caesar/gall4.shtml
+Latin: The Latin Library, Gallic War Book 5: https://www.thelatinlibrary.com/caesar/gall5.shtml
+Latin: The Latin Library, Gallic War Book 6: https://www.thelatinlibrary.com/caesar/gall6.shtml
+Latin: The Latin Library, Gallic War Book 7: https://www.thelatinlibrary.com/caesar/gall7.shtml
+Latin: The Latin Library, Gallic War Book 8: https://www.thelatinlibrary.com/caesar/gall8.shtml
+English: The War in Gaul, W. A. MacDevitt: https://www.gutenberg.org/ebooks/10657

@@ -1210,6 +1210,59 @@
       "sha256": "10745d9c786e147f397a258afc0e9a3bd1227db9a8b4762f681e9b4be027ed72",
       "byteCount": 117953,
       "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "la-caesar-gaul",
+        "language": "Latin",
+        "title": "De bello Gallico • The Gallic War",
+        "author": "Julius Caesar; Book VIII by Aulus Hirtius",
+        "summary": "Complete surviving work • All eight books and Hirtius’s preface • Latin and English",
+        "legacyPassageID": "la-caesar-gaul",
+        "resource": "la-caesar-gaul",
+        "translationCredit": "Latin: The Latin Library transcription, all eight books and Hirtius’s preface to Balbus. English: W. A. MacDevitt (also catalogued as W. A. McDevitte), Everyman’s Library edition (1915), via Project Gutenberg 10657. Public-domain original and historical translation. Latin sentence numbers and website navigation are omitted. English II.27’s mislabeled heading is corrected, and merged paragraphs at VI.10, VII.89 and VIII.46 are separated with restored chapter labels; literary wording is unchanged. The surviving Latin ends at VIII.55 with an incomplete word sequence, “Contendit . . .”, retained from the source; no lost continuation is invented. Editorial introduction, index and the separate Civil War are omitted. Book boundaries correspond; page divisions differ.",
+        "sources": [
+          {
+            "title": "Latin: The Latin Library, Gallic War Book 1",
+            "url": "https://www.thelatinlibrary.com/caesar/gall1.shtml"
+          },
+          {
+            "title": "Latin: The Latin Library, Gallic War Book 2",
+            "url": "https://www.thelatinlibrary.com/caesar/gall2.shtml"
+          },
+          {
+            "title": "Latin: The Latin Library, Gallic War Book 3",
+            "url": "https://www.thelatinlibrary.com/caesar/gall3.shtml"
+          },
+          {
+            "title": "Latin: The Latin Library, Gallic War Book 4",
+            "url": "https://www.thelatinlibrary.com/caesar/gall4.shtml"
+          },
+          {
+            "title": "Latin: The Latin Library, Gallic War Book 5",
+            "url": "https://www.thelatinlibrary.com/caesar/gall5.shtml"
+          },
+          {
+            "title": "Latin: The Latin Library, Gallic War Book 6",
+            "url": "https://www.thelatinlibrary.com/caesar/gall6.shtml"
+          },
+          {
+            "title": "Latin: The Latin Library, Gallic War Book 7",
+            "url": "https://www.thelatinlibrary.com/caesar/gall7.shtml"
+          },
+          {
+            "title": "Latin: The Latin Library, Gallic War Book 8",
+            "url": "https://www.thelatinlibrary.com/caesar/gall8.shtml"
+          },
+          {
+            "title": "English: The War in Gaul, W. A. MacDevitt",
+            "url": "https://www.gutenberg.org/ebooks/10657"
+          }
+        ]
+      },
+      "sha256": "26593c9e2ea84a740535cf5b0f601b3ccb6dbd920c6f6cff8baca753a10711ed",
+      "byteCount": 999598,
+      "englishCoverage": "complete"
     }
   ]
 }
