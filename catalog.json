@@ -35,20 +35,16 @@
         "summary": "Complete novel • All 36 chapters",
         "legacyPassageID": "it-pinocchio",
         "resource": "it-pinocchio",
-        "translationCredit": "Carol Della Chiesa (1926). Prepared English text for all 36 chapters; paragraph divisions differ from the Italian edition.",
+        "translationCredit": "Original AI-assisted English study translation (2026), prepared directly from Carlo Collodi’s Italian text for Linguary. All 36 chapters, preserving every Italian text block. No third-party English translation used as a source. The Italian circus poster in chapter 33 is restored from the source transcription; no illustrations are included.",
         "sources": [
           {
-            "title": "Italian: Le avventure di Pinocchio, Bemporad edition (1902)",
+            "title": "Italian: Carlo Collodi, Bemporad edition (1902), Project Gutenberg 52484",
             "url": "https://www.gutenberg.org/ebooks/52484"
-          },
-          {
-            "title": "English: The Adventures of Pinocchio, Carol Della Chiesa",
-            "url": "https://www.gutenberg.org/ebooks/500"
           }
         ]
       },
-      "sha256": "4e9229f47c753fc404acc4c76ed41ed827ac95ff3dbf77f5a9b00766590ffd96",
-      "byteCount": 809325,
+      "sha256": "dba1f955b8101a2b9b19832b144344a04c8402975b855de01f75c718f9457012",
+      "byteCount": 804275,
       "englishCoverage": "complete"
     },
     {
@@ -59,25 +55,29 @@
         "author": "Johann Wolfgang von Goethe",
         "summary": "Complete Books I and II, including the editor’s narrative",
         "legacyPassageID": "de-werther-may10",
-        "translationCredit": "R. Dillon Boylan. Separate English text for both books; letter divisions differ between editions.",
+        "translationCredit": "German: complete 1774 first edition, both parts, transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities, under CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined; page furniture omitted. English: R. Dillon Boylan’s historical translation of Goethe’s later revised edition. The German and English editions differ, so their page correspondence is approximate.",
         "resource": "de-werther",
         "sources": [
           {
-            "title": "German: Werther, Book I (1787 text)",
-            "url": "https://www.gutenberg.org/ebooks/2407"
+            "title": "German: DTA 1774 first edition, part1",
+            "url": "https://www.deutschestextarchiv.de/book/show/goethe_werther01_1774"
           },
           {
-            "title": "German: Werther, Book II (1787 text)",
-            "url": "https://www.gutenberg.org/ebooks/2408"
+            "title": "German: DTA 1774 first edition, part2",
+            "url": "https://www.deutschestextarchiv.de/book/show/goethe_werther02_1774"
           },
           {
-            "title": "English: The Sorrows of Young Werther, R. Dillon Boylan",
+            "title": "English: R. Dillon Boylan, Project Gutenberg2527",
             "url": "https://www.gutenberg.org/ebooks/2527"
+          },
+          {
+            "title": "DTA transcription and adapted resource license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         ]
       },
-      "sha256": "0614f5b7c838869723026e991c987112e25ed005b7ba13f98f39902158da0b63",
-      "byteCount": 564944,
+      "sha256": "285d3f65ff97f504b8aaad92ec12709982de576c3fb9571bc105c091a749a954",
+      "byteCount": 532449,
       "englishCoverage": "complete"
     },
     {
@@ -200,27 +200,27 @@
         "language": "Greek",
         "title": "Τίμαιος",
         "author": "Πλάτων • Plato",
-        "summary": "Complete dialogue • Sections 17–92 • Ancient Greek and English",
+        "summary": "Complete dialogue • original Greek and English",
         "legacyPassageID": "",
         "resource": "el-timaeus",
-        "translationCredit": "R. G. Bury, Plato in Twelve Volumes, volume 9 (1929). Greek: John Burnet (1905). Source section boundaries follow whole speeches near Stephanus page numbers; they do not always begin at the exact page break. Brackets retain words marked for deletion by the Greek editor. Separate English edition; pages are not aligned. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with notes and markup omitted, under CC BY-SA 4.0. These adapted text resources are distributed under the same license. Original literary editions are public domain.",
+        "translationCredit": "Greek: John Burnet (1905), Perseus Digital Library / Tufts University transcription, adapted under CC BY-SA 4.0. Editorial notes omitted; deletion brackets retained. English: Benjamin Jowett (1817–1893). Complete historical English translation; separate English text. The dialogue is presented as one section because this edition does not retain Stephanus divisions. English and original pages are independently typeset.",
         "sources": [
           {
             "title": "Greek: John Burnet, Platonis Opera IV (1905)",
             "url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0059/tlg031/tlg0059.tlg031.perseus-grc2.xml"
           },
           {
-            "title": "English: R. G. Bury, Timaeus (1929)",
-            "url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0059/tlg031/tlg0059.tlg031.perseus-eng2.xml"
-          },
-          {
             "title": "Text reuse license: CC BY-SA 4.0",
             "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "English: Timaeus — Benjamin Jowett (1817–1893)",
+            "url": "https://www.gutenberg.org/ebooks/1572"
           }
         ]
       },
-      "sha256": "71b860e4aa06e897907d52d2603a8c79fe2462da9d92d5a338054040b6ffa903",
-      "byteCount": 536075,
+      "sha256": "873c0d23dea808477c158f7d443e6033ee67c7f25a99185d57de4c3d56621e48",
+      "byteCount": 494888,
       "englishCoverage": "complete"
     },
     {
@@ -229,18 +229,14 @@
         "language": "Greek",
         "title": "Ὀδύσσεια",
         "author": "Ὅμηρος • Homer",
-        "summary": "Complete epic • 24 books • Homeric Greek and English",
+        "summary": "Complete epic • 24 books",
         "legacyPassageID": "",
         "resource": "el-odyssey",
-        "translationCredit": "A. T. Murray, The Odyssey (1919). Greek text from the same historical edition. Three omitted verses (10.456, 16.101, 23.48) are supplied from Greek Wikisource; the source’s misnumbered 23.48 is corrected to 23.49. Wikisource contributors are credited in the supplementary sources below. Separate English edition; pages are not aligned. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with notes and markup omitted, under CC BY-SA 4.0. These adapted text resources are distributed under the same license. Original literary editions are public domain.",
+        "translationCredit": "Greek: A. T. Murray edition (1919), Perseus Digital Library / Tufts University transcription, adapted under CC BY-SA 4.0. Verses 10.456, 16.101 and 23.48 supplied from the credited Greek Wikisource contributors; the source’s misnumbered 23.48 corrected to 23.49. English: Samuel Butler (1835–1902). Complete historical English translation; separate English text. Organized by the 24 books. English and original pages are independently typeset.",
         "sources": [
           {
             "title": "Greek: Odyssey, A. T. Murray edition (1919)",
             "url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0012/tlg002/tlg0012.tlg002.perseus-grc2.xml"
-          },
-          {
-            "title": "English: A. T. Murray, Odyssey (1919)",
-            "url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0012/tlg002/tlg0012.tlg002.perseus-eng3.xml"
           },
           {
             "title": "Text reuse license: CC BY-SA 4.0",
@@ -257,11 +253,15 @@
           {
             "title": "Greek Wikisource contributors: Book 23 corrections",
             "url": "https://el.wikisource.org/w/index.php?oldid=157193"
+          },
+          {
+            "title": "English: Odyssey — Samuel Butler (1835–1902)",
+            "url": "https://www.gutenberg.org/ebooks/1727"
           }
         ]
       },
-      "sha256": "9e39610c6a6dec62a4af20ec7bb6dd8e285be427b15a0b88f4bd4a268a0a98d1",
-      "byteCount": 2943552,
+      "sha256": "295843d5a3efb78ca8020074f1c1a5a69e6a7839084d06c357a047b51bd56e01",
+      "byteCount": 2935698,
       "englishCoverage": "complete"
     },
     {
@@ -270,27 +270,27 @@
         "language": "Greek",
         "title": "Ἰλιάς",
         "author": "Ὅμηρος • Homer",
-        "summary": "Complete epic • 24 books • Homeric Greek and English",
+        "summary": "Complete epic • 24 books",
         "legacyPassageID": "",
         "resource": "el-iliad",
-        "translationCredit": "A. T. Murray, The Iliad (1924–1925). Greek: D. B. Monro and T. W. Allen, Homeri Opera, third edition (1908–1920). All 24 books of this Greek edition are included, preserving its numbering gaps at 9.458–461, 11.543 and 14.269. Bracketed verses retain the Greek editor’s deletion marks. English follows Murray’s separate edition; speech quotation marks are rendered from its markup. Separate English edition; pages are not aligned. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with notes and markup omitted, under CC BY-SA 4.0. These adapted text resources are distributed under the same license. Original literary editions are public domain.",
+        "translationCredit": "Greek: D. B. Monro and T. W. Allen, Homeri Opera (1908–1920), Perseus Digital Library / Tufts University transcription, adapted under CC BY-SA 4.0. Numbering gaps and deletion brackets retain this Greek edition’s readings. English: Samuel Butler (1835–1902). Complete historical English translation; separate English text. Organized by the 24 books. English and original pages are independently typeset.",
         "sources": [
           {
             "title": "Greek: Monro and Allen, Homeri Opera I–II (1908–1920)",
             "url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0012/tlg001/tlg0012.tlg001.perseus-grc2.xml"
           },
           {
-            "title": "English: A. T. Murray, The Iliad (1924–1925)",
-            "url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0012/tlg001/tlg0012.tlg001.perseus-eng3.xml"
-          },
-          {
             "title": "Text reuse license: CC BY-SA 4.0",
             "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "English: Iliad — Samuel Butler (1835–1902)",
+            "url": "https://www.gutenberg.org/ebooks/2199"
           }
         ]
       },
-      "sha256": "0c74f86784c09aa003d3ec9cbe429cf45be15c4dd277e20269c50495f9fc83a5",
-      "byteCount": 3850018,
+      "sha256": "eda96880dbf9260918ea76da2f20e6d6201297d1821acacfbe4fb5a4d952e7e2",
+      "byteCount": 3786066,
       "englishCoverage": "complete"
     },
     {
@@ -359,94 +359,30 @@
         "summary": "19 complete sections • Four prefaces and fifteen fable chapters • Arabic and study English",
         "collectionLabel": "CLASSIC FABLE COLLECTION",
         "legacyPassageID": "",
-        "translationCredit": "Adapted into reading blocks with whitespace normalized; website navigation, illustrations and captions are omitted. Arabic Wikisource contributors, nineteen-section transcription; the site does not identify its underlying print edition. Source spelling and repeated passages are retained. The original work is public domain. These adapted text resources are distributed under CC BY-SA 4.0, with pinned source pages and contributor histories linked below. English: original AI-assisted study translation prepared for Linguary (2026), directly from every block of this Arabic recension, including its prefatory sections, embedded fables and verse. This adapted English text is also distributed under CC BY-SA 4.0. Source repetitions and surviving incomplete passages are retained rather than silently reconstructed. The English is a prose study rendering, not a metrical or independently certified literary translation.",
+        "translationCredit": "Arabic: complete classical text of Hindawi edition 61851406 (2011/2012). Its copyright page expressly identifies all rights other than cover artwork and design as public domain. Only literary text is included; the modern biography, explanatory footnotes, editorial subheadings, illustrations and design are omitted. All 19 sections are retained. English: original AI-assisted study translation prepared for Linguary (2026), CC BY-SA 4.0, of the earlier 19-section Arabic Wikisource recension. Arabic and English are separate editions: introductions and some passages differ materially in length and wording. English is not a line-by-line translation of this Hindawi text; reading-position correspondence is approximate.",
         "sources": [
           {
-            "title": "كليلة ودمنة/باب مقدمة الكتاب",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=488570"
+            "title": "Arabic: Hindawi edition 61851406, complete EPUB and copyright statement",
+            "url": "https://downloads.hindawi.org/books/61851406.epub"
           },
           {
-            "title": "كليلة ودمنة/باب بعثة برزويه إلى بلاد الهند",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=245550"
+            "title": "Hindawi 61851406 print edition and copyright statement",
+            "url": "https://downloads.hindawi.org/books/61851406.pdf"
           },
           {
-            "title": "كليلة ودمنة/باب عرض الكتاب ترجمة عبد الله بن المقفع",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=245551"
+            "title": "Earlier Arabic recension underlying Linguary’s English study edition: Wikisource",
+            "url": "https://ar.wikisource.org/wiki/كليلة_ودمنة"
           },
           {
-            "title": "كليلة ودمنة/باب بروزيه ترجمة بزرجمهر بن البختكان",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=141243"
-          },
-          {
-            "title": "كليلة ودمنة/باب الأسد والثور وهو أول الكتاب",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=272368"
-          },
-          {
-            "title": "كليلة ودمنة/باب الفحص عن أمر دمنة",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=290965"
-          },
-          {
-            "title": "كليلة ودمنة/باب الحمامة المطوقة",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=245541"
-          },
-          {
-            "title": "كليلة ودمنة/باب البوم والغربان",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=285510"
-          },
-          {
-            "title": "كليلة ودمنة/باب القرد والغيلم",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=231360"
-          },
-          {
-            "title": "كليلة ودمنة/الناسك وابن عرس",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=251292"
-          },
-          {
-            "title": "كليلة ودمنة/باب الجرذ والسنور",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=231362"
-          },
-          {
-            "title": "كليلة ودمنة/باب ابن الملك والطائر فنزة",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=231363"
-          },
-          {
-            "title": "كليلة ودمنة/باب الأسد والشغبر الناسك وهو ابن آوى",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=302554"
-          },
-          {
-            "title": "كليلة ودمنة/باب إيلاذ وبلاذ وايراخت",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=231372"
-          },
-          {
-            "title": "كليلة ودمنة/باب اللبوة والإسوار والشغبر",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=374244"
-          },
-          {
-            "title": "كليلة ودمنة/باب الناسك والضيف",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=231371"
-          },
-          {
-            "title": "كليلة ودمنة/باب السائح والصائغ",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=381514"
-          },
-          {
-            "title": "كليلة ودمنة/باب ابن الملك وأصحابه",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=231368"
-          },
-          {
-            "title": "كليلة ودمنة/باب الحمامة والثعلب ومالك الحزين",
-            "url": "https://ar.wikisource.org/w/index.php?oldid=231369"
-          },
-          {
-            "title": "Text reuse license: CC BY-SA 4.0",
+            "title": "English study edition reuse license: CC BY-SA 4.0",
             "url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         ],
         "language": "Arabic",
         "resource": "ar-kalila-wa-dimna"
       },
-      "sha256": "e687ff7454ee832fbf2818ba70c10fece688dbda3435b1fc488f14c28a0d68f5",
-      "byteCount": 810876,
+      "sha256": "3e43f78e9ce09ee81b02ff6989d4616918008affd5d1cffbdd97f1149c5def95",
+      "byteCount": 952192,
       "englishCoverage": "complete"
     },
     {
@@ -547,7 +483,7 @@
         "summary": "Author’s philosophical preface and complete narrative • Arabic with complete English edition",
         "collectionLabel": "PHILOSOPHICAL NARRATIVE",
         "legacyPassageID": "",
-        "translationCredit": "Narrative and concluding address: Hindawi (2011), via Andreas Hallberg’s Arabic E-Book Corpus, CC BY 4.0, unchanged from the previous package. The missing authorial preface is restored from the public-domain Ibn Tufayl text in IslamArchive’s alternate-edition transcription, pages 15–25; modern editorial summaries, footnotes and duplicated page previews are omitted. This is a composite reading edition; orthography differs between its preface and narrative. Narrative chapter and block IDs are preserved. English: Simon Ockley (1708), The Improvement of Human Reason, public domain, via Project Gutenberg ebook 16831. Includes the author’s introduction and complete narrative, including its concluding address. Ockley’s dedication, publisher’s prefaces, annotations and Christian theological appendix are not part of Ibn Tufayl’s work and are omitted. Historical spelling retained; source section-number typo repaired. The Arabic and English editions differ in wording and paragraph divisions; reading position is approximate.",
+        "translationCredit": "Arabic narrative and concluding address: Hindawi (2011), via Andreas Hallberg’s Arabic E-Book Corpus, CC BY 4.0. Hindawi identifies the underlying original text as public domain. Authorial preface: Arabic text of the Oxford 1671 edition prepared by Edward Pococke; Source Library AI-assisted transcription, corrected against the original scans by Linguary, under CC BY-SA 4.0. Printed catchwords, running headers and scan annotations omitted; paragraph divisions adapted. This is a composite reading edition; historical orthography differs between preface and narrative. English: Simon Ockley (1708), The Improvement of Human Reason, via Project Gutenberg ebook 16831. Includes the author’s introduction and complete narrative with concluding address. Ockley’s dedication, publisher’s prefaces, annotations and Christian theological appendix are not part of Ibn Tufayl’s work and are omitted. Arabic and English are independent historical editions; wording and paragraph divisions differ, and reading-position correspondence is approximate.",
         "sources": [
           {
             "title": "Arabic: Hindawi, Hayy ibn Yaqzan",
@@ -562,59 +498,31 @@
             "url": "https://creativecommons.org/licenses/by/4.0/"
           },
           {
-            "title": "Ibn Tufayl: authorial preface, source page 15",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-15"
-          },
-          {
-            "title": "Ibn Tufayl: authorial preface, source page 16",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-16"
-          },
-          {
-            "title": "Ibn Tufayl: authorial preface, source page 17",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-17"
-          },
-          {
-            "title": "Ibn Tufayl: authorial preface, source page 18",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-18"
-          },
-          {
-            "title": "Ibn Tufayl: authorial preface, source page 19",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-19"
-          },
-          {
-            "title": "Ibn Tufayl: authorial preface, source page 20",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-20"
-          },
-          {
-            "title": "Ibn Tufayl: authorial preface, source page 21",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-21"
-          },
-          {
-            "title": "Ibn Tufayl: authorial preface, source page 22",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-22"
-          },
-          {
-            "title": "Ibn Tufayl: authorial preface, source page 23",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-23"
-          },
-          {
-            "title": "Ibn Tufayl: authorial preface, source page 24",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-24"
-          },
-          {
-            "title": "Ibn Tufayl: authorial preface, source page 25",
-            "url": "https://www.islamarchive.cc/ketab_content/55075/p-25"
-          },
-          {
             "title": "English: Simon Ockley (1708), Project Gutenberg 16831",
             "url": "https://www.gutenberg.org/ebooks/16831"
+          },
+          {
+            "title": "Arabic preface: Oxford 1671 edition, Edward Pococke, digitized scan",
+            "url": "https://archive.org/details/bub_gb_mwwqRDD7VeQC"
+          },
+          {
+            "title": "Source Library: 1671 Arabic transcription",
+            "url": "https://sourcelibrary.org/book/philosophus-autodidactus-tufayl"
+          },
+          {
+            "title": "Source Library transcription reuse terms",
+            "url": "https://sourcelibrary.org/terms"
+          },
+          {
+            "title": "Preface transcription and corrections: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         ],
         "language": "Arabic",
         "resource": "ar-hayy-ibn-yaqzan"
       },
-      "sha256": "963af5b3568585370d302cfa5b082b0fc03b6facb08e4dfe042b906a07804bac",
-      "byteCount": 447965,
+      "sha256": "d83a7fdfda9d80062b257b72e3679d6970d0d510081ebea3d9ae3a84e457b29d",
+      "byteCount": 443618,
       "englishCoverage": "complete"
     },
     {
@@ -863,24 +771,28 @@
         "collectionLabel": "FAIRY-TALE COLLECTION",
         "legacyPassageID": "de-frosch",
         "resource": "de-grimm",
-        "translationCredit": "German: Deutsche Märchen, edited by M. Thilo-Luyken (1921), with original spelling and Low German retained. English: Margaret Hunt, Grimm's Household Tales (1884), the complete corresponding tales arranged in the German selection's order. The 62-section selection is not the full Kinder- und Hausmärchen collection. The Elves includes all three stories and Mrs. Fox both stories. Historical editions differ in wording and paragraph divisions; page positions correspond approximately. Illustrations, notes and publishing matter are omitted.",
+        "translationCredit": "Complete tales in this selection from the Brothers Grimm’s 1857 seventh edition of Kinder- und Hausmärchen, including the complete Wichtelmänner cycle. Original historical spelling and Low German retained. English: Margaret Hunt, Grimm’s Household Tales (1884), matched by KHM tale number. The selection is not the entire 200-tale collection. Wikisource contributors’ transcriptions adapted under CC BY-SA 4.0; page numbers and website matter omitted.",
         "sources": [
           {
-            "title": "Deutsche Märchen (1921), German source edition",
-            "url": "https://www.gutenberg.org/ebooks/77905"
+            "title": "German: Grimm seventh edition, volume1 (1857), Wikisource",
+            "url": "https://de.wikisource.org/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1857)"
           },
           {
-            "title": "English: Grimm's Household Tales, Volume 1, Margaret Hunt (1884)",
-            "url": "https://en.wikisource.org/wiki/Grimm's_Household_Tales,_Volume_1"
+            "title": "German: Grimm seventh edition, volume2 (1857), Wikisource",
+            "url": "https://de.wikisource.org/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1857)"
           },
           {
-            "title": "English: Grimm's Household Tales, Volume 2, Margaret Hunt (1884)",
-            "url": "https://en.wikisource.org/wiki/Grimm's_Household_Tales,_Volume_2"
+            "title": "English: Margaret Hunt (1884), Wikisource",
+            "url": "https://en.wikisource.org/wiki/Grimm%27s_Household_Tales"
+          },
+          {
+            "title": "Transcription and adapted resource license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         ]
       },
-      "sha256": "0cd01c5f8ef0571af314b62e60d8024306545bc0bfc606b01858026306ff866f",
-      "byteCount": 1195670,
+      "sha256": "cb4227ca907a9c6794759b988b9f20ff405fbcf6f5ec249aa6a7071bdb0551f5",
+      "byteCount": 1215153,
       "englishCoverage": "complete"
     },
     {
@@ -951,6 +863,10 @@
           {
             "title": "English: Candide, Boni and Liveright (1918)",
             "url": "https://www.gutenberg.org/ebooks/19942"
+          },
+          {
+            "title": "University of Pennsylvania library: anonymous Modern Library translation, Boni and Liveright (1918)",
+            "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp50011"
           }
         ]
       },
@@ -966,7 +882,7 @@
         "author": "Alexandre Dumas, with Auguste Maquet",
         "summary": "Complete novel • All four volumes, 117 chapters • French and English",
         "legacyPassageID": "fr-monte-cristo-arrival",
-        "translationCredit": "Prepared English from the public-domain edition in Project Gutenberg 1184; translator unnamed in that edition. All 117 chapters, paired with the corresponding French chapters. Paragraph and page divisions differ; illustrations and editorial footnotes are omitted.",
+        "translationCredit": "French: Alexandre Dumas’s complete original novel. English: the historical anonymous Chapman and Hall translation (1846), in the Standard Ebooks edition checked against Thomas Y. Crowell’s 1894 printing. All 117 chapters retained. This historical English edition sometimes differs from the French wording. Standard Ebooks contributors dedicate their editorial contributions under CC0 1.0; no cover art, logos or modern introductory essays are included.",
         "resource": "fr-monte-cristo",
         "sources": [
           {
@@ -986,13 +902,25 @@
             "url": "https://www.gutenberg.org/ebooks/17992"
           },
           {
-            "title": "English: The Count of Monte Cristo, complete novel",
-            "url": "https://www.gutenberg.org/ebooks/1184"
+            "title": "English: Standard Ebooks, source and edition history",
+            "url": "https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall"
+          },
+          {
+            "title": "Historical printed English edition, volume1 (Crowell1894)",
+            "url": "https://books.google.com/books?id=dWlKAAAAYAAJ"
+          },
+          {
+            "title": "Historical printed English edition, volume2 (Crowell1894)",
+            "url": "https://books.google.com/books?id=yGlKAAAAYAAJ"
+          },
+          {
+            "title": "Standard Ebooks contributions: CC0 1.0",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
           }
         ]
       },
-      "sha256": "a7bc3c95804f267370ab812f81fe86bcf2b2ea399099ac14b0d0fcb07cc51176",
-      "byteCount": 8772901,
+      "sha256": "811341019ab93578957ec84ffd878d3ccb076aa98787685c2a757dc54282e1d1",
+      "byteCount": 8774545,
       "englishCoverage": "complete"
     },
     {
@@ -1003,7 +931,7 @@
         "author": "Charles Perrault",
         "summary": "Complete tale and moral • French and English",
         "legacyPassageID": "fr-chaperon",
-        "translationCredit": "French tale: Casterman (1902), Wikisource transcription; original moral restored from the 1697 text reprinted in Andrew Lang’s edition (1888). English: The Fairy Tales of Charles Perrault (1922), credited to J. E. Mansion in Gutenberg metadata. Includes the complete tale and moral; French and English paragraphs are independent. Wikisource transcription adapted by whitespace normalization, with navigation omitted; that adapted text is CC BY-SA 4.0.",
+        "translationCredit": "Original English study translation prepared for Linguary with AI assistance (2026), directly from the public-domain French story and its complete moral. This replaces the Samber/Mansion revision; it is not a historical published English edition. French source transcription credited under CC BY-SA 4.0; the adapted bilingual resource is distributed under the same license.",
         "resource": "fr-chaperon",
         "sources": [
           {
@@ -1015,17 +943,13 @@
             "url": "https://www.gutenberg.org/ebooks/33931"
           },
           {
-            "title": "English: The Fairy Tales of Charles Perrault (1922)",
-            "url": "https://www.gutenberg.org/ebooks/29021"
-          },
-          {
             "title": "Wikisource text reuse: CC BY-SA 4.0",
             "url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         ]
       },
-      "sha256": "4905f1d70f9bcc28d20a98daa6162baf4eb612d68d2e8198750a1c1219c78a52",
-      "byteCount": 13592,
+      "sha256": "a9fe88fff287f3707cdf0c7a234838dbfde51dec10c2b6f18ede8a529a0dc456",
+      "byteCount": 10168,
       "englishCoverage": "complete"
     },
     {
@@ -1086,27 +1010,35 @@
         "language": "Russian",
         "title": "Преступление и наказание • Crime and Punishment",
         "author": "Фёдор Достоевский • Fyodor Dostoevsky",
-        "summary": "All six parts and both epilogue chapters • Russian and English",
+        "summary": "All six parts and both epilogue chapters • Russian with an AI-assisted English study edition",
         "legacyPassageID": "ru-dostoevsky-crime-punishment",
         "resource": "ru-dostoevsky-crime-punishment",
-        "translationCredit": "Constance Garnett. Original literary works and historical translations are public domain. Russian Wikisource transcriptions adapted into reading blocks with formatting normalized and editorial footnotes/navigation omitted, under CC BY-SA 4.0; these adapted Russian texts retain that license. English introductory essays and editorial notes are omitted. Chapters correspond, but paragraph and page divisions differ.",
+        "translationCredit": "Russian: Fyodor Dostoevsky (d. 1881), complete novel; Wikisource contributors' transcription adapted into reading blocks under CC BY-SA 4.0. English: Source Library AI-generated study translation of the 1904 Russian Complete Works, volume 6, adapted and corrected by Linguary under CC BY-SA 4.0. Missing scan pages 63 and 477 were translated for this edition; duplicated text, summaries, running headers and editorial commentary were removed, and detected omissions and translation errors corrected. This is an AI-assisted study aid, not an authoritative or professionally proofread literary translation. All six parts and both epilogue chapters are included. Russian and English use independent text editions; paragraph and page correspondence is approximate. No source scan images or publisher artwork are included. The adapted Russian and English texts retain CC BY-SA 4.0; this license does not apply to the app's unrelated code or assets.",
         "sources": [
           {
             "title": "Russian: Wikisource contributors, complete edition contents",
             "url": "https://ru.wikisource.org/w/index.php?oldid=5680441"
           },
           {
-            "title": "English: Constance Garnett",
-            "url": "https://www.gutenberg.org/ebooks/2554"
+            "title": "English AI study translation: Source Library, Complete Works volume 6",
+            "url": "https://sourcelibrary.org/book/complete-works-vol-6-crime-and-punishment"
           },
           {
-            "title": "Adapted transcription license: CC BY-SA 4.0",
+            "title": "Underlying 1904 Russian edition scan",
+            "url": "https://archive.org/details/polnoesobraniesochinenijfmdostoevskogo16"
+          },
+          {
+            "title": "Source Library terms: commercial reuse of AI translations under CC BY-SA 4.0",
+            "url": "https://sourcelibrary.org/terms"
+          },
+          {
+            "title": "Adapted Russian and English text license: CC BY-SA 4.0",
             "url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         ]
       },
-      "sha256": "2ecacc92c8b47b97b9dd6421da2ee73f633846f1f073fc8acfd6eaaad01efe77",
-      "byteCount": 3834095,
+      "sha256": "786f5d7fdf1f0dacdfdf7ce43f850da436b4e2936bbbe33a8bb055fbb10985cc",
+      "byteCount": 3899548,
       "englishCoverage": "complete"
     },
     {
@@ -1118,7 +1050,7 @@
         "summary": "All eight parts • 239 chapters • Russian and English",
         "legacyPassageID": "ru-tolstoy-anna-karenina",
         "resource": "ru-tolstoy-anna-karenina",
-        "translationCredit": "Constance Garnett. The original epigraph is restored from the 90-volume collected edition, volume 18; it is not present in this English edition. Original literary works and historical translations are public domain. Russian Wikisource transcriptions adapted into reading blocks with formatting normalized and editorial footnotes/navigation omitted, under CC BY-SA 4.0; these adapted Russian texts retain that license. English introductory essays and editorial notes are omitted. Chapters correspond, but paragraph and page divisions differ.",
+        "translationCredit": "English: Nathan Haskell Dole (1886), from the scan-backed 1899 Thomas Y. Crowell reprint. Wikisource contributors’ English transcription and this adapted English resource: CC BY-SA 3.0. Russian Wikisource contributors’ transcription: CC BY-SA 4.0, including the restored epigraph from collected works volume 18. Introductory essays, editorial footnotes, page furniture and website matter omitted. All eight parts and 239 original chapters; one combined source file split at the original chapter boundary. Paragraph and page divisions differ between editions.",
         "sources": [
           {
             "title": "Russian: Wikisource contributors, complete edition contents",
@@ -1129,17 +1061,29 @@
             "url": "https://ru.wikisource.org/w/index.php?oldid=3697860"
           },
           {
-            "title": "English: Constance Garnett",
-            "url": "https://www.gutenberg.org/ebooks/1399"
-          },
-          {
             "title": "Adapted transcription license: CC BY-SA 4.0",
             "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "English source scan: Thomas Y. Crowell reprint (1899)",
+            "url": "https://en.wikisource.org/wiki/Index:Anna_Karenina.djvu"
+          },
+          {
+            "title": "Dole first translation edition (1886): BnF record",
+            "url": "https://catalogue.bnf.fr/ark:/12148/cb31478238t"
+          },
+          {
+            "title": "English transcription and adaptation license: CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+          },
+          {
+            "title": "English: Nathan Haskell Dole, complete Wikisource transcription",
+            "url": "https://en.wikisource.org/wiki/Anna_Karenina_(Dole)"
           }
         ]
       },
-      "sha256": "be5368573d0a2240e58fdf87920677f1487995fc134a38128abc45640e8cca97",
-      "byteCount": 6565142,
+      "sha256": "8c1f358d65246764615e067047d70e38872689680d7cf972aea389dcad0269f7",
+      "byteCount": 6681998,
       "englishCoverage": "complete"
     },
     {
@@ -1177,27 +1121,27 @@
         "language": "Greek",
         "title": "Ἀπολογία Σωκράτους • Apology",
         "author": "Πλάτων • Plato",
-        "summary": "Complete dialogue • Sections 17–42 • Ancient Greek and English",
+        "summary": "Complete dialogue • original Greek and English",
         "legacyPassageID": "el-plato-apology",
         "resource": "el-plato-apology",
-        "translationCredit": "Greek: John Burnet (1905). English: Harold North Fowler (1914). Section boundaries follow the source edition. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with commentary omitted, under CC BY-SA 4.0. These adapted text resources retain that license. The original Greek literary works are public domain. English pages are independently typeset.",
+        "translationCredit": "Greek: John Burnet (1905), Perseus Digital Library / Tufts University transcription, adapted under CC BY-SA 4.0. Editorial commentary omitted. English: Benjamin Jowett (1817–1893). Complete historical English translation; separate English text. The dialogue is presented as one section because this edition does not retain Stephanus divisions. English and original pages are independently typeset.",
         "sources": [
           {
             "title": "Greek: complete Perseus TEI edition",
             "url": "https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0059/tlg002/tlg0059.tlg002.perseus-grc2.xml"
           },
           {
-            "title": "English: complete Perseus TEI edition",
-            "url": "https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0059/tlg002/tlg0059.tlg002.perseus-eng2.xml"
-          },
-          {
             "title": "Adapted transcription license: CC BY-SA 4.0",
             "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "English: Apology — Benjamin Jowett (1817–1893)",
+            "url": "https://www.gutenberg.org/ebooks/1656"
           }
         ]
       },
-      "sha256": "c8c4f6c35a760e8a2ceed1b94df21d91f59da582df0b06c1bfa71d0729b2322d",
-      "byteCount": 184155,
+      "sha256": "908379a2c492be014518a38bb1a6cae9825b4228765813818abdf68929c9e68c",
+      "byteCount": 180074,
       "englishCoverage": "complete"
     },
     {
@@ -1292,48 +1236,24 @@
         "summary": "Complete surviving work • All eight books and Hirtius’s preface • Latin and English",
         "legacyPassageID": "la-caesar-gaul",
         "resource": "la-caesar-gaul",
-        "translationCredit": "Latin: The Latin Library transcription, all eight books and Hirtius’s preface to Balbus. English: W. A. MacDevitt (also catalogued as W. A. McDevitte), Everyman’s Library edition (1915), via Project Gutenberg 10657. Public-domain original and historical translation. Latin sentence numbers and website navigation are omitted. English II.27’s mislabeled heading is corrected, and merged paragraphs at VI.10, VII.89 and VIII.46 are separated with restored chapter labels; literary wording is unchanged. The surviving Latin ends at VIII.55 with an incomplete word sequence, “Contendit . . .”, retained from the source; no lost continuation is invented. Editorial introduction, index and the separate Civil War are omitted. Book boundaries correspond; page divisions differ.",
+        "translationCredit": "Latin: T. Rice Holmes, Oxford Clarendon edition (1914), including Hirtius’s preface and Book VIII. Perseus Digital Library transcription, adapted to reading blocks under CC BY-SA 4.0; critical apparatus omitted. English: W. A. MacDevitt (also catalogued as W. A. McDevitte), Everyman’s Library edition (1915), via Project Gutenberg 10657. English II.27’s mislabeled heading is corrected; merged paragraphs at VI.10, VII.89 and VIII.46 are separated with restored chapter labels. Editorial introduction, index and the separate Civil War are omitted. Independent historical editions; paragraph and page divisions differ.",
         "sources": [
-          {
-            "title": "Latin: The Latin Library, Gallic War Book 1",
-            "url": "https://www.thelatinlibrary.com/caesar/gall1.shtml"
-          },
-          {
-            "title": "Latin: The Latin Library, Gallic War Book 2",
-            "url": "https://www.thelatinlibrary.com/caesar/gall2.shtml"
-          },
-          {
-            "title": "Latin: The Latin Library, Gallic War Book 3",
-            "url": "https://www.thelatinlibrary.com/caesar/gall3.shtml"
-          },
-          {
-            "title": "Latin: The Latin Library, Gallic War Book 4",
-            "url": "https://www.thelatinlibrary.com/caesar/gall4.shtml"
-          },
-          {
-            "title": "Latin: The Latin Library, Gallic War Book 5",
-            "url": "https://www.thelatinlibrary.com/caesar/gall5.shtml"
-          },
-          {
-            "title": "Latin: The Latin Library, Gallic War Book 6",
-            "url": "https://www.thelatinlibrary.com/caesar/gall6.shtml"
-          },
-          {
-            "title": "Latin: The Latin Library, Gallic War Book 7",
-            "url": "https://www.thelatinlibrary.com/caesar/gall7.shtml"
-          },
-          {
-            "title": "Latin: The Latin Library, Gallic War Book 8",
-            "url": "https://www.thelatinlibrary.com/caesar/gall8.shtml"
-          },
           {
             "title": "English: The War in Gaul, W. A. MacDevitt",
             "url": "https://www.gutenberg.org/ebooks/10657"
+          },
+          {
+            "title": "Latin transcription and adaptation license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "Latin: Caesar, De bello Gallico — Holmes 1914, Perseus",
+            "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0448/phi001/phi0448.phi001.perseus-lat2.xml"
           }
         ]
       },
-      "sha256": "26593c9e2ea84a740535cf5b0f601b3ccb6dbd920c6f6cff8baca753a10711ed",
-      "byteCount": 999598,
+      "sha256": "e5532553c7fba6163d8fe2c9f03bb8a4a861bdd28168cfe104114892bcef9d34",
+      "byteCount": 1002422,
       "englishCoverage": "complete"
     }
   ]

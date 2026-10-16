@@ -10,6 +10,10 @@ RIGHTS AND ATTRIBUTION
 Each work retains the rights and licenses stated below. There is no blanket
 license replacing individual source licenses. Adapted resources identified as
 CC BY-SA 4.0 are distributed under https://creativecommons.org/licenses/by-sa/4.0/.
+English resources identified as CC BY-SA 3.0 retain that license:
+https://creativecommons.org/licenses/by-sa/3.0/. These content licenses
+are separate from the application software license; no additional
+restrictions are imposed on the licensed text resources by this repository.
 Their source links identify the transcriptions and contributors; edition notes
 describe adaptation. The catalog accompanies the packages as their attribution.
 
@@ -23,16 +27,16 @@ English: Henry Wadsworth Longfellow, complete Comedy (1867): https://www.gutenbe
 
 it-pinocchio: Le avventure di Pinocchio
 Carlo Collodi
-Carol Della Chiesa (1926). Prepared English text for all 36 chapters; paragraph divisions differ from the Italian edition.
-Italian: Le avventure di Pinocchio, Bemporad edition (1902): https://www.gutenberg.org/ebooks/52484
-English: The Adventures of Pinocchio, Carol Della Chiesa: https://www.gutenberg.org/ebooks/500
+Original AI-assisted English study translation (2026), prepared directly from Carlo Collodi’s Italian text for Linguary. All 36 chapters, preserving every Italian text block. No third-party English translation used as a source. The Italian circus poster in chapter 33 is restored from the source transcription; no illustrations are included.
+Italian: Carlo Collodi, Bemporad edition (1902), Project Gutenberg 52484: https://www.gutenberg.org/ebooks/52484
 
 de-werther: Die Leiden des jungen Werther
 Johann Wolfgang von Goethe
-R. Dillon Boylan. Separate English text for both books; letter divisions differ between editions.
-German: Werther, Book I (1787 text): https://www.gutenberg.org/ebooks/2407
-German: Werther, Book II (1787 text): https://www.gutenberg.org/ebooks/2408
-English: The Sorrows of Young Werther, R. Dillon Boylan: https://www.gutenberg.org/ebooks/2527
+German: complete 1774 first edition, both parts, transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities, under CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined; page furniture omitted. English: R. Dillon Boylan’s historical translation of Goethe’s later revised edition. The German and English editions differ, so their page correspondence is approximate.
+German: DTA 1774 first edition, part1: https://www.deutschestextarchiv.de/book/show/goethe_werther01_1774
+German: DTA 1774 first edition, part2: https://www.deutschestextarchiv.de/book/show/goethe_werther02_1774
+English: R. Dillon Boylan, Project Gutenberg2527: https://www.gutenberg.org/ebooks/2527
+DTA transcription and adapted resource license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 de-faust: Faust I & II
 Johann Wolfgang von Goethe
@@ -63,27 +67,27 @@ Russian: Лев и собачка / The Lion and the Little Dog: https://ru.wiki
 
 el-timaeus: Τίμαιος
 Πλάτων • Plato
-R. G. Bury, Plato in Twelve Volumes, volume 9 (1929). Greek: John Burnet (1905). Source section boundaries follow whole speeches near Stephanus page numbers; they do not always begin at the exact page break. Brackets retain words marked for deletion by the Greek editor. Separate English edition; pages are not aligned. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with notes and markup omitted, under CC BY-SA 4.0. These adapted text resources are distributed under the same license. Original literary editions are public domain.
+Greek: John Burnet (1905), Perseus Digital Library / Tufts University transcription, adapted under CC BY-SA 4.0. Editorial notes omitted; deletion brackets retained. English: Benjamin Jowett (1817–1893). Complete historical English translation; separate English text. The dialogue is presented as one section because this edition does not retain Stephanus divisions. English and original pages are independently typeset.
 Greek: John Burnet, Platonis Opera IV (1905): https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0059/tlg031/tlg0059.tlg031.perseus-grc2.xml
-English: R. G. Bury, Timaeus (1929): https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0059/tlg031/tlg0059.tlg031.perseus-eng2.xml
 Text reuse license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+English: Timaeus — Benjamin Jowett (1817–1893): https://www.gutenberg.org/ebooks/1572
 
 el-odyssey: Ὀδύσσεια
 Ὅμηρος • Homer
-A. T. Murray, The Odyssey (1919). Greek text from the same historical edition. Three omitted verses (10.456, 16.101, 23.48) are supplied from Greek Wikisource; the source’s misnumbered 23.48 is corrected to 23.49. Wikisource contributors are credited in the supplementary sources below. Separate English edition; pages are not aligned. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with notes and markup omitted, under CC BY-SA 4.0. These adapted text resources are distributed under the same license. Original literary editions are public domain.
+Greek: A. T. Murray edition (1919), Perseus Digital Library / Tufts University transcription, adapted under CC BY-SA 4.0. Verses 10.456, 16.101 and 23.48 supplied from the credited Greek Wikisource contributors; the source’s misnumbered 23.48 corrected to 23.49. English: Samuel Butler (1835–1902). Complete historical English translation; separate English text. Organized by the 24 books. English and original pages are independently typeset.
 Greek: Odyssey, A. T. Murray edition (1919): https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0012/tlg002/tlg0012.tlg002.perseus-grc2.xml
-English: A. T. Murray, Odyssey (1919): https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0012/tlg002/tlg0012.tlg002.perseus-eng3.xml
 Text reuse license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 Greek Wikisource contributors: Book 10 corrections: https://el.wikisource.org/w/index.php?oldid=157206
 Greek Wikisource contributors: Book 16 corrections: https://el.wikisource.org/w/index.php?oldid=157200
 Greek Wikisource contributors: Book 23 corrections: https://el.wikisource.org/w/index.php?oldid=157193
+English: Odyssey — Samuel Butler (1835–1902): https://www.gutenberg.org/ebooks/1727
 
 el-iliad: Ἰλιάς
 Ὅμηρος • Homer
-A. T. Murray, The Iliad (1924–1925). Greek: D. B. Monro and T. W. Allen, Homeri Opera, third edition (1908–1920). All 24 books of this Greek edition are included, preserving its numbering gaps at 9.458–461, 11.543 and 14.269. Bracketed verses retain the Greek editor’s deletion marks. English follows Murray’s separate edition; speech quotation marks are rendered from its markup. Separate English edition; pages are not aligned. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with notes and markup omitted, under CC BY-SA 4.0. These adapted text resources are distributed under the same license. Original literary editions are public domain.
+Greek: D. B. Monro and T. W. Allen, Homeri Opera (1908–1920), Perseus Digital Library / Tufts University transcription, adapted under CC BY-SA 4.0. Numbering gaps and deletion brackets retain this Greek edition’s readings. English: Samuel Butler (1835–1902). Complete historical English translation; separate English text. Organized by the 24 books. English and original pages are independently typeset.
 Greek: Monro and Allen, Homeri Opera I–II (1908–1920): https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0012/tlg001/tlg0012.tlg001.perseus-grc2.xml
-English: A. T. Murray, The Iliad (1924–1925): https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0012/tlg001/tlg0012.tlg001.perseus-eng3.xml
 Text reuse license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+English: Iliad — Samuel Butler (1835–1902): https://www.gutenberg.org/ebooks/2199
 
 la-aeneid: Aeneis • The Aeneid
 Publius Vergilius Maro • Vergil
@@ -101,27 +105,11 @@ Read Genesis on Sefaria: https://www.sefaria.org/Genesis.1?lang=bi
 
 ar-kalila-wa-dimna: كليلة ودمنة • Kalila wa-Dimna
 ابن المقفع • Ibn al-Muqaffa
-Adapted into reading blocks with whitespace normalized; website navigation, illustrations and captions are omitted. Arabic Wikisource contributors, nineteen-section transcription; the site does not identify its underlying print edition. Source spelling and repeated passages are retained. The original work is public domain. These adapted text resources are distributed under CC BY-SA 4.0, with pinned source pages and contributor histories linked below. English: original AI-assisted study translation prepared for Linguary (2026), directly from every block of this Arabic recension, including its prefatory sections, embedded fables and verse. This adapted English text is also distributed under CC BY-SA 4.0. Source repetitions and surviving incomplete passages are retained rather than silently reconstructed. The English is a prose study rendering, not a metrical or independently certified literary translation.
-كليلة ودمنة/باب مقدمة الكتاب: https://ar.wikisource.org/w/index.php?oldid=488570
-كليلة ودمنة/باب بعثة برزويه إلى بلاد الهند: https://ar.wikisource.org/w/index.php?oldid=245550
-كليلة ودمنة/باب عرض الكتاب ترجمة عبد الله بن المقفع: https://ar.wikisource.org/w/index.php?oldid=245551
-كليلة ودمنة/باب بروزيه ترجمة بزرجمهر بن البختكان: https://ar.wikisource.org/w/index.php?oldid=141243
-كليلة ودمنة/باب الأسد والثور وهو أول الكتاب: https://ar.wikisource.org/w/index.php?oldid=272368
-كليلة ودمنة/باب الفحص عن أمر دمنة: https://ar.wikisource.org/w/index.php?oldid=290965
-كليلة ودمنة/باب الحمامة المطوقة: https://ar.wikisource.org/w/index.php?oldid=245541
-كليلة ودمنة/باب البوم والغربان: https://ar.wikisource.org/w/index.php?oldid=285510
-كليلة ودمنة/باب القرد والغيلم: https://ar.wikisource.org/w/index.php?oldid=231360
-كليلة ودمنة/الناسك وابن عرس: https://ar.wikisource.org/w/index.php?oldid=251292
-كليلة ودمنة/باب الجرذ والسنور: https://ar.wikisource.org/w/index.php?oldid=231362
-كليلة ودمنة/باب ابن الملك والطائر فنزة: https://ar.wikisource.org/w/index.php?oldid=231363
-كليلة ودمنة/باب الأسد والشغبر الناسك وهو ابن آوى: https://ar.wikisource.org/w/index.php?oldid=302554
-كليلة ودمنة/باب إيلاذ وبلاذ وايراخت: https://ar.wikisource.org/w/index.php?oldid=231372
-كليلة ودمنة/باب اللبوة والإسوار والشغبر: https://ar.wikisource.org/w/index.php?oldid=374244
-كليلة ودمنة/باب الناسك والضيف: https://ar.wikisource.org/w/index.php?oldid=231371
-كليلة ودمنة/باب السائح والصائغ: https://ar.wikisource.org/w/index.php?oldid=381514
-كليلة ودمنة/باب ابن الملك وأصحابه: https://ar.wikisource.org/w/index.php?oldid=231368
-كليلة ودمنة/باب الحمامة والثعلب ومالك الحزين: https://ar.wikisource.org/w/index.php?oldid=231369
-Text reuse license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Arabic: complete classical text of Hindawi edition 61851406 (2011/2012). Its copyright page expressly identifies all rights other than cover artwork and design as public domain. Only literary text is included; the modern biography, explanatory footnotes, editorial subheadings, illustrations and design are omitted. All 19 sections are retained. English: original AI-assisted study translation prepared for Linguary (2026), CC BY-SA 4.0, of the earlier 19-section Arabic Wikisource recension. Arabic and English are separate editions: introductions and some passages differ materially in length and wording. English is not a line-by-line translation of this Hindawi text; reading-position correspondence is approximate.
+Arabic: Hindawi edition 61851406, complete EPUB and copyright statement: https://downloads.hindawi.org/books/61851406.epub
+Hindawi 61851406 print edition and copyright statement: https://downloads.hindawi.org/books/61851406.pdf
+Earlier Arabic recension underlying Linguary’s English study edition: Wikisource: https://ar.wikisource.org/wiki/كليلة_ودمنة
+English study edition reuse license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 ar-arabian-nights-1: ألف ليلة وليلة • Arabian Nights
 Anonymous • Traditional tales
@@ -147,22 +135,15 @@ English: Burton, volume 10 (historical translation): https://www.gutenberg.org/e
 
 ar-hayy-ibn-yaqzan: حي بن يقظان • Hayy ibn Yaqzan
 ابن طفيل • Ibn Tufayl
-Narrative and concluding address: Hindawi (2011), via Andreas Hallberg’s Arabic E-Book Corpus, CC BY 4.0, unchanged from the previous package. The missing authorial preface is restored from the public-domain Ibn Tufayl text in IslamArchive’s alternate-edition transcription, pages 15–25; modern editorial summaries, footnotes and duplicated page previews are omitted. This is a composite reading edition; orthography differs between its preface and narrative. Narrative chapter and block IDs are preserved. English: Simon Ockley (1708), The Improvement of Human Reason, public domain, via Project Gutenberg ebook 16831. Includes the author’s introduction and complete narrative, including its concluding address. Ockley’s dedication, publisher’s prefaces, annotations and Christian theological appendix are not part of Ibn Tufayl’s work and are omitted. Historical spelling retained; source section-number typo repaired. The Arabic and English editions differ in wording and paragraph divisions; reading position is approximate.
+Arabic narrative and concluding address: Hindawi (2011), via Andreas Hallberg’s Arabic E-Book Corpus, CC BY 4.0. Hindawi identifies the underlying original text as public domain. Authorial preface: Arabic text of the Oxford 1671 edition prepared by Edward Pococke; Source Library AI-assisted transcription, corrected against the original scans by Linguary, under CC BY-SA 4.0. Printed catchwords, running headers and scan annotations omitted; paragraph divisions adapted. This is a composite reading edition; historical orthography differs between preface and narrative. English: Simon Ockley (1708), The Improvement of Human Reason, via Project Gutenberg ebook 16831. Includes the author’s introduction and complete narrative with concluding address. Ockley’s dedication, publisher’s prefaces, annotations and Christian theological appendix are not part of Ibn Tufayl’s work and are omitted. Arabic and English are independent historical editions; wording and paragraph divisions differ, and reading-position correspondence is approximate.
 Arabic: Hindawi, Hayy ibn Yaqzan: https://www.safahat.org/books/90463596/
 Andreas Hallberg: The Arabic E-Book Corpus, Version 1: https://researchdata.se/en/catalogue/dataset/2024-145
 Corpus reuse license: CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
-Ibn Tufayl: authorial preface, source page 15: https://www.islamarchive.cc/ketab_content/55075/p-15
-Ibn Tufayl: authorial preface, source page 16: https://www.islamarchive.cc/ketab_content/55075/p-16
-Ibn Tufayl: authorial preface, source page 17: https://www.islamarchive.cc/ketab_content/55075/p-17
-Ibn Tufayl: authorial preface, source page 18: https://www.islamarchive.cc/ketab_content/55075/p-18
-Ibn Tufayl: authorial preface, source page 19: https://www.islamarchive.cc/ketab_content/55075/p-19
-Ibn Tufayl: authorial preface, source page 20: https://www.islamarchive.cc/ketab_content/55075/p-20
-Ibn Tufayl: authorial preface, source page 21: https://www.islamarchive.cc/ketab_content/55075/p-21
-Ibn Tufayl: authorial preface, source page 22: https://www.islamarchive.cc/ketab_content/55075/p-22
-Ibn Tufayl: authorial preface, source page 23: https://www.islamarchive.cc/ketab_content/55075/p-23
-Ibn Tufayl: authorial preface, source page 24: https://www.islamarchive.cc/ketab_content/55075/p-24
-Ibn Tufayl: authorial preface, source page 25: https://www.islamarchive.cc/ketab_content/55075/p-25
 English: Simon Ockley (1708), Project Gutenberg 16831: https://www.gutenberg.org/ebooks/16831
+Arabic preface: Oxford 1671 edition, Edward Pococke, digitized scan: https://archive.org/details/bub_gb_mwwqRDD7VeQC
+Source Library: 1671 Arabic transcription: https://sourcelibrary.org/book/philosophus-autodidactus-tufayl
+Source Library transcription reuse terms: https://sourcelibrary.org/terms
+Preface transcription and corrections: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 zh-daodejing: 道德經 • Tao Te Ching
 老子 • Laozi
@@ -224,10 +205,11 @@ Historical English edition and source transcription: https://www.gutenberg.org/c
 
 de-grimm: Grimms Märchen
 Jacob und Wilhelm Grimm
-German: Deutsche Märchen, edited by M. Thilo-Luyken (1921), with original spelling and Low German retained. English: Margaret Hunt, Grimm's Household Tales (1884), the complete corresponding tales arranged in the German selection's order. The 62-section selection is not the full Kinder- und Hausmärchen collection. The Elves includes all three stories and Mrs. Fox both stories. Historical editions differ in wording and paragraph divisions; page positions correspond approximately. Illustrations, notes and publishing matter are omitted.
-Deutsche Märchen (1921), German source edition: https://www.gutenberg.org/ebooks/77905
-English: Grimm's Household Tales, Volume 1, Margaret Hunt (1884): https://en.wikisource.org/wiki/Grimm's_Household_Tales,_Volume_1
-English: Grimm's Household Tales, Volume 2, Margaret Hunt (1884): https://en.wikisource.org/wiki/Grimm's_Household_Tales,_Volume_2
+Complete tales in this selection from the Brothers Grimm’s 1857 seventh edition of Kinder- und Hausmärchen, including the complete Wichtelmänner cycle. Original historical spelling and Low German retained. English: Margaret Hunt, Grimm’s Household Tales (1884), matched by KHM tale number. The selection is not the entire 200-tale collection. Wikisource contributors’ transcriptions adapted under CC BY-SA 4.0; page numbers and website matter omitted.
+German: Grimm seventh edition, volume1 (1857), Wikisource: https://de.wikisource.org/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1857)
+German: Grimm seventh edition, volume2 (1857), Wikisource: https://de.wikisource.org/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1857)
+English: Margaret Hunt (1884), Wikisource: https://en.wikisource.org/wiki/Grimm%27s_Household_Tales
+Transcription and adapted resource license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 es-quijote: Don Quijote de la Mancha
 Miguel de Cervantes
@@ -246,22 +228,25 @@ Voltaire
 English text from the Boni and Liveright edition (1918), translator unnamed in the source. All 30 chapters; editorial introduction and explanatory footnotes omitted.
 French: Candide, complete novel: https://www.gutenberg.org/ebooks/4650
 English: Candide, Boni and Liveright (1918): https://www.gutenberg.org/ebooks/19942
+University of Pennsylvania library: anonymous Modern Library translation, Boni and Liveright (1918): https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp50011
 
 fr-monte-cristo: Le Comte de Monte-Cristo
 Alexandre Dumas, with Auguste Maquet
-Prepared English from the public-domain edition in Project Gutenberg 1184; translator unnamed in that edition. All 117 chapters, paired with the corresponding French chapters. Paragraph and page divisions differ; illustrations and editorial footnotes are omitted.
+French: Alexandre Dumas’s complete original novel. English: the historical anonymous Chapman and Hall translation (1846), in the Standard Ebooks edition checked against Thomas Y. Crowell’s 1894 printing. All 117 chapters retained. This historical English edition sometimes differs from the French wording. Standard Ebooks contributors dedicate their editorial contributions under CC0 1.0; no cover art, logos or modern introductory essays are included.
 French: Le Comte de Monte-Cristo, Tome 1: https://www.gutenberg.org/ebooks/17989
 French: Le Comte de Monte-Cristo, Tome 2: https://www.gutenberg.org/ebooks/17990
 French: Le Comte de Monte-Cristo, Tome 3: https://www.gutenberg.org/ebooks/17991
 French: Le Comte de Monte-Cristo, Tome 4: https://www.gutenberg.org/ebooks/17992
-English: The Count of Monte Cristo, complete novel: https://www.gutenberg.org/ebooks/1184
+English: Standard Ebooks, source and edition history: https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall
+Historical printed English edition, volume1 (Crowell1894): https://books.google.com/books?id=dWlKAAAAYAAJ
+Historical printed English edition, volume2 (Crowell1894): https://books.google.com/books?id=yGlKAAAAYAAJ
+Standard Ebooks contributions: CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
 
 fr-chaperon: Le petit Chaperon rouge
 Charles Perrault
-French tale: Casterman (1902), Wikisource transcription; original moral restored from the 1697 text reprinted in Andrew Lang’s edition (1888). English: The Fairy Tales of Charles Perrault (1922), credited to J. E. Mansion in Gutenberg metadata. Includes the complete tale and moral; French and English paragraphs are independent. Wikisource transcription adapted by whitespace normalization, with navigation omitted; that adapted text is CC BY-SA 4.0.
+Original English study translation prepared for Linguary with AI assistance (2026), directly from the public-domain French story and its complete moral. This replaces the Samber/Mansion revision; it is not a historical published English edition. French source transcription credited under CC BY-SA 4.0; the adapted bilingual resource is distributed under the same license.
 French tale: Wikisource contributors, pinned 1902 transcription: https://fr.wikisource.org/w/index.php?oldid=13218359
 French moral: Perrault’s 1697 text, Andrew Lang edition (1888): https://www.gutenberg.org/ebooks/33931
-English: The Fairy Tales of Charles Perrault (1922): https://www.gutenberg.org/ebooks/29021
 Wikisource text reuse: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 ar-imru-al-qays-muallaqa: قفا نبك • Muʿallaqa
@@ -278,18 +263,23 @@ Text reuse: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 ru-dostoevsky-crime-punishment: Преступление и наказание • Crime and Punishment
 Фёдор Достоевский • Fyodor Dostoevsky
-Constance Garnett. Original literary works and historical translations are public domain. Russian Wikisource transcriptions adapted into reading blocks with formatting normalized and editorial footnotes/navigation omitted, under CC BY-SA 4.0; these adapted Russian texts retain that license. English introductory essays and editorial notes are omitted. Chapters correspond, but paragraph and page divisions differ.
+Russian: Fyodor Dostoevsky (d. 1881), complete novel; Wikisource contributors' transcription adapted into reading blocks under CC BY-SA 4.0. English: Source Library AI-generated study translation of the 1904 Russian Complete Works, volume 6, adapted and corrected by Linguary under CC BY-SA 4.0. Missing scan pages 63 and 477 were translated for this edition; duplicated text, summaries, running headers and editorial commentary were removed, and detected omissions and translation errors corrected. This is an AI-assisted study aid, not an authoritative or professionally proofread literary translation. All six parts and both epilogue chapters are included. Russian and English use independent text editions; paragraph and page correspondence is approximate. No source scan images or publisher artwork are included. The adapted Russian and English texts retain CC BY-SA 4.0; this license does not apply to the app's unrelated code or assets.
 Russian: Wikisource contributors, complete edition contents: https://ru.wikisource.org/w/index.php?oldid=5680441
-English: Constance Garnett: https://www.gutenberg.org/ebooks/2554
-Adapted transcription license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+English AI study translation: Source Library, Complete Works volume 6: https://sourcelibrary.org/book/complete-works-vol-6-crime-and-punishment
+Underlying 1904 Russian edition scan: https://archive.org/details/polnoesobraniesochinenijfmdostoevskogo16
+Source Library terms: commercial reuse of AI translations under CC BY-SA 4.0: https://sourcelibrary.org/terms
+Adapted Russian and English text license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 ru-tolstoy-anna-karenina: Анна Каренина • Anna Karenina
 Лев Толстой • Leo Tolstoy
-Constance Garnett. The original epigraph is restored from the 90-volume collected edition, volume 18; it is not present in this English edition. Original literary works and historical translations are public domain. Russian Wikisource transcriptions adapted into reading blocks with formatting normalized and editorial footnotes/navigation omitted, under CC BY-SA 4.0; these adapted Russian texts retain that license. English introductory essays and editorial notes are omitted. Chapters correspond, but paragraph and page divisions differ.
+English: Nathan Haskell Dole (1886), from the scan-backed 1899 Thomas Y. Crowell reprint. Wikisource contributors’ English transcription and this adapted English resource: CC BY-SA 3.0. Russian Wikisource contributors’ transcription: CC BY-SA 4.0, including the restored epigraph from collected works volume 18. Introductory essays, editorial footnotes, page furniture and website matter omitted. All eight parts and 239 original chapters; one combined source file split at the original chapter boundary. Paragraph and page divisions differ between editions.
 Russian: Wikisource contributors, complete edition contents: https://ru.wikisource.org/w/index.php?oldid=3829834
 Tolstoy: original book epigraph, collected works volume 18: https://ru.wikisource.org/w/index.php?oldid=3697860
-English: Constance Garnett: https://www.gutenberg.org/ebooks/1399
 Adapted transcription license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+English source scan: Thomas Y. Crowell reprint (1899): https://en.wikisource.org/wiki/Index:Anna_Karenina.djvu
+Dole first translation edition (1886): BnF record: https://catalogue.bnf.fr/ark:/12148/cb31478238t
+English transcription and adaptation license: CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+English: Nathan Haskell Dole, complete Wikisource transcription: https://en.wikisource.org/wiki/Anna_Karenina_(Dole)
 
 ru-pushkin-captains-daughter: Капитанская дочка • The Captain’s Daughter
 Александр Пушкин • Alexander Pushkin
@@ -300,10 +290,10 @@ Adapted transcription license: CC BY-SA 4.0: https://creativecommons.org/license
 
 el-plato-apology: Ἀπολογία Σωκράτους • Apology
 Πλάτων • Plato
-Greek: John Burnet (1905). English: Harold North Fowler (1914). Section boundaries follow the source edition. Perseus Digital Library / Tufts University transcriptions, adapted to reading blocks with commentary omitted, under CC BY-SA 4.0. These adapted text resources retain that license. The original Greek literary works are public domain. English pages are independently typeset.
+Greek: John Burnet (1905), Perseus Digital Library / Tufts University transcription, adapted under CC BY-SA 4.0. Editorial commentary omitted. English: Benjamin Jowett (1817–1893). Complete historical English translation; separate English text. The dialogue is presented as one section because this edition does not retain Stephanus divisions. English and original pages are independently typeset.
 Greek: complete Perseus TEI edition: https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0059/tlg002/tlg0059.tlg002.perseus-grc2.xml
-English: complete Perseus TEI edition: https://github.com/PerseusDL/canonical-greekLit/blob/01b725d835e6e733062ffd79e0efdbae1ba06e5c/data/tlg0059/tlg002/tlg0059.tlg002.perseus-eng2.xml
 Adapted transcription license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+English: Apology — Benjamin Jowett (1817–1893): https://www.gutenberg.org/ebooks/1656
 
 el-sophocles-antigone: Ἀντιγόνη • Antigone
 Σοφοκλῆς • Sophocles
@@ -327,13 +317,7 @@ English: Sefaria public-domain JPS 1917 export: https://storage.googleapis.com/s
 
 la-caesar-gaul: De bello Gallico • The Gallic War
 Julius Caesar; Book VIII by Aulus Hirtius
-Latin: The Latin Library transcription, all eight books and Hirtius’s preface to Balbus. English: W. A. MacDevitt (also catalogued as W. A. McDevitte), Everyman’s Library edition (1915), via Project Gutenberg 10657. Public-domain original and historical translation. Latin sentence numbers and website navigation are omitted. English II.27’s mislabeled heading is corrected, and merged paragraphs at VI.10, VII.89 and VIII.46 are separated with restored chapter labels; literary wording is unchanged. The surviving Latin ends at VIII.55 with an incomplete word sequence, “Contendit . . .”, retained from the source; no lost continuation is invented. Editorial introduction, index and the separate Civil War are omitted. Book boundaries correspond; page divisions differ.
-Latin: The Latin Library, Gallic War Book 1: https://www.thelatinlibrary.com/caesar/gall1.shtml
-Latin: The Latin Library, Gallic War Book 2: https://www.thelatinlibrary.com/caesar/gall2.shtml
-Latin: The Latin Library, Gallic War Book 3: https://www.thelatinlibrary.com/caesar/gall3.shtml
-Latin: The Latin Library, Gallic War Book 4: https://www.thelatinlibrary.com/caesar/gall4.shtml
-Latin: The Latin Library, Gallic War Book 5: https://www.thelatinlibrary.com/caesar/gall5.shtml
-Latin: The Latin Library, Gallic War Book 6: https://www.thelatinlibrary.com/caesar/gall6.shtml
-Latin: The Latin Library, Gallic War Book 7: https://www.thelatinlibrary.com/caesar/gall7.shtml
-Latin: The Latin Library, Gallic War Book 8: https://www.thelatinlibrary.com/caesar/gall8.shtml
+Latin: T. Rice Holmes, Oxford Clarendon edition (1914), including Hirtius’s preface and Book VIII. Perseus Digital Library transcription, adapted to reading blocks under CC BY-SA 4.0; critical apparatus omitted. English: W. A. MacDevitt (also catalogued as W. A. McDevitte), Everyman’s Library edition (1915), via Project Gutenberg 10657. English II.27’s mislabeled heading is corrected; merged paragraphs at VI.10, VII.89 and VIII.46 are separated with restored chapter labels. Editorial introduction, index and the separate Civil War are omitted. Independent historical editions; paragraph and page divisions differ.
 English: The War in Gaul, W. A. MacDevitt: https://www.gutenberg.org/ebooks/10657
+Latin transcription and adaptation license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Latin: Caesar, De bello Gallico — Holmes 1914, Perseus: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0448/phi001/phi0448.phi001.perseus-lat2.xml
