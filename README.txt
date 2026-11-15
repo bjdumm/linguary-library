@@ -1233,3 +1233,132 @@ Source section — Dialogo di Tristano e d'un amico: https://it.wikisource.org/w
 Source section — Note / Notizia intorno a queste Operette: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Note/Notizia_intorno_a_queste_Operette&oldid=3820709
 Source section — Note / Note dell'Autore: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Note/Note_dell%27Autore&oldid=3820708
 Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+de-taugenichts: Aus dem Leben eines Taugenichts
+Joseph von Eichendorff
+Complete German original; no prepared English edition. Joseph von Eichendorff (died 1857); first published 1826. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader.
+German source: Project Gutenberg 35312: https://www.gutenberg.org/ebooks/35312
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-kleider-machen-leute: Kleider machen Leute
+Gottfried Keller
+Complete German original; no prepared English edition. Gottfried Keller (died 1890); first published 1874. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.
+German source: Project Gutenberg 28042: https://www.gutenberg.org/ebooks/28042
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-romeo-julia-dorfe: Romeo und Julia auf dem Dorfe
+Gottfried Keller
+Complete German original; no prepared English edition. Gottfried Keller (died 1890); first published 1856. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.
+German source: Project Gutenberg 6696: https://www.gutenberg.org/ebooks/6696
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-gruene-heinrich: Der grüne Heinrich
+Gottfried Keller
+Complete German original; no prepared English edition. Gottfried Keller (died 1890); first published 1854–1855. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained. All four volumes of the 1854–1855 first edition, including its original ending; not the later revised version.
+Deutsches Textarchiv: keller_heinrich01_1854: https://www.deutschestextarchiv.de/book/show/keller_heinrich01_1854
+Deutsches Textarchiv: keller_heinrich02_1854: https://www.deutschestextarchiv.de/book/show/keller_heinrich02_1854
+Deutsches Textarchiv: keller_heinrich03_1854: https://www.deutschestextarchiv.de/book/show/keller_heinrich03_1854
+Deutsches Textarchiv: keller_heinrich04_1855: https://www.deutschestextarchiv.de/book/show/keller_heinrich04_1855
+Transcription and adapted resource license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+DTA reuse terms: https://www.deutschestextarchiv.de/doku/nutzungsbedingungen
+
+de-immensee: Immensee
+Theodor Storm
+Complete German original; no prepared English edition. Theodor Storm (died 1888); first published 1849. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader.
+German source: Project Gutenberg 6651: https://www.gutenberg.org/ebooks/6651
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-schimmelreiter: Der Schimmelreiter
+Theodor Storm
+Complete German original; no prepared English edition. Theodor Storm (died 1888); first published 1888. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader.
+German source: Project Gutenberg 74008: https://www.gutenberg.org/ebooks/74008
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-effi-briest: Effi Briest
+Theodor Fontane
+Complete German original; no prepared English edition. Theodor Fontane (died 1898); first published 1895. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader.
+German source: Project Gutenberg 5323: https://www.gutenberg.org/ebooks/5323
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-irrungen-wirrungen: Irrungen, Wirrungen
+Theodor Fontane
+Complete German original; no prepared English edition. Theodor Fontane (died 1898); first published 1888. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained.
+Deutsches Textarchiv: fontane_irrungen_1888: https://www.deutschestextarchiv.de/book/show/fontane_irrungen_1888
+Transcription and adapted resource license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+DTA reuse terms: https://www.deutschestextarchiv.de/doku/nutzungsbedingungen
+
+de-michael-kohlhaas: Michael Kohlhaas
+Heinrich von Kleist
+Complete German original; no prepared English edition. Heinrich von Kleist (died 1811); first published 1810. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.
+German source: Project Gutenberg 6645: https://www.gutenberg.org/ebooks/6645
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-marquise: Die Marquise von O…
+Heinrich von Kleist
+Complete German original; no prepared English edition. Heinrich von Kleist (died 1811); first published 1808. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.
+German source: Project Gutenberg 6645: https://www.gutenberg.org/ebooks/6645
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-zerbrochne-krug: Der zerbrochne Krug
+Heinrich von Kleist
+Complete German original; no prepared English edition. Heinrich von Kleist (died 1811); first published 1811. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained. The cast list, all scenes, and the variant final scene printed in the 1811 edition are retained.
+Deutsches Textarchiv: kleist_krug_1811: https://www.deutschestextarchiv.de/book/show/kleist_krug_1811
+Transcription and adapted resource license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+DTA reuse terms: https://www.deutschestextarchiv.de/doku/nutzungsbedingungen
+
+de-sandmann: Der Sandmann
+E. T. A. Hoffmann
+Complete German original; no prepared English edition. E. T. A. Hoffmann (died 1822); first published 1816. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained. The named work is complete; unrelated works and surrounding collection frame narratives are not included.
+Deutsches Textarchiv: hoffmann_nachtstuecke01_1817: https://www.deutschestextarchiv.de/book/show/hoffmann_nachtstuecke01_1817
+Transcription and adapted resource license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+DTA reuse terms: https://www.deutschestextarchiv.de/doku/nutzungsbedingungen
+
+de-nussknacker: Nussknacker und Mausekönig
+E. T. A. Hoffmann
+Complete German original; no prepared English edition. E. T. A. Hoffmann (died 1822); first published 1816. TextGrid Digitale Bibliothek (2012), from Hoffmann’s Poetische Werke, volume 3, Berlin 1963, pages 250–321. TextGrid identifies the underlying literary text as public domain and licenses its annotated dataset under CC BY 3.0 Germany. Attribution: TextGrid and its credited source, editura.de. Only the original story is included; edition notes, page numbers, and reference-note markers omitted. Text reformatted into reading sections.
+TextGrid Digitale Bibliothek: Hoffmann, Nußknacker und Mausekönig (2012): https://textgridrep.org/browse/q5rm.0
+TextGrid attribution license: CC BY 3.0 Germany: https://creativecommons.org/licenses/by/3.0/de/
+
+de-goldne-topf: Der goldne Topf
+E. T. A. Hoffmann
+Complete German original; no prepared English edition. E. T. A. Hoffmann (died 1822); first published 1814. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader.
+German source: Project Gutenberg 17362: https://www.gutenberg.org/ebooks/17362
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-kalte-herz: Das kalte Herz
+Wilhelm Hauff
+Complete German original; no prepared English edition. Wilhelm Hauff (died 1827); first published 1827. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.
+German source: Project Gutenberg 6640: https://www.gutenberg.org/ebooks/6640
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-zwerg-nase: Zwerg Nase
+Wilhelm Hauff
+Complete German original; no prepared English edition. Wilhelm Hauff (died 1827); first published 1826. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.
+German source: Project Gutenberg 6639: https://www.gutenberg.org/ebooks/6639
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-peter-schlemihl: Peter Schlemihls wundersame Geschichte
+Adelbert von Chamisso
+Complete German original; no prepared English edition. Adelbert von Chamisso (died 1838); first published 1814. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The introductory correspondence and poems by Chamisso, Fouqué (died 1843), and Julius Eduard Hitzig (died 1849) are retained with the complete eleven-chapter narrative.
+German source: Project Gutenberg 31538: https://www.gutenberg.org/ebooks/31538
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+de-undine: Undine
+Friedrich de la Motte Fouqué
+Complete German original; no prepared English edition. Friedrich de la Motte Fouqué (died 1843); first published 1811. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained.
+Deutsches Textarchiv: fouque_undine_1811: https://www.deutschestextarchiv.de/book/show/fouque_undine_1811
+Transcription and adapted resource license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+DTA reuse terms: https://www.deutschestextarchiv.de/doku/nutzungsbedingungen
+
+de-nathan: Nathan der Weise
+Gotthold Ephraim Lessing
+Complete German original; no prepared English edition. Gotthold Ephraim Lessing (died 1781); first published 1779. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained.
+Deutsches Textarchiv: lessing_nathan_1779: https://www.deutschestextarchiv.de/book/show/lessing_nathan_1779
+Transcription and adapted resource license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+DTA reuse terms: https://www.deutschestextarchiv.de/doku/nutzungsbedingungen
+
+de-wilhelm-tell: Wilhelm Tell
+Friedrich Schiller
+Complete German original; no prepared English edition. Friedrich Schiller (died 1805); first published 1804. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. Based on the 1862 Cotta edition; source transcription corrects obvious errors and regularizes variant character/place names.
+German source: Project Gutenberg 77182: https://www.gutenberg.org/ebooks/77182
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html

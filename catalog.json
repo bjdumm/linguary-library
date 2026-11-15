@@ -5031,6 +5031,582 @@
       "sha256": "fa5251ade1500009efbe6005baf6737c36289e8426fede31c91223a9207d153d",
       "byteCount": 528576,
       "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-taugenichts",
+        "language": "German",
+        "title": "Aus dem Leben eines Taugenichts",
+        "author": "Joseph von Eichendorff",
+        "summary": "A young musician sets out on a wandering journey through love, music, and mistaken identities.",
+        "category": "Adventure & Exploration",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-taugenichts",
+        "translationCredit": "Complete German original; no prepared English edition. Joseph von Eichendorff (died 1857); first published 1826. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader.",
+        "resource": "de-taugenichts",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 35312",
+            "url": "https://www.gutenberg.org/ebooks/35312"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "95d2b355daf05aac0c49a4c457d8733e5d3cc68f06553e194b68c10a34a5a97b",
+      "byteCount": 217927,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-kleider-machen-leute",
+        "language": "German",
+        "title": "Kleider machen Leute",
+        "author": "Gottfried Keller",
+        "summary": "A poor tailor is mistaken for a nobleman in this tale of appearances and social ambition.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-kleider-machen-leute",
+        "translationCredit": "Complete German original; no prepared English edition. Gottfried Keller (died 1890); first published 1874. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.",
+        "resource": "de-kleider-machen-leute",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 28042",
+            "url": "https://www.gutenberg.org/ebooks/28042"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "c7b80cbf443063bb2e7ce8a0e9d84a61e4ca3fc89e984c5473f9214887875c2c",
+      "byteCount": 111619,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-romeo-julia-dorfe",
+        "language": "German",
+        "title": "Romeo und Julia auf dem Dorfe",
+        "author": "Gottfried Keller",
+        "summary": "Two young lovers are caught in a bitter feud between their farming families.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-romeo-julia-dorfe",
+        "translationCredit": "Complete German original; no prepared English edition. Gottfried Keller (died 1890); first published 1856. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.",
+        "resource": "de-romeo-julia-dorfe",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 6696",
+            "url": "https://www.gutenberg.org/ebooks/6696"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "204a5ec05cc5bcf9094e0efac61d63a4b7198c3e8e123e7463046886f5476989",
+      "byteCount": 168681,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-gruene-heinrich",
+        "language": "German",
+        "title": "Der grüne Heinrich",
+        "author": "Gottfried Keller",
+        "summary": "An aspiring painter searches for his place in the world. Complete first edition in four volumes.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-gruene-heinrich",
+        "translationCredit": "Complete German original; no prepared English edition. Gottfried Keller (died 1890); first published 1854–1855. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained. All four volumes of the 1854–1855 first edition, including its original ending; not the later revised version.",
+        "resource": "de-gruene-heinrich",
+        "sources": [
+          {
+            "title": "Deutsches Textarchiv: keller_heinrich01_1854",
+            "url": "https://www.deutschestextarchiv.de/book/show/keller_heinrich01_1854"
+          },
+          {
+            "title": "Deutsches Textarchiv: keller_heinrich02_1854",
+            "url": "https://www.deutschestextarchiv.de/book/show/keller_heinrich02_1854"
+          },
+          {
+            "title": "Deutsches Textarchiv: keller_heinrich03_1854",
+            "url": "https://www.deutschestextarchiv.de/book/show/keller_heinrich03_1854"
+          },
+          {
+            "title": "Deutsches Textarchiv: keller_heinrich04_1855",
+            "url": "https://www.deutschestextarchiv.de/book/show/keller_heinrich04_1855"
+          },
+          {
+            "title": "Transcription and adapted resource license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "DTA reuse terms",
+            "url": "https://www.deutschestextarchiv.de/doku/nutzungsbedingungen"
+          }
+        ]
+      },
+      "sha256": "fd2dcd770d27457ef45e5d399ff5ff6b7ae677c84fb9aef4e17a38273aa777ed",
+      "byteCount": 1928997,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-immensee",
+        "language": "German",
+        "title": "Immensee",
+        "author": "Theodor Storm",
+        "summary": "Memories of childhood affection and missed opportunities unfold beside a quiet lake.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-immensee",
+        "translationCredit": "Complete German original; no prepared English edition. Theodor Storm (died 1888); first published 1849. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader.",
+        "resource": "de-immensee",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 6651",
+            "url": "https://www.gutenberg.org/ebooks/6651"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "b6f86a8a9b357e7b388c5669db3ece621171f1b7a9432aa579ffbc1b06d2af93",
+      "byteCount": 93046,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-schimmelreiter",
+        "language": "German",
+        "title": "Der Schimmelreiter",
+        "author": "Theodor Storm",
+        "summary": "A visionary dike master confronts superstition, social resistance, and the power of the sea.",
+        "category": "Mystery & Supernatural",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-schimmelreiter",
+        "translationCredit": "Complete German original; no prepared English edition. Theodor Storm (died 1888); first published 1888. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader.",
+        "resource": "de-schimmelreiter",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 74008",
+            "url": "https://www.gutenberg.org/ebooks/74008"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "037e330151c24b09c84da59c19708cb077cf69b2d3eb5ab033af5491193ec277",
+      "byteCount": 310646,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-effi-briest",
+        "language": "German",
+        "title": "Effi Briest",
+        "author": "Theodor Fontane",
+        "summary": "A young woman faces the consequences of marriage, convention, and social judgment.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-effi-briest",
+        "translationCredit": "Complete German original; no prepared English edition. Theodor Fontane (died 1898); first published 1895. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader.",
+        "resource": "de-effi-briest",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 5323",
+            "url": "https://www.gutenberg.org/ebooks/5323"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "d3b1fc72505cb6299d9df56367fc4b5e62c7c27b9eef8b0189f21f28ba673ba6",
+      "byteCount": 781575,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-irrungen-wirrungen",
+        "language": "German",
+        "title": "Irrungen, Wirrungen",
+        "author": "Theodor Fontane",
+        "summary": "Love between a seamstress and an officer encounters the class divisions of Berlin.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-irrungen-wirrungen",
+        "translationCredit": "Complete German original; no prepared English edition. Theodor Fontane (died 1898); first published 1888. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained.",
+        "resource": "de-irrungen-wirrungen",
+        "sources": [
+          {
+            "title": "Deutsches Textarchiv: fontane_irrungen_1888",
+            "url": "https://www.deutschestextarchiv.de/book/show/fontane_irrungen_1888"
+          },
+          {
+            "title": "Transcription and adapted resource license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "DTA reuse terms",
+            "url": "https://www.deutschestextarchiv.de/doku/nutzungsbedingungen"
+          }
+        ]
+      },
+      "sha256": "f724768fd2458a24bebd11b95c278db3a00a63bc3b1b3f92efe7c1625b4aee2e",
+      "byteCount": 431528,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-michael-kohlhaas",
+        "language": "German",
+        "title": "Michael Kohlhaas",
+        "author": "Heinrich von Kleist",
+        "summary": "A horse trader’s search for justice grows into a destructive conflict with authority.",
+        "category": "Historical Fiction",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-michael-kohlhaas",
+        "translationCredit": "Complete German original; no prepared English edition. Heinrich von Kleist (died 1811); first published 1810. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.",
+        "resource": "de-michael-kohlhaas",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 6645",
+            "url": "https://www.gutenberg.org/ebooks/6645"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "b90133f44d0769b969b3282fcf38fabfbd12ec2636b01f5fbec98cd84e8a0fec",
+      "byteCount": 229147,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-marquise",
+        "language": "German",
+        "title": "Die Marquise von O…",
+        "author": "Heinrich von Kleist",
+        "summary": "A widow’s unexplained pregnancy places her at the center of a family and social crisis.",
+        "category": "Short Stories",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-marquise",
+        "translationCredit": "Complete German original; no prepared English edition. Heinrich von Kleist (died 1811); first published 1808. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.",
+        "resource": "de-marquise",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 6645",
+            "url": "https://www.gutenberg.org/ebooks/6645"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "a6939fd01ba9b129f708eb3f310d07e15ebefdc4d5a69c8e858a412b3c6f2957",
+      "byteCount": 97926,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-zerbrochne-krug",
+        "language": "German",
+        "title": "Der zerbrochne Krug",
+        "author": "Heinrich von Kleist",
+        "summary": "A village judge investigates a broken jug while concealing his own involvement. Includes the original printed variant ending.",
+        "category": "Plays",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-zerbrochne-krug",
+        "translationCredit": "Complete German original; no prepared English edition. Heinrich von Kleist (died 1811); first published 1811. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained. The cast list, all scenes, and the variant final scene printed in the 1811 edition are retained.",
+        "resource": "de-zerbrochne-krug",
+        "sources": [
+          {
+            "title": "Deutsches Textarchiv: kleist_krug_1811",
+            "url": "https://www.deutschestextarchiv.de/book/show/kleist_krug_1811"
+          },
+          {
+            "title": "Transcription and adapted resource license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "DTA reuse terms",
+            "url": "https://www.deutschestextarchiv.de/doku/nutzungsbedingungen"
+          }
+        ]
+      },
+      "sha256": "507c0459e34a854f0694c9ff5f5378171029a8ec45963014c340fa62f8ea8915",
+      "byteCount": 374937,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-sandmann",
+        "language": "German",
+        "title": "Der Sandmann",
+        "author": "E. T. A. Hoffmann",
+        "summary": "Childhood terror, obsession, and uncertain perceptions haunt the student Nathanael.",
+        "category": "Mystery & Supernatural",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-sandmann",
+        "translationCredit": "Complete German original; no prepared English edition. E. T. A. Hoffmann (died 1822); first published 1816. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained. The named work is complete; unrelated works and surrounding collection frame narratives are not included.",
+        "resource": "de-sandmann",
+        "sources": [
+          {
+            "title": "Deutsches Textarchiv: hoffmann_nachtstuecke01_1817",
+            "url": "https://www.deutschestextarchiv.de/book/show/hoffmann_nachtstuecke01_1817"
+          },
+          {
+            "title": "Transcription and adapted resource license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "DTA reuse terms",
+            "url": "https://www.deutschestextarchiv.de/doku/nutzungsbedingungen"
+          }
+        ]
+      },
+      "sha256": "525a5ebee444e3c1aab44222c7ebc7cbbbdf0d408ece120f07dac89a9f70b916",
+      "byteCount": 86208,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-nussknacker",
+        "language": "German",
+        "title": "Nussknacker und Mausekönig",
+        "author": "E. T. A. Hoffmann",
+        "summary": "Marie’s Christmas gift opens a strange world of enchanted toys and a seven-headed mouse king.",
+        "category": "Fairy Tales & Fantasy",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-nussknacker",
+        "translationCredit": "Complete German original; no prepared English edition. E. T. A. Hoffmann (died 1822); first published 1816. TextGrid Digitale Bibliothek (2012), from Hoffmann’s Poetische Werke, volume 3, Berlin 1963, pages 250–321. TextGrid identifies the underlying literary text as public domain and licenses its annotated dataset under CC BY 3.0 Germany. Attribution: TextGrid and its credited source, editura.de. Only the original story is included; edition notes, page numbers, and reference-note markers omitted. Text reformatted into reading sections.",
+        "resource": "de-nussknacker",
+        "sources": [
+          {
+            "title": "TextGrid Digitale Bibliothek: Hoffmann, Nußknacker und Mausekönig (2012)",
+            "url": "https://textgridrep.org/browse/q5rm.0"
+          },
+          {
+            "title": "TextGrid attribution license: CC BY 3.0 Germany",
+            "url": "https://creativecommons.org/licenses/by/3.0/de/"
+          }
+        ]
+      },
+      "sha256": "6d48e46a0a9c6ef257e1cfa28dec6c84926041f0f3d4b31e7d7ce62277a4d21e",
+      "byteCount": 141551,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-goldne-topf",
+        "language": "German",
+        "title": "Der goldne Topf",
+        "author": "E. T. A. Hoffmann",
+        "summary": "A student in Dresden discovers a magical world beneath everyday life. All twelve vigils.",
+        "category": "Fairy Tales & Fantasy",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-goldne-topf",
+        "translationCredit": "Complete German original; no prepared English edition. E. T. A. Hoffmann (died 1822); first published 1814. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader.",
+        "resource": "de-goldne-topf",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 17362",
+            "url": "https://www.gutenberg.org/ebooks/17362"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "c3f76205e96a95c751f771a4abe6705caa2d5ecc30e5c93753e9acdae4197c5d",
+      "byteCount": 199963,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-kalte-herz",
+        "language": "German",
+        "title": "Das kalte Herz",
+        "author": "Wilhelm Hauff",
+        "summary": "A charcoal burner bargains for wealth and discovers the cost of a heart made of stone. Both parts.",
+        "category": "Fairy Tales & Fantasy",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-kalte-herz",
+        "translationCredit": "Complete German original; no prepared English edition. Wilhelm Hauff (died 1827); first published 1827. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.",
+        "resource": "de-kalte-herz",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 6640",
+            "url": "https://www.gutenberg.org/ebooks/6640"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "cae954e995ddf0cd13af5baa7127c80aeffdc92d49839992a0cc5988226fc50e",
+      "byteCount": 109980,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-zwerg-nase",
+        "language": "German",
+        "title": "Zwerg Nase",
+        "author": "Wilhelm Hauff",
+        "summary": "A transformed boy becomes an extraordinary cook while searching for a way to break his enchantment.",
+        "category": "Fairy Tales & Fantasy",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-zwerg-nase",
+        "translationCredit": "Complete German original; no prepared English edition. Wilhelm Hauff (died 1827); first published 1826. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The named work is complete; unrelated works and surrounding collection frame narratives are not included.",
+        "resource": "de-zwerg-nase",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 6639",
+            "url": "https://www.gutenberg.org/ebooks/6639"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "a53449338d070e6c8299a1d8a7526951f82428ce5cfb60a3e1972e78ab46ab3e",
+      "byteCount": 77109,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-peter-schlemihl",
+        "language": "German",
+        "title": "Peter Schlemihls wundersame Geschichte",
+        "author": "Adelbert von Chamisso",
+        "summary": "A man exchanges his shadow for endless riches and discovers what he has lost.",
+        "category": "Fairy Tales & Fantasy",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-peter-schlemihl",
+        "translationCredit": "Complete German original; no prepared English edition. Adelbert von Chamisso (died 1838); first published 1814. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. The introductory correspondence and poems by Chamisso, Fouqué (died 1843), and Julius Eduard Hitzig (died 1849) are retained with the complete eleven-chapter narrative.",
+        "resource": "de-peter-schlemihl",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 31538",
+            "url": "https://www.gutenberg.org/ebooks/31538"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "0927111e651c150782f88a294e692c39c0ca881d7b04d8754e7101512bfe1d6d",
+      "byteCount": 158153,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-undine",
+        "language": "German",
+        "title": "Undine",
+        "author": "Friedrich de la Motte Fouqué",
+        "summary": "A water spirit seeks a human soul through love in this Romantic fairy tale.",
+        "category": "Fairy Tales & Fantasy",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-undine",
+        "translationCredit": "Complete German original; no prepared English edition. Friedrich de la Motte Fouqué (died 1843); first published 1811. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained.",
+        "resource": "de-undine",
+        "sources": [
+          {
+            "title": "Deutsches Textarchiv: fouque_undine_1811",
+            "url": "https://www.deutschestextarchiv.de/book/show/fouque_undine_1811"
+          },
+          {
+            "title": "Transcription and adapted resource license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "DTA reuse terms",
+            "url": "https://www.deutschestextarchiv.de/doku/nutzungsbedingungen"
+          }
+        ]
+      },
+      "sha256": "0ecb6438bc877932674d4f284125a3647f9da53de45f44e57fe0a68c6157af60",
+      "byteCount": 189553,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-nathan",
+        "language": "German",
+        "title": "Nathan der Weise",
+        "author": "Gotthold Ephraim Lessing",
+        "summary": "A drama of religious tolerance, family, and shared humanity in medieval Jerusalem. All five acts.",
+        "category": "Plays",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-nathan",
+        "translationCredit": "Complete German original; no prepared English edition. Gotthold Ephraim Lessing (died 1781); first published 1779. Historical printed edition transcribed by Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences and Humanities. Transcription and this adapted text resource: CC BY-SA 4.0. Long-s and superscript-e umlauts normalized; printed line wraps joined in prose; page furniture and unrelated front/back matter omitted. Verse, dialogue, and original spelling otherwise retained.",
+        "resource": "de-nathan",
+        "sources": [
+          {
+            "title": "Deutsches Textarchiv: lessing_nathan_1779",
+            "url": "https://www.deutschestextarchiv.de/book/show/lessing_nathan_1779"
+          },
+          {
+            "title": "Transcription and adapted resource license: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "DTA reuse terms",
+            "url": "https://www.deutschestextarchiv.de/doku/nutzungsbedingungen"
+          }
+        ]
+      },
+      "sha256": "939a4806bf50d34afd644c639cb396134605b75ad468dee86e7d193be07ff1e3",
+      "byteCount": 472153,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "de-wilhelm-tell",
+        "language": "German",
+        "title": "Wilhelm Tell",
+        "author": "Friedrich Schiller",
+        "summary": "Personal courage and a community’s struggle for freedom meet in Schiller’s Swiss drama. All five acts.",
+        "category": "Plays",
+        "collectionLabel": "Complete German original",
+        "legacyPassageID": "de-wilhelm-tell",
+        "translationCredit": "Complete German original; no prepared English edition. Friedrich Schiller (died 1805); first published 1804. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. Based on the 1862 Cotta edition; source transcription corrects obvious errors and regularizes variant character/place names.",
+        "resource": "de-wilhelm-tell",
+        "sources": [
+          {
+            "title": "German source: Project Gutenberg 77182",
+            "url": "https://www.gutenberg.org/ebooks/77182"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "d6bd4261e20c8f7175965a661b8224280a95ddd7b8aa93dbf485ac460a9c5d40",
+      "byteCount": 413356,
+      "englishCoverage": "none"
     }
   ]
 }
