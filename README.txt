@@ -10,7 +10,7 @@ RIGHTS AND ATTRIBUTION
 Each work retains the rights and licenses stated below. There is no blanket
 license replacing individual source licenses. Adapted resources identified as
 CC BY-SA 4.0 are distributed under https://creativecommons.org/licenses/by-sa/4.0/.
-English resources identified as CC BY-SA 3.0 retain that license:
+Resources identified as CC BY-SA 3.0 retain that license:
 https://creativecommons.org/licenses/by-sa/3.0/. These content licenses
 are separate from the application software license; no additional
 restrictions are imposed on the licensed text resources by this repository.
@@ -477,3 +477,759 @@ fr-eugenie-grandet: Eugénie Grandet
 Honoré de Balzac
 Complete French original, first published 1833. Honoré de Balzac (author died 1850). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
 French source text — ebook 11049: https://www.gutenberg.org/ebooks/11049
+
+it-promessi-sposi: I promessi sposi
+Alessandro Manzoni
+Complete Italian literary text by Alessandro Manzoni (died 1873); first published 1827. Historical original, with no prepared English edition. Text from the 1905 Hoepli edition; the later editorial essay and illustrations are excluded. Manzoni’s introduction and notes cited by the novel are retained. Digitization by Giovanni Fini and the Online Distributed Proofreading Team. Project Gutenberg identifies its source ebook as public domain in the USA. Linguary removes website boilerplate, normalizes whitespace, and divides the text into reader chapters and blocks. No modern translation or cover artwork is included.
+Italian source — Project Gutenberg 45334: https://www.gutenberg.org/ebooks/45334
+
+it-cuore: Cuore
+Edmondo De Amicis
+Complete Italian literary text by Edmondo De Amicis (died 1908); first published 1886. Historical original, with no prepared English edition. Source edition: Fratelli Treves, Milan, 1889. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Cuore_%281889%29
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3ACuore_%281889%29.djvu
+Source section — Prefazione: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Prefazione&oldid=3798160
+Source section — Ottobre / Il primo giorno di scuola: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Ottobre/Il_primo_giorno_di_scuola&oldid=3681334
+Source section — Ottobre / Il nostro maestro: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Ottobre/Il_nostro_maestro&oldid=3681332
+Source section — Ottobre / Una disgrazia: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Ottobre/Una_disgrazia&oldid=3681340
+Source section — Ottobre / Il ragazzo calabrese: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Ottobre/Il_ragazzo_calabrese&oldid=3681335
+Source section — Ottobre / I miei compagni: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Ottobre/I_miei_compagni&oldid=3681331
+Source section — Ottobre / Un tratto generoso: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Ottobre/Un_tratto_generoso&oldid=3681339
+Source section — Ottobre / La mia maestra di prima superiore: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Ottobre/La_mia_maestra_di_prima_superiore&oldid=3681337
+Source section — Ottobre / In una soffitta: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Ottobre/In_una_soffitta&oldid=3681336
+Source section — Ottobre / La scuola: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Ottobre/La_scuola&oldid=3681338
+Source section — Ottobre / Il piccolo patriotta padovano: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Ottobre/Il_piccolo_patriotta_padovano&oldid=3681333
+Source section — Novembre / Lo spazzacamino: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/Lo_spazzacamino&oldid=3681328
+Source section — Novembre / Il giorno dei morti: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/Il_giorno_dei_morti&oldid=3681321
+Source section — Novembre / Il mio amico Garrone: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/Il_mio_amico_Garrone&oldid=3681322
+Source section — Novembre / Il carbonaio e il signore: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/Il_carbonaio_e_il_signore&oldid=3681320
+Source section — Novembre / La maestra di mio fratello: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/La_maestra_di_mio_fratello&oldid=3681326
+Source section — Novembre / Mia madre: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/Mia_madre&oldid=3681329
+Source section — Novembre / Il mio compagno Coretti: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/Il_mio_compagno_Coretti&oldid=3681323
+Source section — Novembre / Il Direttore: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/Il_Direttore&oldid=3681319
+Source section — Novembre / I soldati: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/I_soldati&oldid=3681318
+Source section — Novembre / Il protettore di Nelli: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/Il_protettore_di_Nelli&oldid=3798159
+Source section — Novembre / Il primo della classe: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/Il_primo_della_classe&oldid=3681324
+Source section — Novembre / La piccola vedetta lombarda: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/La_piccola_vedetta_lombarda&oldid=3681327
+Source section — Novembre / I poveri: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Novembre/I_poveri&oldid=3681317
+Source section — Dicembre / Il trafficante: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Dicembre/Il_trafficante&oldid=3681245
+Source section — Dicembre / Vanità: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Dicembre/Vanit%C3%A0&oldid=3681251
+Source section — Dicembre / La prima nevicata: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Dicembre/La_prima_nevicata&oldid=3681247
+Source section — Dicembre / Il muratorino: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Dicembre/Il_muratorino&oldid=3681243
+Source section — Dicembre / Una palla di neve: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Dicembre/Una_palla_di_neve&oldid=3681250
+Source section — Dicembre / Le maestre: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Dicembre/Le_maestre&oldid=3681249
+Source section — Dicembre / In casa del ferito: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Dicembre/In_casa_del_ferito&oldid=3681246
+Source section — Dicembre / Il piccolo scrivano fiorentino: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Dicembre/Il_piccolo_scrivano_fiorentino&oldid=3681244
+Source section — Dicembre / La volontà: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Dicembre/La_volont%C3%A0&oldid=3681248
+Source section — Dicembre / Gratitudine: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Dicembre/Gratitudine&oldid=3681242
+Source section — Gennaio / Il maestro supplente: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/Il_maestro_supplente&oldid=3681270
+Source section — Gennaio / La libreria di Stardi: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/La_libreria_di_Stardi&oldid=3681274
+Source section — Gennaio / Il figliuolo del fabbro ferraio: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/Il_figliuolo_del_fabbro_ferraio&oldid=3681269
+Source section — Gennaio / Una bella visita: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/Una_bella_visita&oldid=3681277
+Source section — Gennaio / I funerali di Vittorio Emanuele: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/I_funerali_di_Vittorio_Emanuele&oldid=3681268
+Source section — Gennaio / Franti, cacciato dalla scuola: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/Franti,_cacciato_dalla_scuola&oldid=3681267
+Source section — Gennaio / Il tamburino sardo: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/Il_tamburino_sardo&oldid=3681271
+Source section — Gennaio / L'amor di patria: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/L%27amor_di_patria&oldid=3798157
+Source section — Gennaio / Invidia: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/Invidia&oldid=3681272
+Source section — Gennaio / La madre di Franti: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/La_madre_di_Franti&oldid=3681275
+Source section — Gennaio / Speranza: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Gennaio/Speranza&oldid=3681276
+Source section — Febbraio / Una medaglia ben data: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/Una_medaglia_ben_data&oldid=3681265
+Source section — Febbraio / Buoni propositi: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/Buoni_propositi&oldid=3681253
+Source section — Febbraio / Il vaporino: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/Il_vaporino&oldid=3681259
+Source section — Febbraio / Superbia: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/Superbia&oldid=3681264
+Source section — Febbraio / I feriti del lavoro: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/I_feriti_del_lavoro&oldid=3681254
+Source section — Febbraio / Il prigioniero: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/Il_prigioniero&oldid=3681258
+Source section — Febbraio / L'infermiere di Tata: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/L%27infermiere_di_Tata&oldid=3836601
+Source section — Febbraio / L'officina: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/L%27officina&oldid=3798156
+Source section — Febbraio / Il piccolo pagliaccio: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/Il_piccolo_pagliaccio&oldid=3681257
+Source section — Febbraio / L'ultimo giorno di carnevale: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/L%27ultimo_giorno_di_carnevale&oldid=3681262
+Source section — Febbraio / I ragazzi ciechi: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/I_ragazzi_ciechi&oldid=3681255
+Source section — Febbraio / Il maestro malato: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/Il_maestro_malato&oldid=3681256
+Source section — Febbraio / La strada: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Febbraio/La_strada&oldid=3681263
+Source section — Marzo / Le scuole serali: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/Le_scuole_serali&oldid=3681311
+Source section — Marzo / La lotta: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/La_lotta&oldid=3681309
+Source section — Marzo / I parenti dei ragazzi: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/I_parenti_dei_ragazzi&oldid=3681304
+Source section — Marzo / Il numero 78: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/Il_numero_78&oldid=3681307
+Source section — Marzo / Un piccolo morto: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/Un_piccolo_morto&oldid=3681315
+Source section — Marzo / La vigilia del 14 marzo: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/La_vigilia_del_14_marzo&oldid=3681310
+Source section — Marzo / La distribuzione dei premi: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/La_distribuzione_dei_premi&oldid=3681308
+Source section — Marzo / Litigio: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/Litigio&oldid=3681312
+Source section — Marzo / Mia sorella: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/Mia_sorella&oldid=3681313
+Source section — Marzo / Sangue romagnolo: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/Sangue_romagnolo&oldid=3681314
+Source section — Marzo / Il muratorino moribondo: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/Il_muratorino_moribondo&oldid=3681306
+Source section — Marzo / Il conte Cavour: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Marzo/Il_conte_Cavour&oldid=3681305
+Source section — Aprile / Primavera: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Aprile/Primavera&oldid=3836667
+Source section — Aprile / Re Umberto: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Aprile/Re_Umberto&oldid=3836614
+Source section — Aprile / L'asilo infantile: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Aprile/L%27asilo_infantile&oldid=3681236
+Source section — Aprile / Alla ginnastica: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Aprile/Alla_ginnastica&oldid=3681231
+Source section — Aprile / Il maestro di mio padre: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Aprile/Il_maestro_di_mio_padre&oldid=3681235
+Source section — Aprile / Convalescenza: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Aprile/Convalescenza&oldid=3681232
+Source section — Aprile / Gli amici operai: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Aprile/Gli_amici_operai&oldid=3681234
+Source section — Aprile / La madre di Garrone: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Aprile/La_madre_di_Garrone&oldid=3681237
+Source section — Aprile / Giuseppe Mazzini: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Aprile/Giuseppe_Mazzini&oldid=3681233
+Source section — Aprile / Valor civile: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Aprile/Valor_civile&oldid=3681240
+Source section — Maggio / I bambini rachitici: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Maggio/I_bambini_rachitici&oldid=3681298
+Source section — Maggio / Sacrificio: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Maggio/Sacrificio&oldid=3681302
+Source section — Maggio / L'incendio: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Maggio/L%27incendio&oldid=3681299
+Source section — Maggio / Dagli Appennini alle Ande: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Maggio/Dagli_Appennini_alle_Ande&oldid=3681296
+Source section — Maggio / Estate: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Maggio/Estate&oldid=3681297
+Source section — Maggio / Poesia: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Maggio/Poesia&oldid=3681301
+Source section — Maggio / La sordomuta: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Maggio/La_sordomuta&oldid=3681300
+Source section — Giugno / Garibaldi: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Giugno/Garibaldi&oldid=3681280
+Source section — Giugno / L'esercito: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Giugno/L%27esercito&oldid=3836760
+Source section — Giugno / Italia: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Giugno/Italia&oldid=3838165
+Source section — Giugno / 32 gradi: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Giugno/32_gradi&oldid=3681279
+Source section — Giugno / Mio padre: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Giugno/Mio_padre&oldid=3681287
+Source section — Giugno / In campagna: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Giugno/In_campagna&oldid=3681282
+Source section — Giugno / La distribuzione dei premi agli operai: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Giugno/La_distribuzione_dei_premi_agli_operai&oldid=3681285
+Source section — Giugno / La mia maestra morta: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Giugno/La_mia_maestra_morta&oldid=3681286
+Source section — Giugno / Grazie: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Giugno/Grazie&oldid=3681281
+Source section — Giugno / Naufragio: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Giugno/Naufragio&oldid=3836773
+Source section — Luglio / L'ultima pagina di mia madre: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Luglio/L%27ultima_pagina_di_mia_madre&oldid=3681293
+Source section — Luglio / Gli esami: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Luglio/Gli_esami&oldid=3681292
+Source section — Luglio / L'ultimo esame: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Luglio/L%27ultimo_esame&oldid=3681294
+Source section — Luglio / Addio: https://it.wikisource.org/w/index.php?title=Cuore_(1889)/Luglio/Addio&oldid=3681291
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-corsaro-nero: Il Corsaro Nero
+Emilio Salgari
+Complete Italian literary text by Emilio Salgari (died 1911); first published 1898. Historical original, with no prepared English edition. Source edition: Newton, Rome, 1996, edited by Sergio Campailla; digitized by Liber Liber and republished by Wikisource. Only Salgari’s novel is included, not the modern editor’s introduction or other editorial material. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Il_Corsaro_Nero
+Bibliographic source record: https://it.wikisource.org/wiki/Discussione%3AIl_Corsaro_Nero
+Source section — CAPITOLO I - I filibustieri della Tortue: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_I_-_I_filibustieri_della_Tortue&oldid=3701059
+Source section — CAPITOLO II - Una spedizione audace: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_II_-_Una_spedizione_audace&oldid=3701056
+Source section — CAPITOLO III - Il prigioniero: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_III_-_Il_prigioniero&oldid=3701055
+Source section — CAPITOLO IV - Un duello fra quattro mura: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_IV_-_Un_duello_fra_quattro_mura&oldid=3701057
+Source section — CAPITOLO V - L'appiccato: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_V_-_L%27appiccato&oldid=3701063
+Source section — CAPITOLO VI - La situazione dei filibustieri si aggrava: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_VI_-_La_situazione_dei_filibustieri_si_aggrava&oldid=3701062
+Source section — CAPITOLO VII - Un duello fra gentiluomini: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_VII_-_Un_duello_fra_gentiluomini&oldid=3701061
+Source section — CAPITOLO VIII - Una fuga prodigiosa: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_VIII_-_Una_fuga_prodigiosa&oldid=3701060
+Source section — CAPITOLO IX - Un giuramento terribile: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_IX_-_Un_giuramento_terribile&oldid=3701058
+Source section — CAPITOLO X - A bordo della Folgore: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_X_-_A_bordo_della_Folgore&oldid=3701091
+Source section — CAPITOLO XI - La duchessa fiamminga: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XI_-_La_duchessa_fiamminga&oldid=3701068
+Source section — CAPITOLO XII - La prima fiamma: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XII_-_La_prima_fiamma&oldid=3701065
+Source section — CAPITOLO XIII - Fascini misteriosi: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XIII_-_Fascini_misteriosi&oldid=3701064
+Source section — CAPITOLO XIV - Gli uragani delle Antille: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XIV_-_Gli_uragani_delle_Antille&oldid=3701066
+Source section — CAPITOLO XV - La filibusteria: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XV_-_La_filibusteria&oldid=3701072
+Source section — CAPITOLO XVI - Alla Tortue: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XVI_-_Alla_Tortue&oldid=3701071
+Source section — CAPITOLO XVII - La villa del Corsaro Nero: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XVII_-_La_villa_del_Corsaro_Nero&oldid=3701070
+Source section — CAPITOLO XVIII - L'odio del Corsaro Nero: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XVIII_-_L%27odio_del_Corsaro_Nero&oldid=3701069
+Source section — CAPITOLO XIX - L'assalto di Maracaybo: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XIX_-_L%27assalto_di_Maracaybo&oldid=3701067
+Source section — CAPITOLO XX - La caccia al governatore di Maracaybo: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XX_-_La_caccia_al_governatore_di_Maracaybo&oldid=3701090
+Source section — CAPITOLO XXI - Nella foresta vergine: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXI_-_Nella_foresta_vergine&oldid=3701078
+Source section — CAPITOLO XXII - La savana tremante: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXII_-_La_savana_tremante&oldid=3701075
+Source section — CAPITOLO XXIII - L'assalto del giaguaro: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXIII_-_L%27assalto_del_giaguaro&oldid=3701073
+Source section — CAPITOLO XXIV - Le disgrazie di Carmaux: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXIV_-_Le_disgrazie_di_Carmaux&oldid=3701076
+Source section — CAPITOLO XXV - Gli antropofaghi della foresta vergine: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXV_-_Gli_antropofaghi_della_foresta_vergine&oldid=3701082
+Source section — CAPITOLO XXVI - L'imboscata degli Arawaki: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXVI_-_L%27imboscata_degli_Arawaki&oldid=3701081
+Source section — CAPITOLO XXVII - Fra le frecce e gli artigli: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXVII_-_Fra_le_frecce_e_gli_artigli&oldid=3701080
+Source section — CAPITOLO XXVIII - I succhiatori di sangue: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXVIII_-_I_succhiatori_di_sangue&oldid=3701079
+Source section — CAPITOLO XXIX - La fuga del traditore: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXIX_-_La_fuga_del_traditore&oldid=3701077
+Source section — CAPITOLO XXX - La caravella spagnola: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXX_-_La_caravella_spagnola&oldid=3701089
+Source section — CAPITOLO XXXI - L'assalto al cono: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXXI_-_L%27assalto_al_cono&oldid=3701086
+Source section — CAPITOLO XXXII - Nelle mani di Wan Guld: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXXII_-_Nelle_mani_di_Wan_Guld&oldid=3701084
+Source section — CAPITOLO XXXIII - La promessa d'un gentiluomo castigliano: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXXIII_-_La_promessa_d%27un_gentiluomo_castigliano&oldid=3701083
+Source section — CAPITOLO XXXIV - L'Olonese: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXXIV_-_L%27Olonese&oldid=3701085
+Source section — CAPITOLO XXXV - La presa di Gibraltar: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXXV_-_La_presa_di_Gibraltar&oldid=3701088
+Source section — CAPITOLO XXXVI - Il giuramento del Corsaro Nero: https://it.wikisource.org/w/index.php?title=Il_Corsaro_Nero/CAPITOLO_XXXVI_-_Il_giuramento_del_Corsaro_Nero&oldid=3701087
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-tigri-mompracem: Le tigri di Mompracem
+Emilio Salgari
+Complete Italian literary text by Emilio Salgari (died 1911); first published 1900. Historical original, with no prepared English edition. Source edition: Fabbri, Milan, 2005; digitized by Liber Liber and republished by Wikisource. Only Salgari’s original novel is included, without modern illustrations or publisher material. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Le_tigri_di_Mompracem
+Bibliographic source record: https://it.wikisource.org/wiki/Discussione%3ALe_tigri_di_Mompracem
+Source section — Capitolo I - I pirati di Mompracem: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_I_-_I_pirati_di_Mompracem&oldid=3724121
+Source section — Capitolo II - Ferocia e generosità: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_II_-_Ferocia_e_generosit%C3%A0&oldid=3724118
+Source section — Capitolo III - L'incrociatore: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_III_-_L%27incrociatore&oldid=3724117
+Source section — Capitolo IV - Tigri e leopardi: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_IV_-_Tigri_e_leopardi&oldid=3724119
+Source section — Capitolo V - La "Perla di Labuan": https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_V_-_La_%22Perla_di_Labuan%22&oldid=3724125
+Source section — Capitolo VI - Lord James Guillonk: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_VI_-_Lord_James_Guillonk&oldid=3724124
+Source section — Capitolo VII - Guarigione ed amore: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_VII_-_Guarigione_ed_amore&oldid=3724123
+Source section — Capitolo VIII - La caccia alla tigre: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_VIII_-_La_caccia_alla_tigre&oldid=3724122
+Source section — Capitolo IX - Il tradimento: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_IX_-_Il_tradimento&oldid=3724120
+Source section — Capitolo X - La caccia al pirata: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_X_-_La_caccia_al_pirata&oldid=3724148
+Source section — Capitolo XI - Giro-Batol: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XI_-_Giro-Batol&oldid=3724130
+Source section — Capitolo XII - La canoa di Giro-Batol: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XII_-_La_canoa_di_Giro-Batol&oldid=3724127
+Source section — Capitolo XIII - In rotta per Mompracem: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XIII_-_In_rotta_per_Mompracem&oldid=3724126
+Source section — Capitolo XIV - Amore ed ebbrezza: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XIV_-_Amore_ed_ebbrezza&oldid=3724128
+Source section — Capitolo XV - Il caporale inglese: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XV_-_Il_caporale_inglese&oldid=3724134
+Source section — Capitolo XVI - La spedizione contro Labuan: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XVI_-_La_spedizione_contro_Labuan&oldid=3724133
+Source section — Capitolo XVII - L'appuntamento notturno: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XVII_-_L%27appuntamento_notturno&oldid=3724132
+Source section — Capitolo XVIII - Due pirati in una stufa: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XVIII_-_Due_pirati_in_una_stufa&oldid=3724131
+Source section — Capitolo XIX - Il fantasma delle giacche rosse: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XIX_-_Il_fantasma_delle_giacche_rosse&oldid=3724129
+Source section — Capitolo XX - Attraverso le foreste: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XX_-_Attraverso_le_foreste&oldid=3724147
+Source section — Capitolo XXI - L'assalto della pantera: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXI_-_L%27assalto_della_pantera&oldid=3724139
+Source section — Capitolo XXII - Il prigioniero: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXII_-_Il_prigioniero&oldid=3724136
+Source section — Capitolo XXIII - Yanez alla villa: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXIII_-_Yanez_alla_villa&oldid=3724135
+Source section — Capitolo XXIV - La moglie della Tigre: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXIV_-_La_moglie_della_Tigre&oldid=3724137
+Source section — Capitolo XXV - A Mompracem: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXV_-_A_Mompracem&oldid=3724143
+Source section — Capitolo XXVI - La regina di Mompracem: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXVI_-_La_regina_di_Mompracem&oldid=3724142
+Source section — Capitolo XXVII - Il bombardamento di Mompracem: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXVII_-_Il_bombardamento_di_Mompracem&oldid=3724141
+Source section — Capitolo XXVIII - Sul mare: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXVIII_-_Sul_mare&oldid=3724140
+Source section — Capitolo XXIX - I prigionieri: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXIX_-_I_prigionieri&oldid=3724138
+Source section — Capitolo XXX - La fuga: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXX_-_La_fuga&oldid=3724146
+Source section — Capitolo XXXI - Yanez: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXXI_-_Yanez&oldid=3724145
+Source section — Capitolo XXXII - L'ultima pugna della Tigre: https://it.wikisource.org/w/index.php?title=Le_tigri_di_Mompracem/Capitolo_XXXII_-_L%27ultima_pugna_della_Tigre&oldid=3724144
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-jungla-nera: I misteri della jungla nera
+Emilio Salgari
+Complete Italian literary text by Emilio Salgari (died 1911); first published 1895. Historical original, with no prepared English edition. Source edition: Supplement to Gente no. 8, 1991; digitized by Liber Liber and republished by Wikisource. Only Salgari’s original novel is included, without modern publisher material. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/I_misteri_della_jungla_nera
+Bibliographic source record: https://it.wikisource.org/wiki/Discussione%3AI_misteri_della_jungla_nera
+Source section — Parte I - Capitolo I - L'assassinio: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_I_-_L%27assassinio&oldid=3699108
+Source section — Parte I - Capitolo II - L'isola misteriosa: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_II_-_L%27isola_misteriosa&oldid=3699105
+Source section — Parte I - Capitolo III - Il vendicatore di Hurti: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_III_-_Il_vendicatore_di_Hurti&oldid=3699104
+Source section — Parte I - Capitolo IV - Nella jungla: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_IV_-_Nella_jungla&oldid=3699106
+Source section — Parte I - Capitolo V - La vergine della pagoda: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_V_-_La_vergine_della_pagoda&oldid=3699112
+Source section — Parte I - Capitolo VI - La condanna di morte: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_VI_-_La_condanna_di_morte&oldid=3699111
+Source section — Parte I - Capitolo VII - Kammamuri: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_VII_-_Kammamuri&oldid=3699110
+Source section — Parte I - Capitolo VIII - Una notte terribile: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_VIII_-_Una_notte_terribile&oldid=3699109
+Source section — Parte I - Capitolo IX - Manciadi: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_IX_-_Manciadi&oldid=3699107
+Source section — Parte I - Capitolo X - Lo strangolatore: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_X_-_Lo_strangolatore&oldid=3699119
+Source section — Parte I - Capitolo XI - Il secondo colpo dello strangolatore: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_XI_-_Il_secondo_colpo_dello_strangolatore&oldid=3699116
+Source section — Parte I - Capitolo XII - L'agguato: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_XII_-_L%27agguato&oldid=3699114
+Source section — Parte I - Capitolo XIII - La tortura: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_XIII_-_La_tortura&oldid=3699113
+Source section — Parte I - Capitolo XIV - A Raimangal: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_XIV_-_A_Raimangal&oldid=3699115
+Source section — Parte I - Capitolo XV - Nella pagoda sotterranea: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_XV_-_Nella_pagoda_sotterranea&oldid=3699118
+Source section — Parte I - Capitolo XVI - Il trionfo degli strangolatori: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_I_-_Capitolo_XVI_-_Il_trionfo_degli_strangolatori&oldid=3699117
+Source section — Parte II - Capitolo I - Il capitano Macpherson: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_I_-_Il_capitano_Macpherson&oldid=3699095
+Source section — Parte II - Capitolo II - Il Negapatnan: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_II_-_Il_Negapatnan&oldid=3699092
+Source section — Parte II - Capitolo III - Il salvatore: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_III_-_Il_salvatore&oldid=3699091
+Source section — Parte II - Capitolo IV - Uccidere per essere felice: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_IV_-_Uccidere_per_essere_felice&oldid=3699093
+Source section — Parte II - Capitolo V - La fuga del thug: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_V_-_La_fuga_del_thug&oldid=3699099
+Source section — Parte II - Capitolo VI - La limonata che scioglie la lingua: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_VI_-_La_limonata_che_scioglie_la_lingua&oldid=3699098
+Source section — Parte II - Capitolo VII - I fiori che addormentano: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_VII_-_I_fiori_che_addormentano&oldid=3699097
+Source section — Parte II - Capitolo VIII - Le rivelazioni del sergente: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_VIII_-_Le_rivelazioni_del_sergente&oldid=3699096
+Source section — Parte II - Capitolo IX - Assediati: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_IX_-_Assediati&oldid=3699094
+Source section — Parte II - Capitolo X - La fregata: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_X_-_La_fregata&oldid=3699103
+Source section — Parte II - Capitolo XI - Inglesi e strangolatori: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_XI_-_Inglesi_e_strangolatori&oldid=3699102
+Source section — Parte II - Capitolo XII - A bordo della Cornwall: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_XII_-_A_bordo_della_Cornwall&oldid=3699101
+Source section — Parte II - Capitolo XIII - La vittoria di Tremal-Naik: https://it.wikisource.org/w/index.php?title=I_misteri_della_jungla_nera/Parte_II_-_Capitolo_XIII_-_La_vittoria_di_Tremal-Naik&oldid=3699100
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-malavoglia: I Malavoglia
+Giovanni Verga
+Complete Italian literary text by Giovanni Verga (died 1922); first published 1881. Historical original, with no prepared English edition. Source edition: Fratelli Treves, Milan, 1907. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/I_Malavoglia
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3AI_Malavoglia.djvu
+Source section — Prefazione: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Prefazione&oldid=3697796
+Source section — Capitolo I: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_I&oldid=3804334
+Source section — Capitolo II: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_II&oldid=3697782
+Source section — Capitolo III: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_III&oldid=3697783
+Source section — Capitolo IV: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_IV&oldid=3697784
+Source section — Capitolo V: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_V&oldid=3697786
+Source section — Capitolo VI: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_VI&oldid=3697787
+Source section — Capitolo VII: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_VII&oldid=3697788
+Source section — Capitolo VIII: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_VIII&oldid=3697789
+Source section — Capitolo IX: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_IX&oldid=3697785
+Source section — Capitolo X: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_X&oldid=3697790
+Source section — Capitolo XI: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_XI&oldid=3697791
+Source section — Capitolo XII: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_XII&oldid=3697792
+Source section — Capitolo XIII: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_XIII&oldid=3697793
+Source section — Capitolo XIV: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_XIV&oldid=3697794
+Source section — Capitolo XV: https://it.wikisource.org/w/index.php?title=I_Malavoglia/Capitolo_XV&oldid=3697795
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-mastro-don-gesualdo: Mastro-don Gesualdo
+Giovanni Verga
+Complete Italian literary text by Giovanni Verga (died 1922); first published 1889. Historical original, with no prepared English edition. Source edition: Third edition, Fratelli Treves, Milan, 1890. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Mastro-don_Gesualdo
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3AMastro-don_Gesualdo_%281890%29.djvu
+Source section — Parte prima / Cap I: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_prima/Cap_I&oldid=3861894
+Source section — Parte prima / Cap II: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_prima/Cap_II&oldid=3861895
+Source section — Parte prima / Cap III: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_prima/Cap_III&oldid=3729190
+Source section — Parte prima / Cap IV: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_prima/Cap_IV&oldid=3729191
+Source section — Parte prima / Cap V: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_prima/Cap_V&oldid=3729192
+Source section — Parte prima / Cap VI: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_prima/Cap_VI&oldid=3729193
+Source section — Parte prima / Cap VII: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_prima/Cap_VII&oldid=3729194
+Source section — Parte seconda / Cap I: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_seconda/Cap_I&oldid=3729200
+Source section — Parte seconda / Cap II: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_seconda/Cap_II&oldid=3729201
+Source section — Parte seconda / Cap III: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_seconda/Cap_III&oldid=3729202
+Source section — Parte seconda / Cap IV: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_seconda/Cap_IV&oldid=3729203
+Source section — Parte seconda / Cap V: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_seconda/Cap_V&oldid=3729204
+Source section — Parte terza / Cap I: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_terza/Cap_I&oldid=3729205
+Source section — Parte terza / Cap II: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_terza/Cap_II&oldid=3729206
+Source section — Parte terza / Cap III: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_terza/Cap_III&oldid=3729207
+Source section — Parte terza / Cap IV: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_terza/Cap_IV&oldid=3729208
+Source section — Parte quarta / Cap I: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_quarta/Cap_I&oldid=3729195
+Source section — Parte quarta / Cap II: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_quarta/Cap_II&oldid=3729196
+Source section — Parte quarta / Cap III: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_quarta/Cap_III&oldid=3729197
+Source section — Parte quarta / Cap IV: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_quarta/Cap_IV&oldid=3729198
+Source section — Parte quarta / Cap V: https://it.wikisource.org/w/index.php?title=Mastro-don_Gesualdo/Parte_quarta/Cap_V&oldid=3729199
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-vita-campi: Vita dei campi
+Giovanni Verga
+Complete Italian literary text by Giovanni Verga (died 1922); first published 1880. Historical original, with no prepared English edition. Source edition: Second edition, Fratelli Treves, Milan, 1881, including Il come, il quando, ed il perché. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Vita_dei_campi_%281881%29
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3AVita_dei_campi.djvu
+Source section — Fantasticheria: https://it.wikisource.org/w/index.php?title=Vita_dei_campi_(1881)/Fantasticheria&oldid=3769329
+Source section — Jeli il pastore: https://it.wikisource.org/w/index.php?title=Vita_dei_campi_(1881)/Jeli_il_pastore&oldid=3769332
+Source section — Rosso Malpelo: https://it.wikisource.org/w/index.php?title=Vita_dei_campi_(1881)/Rosso_Malpelo&oldid=3769336
+Source section — Cavalleria rusticana: https://it.wikisource.org/w/index.php?title=Vita_dei_campi_(1881)/Cavalleria_rusticana&oldid=3861426
+Source section — La Lupa: https://it.wikisource.org/w/index.php?title=Vita_dei_campi_(1881)/La_Lupa&oldid=3861442
+Source section — L'amante di Gramigna: https://it.wikisource.org/w/index.php?title=Vita_dei_campi_(1881)/L%27amante_di_Gramigna&oldid=3861427
+Source section — Guerra di santi: https://it.wikisource.org/w/index.php?title=Vita_dei_campi_(1881)/Guerra_di_santi&oldid=3769330
+Source section — Pentolaccia: https://it.wikisource.org/w/index.php?title=Vita_dei_campi_(1881)/Pentolaccia&oldid=3831119
+Source section — Il come, il quando, ed il perché: https://it.wikisource.org/w/index.php?title=Vita_dei_campi_(1881)/Il_come,_il_quando,_ed_il_perch%C3%A9&oldid=3769331
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-novelle-rusticane: Novelle rusticane
+Giovanni Verga
+Complete Italian literary text by Giovanni Verga (died 1922); first published 1883. Historical original, with no prepared English edition. Source edition: F. Casanova, Turin, 1885. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Novelle_rusticane
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3ANovelle_rusticane_%281885%29.djvu
+Source section — Il Reverendo: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/Il_Reverendo&oldid=3733708
+Source section — Cos'è il re: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/Cos%27%C3%A8_il_re&oldid=3733703
+Source section — Don Licciu papa: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/Don_Licciu_papa&oldid=3733705
+Source section — Il mistero: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/Il_mistero&oldid=3733709
+Source section — Malaria: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/Malaria&oldid=3733712
+Source section — Gli orfani: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/Gli_orfani&oldid=3733706
+Source section — La roba: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/La_roba&oldid=3733710
+Source section — Storia dell'asino di S. Giuseppe: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/Storia_dell%27asino_di_S._Giuseppe&oldid=3733714
+Source section — Pane nero: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/Pane_nero&oldid=3733713
+Source section — I galantuomini: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/I_galantuomini&oldid=3733707
+Source section — Libertà: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/Libert%C3%A0&oldid=3733711
+Source section — Di là del mare: https://it.wikisource.org/w/index.php?title=Novelle_rusticane/Di_l%C3%A0_del_mare&oldid=3733704
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-piccolo-mondo-antico: Piccolo mondo antico
+Antonio Fogazzaro
+Complete Italian literary text by Antonio Fogazzaro (died 1911); first published 1895. Historical original, with no prepared English edition. Source edition: Thirteenth edition, Galli, Milan, 1896. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Piccolo_mondo_antico
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3APiccolo_Mondo_Antico_%28Fogazzaro%29.djvu
+Source section — Dedica: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Dedica&oldid=3743208
+Source section — Parte prima / Risotto e tartufi: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_prima/Risotto_e_tartufi&oldid=3743214
+Source section — Parte prima / Sulla soglia d'un'altra vita: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_prima/Sulla_soglia_d%27un%27altra_vita&oldid=3743215
+Source section — Parte prima / Il gran passo: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_prima/Il_gran_passo&oldid=3832724
+Source section — Parte prima / La lettera del Carlin: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_prima/La_lettera_del_Carlin&oldid=3836854
+Source section — Parte prima / Il «bargnìf» all'opera: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_prima/Il_%C2%ABbargn%C3%ACf%C2%BB_all%27opera&oldid=3838134
+Source section — Parte prima / La vecchia signora di marmo: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_prima/La_vecchia_signora_di_marmo&oldid=3836860
+Source section — Parte seconda / Pescatori: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/Pescatori&oldid=3743228
+Source section — Parte seconda / La sonata del chiaro di luna e delle nuvole: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/La_sonata_del_chiaro_di_luna_e_delle_nuvole&oldid=3743224
+Source section — Parte seconda / Con i guanti: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/Con_i_guanti&oldid=3743218
+Source section — Parte seconda / Con gli artigli: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/Con_gli_artigli&oldid=3743217
+Source section — Parte seconda / Il segreto del vento e dei noci: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/Il_segreto_del_vento_e_dei_noci&oldid=3743221
+Source section — Parte seconda / L'asso di danari spunta: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/L%27asso_di_danari_spunta&oldid=3743223
+Source section — Parte seconda / È giuocato: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/%C3%88_giuocato&oldid=3743229
+Source section — Parte seconda / Ore amare: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/Ore_amare&oldid=3743226
+Source section — Parte seconda / Per il pane, per l'Italia, per Dio: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/Per_il_pane,_per_l%27Italia,_per_Dio&oldid=3743227
+Source section — Parte seconda / Esüsmaria, sciora Lüisa!: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/Es%C3%BCsmaria,_sciora_L%C3%BCisa!&oldid=3743219
+Source section — Parte seconda / Ombra e aurora: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/Ombra_e_aurora&oldid=3743225
+Source section — Parte seconda / Fantasmi: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/Fantasmi&oldid=3743220
+Source section — Parte seconda / In fuga: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_seconda/In_fuga&oldid=3743222
+Source section — Parte terza / Il savio parla: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_terza/Il_savio_parla&oldid=3743231
+Source section — Parte terza / Solenne rullo: https://it.wikisource.org/w/index.php?title=Piccolo_mondo_antico/Parte_terza/Solenne_rullo&oldid=3743232
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-malombra: Malombra
+Antonio Fogazzaro
+Complete Italian literary text by Antonio Fogazzaro (died 1911); first published 1881. Historical original, with no prepared English edition. Source edition: 50° migliaio, Baldini & Castoldi, Milan, 1914. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Malombra
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3AMalombra.djvu
+Source section — Parte prima / I: https://it.wikisource.org/w/index.php?title=Malombra/Parte_prima/I&oldid=3728807
+Source section — Parte prima / II: https://it.wikisource.org/w/index.php?title=Malombra/Parte_prima/II&oldid=3728808
+Source section — Parte prima / III: https://it.wikisource.org/w/index.php?title=Malombra/Parte_prima/III&oldid=3728809
+Source section — Parte prima / IV: https://it.wikisource.org/w/index.php?title=Malombra/Parte_prima/IV&oldid=3728810
+Source section — Parte prima / V: https://it.wikisource.org/w/index.php?title=Malombra/Parte_prima/V&oldid=3728812
+Source section — Parte prima / VI: https://it.wikisource.org/w/index.php?title=Malombra/Parte_prima/VI&oldid=3728813
+Source section — Parte prima / VII: https://it.wikisource.org/w/index.php?title=Malombra/Parte_prima/VII&oldid=3728814
+Source section — Parte prima / VIII: https://it.wikisource.org/w/index.php?title=Malombra/Parte_prima/VIII&oldid=3728815
+Source section — Parte prima / IX: https://it.wikisource.org/w/index.php?title=Malombra/Parte_prima/IX&oldid=3728811
+Source section — Parte seconda / I: https://it.wikisource.org/w/index.php?title=Malombra/Parte_seconda/I&oldid=3728826
+Source section — Parte seconda / II: https://it.wikisource.org/w/index.php?title=Malombra/Parte_seconda/II&oldid=3728827
+Source section — Parte seconda / III: https://it.wikisource.org/w/index.php?title=Malombra/Parte_seconda/III&oldid=3728828
+Source section — Parte seconda / IV: https://it.wikisource.org/w/index.php?title=Malombra/Parte_seconda/IV&oldid=3728829
+Source section — Parte seconda / V: https://it.wikisource.org/w/index.php?title=Malombra/Parte_seconda/V&oldid=3728830
+Source section — Parte seconda / VI: https://it.wikisource.org/w/index.php?title=Malombra/Parte_seconda/VI&oldid=3728831
+Source section — Parte seconda / VII: https://it.wikisource.org/w/index.php?title=Malombra/Parte_seconda/VII&oldid=3728832
+Source section — Parte terza / I: https://it.wikisource.org/w/index.php?title=Malombra/Parte_terza/I&oldid=3728834
+Source section — Parte terza / II: https://it.wikisource.org/w/index.php?title=Malombra/Parte_terza/II&oldid=3728835
+Source section — Parte terza / III: https://it.wikisource.org/w/index.php?title=Malombra/Parte_terza/III&oldid=3728836
+Source section — Parte quarta / I: https://it.wikisource.org/w/index.php?title=Malombra/Parte_quarta/I&oldid=3728817
+Source section — Parte quarta / II: https://it.wikisource.org/w/index.php?title=Malombra/Parte_quarta/II&oldid=3728818
+Source section — Parte quarta / III: https://it.wikisource.org/w/index.php?title=Malombra/Parte_quarta/III&oldid=3728819
+Source section — Parte quarta / IV: https://it.wikisource.org/w/index.php?title=Malombra/Parte_quarta/IV&oldid=3728820
+Source section — Parte quarta / V: https://it.wikisource.org/w/index.php?title=Malombra/Parte_quarta/V&oldid=3728821
+Source section — Parte quarta / VI: https://it.wikisource.org/w/index.php?title=Malombra/Parte_quarta/VI&oldid=3728822
+Source section — Parte quarta / VII: https://it.wikisource.org/w/index.php?title=Malombra/Parte_quarta/VII&oldid=3728823
+Source section — Parte quarta / VIII: https://it.wikisource.org/w/index.php?title=Malombra/Parte_quarta/VIII&oldid=3728824
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-mie-prigioni: Le mie prigioni
+Silvio Pellico
+Complete Italian literary text by Silvio Pellico (died 1854); first published 1832. Historical original, with no prepared English edition. Source edition: Giuseppe Bocca, Turin, 1832. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Le_mie_prigioni
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3ALe_mie_prigioni.djvu
+Source section — Introduzione: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Introduzione&oldid=3722000
+Source section — Cap I: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_I&oldid=3721901
+Source section — Cap II: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_II&oldid=3721902
+Source section — Cap III: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_III&oldid=3721903
+Source section — Cap IV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_IV&oldid=3721904
+Source section — Cap V: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_V&oldid=3721946
+Source section — Cap VI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_VI&oldid=3721947
+Source section — Cap VII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_VII&oldid=3721948
+Source section — Cap VIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_VIII&oldid=3721949
+Source section — Cap IX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_IX&oldid=3721905
+Source section — Cap X: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_X&oldid=3721950
+Source section — Cap XI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XI&oldid=3721961
+Source section — Cap XII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XII&oldid=3721962
+Source section — Cap XIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XIII&oldid=3721963
+Source section — Cap XIV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XIV&oldid=3721964
+Source section — Cap XV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XV&oldid=3721976
+Source section — Cap XVI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XVI&oldid=3721977
+Source section — Cap XVII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XVII&oldid=3721978
+Source section — Cap XVIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XVIII&oldid=3721979
+Source section — Cap XIX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XIX&oldid=3721965
+Source section — Cap XX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XX&oldid=3721980
+Source section — Cap XXI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXI&oldid=3721981
+Source section — Cap XXII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXII&oldid=3721982
+Source section — Cap XXIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXIII&oldid=3721983
+Source section — Cap XXIV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXIV&oldid=3721984
+Source section — Cap XXV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXV&oldid=3721986
+Source section — Cap XXVI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXVI&oldid=3721987
+Source section — Cap XXVII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXVII&oldid=3721988
+Source section — Cap XXVIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXVIII&oldid=3721989
+Source section — Cap XXIX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXIX&oldid=3721985
+Source section — Cap XXX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXX&oldid=3721990
+Source section — Cap XXXI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXXI&oldid=3721991
+Source section — Cap XXXII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXXII&oldid=3721992
+Source section — Cap XXXIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXXIII&oldid=3721993
+Source section — Cap XXXIV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXXIV&oldid=3721994
+Source section — Cap XXXV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXXV&oldid=3721996
+Source section — Cap XXXVI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXXVI&oldid=3721997
+Source section — Cap XXXVII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXXVII&oldid=3721998
+Source section — Cap XXXVIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXXVIII&oldid=3721999
+Source section — Cap XXXIX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XXXIX&oldid=3721995
+Source section — Cap XL: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XL&oldid=3721966
+Source section — Cap XLI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XLI&oldid=3721967
+Source section — Cap XLII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XLII&oldid=3721968
+Source section — Cap XLIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XLIII&oldid=3721969
+Source section — Cap XLIV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XLIV&oldid=3721970
+Source section — Cap XLV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XLV&oldid=3721972
+Source section — Cap XLVI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XLVI&oldid=3721973
+Source section — Cap XLVII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XLVII&oldid=3721974
+Source section — Cap XLVIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XLVIII&oldid=3721975
+Source section — Cap XLIX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XLIX&oldid=3721971
+Source section — Cap L: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_L&oldid=3721906
+Source section — Cap LI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LI&oldid=3721907
+Source section — Cap LII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LII&oldid=3721908
+Source section — Cap LIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LIII&oldid=3721909
+Source section — Cap LIV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LIV&oldid=3721910
+Source section — Cap LV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LV&oldid=3721912
+Source section — Cap LVI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LVI&oldid=3721913
+Source section — Cap LVII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LVII&oldid=3721914
+Source section — Cap LVIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LVIII&oldid=3721915
+Source section — Cap LIX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LIX&oldid=3721911
+Source section — Cap LX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LX&oldid=3721916
+Source section — Cap LXI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXI&oldid=3721917
+Source section — Cap LXII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXII&oldid=3721918
+Source section — Cap LXIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXIII&oldid=3721919
+Source section — Cap LXIV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXIV&oldid=3721920
+Source section — Cap LXV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXV&oldid=3721922
+Source section — Cap LXVI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXVI&oldid=3721923
+Source section — Cap LXVII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXVII&oldid=3721924
+Source section — Cap LXVIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXVIII&oldid=3721925
+Source section — Cap LXIX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXIX&oldid=3721921
+Source section — Cap LXX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXX&oldid=3721926
+Source section — Cap LXXI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXI&oldid=3721927
+Source section — Cap LXXII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXII&oldid=3721928
+Source section — Cap LXXIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXIII&oldid=3721929
+Source section — Cap LXXIV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXIV&oldid=3721930
+Source section — Cap LXXV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXV&oldid=3721932
+Source section — Cap LXXVI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXVI&oldid=3721933
+Source section — Cap LXXVII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXVII&oldid=3721934
+Source section — Cap LXXVIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXVIII&oldid=3721935
+Source section — Cap LXXIX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXIX&oldid=3721931
+Source section — Cap LXXX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXX&oldid=3721936
+Source section — Cap LXXXI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXXI&oldid=3721937
+Source section — Cap LXXXII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXXII&oldid=3721938
+Source section — Cap LXXXIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXXIII&oldid=3721939
+Source section — Cap LXXXIV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXXIV&oldid=3721940
+Source section — Cap LXXXV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXXV&oldid=3721942
+Source section — Cap LXXXVI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXXVI&oldid=3721943
+Source section — Cap LXXXVII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXXVII&oldid=3721944
+Source section — Cap LXXXVIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXXVIII&oldid=3721945
+Source section — Cap LXXXIX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_LXXXIX&oldid=3721941
+Source section — Cap XC: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XC&oldid=3721951
+Source section — Cap XCI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XCI&oldid=3721952
+Source section — Cap XCII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XCII&oldid=3721953
+Source section — Cap XCIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XCIII&oldid=3721954
+Source section — Cap XCIV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XCIV&oldid=3721955
+Source section — Cap XCV: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XCV&oldid=3721957
+Source section — Cap XCVI: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XCVI&oldid=3721958
+Source section — Cap XCVII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XCVII&oldid=3721959
+Source section — Cap XCVIII: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XCVIII&oldid=3721960
+Source section — Cap XCIX: https://it.wikisource.org/w/index.php?title=Le_mie_prigioni/Cap_XCIX&oldid=3721956
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-jacopo-ortis: Ultime lettere di Jacopo Ortis
+Ugo Foscolo
+Complete Italian literary text by Ugo Foscolo (died 1827); first published 1802. Historical original, with no prepared English edition. Source edition: Edoardo Sonzogno, Milan, 1887, from Ultime lettere di Jacopo Ortis e Discorso sul testo della Commedia di Dante; only the complete Ortis novel is included. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Ultime_lettere_di_Jacopo_Ortis
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3AUltime_lettere_di_Jacopo_Ortis.djvu
+Source section — Al lettore: https://it.wikisource.org/w/index.php?title=Ultime_lettere_di_Jacopo_Ortis/Al_lettore&oldid=3829758
+Source section — Parte prima: https://it.wikisource.org/w/index.php?title=Ultime_lettere_di_Jacopo_Ortis/Parte_prima&oldid=3829761
+Source section — Frammento della storia di Lauretta: https://it.wikisource.org/w/index.php?title=Ultime_lettere_di_Jacopo_Ortis/Frammento_della_storia_di_Lauretta&oldid=3829759
+Source section — Lorenzo a chi legge: https://it.wikisource.org/w/index.php?title=Ultime_lettere_di_Jacopo_Ortis/Lorenzo_a_chi_legge&oldid=3829760
+Source section — Parte seconda: https://it.wikisource.org/w/index.php?title=Ultime_lettere_di_Jacopo_Ortis/Parte_seconda&oldid=3766776
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-confessioni-italiano: Le confessioni d’un Italiano
+Ippolito Nievo
+Complete Italian literary text by Ippolito Nievo (died 1861); first published 1867. Historical original, with no prepared English edition. Source edition: Successori Le Monnier, Florence, 1867, both volumes. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded. The source is the 1867 edition titled Le confessioni di un ottuagenario; the later biographical introduction is excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Le_confessioni_di_un_ottuagenario
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3ALe_confessioni_di_un_ottuagenario_I.djvu
+Source section — Cap. I: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._I&oldid=3814400
+Source section — Cap. II: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._II&oldid=3837100
+Source section — Cap. III: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._III&oldid=3721025
+Source section — Cap. IV: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._IV&oldid=3721026
+Source section — Cap. V: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._V&oldid=3721028
+Source section — Cap. VI: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._VI&oldid=3814402
+Source section — Cap. VII: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._VII&oldid=3721030
+Source section — Cap. VIII: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._VIII&oldid=3721031
+Source section — Cap. IX: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._IX&oldid=3721027
+Source section — Cap. X: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._X&oldid=3721032
+Source section — Cap. XI: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XI&oldid=3721033
+Source section — Cap. XII: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XII&oldid=3721034
+Source section — Cap. XIII: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XIII&oldid=3721035
+Source section — Cap. XIV: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XIV&oldid=3721036
+Source section — Cap. XV: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XV&oldid=3721038
+Source section — Cap. XVI: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XVI&oldid=3721039
+Source section — Cap. XVII: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XVII&oldid=3721040
+Source section — Cap. XVIII: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XVIII&oldid=3721041
+Source section — Cap. XIX: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XIX&oldid=3721037
+Source section — Cap. XX: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XX&oldid=3721042
+Source section — Cap. XXI: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XXI&oldid=3721043
+Source section — Cap. XXII: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XXII&oldid=3721044
+Source section — Cap. XXIII: https://it.wikisource.org/w/index.php?title=Le_confessioni_di_un_ottuagenario/Cap._XXIII&oldid=3721045
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-locandiera: La locandiera
+Carlo Goldoni
+Complete Italian literary text by Carlo Goldoni (died 1793); first published 1753. Historical original, with no prepared English edition. Source edition: Opere complete, volume IX, Municipio di Venezia, 1910, edited by Giuseppe Ortolani. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded. The author’s dedication and preface, cast list, and all three acts are retained; the later editor’s historical note and textual-variant footnotes are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/La_locandiera
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3AGoldoni_-_Opere_complete%2C_Venezia_1910%2C_IX.djvu
+Source section — Lettera di dedica: https://it.wikisource.org/w/index.php?title=La_locandiera/Lettera_di_dedica&oldid=3812440
+Source section — L'autore a chi legge: https://it.wikisource.org/w/index.php?title=La_locandiera/L%27autore_a_chi_legge&oldid=3812439
+Source section — Personaggi: https://it.wikisource.org/w/index.php?title=La_locandiera/Personaggi&oldid=3812442
+Source section — Atto I: https://it.wikisource.org/w/index.php?title=La_locandiera/Atto_I&oldid=3812436
+Source section — Atto II: https://it.wikisource.org/w/index.php?title=La_locandiera/Atto_II&oldid=3812437
+Source section — Atto III: https://it.wikisource.org/w/index.php?title=La_locandiera/Atto_III&oldid=3812438
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-servitore-due-padroni: Il servitore di due padroni
+Carlo Goldoni
+Complete Italian literary text by Carlo Goldoni (died 1793); first published 1746. Historical original, with no prepared English edition. Source edition: Opere complete, volume I, Municipio di Venezia, 1907, edited by Giuseppe Ortolani; the 1761 text of the comedy. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded. The author’s dedication and preface, cast list, and all three acts are retained; the later editor’s historical note and textual-variant footnotes are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Il_servitore_di_due_padroni
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3AGoldoni_-_Opere_complete%2C_Venezia_1907%2C_I.djvu
+Source section — Lettera di dedica: https://it.wikisource.org/w/index.php?title=Il_servitore_di_due_padroni/Lettera_di_dedica&oldid=3808678
+Source section — L'autore a chi legge: https://it.wikisource.org/w/index.php?title=Il_servitore_di_due_padroni/L%27autore_a_chi_legge&oldid=3808677
+Source section — Personaggi: https://it.wikisource.org/w/index.php?title=Il_servitore_di_due_padroni/Personaggi&oldid=3808680
+Source section — Atto I: https://it.wikisource.org/w/index.php?title=Il_servitore_di_due_padroni/Atto_I&oldid=3808674
+Source section — Atto II: https://it.wikisource.org/w/index.php?title=Il_servitore_di_due_padroni/Atto_II&oldid=3808675
+Source section — Atto III: https://it.wikisource.org/w/index.php?title=Il_servitore_di_due_padroni/Atto_III&oldid=3808676
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-decameron: Decameron
+Giovanni Boccaccio
+Complete Italian literary text by Giovanni Boccaccio (died 1375); first published 1353. Historical original, with no prepared English edition. Source edition: Laterza, Bari, 1927, edited by Aldo Francesco Massera; both volumes. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded. All one hundred tales and the complete narrative frame are included; editorial footnotes, the editor’s concluding note, and reference indexes are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Decameron
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3ABoccaccio_-_Decameron_I.djvu
+Source section — Proemio: https://it.wikisource.org/w/index.php?title=Decameron/Proemio&oldid=3798744
+Source section — Giornata prima / Introduzione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Introduzione&oldid=3798734
+Source section — Giornata prima / Novella prima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Novella_prima&oldid=3832435
+Source section — Giornata prima / Novella seconda: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Novella_seconda&oldid=3798735
+Source section — Giornata prima / Novella terza: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Novella_terza&oldid=3798736
+Source section — Giornata prima / Novella quarta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Novella_quarta&oldid=3682716
+Source section — Giornata prima / Novella quinta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Novella_quinta&oldid=3682717
+Source section — Giornata prima / Novella sesta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Novella_sesta&oldid=3682719
+Source section — Giornata prima / Novella settima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Novella_settima&oldid=3682720
+Source section — Giornata prima / Novella ottava: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Novella_ottava&oldid=3682714
+Source section — Giornata prima / Novella nona: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Novella_nona&oldid=3682713
+Source section — Giornata prima / Novella decima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Novella_decima&oldid=3682712
+Source section — Giornata prima / Conclusione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_prima/Conclusione&oldid=3798733
+Source section — Giornata seconda / Introduzione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Introduzione&oldid=3682750
+Source section — Giornata seconda / Novella prima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Novella_prima&oldid=3682754
+Source section — Giornata seconda / Novella seconda: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Novella_seconda&oldid=3682757
+Source section — Giornata seconda / Novella terza: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Novella_terza&oldid=3682760
+Source section — Giornata seconda / Novella quarta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Novella_quarta&oldid=3682755
+Source section — Giornata seconda / Novella quinta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Novella_quinta&oldid=3682756
+Source section — Giornata seconda / Novella sesta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Novella_sesta&oldid=3682758
+Source section — Giornata seconda / Novella settima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Novella_settima&oldid=3682759
+Source section — Giornata seconda / Novella ottava: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Novella_ottava&oldid=3682753
+Source section — Giornata seconda / Novella nona: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Novella_nona&oldid=3682752
+Source section — Giornata seconda / Novella decima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Novella_decima&oldid=3682751
+Source section — Giornata seconda / Conclusione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_seconda/Conclusione&oldid=3682749
+Source section — Giornata terza / Introduzione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Introduzione&oldid=3682789
+Source section — Giornata terza / Novella prima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Novella_prima&oldid=3682793
+Source section — Giornata terza / Novella seconda: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Novella_seconda&oldid=3682796
+Source section — Giornata terza / Novella terza: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Novella_terza&oldid=3682799
+Source section — Giornata terza / Novella quarta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Novella_quarta&oldid=3682794
+Source section — Giornata terza / Novella quinta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Novella_quinta&oldid=3798740
+Source section — Giornata terza / Novella sesta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Novella_sesta&oldid=3682797
+Source section — Giornata terza / Novella settima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Novella_settima&oldid=3682798
+Source section — Giornata terza / Novella ottava: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Novella_ottava&oldid=3682792
+Source section — Giornata terza / Novella nona: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Novella_nona&oldid=3798739
+Source section — Giornata terza / Novella decima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Novella_decima&oldid=3682790
+Source section — Giornata terza / Conclusione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_terza/Conclusione&oldid=3832427
+Source section — Giornata quarta / Introduzione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Introduzione&oldid=3682724
+Source section — Giornata quarta / Novella prima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Novella_prima&oldid=3682728
+Source section — Giornata quarta / Novella seconda: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Novella_seconda&oldid=3682731
+Source section — Giornata quarta / Novella terza: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Novella_terza&oldid=3682734
+Source section — Giornata quarta / Novella quarta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Novella_quarta&oldid=3682729
+Source section — Giornata quarta / Novella quinta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Novella_quinta&oldid=3682730
+Source section — Giornata quarta / Novella sesta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Novella_sesta&oldid=3682732
+Source section — Giornata quarta / Novella settima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Novella_settima&oldid=3682733
+Source section — Giornata quarta / Novella ottava: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Novella_ottava&oldid=3682727
+Source section — Giornata quarta / Novella nona: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Novella_nona&oldid=3682726
+Source section — Giornata quarta / Novella decima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Novella_decima&oldid=3682725
+Source section — Giornata quarta / Conclusione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quarta/Conclusione&oldid=3682723
+Source section — Giornata quinta / Introduzione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Introduzione&oldid=3682737
+Source section — Giornata quinta / Novella prima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Novella_prima&oldid=3682741
+Source section — Giornata quinta / Novella seconda: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Novella_seconda&oldid=3682744
+Source section — Giornata quinta / Novella terza: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Novella_terza&oldid=3682747
+Source section — Giornata quinta / Novella quarta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Novella_quarta&oldid=3682742
+Source section — Giornata quinta / Novella quinta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Novella_quinta&oldid=3682743
+Source section — Giornata quinta / Novella sesta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Novella_sesta&oldid=3682745
+Source section — Giornata quinta / Novella settima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Novella_settima&oldid=3682746
+Source section — Giornata quinta / Novella ottava: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Novella_ottava&oldid=3682740
+Source section — Giornata quinta / Novella nona: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Novella_nona&oldid=3682739
+Source section — Giornata quinta / Novella decima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Novella_decima&oldid=3682738
+Source section — Giornata quinta / Conclusione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_quinta/Conclusione&oldid=3682736
+Source section — Giornata sesta / Introduzione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Introduzione&oldid=3838164
+Source section — Giornata sesta / Novella prima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Novella_prima&oldid=3682767
+Source section — Giornata sesta / Novella seconda: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Novella_seconda&oldid=3682770
+Source section — Giornata sesta / Novella terza: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Novella_terza&oldid=3682773
+Source section — Giornata sesta / Novella quarta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Novella_quarta&oldid=3682768
+Source section — Giornata sesta / Novella quinta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Novella_quinta&oldid=3682769
+Source section — Giornata sesta / Novella sesta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Novella_sesta&oldid=3682771
+Source section — Giornata sesta / Novella settima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Novella_settima&oldid=3682772
+Source section — Giornata sesta / Novella ottava: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Novella_ottava&oldid=3682766
+Source section — Giornata sesta / Novella nona: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Novella_nona&oldid=3682765
+Source section — Giornata sesta / Novella decima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Novella_decima&oldid=3682764
+Source section — Giornata sesta / Conclusione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_sesta/Conclusione&oldid=3682762
+Source section — Giornata settima / Introduzione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Introduzione&oldid=3682776
+Source section — Giornata settima / Novella prima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Novella_prima&oldid=3682780
+Source section — Giornata settima / Novella seconda: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Novella_seconda&oldid=3682783
+Source section — Giornata settima / Novella terza: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Novella_terza&oldid=3682786
+Source section — Giornata settima / Novella quarta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Novella_quarta&oldid=3682781
+Source section — Giornata settima / Novella quinta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Novella_quinta&oldid=3682782
+Source section — Giornata settima / Novella sesta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Novella_sesta&oldid=3682784
+Source section — Giornata settima / Novella settima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Novella_settima&oldid=3682785
+Source section — Giornata settima / Novella ottava: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Novella_ottava&oldid=3682779
+Source section — Giornata settima / Novella nona: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Novella_nona&oldid=3682778
+Source section — Giornata settima / Novella decima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Novella_decima&oldid=3682777
+Source section — Giornata settima / Conclusione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_settima/Conclusione&oldid=3682775
+Source section — Giornata ottava / Introduzione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Introduzione&oldid=3798729
+Source section — Giornata ottava / Novella prima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Novella_prima&oldid=3682702
+Source section — Giornata ottava / Novella seconda: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Novella_seconda&oldid=3682705
+Source section — Giornata ottava / Novella terza: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Novella_terza&oldid=3682708
+Source section — Giornata ottava / Novella quarta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Novella_quarta&oldid=3798730
+Source section — Giornata ottava / Novella quinta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Novella_quinta&oldid=3798731
+Source section — Giornata ottava / Novella sesta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Novella_sesta&oldid=3798732
+Source section — Giornata ottava / Novella settima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Novella_settima&oldid=3682707
+Source section — Giornata ottava / Novella ottava: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Novella_ottava&oldid=3682701
+Source section — Giornata ottava / Novella nona: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Novella_nona&oldid=3682700
+Source section — Giornata ottava / Novella decima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Novella_decima&oldid=3682699
+Source section — Giornata ottava / Conclusione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_ottava/Conclusione&oldid=3798728
+Source section — Giornata nona / Introduzione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Introduzione&oldid=3682685
+Source section — Giornata nona / Novella prima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Novella_prima&oldid=3682689
+Source section — Giornata nona / Novella seconda: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Novella_seconda&oldid=3682692
+Source section — Giornata nona / Novella terza: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Novella_terza&oldid=3682695
+Source section — Giornata nona / Novella quarta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Novella_quarta&oldid=3682690
+Source section — Giornata nona / Novella quinta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Novella_quinta&oldid=3682691
+Source section — Giornata nona / Novella sesta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Novella_sesta&oldid=3682693
+Source section — Giornata nona / Novella settima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Novella_settima&oldid=3682694
+Source section — Giornata nona / Novella ottava: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Novella_ottava&oldid=3682688
+Source section — Giornata nona / Novella nona: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Novella_nona&oldid=3682687
+Source section — Giornata nona / Novella decima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Novella_decima&oldid=3836862
+Source section — Giornata nona / Conclusione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_nona/Conclusione&oldid=3682684
+Source section — Giornata decima / Introduzione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Introduzione&oldid=3798721
+Source section — Giornata decima / Novella prima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Novella_prima&oldid=3682676
+Source section — Giornata decima / Novella seconda: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Novella_seconda&oldid=3798724
+Source section — Giornata decima / Novella terza: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Novella_terza&oldid=3798725
+Source section — Giornata decima / Novella quarta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Novella_quarta&oldid=3798722
+Source section — Giornata decima / Novella quinta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Novella_quinta&oldid=3798723
+Source section — Giornata decima / Novella sesta: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Novella_sesta&oldid=3682680
+Source section — Giornata decima / Novella settima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Novella_settima&oldid=3682681
+Source section — Giornata decima / Novella ottava: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Novella_ottava&oldid=3682675
+Source section — Giornata decima / Novella nona: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Novella_nona&oldid=3682674
+Source section — Giornata decima / Novella decima: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Novella_decima&oldid=3682673
+Source section — Giornata decima / Conclusione: https://it.wikisource.org/w/index.php?title=Decameron/Giornata_decima/Conclusione&oldid=3798720
+Source section — Conclusione dell'autore: https://it.wikisource.org/w/index.php?title=Decameron/Conclusione_dell%27autore&oldid=3798718
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-principe: Il Principe
+Niccolò Machiavelli
+Complete Italian literary text by Niccolò Machiavelli (died 1527); first published 1532. Historical original, with no prepared English edition. Source edition: Italia, 1814. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Il_Principe
+Bibliographic source record: https://it.wikisource.org/wiki/Indice%3AIl_Principe.djvu
+Source section — Dedica: https://it.wikisource.org/w/index.php?title=Il_Principe/Dedica&oldid=3702275
+Source section — Capitolo I: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_I&oldid=3702249
+Source section — Capitolo II: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_II&oldid=3702250
+Source section — Capitolo III: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_III&oldid=3702251
+Source section — Capitolo IV: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_IV&oldid=3702252
+Source section — Capitolo V: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_V&oldid=3702254
+Source section — Capitolo VI: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_VI&oldid=3702255
+Source section — Capitolo VII: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_VII&oldid=3702256
+Source section — Capitolo VIII: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_VIII&oldid=3702257
+Source section — Capitolo IX: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_IX&oldid=3702253
+Source section — Capitolo X: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_X&oldid=3702258
+Source section — Capitolo XI: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XI&oldid=3702259
+Source section — Capitolo XII: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XII&oldid=3702260
+Source section — Capitolo XIII: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XIII&oldid=3702261
+Source section — Capitolo XIV: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XIV&oldid=3702262
+Source section — Capitolo XV: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XV&oldid=3702264
+Source section — Capitolo XVI: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XVI&oldid=3702265
+Source section — Capitolo XVII: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XVII&oldid=3702266
+Source section — Capitolo XVIII: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XVIII&oldid=3702267
+Source section — Capitolo XIX: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XIX&oldid=3702263
+Source section — Capitolo XX: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XX&oldid=3702268
+Source section — Capitolo XXI: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XXI&oldid=3702269
+Source section — Capitolo XXII: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XXII&oldid=3702270
+Source section — Capitolo XXIII: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XXIII&oldid=3702271
+Source section — Capitolo XXIV: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XXIV&oldid=3702272
+Source section — Capitolo XXV: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XXV&oldid=3702273
+Source section — Capitolo XXVI: https://it.wikisource.org/w/index.php?title=Il_Principe/Capitolo_XXVI&oldid=3702274
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+it-orlando-furioso: Orlando furioso
+Ludovico Ariosto
+Complete Italian literary text by Ludovico Ariosto (died 1533); first published 1516. Historical original, with no prepared English edition. Final 46-canto text. Digitization by Liber Liber, with extensive corrections and HTML preparation by Barbara Magni. Project Gutenberg identifies its source ebook as public domain in the USA. Linguary removes website boilerplate, normalizes whitespace, and divides the text into reader chapters and blocks. No modern translation or cover artwork is included.
+Italian source — Project Gutenberg 3747: https://www.gutenberg.org/ebooks/3747
+
+it-operette-morali: Operette morali
+Giacomo Leopardi
+Complete Italian literary text by Giacomo Leopardi (died 1837); first published 1827. Historical original, with no prepared English edition. Source edition: Laterza, Bari, 1928, edited by Alessandro Donati; the complete literary collection with Leopardi’s own notice and notes, excluding the editor’s apparatus. Transcribed and proofread by Italian Wikisource contributors; the linked source sections and their page histories identify the contributors and source edition. The source edition metadata offers CC BY-SA 3.0. This adapted transcription is distributed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), including Linguary’s text-formatting contributions. Changes: website navigation and scan page markers removed, whitespace normalized, and text divided into reader chapters and blocks; illustrations are excluded. The final collection of twenty-four operette and the author’s notice and notes are included; unrelated drafts and the later editor’s supplemental material are excluded.
+Italian edition and contributors — Wikisource: https://it.wikisource.org/wiki/Operette_morali_%28Leopardi_-_Donati%29
+Bibliographic source record: https://it.wikisource.org/wiki/Indice:Leopardi,_Giacomo_–_Operette_morali,_1928_–_BEIC_1857808.djvu
+Source section — Storia del genere umano: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Storia_del_genere_umano&oldid=3820711
+Source section — Dialogo di Ercole e di Atlante: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_Ercole_e_di_Atlante&oldid=3820690
+Source section — Dialogo della Moda e della Morte: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_della_Moda_e_della_Morte&oldid=3820685
+Source section — Proposta di premi fatta dall'Accademia dei Sillografi: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Proposta_di_premi_fatta_dall%27Accademia_dei_Sillografi&oldid=3820710
+Source section — Dialogo di un Folletto e di uno Gnomo: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_un_Folletto_e_di_uno_Gnomo&oldid=3820698
+Source section — Dialogo di Malambruno e di Farfarello: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_Malambruno_e_di_Farfarello&oldid=3820692
+Source section — Dialogo della Natura e di un'Anima: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_della_Natura_e_di_un%27Anima&oldid=3820686
+Source section — Dialogo della Terra e della Luna: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_della_Terra_e_della_Luna&oldid=3820688
+Source section — La scommessa di Prometeo: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/La_scommessa_di_Prometeo&oldid=3820705
+Source section — Dialogo di un Fisico e di un Metafisico: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_un_Fisico_e_di_un_Metafisico&oldid=3820697
+Source section — Dialogo di T. Tasso e del suo Genio familiare: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_T._Tasso_e_del_suo_Genio_familiare&oldid=3820694
+Source section — Dialogo della Natura e di un Islandese: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_della_Natura_e_di_un_Islandese&oldid=3820687
+Source section — Il Parini, ovvero Della Gloria: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Il_Parini,_ovvero_Della_Gloria&oldid=3820703
+Source section — Dialogo di Federico Ruysch e delle sue mummie: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_Federico_Ruysch_e_delle_sue_mummie&oldid=3820691
+Source section — Detti memorabili di Filippo Ottonieri: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Detti_memorabili_di_Filippo_Ottonieri&oldid=3820684
+Source section — Dialogo di Cristoforo Colombo e di Pietro Gutierrez: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_Cristoforo_Colombo_e_di_Pietro_Gutierrez&oldid=3820689
+Source section — Elogio degli Uccelli: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Elogio_degli_Uccelli&oldid=3820700
+Source section — Cantico del Gallo silvestre: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Cantico_del_Gallo_silvestre&oldid=3820683
+Source section — Frammento apocrifo di Stratone da Lampsaco: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Frammento_apocrifo_di_Stratone_da_Lampsaco&oldid=3820701
+Source section — Dialogo di Timandro e di Eleandro: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_Timandro_e_di_Eleandro&oldid=3820695
+Source section — Il Copernico: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Il_Copernico&oldid=3820702
+Source section — Dialogo di Plotino e di Porfirio: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_Plotino_e_di_Porfirio&oldid=3820693
+Source section — Dialogo di un Venditore di almanacchi e di un Passeggere: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_un_Venditore_di_almanacchi_e_di_un_Passeggere&oldid=3820699
+Source section — Dialogo di Tristano e d'un amico: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Dialogo_di_Tristano_e_d%27un_amico&oldid=3820696
+Source section — Note / Notizia intorno a queste Operette: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Note/Notizia_intorno_a_queste_Operette&oldid=3820709
+Source section — Note / Note dell'Autore: https://it.wikisource.org/w/index.php?title=Operette_morali_(Leopardi_-_Donati)/Note/Note_dell%27Autore&oldid=3820708
+Transcription and adaptation license — CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
