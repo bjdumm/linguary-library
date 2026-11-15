@@ -1255,6 +1255,698 @@
       "sha256": "e5532553c7fba6163d8fe2c9f03bb8a4a861bdd28168cfe104114892bcef9d34",
       "byteCount": 1002422,
       "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "ja-ten-nights-of-dreams",
+        "language": "Japanese",
+        "title": "夢十夜 — Ten Nights of Dreams",
+        "author": "夏目漱石 · Natsume Sōseki",
+        "summary": "Complete dream-story cycle • All ten nights",
+        "collectionLabel": "Stories",
+        "legacyPassageID": "ja-ten-nights-of-dreams",
+        "translationCredit": "Japanese: Natsume Sōseki (1867–1916), complete 夢十夜 (Ten Nights of Dreams). Aozora Bunko transcription by Eiji Noguchi (野口英司), first released 1997-12-16, revised 2013-07-17. Base edition: 夏目漱石全集10, Chikuma Bunko / Chikuma Shobō, first printing 1988-07-26; transcription used the fifth printing, 1996-07-15; parent edition 筑摩全集類聚版夏目漱石全集, 1971–1972. Aozora Bunko and its volunteer contributors are credited as the digital source. The public-domain original is redistributed under Aozora’s published reuse rules. Ruby annotations and HTML formatting are removed; two image-encoded characters are restored as Unicode (睜 and 戢); paragraph boundaries and all ten nights are retained. Bibliographic data adapted from Aozora Bunko is CC BY 4.0. English: original AI-assisted study translation prepared directly from the Japanese for Linguary (2026), preserving every text block. No third-party English translation was used. No Aozora endorsement is implied.",
+        "resource": "ja-ten-nights-of-dreams",
+        "sources": [
+          {
+            "title": "Japanese original: Aozora Bunko, complete 夢十夜",
+            "url": "https://www.aozora.gr.jp/cards/000148/files/799_14972.html"
+          },
+          {
+            "title": "Aozora edition and contributor record",
+            "url": "https://www.aozora.gr.jp/cards/000148/card799.html"
+          },
+          {
+            "title": "Aozora reuse rules for public-domain works",
+            "url": "https://www.aozora.gr.jp/guide/kijyunn.html"
+          },
+          {
+            "title": "Bibliographic metadata: CC BY 4.0",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        ]
+      },
+      "sha256": "2309780dcbfd853075e35f843027f9708ff741a3d165e90312dc273fce977fe5",
+      "byteCount": 130774,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "ja-takasebune",
+        "language": "Japanese",
+        "title": "高瀬舟 — The Takase Boat",
+        "author": "森鴎外 — Mori Ōgai",
+        "summary": "Complete short story • An escort and an exile reflect on contentment, suffering and justice",
+        "collectionLabel": "Complete short story",
+        "legacyPassageID": "ja-takasebune",
+        "translationCredit": "Japanese: complete original short story by Mori Ōgai (1862–1922), from Aozora Bunko's modern-character, modern-kana transcription. Text source: Sanshō Dayū / Takasebune, Iwanami Bunko; first printing 1938-07-01, revised 34th printing 1967-06-16, 77th printing 1998-04-06, as identified in the source file's colophon. First published 1916-01-01 in Chūō Kōron. Input: kompass; proofreading: 土屋隆. Aozora file created 2006-03-08, revised 2011-04-27. Prepared by Aozora Bunko volunteers. Public-domain original; Aozora's file-use rules permit paid or free redistribution and format conversion of public-domain works. Edition adaptation: ruby annotations and HTML presentation removed while preserving their base characters; paragraph indentation and blank lines normalized; section dividers retained. No original prose is abridged. Source spelling is retained. English: original AI-assisted study translation prepared directly from this Japanese text for Linguary (2026), with one corresponding English block for every original block. No third-party English translation was used. Source bibliography metadata: Aozora Bunko, CC BY 4.0; metadata reformatted and summarized for this edition. No endorsement is implied.",
+        "resource": "ja-takasebune",
+        "sources": [
+          {
+            "title": "Japanese original: Aozora Bunko source text and full colophon",
+            "url": "https://www.aozora.gr.jp/cards/000129/files/45245_22007.html"
+          },
+          {
+            "title": "Aozora bibliography and author dates",
+            "url": "https://www.aozora.gr.jp/cards/000129/card45245.html"
+          },
+          {
+            "title": "Aozora rules for public-domain file reuse",
+            "url": "https://www.aozora.gr.jp/guide/kijyunn.html"
+          },
+          {
+            "title": "CC BY 4.0 — source bibliography metadata",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        ]
+      },
+      "sha256": "3d2dabc73e62e70e41da9c4f40cebdc3aabe31b5ebb22a74a7ac25c7c29978af",
+      "byteCount": 55740,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "ja-last-phrase",
+        "language": "Japanese",
+        "title": "最後の一句 — The Last Phrase",
+        "author": "森鴎外 — Mori Ōgai",
+        "summary": "Complete short story • A daughter's petition challenges the authorities in eighteenth-century Osaka",
+        "collectionLabel": "Complete short story",
+        "legacyPassageID": "ja-last-phrase",
+        "translationCredit": "Japanese: complete original short story by Mori Ōgai (1862–1922), from Aozora Bunko's modern-character, modern-kana transcription. Text source: Sanshō Dayū / Takasebune, Iwanami Bunko; first printing 1938-07-01, revised 34th printing 1967-06-16, 77th printing 1998-04-06, as identified in the source file's colophon. First published 1915-10-01 in Chūō Kōron. Input: kompass; proofreading: 土屋隆. Aozora file created 2006-03-21, revised 2011-02-27. Prepared by Aozora Bunko volunteers. Public-domain original; Aozora's file-use rules permit paid or free redistribution and format conversion of public-domain works. Edition adaptation: ruby annotations and HTML presentation removed while preserving their base characters; paragraph indentation and blank lines normalized; section dividers retained. No original prose is abridged. Source spelling is retained. English: original AI-assisted study translation prepared directly from this Japanese text for Linguary (2026), with one corresponding English block for every original block. No third-party English translation was used. Source bibliography metadata: Aozora Bunko, CC BY 4.0; metadata reformatted and summarized for this edition. No endorsement is implied. Dates and ages follow the historical source; lunar-calendar dates are not converted to modern Gregorian dates.",
+        "resource": "ja-last-phrase",
+        "sources": [
+          {
+            "title": "Japanese original: Aozora Bunko source text and full colophon",
+            "url": "https://www.aozora.gr.jp/cards/000129/files/45244_22341.html"
+          },
+          {
+            "title": "Aozora bibliography and author dates",
+            "url": "https://www.aozora.gr.jp/cards/000129/card45244.html"
+          },
+          {
+            "title": "Aozora rules for public-domain file reuse",
+            "url": "https://www.aozora.gr.jp/guide/kijyunn.html"
+          },
+          {
+            "title": "CC BY 4.0 — source bibliography metadata",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        ]
+      },
+      "sha256": "aceb78e5f86a6c56b442c3692598d6eb69d5076792b769265e883cffbae6a4de",
+      "byteCount": 76809,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "pt-um-apologo",
+        "language": "Portuguese",
+        "title": "Um Apólogo — A Fable",
+        "author": "Machado de Assis",
+        "summary": "Complete short story • A needle and a thread argue over work, pride and recognition",
+        "collectionLabel": "Complete short story",
+        "legacyPassageID": "pt-um-apologo",
+        "resource": "PortugueseUmApologo",
+        "translationCredit": "Portuguese: Machado de Assis (died 1908). Várias Histórias, Rio de Janeiro: Laemmert & C., 1896, pp. 253–257; complete individual short story, not the entire collection. Preserved the Wikisource transcription’s spelling. Separated the needle’s speech from the following narrative paragraph; corrected the joined words “linhaordinária” to “linha ordinária”; normalized whitespace. No prose omitted. Study note: mucamas is a historical term for domestic female attendants, often enslaved women in nineteenth-century Brazil; the English “maids” names their household role without implying free employment. Diana is the Roman goddess of the hunt; the speaking needle and thread are a satire on who does the work and who receives the rewards. English: original AI-assisted study translation prepared directly from this text for Linguary (2026); no third-party English translation was used. Transcription attribution: Portuguese Wikisource contributors (linked source page and revision history). The adapted transcription, editorial notes and Linguary English study translation are made available under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/. Attribution, indication of changes and the same license must accompany reuse of these adaptations. The historical underlying work is public domain; no new restriction is asserted over it. No endorsement by the author or source institution is implied. ",
+        "sources": [
+          {
+            "title": "Portuguese source text: Wikisource, stable revision",
+            "url": "https://pt.wikisource.org/w/index.php?title=Um_Ap%C3%B3logo&oldid=518415"
+          },
+          {
+            "title": "Wikisource contributors and revision history",
+            "url": "https://pt.wikisource.org/w/index.php?title=Um_Ap%C3%B3logo&action=history"
+          },
+          {
+            "title": "1896 edition record: Biblioteca Brasiliana Guita e José Mindlin, USP",
+            "url": "https://digital.bbm.usp.br/handle/bbm/5307?locale=en"
+          },
+          {
+            "title": "Author dates: Academia Brasileira de Letras",
+            "url": "https://www.academia.org.br/academicos/machado-de-assis/biografia"
+          },
+          {
+            "title": "CC BY-SA 4.0: transcription adaptation and English study translation",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "766cff6708e6146400dc8025b412514082bd0abfb5bd384afc222f010febb350",
+      "byteCount": 13078,
+      "englishCoverage": "complete"
+    },
+    {
+      "info": {
+        "id": "fr-mousquetaires",
+        "language": "French",
+        "title": "Les Trois Mousquetaires",
+        "author": "Alexandre Dumas, with Auguste Maquet",
+        "summary": "D’Artagnan joins three musketeers in a story of loyalty, intrigue, and adventure.",
+        "category": "Adventure & Exploration",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-mousquetaires",
+        "translationCredit": "Complete French original, first published 1844. Alexandre Dumas, with Auguste Maquet (author died 1870; co-author Auguste Maquet died 1888). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-mousquetaires",
+        "sources": [
+          {
+            "title": "French source text — ebook 13951",
+            "url": "https://www.gutenberg.org/ebooks/13951"
+          }
+        ]
+      },
+      "sha256": "3cd7eed32d243499b852b6773ebad938c9fb6676e2c99dcc00dc23dffa5a97b6",
+      "byteCount": 2246306,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-vingt-ans-apres",
+        "language": "French",
+        "title": "Vingt ans après",
+        "author": "Alexandre Dumas, with Auguste Maquet",
+        "summary": "The musketeers reunite amid political upheaval in France and England.",
+        "category": "Adventure & Exploration",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-vingt-ans-apres",
+        "translationCredit": "Complete French original, first published 1845. Alexandre Dumas, with Auguste Maquet (author died 1870; co-author Auguste Maquet died 1888). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-vingt-ans-apres",
+        "sources": [
+          {
+            "title": "French source text — ebook 13952",
+            "url": "https://www.gutenberg.org/ebooks/13952"
+          }
+        ]
+      },
+      "sha256": "6b99b4103fa48d1a5054e34306db4211ed646070eef68870ee86e568d28e43fe",
+      "byteCount": 2907029,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-reine-margot",
+        "language": "French",
+        "title": "La Reine Margot",
+        "author": "Alexandre Dumas, with Auguste Maquet",
+        "summary": "Court intrigue and romance during the French Wars of Religion. Both volumes.",
+        "category": "Historical Fiction",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-reine-margot",
+        "translationCredit": "Complete French original, first published 1845. Alexandre Dumas, with Auguste Maquet (author died 1870; co-author Auguste Maquet died 1888). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. All narrative chapters from both volumes are included. A stray duplicated text fragment following the first volume’s closing marker is omitted.",
+        "resource": "fr-reine-margot",
+        "sources": [
+          {
+            "title": "French source text — ebook 13856",
+            "url": "https://www.gutenberg.org/ebooks/13856"
+          },
+          {
+            "title": "French source text — ebook 13857",
+            "url": "https://www.gutenberg.org/ebooks/13857"
+          }
+        ]
+      },
+      "sha256": "5c6f0e8313b51981e6503eb179e6d32c94d01cb32a9699209152e7ffc2c8bb2a",
+      "byteCount": 2046384,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-centre-terre",
+        "language": "French",
+        "title": "Voyage au centre de la Terre",
+        "author": "Jules Verne",
+        "summary": "An expedition descends beneath the Earth in search of an extraordinary hidden world.",
+        "category": "Adventure & Exploration",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-centre-terre",
+        "translationCredit": "Complete French original, first published 1864. Jules Verne (author died 1905). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. The source transcription’s representation of the runic inscription is retained.",
+        "resource": "fr-centre-terre",
+        "sources": [
+          {
+            "title": "French source text — ebook 4791",
+            "url": "https://www.gutenberg.org/ebooks/4791"
+          }
+        ]
+      },
+      "sha256": "62fe1b60c7f0e6eebfd62814ae8c6ee2a83e295b47c7950f340a9f7934b52208",
+      "byteCount": 653753,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-vingt-mille-lieues",
+        "language": "French",
+        "title": "Vingt mille lieues sous les mers",
+        "author": "Jules Verne",
+        "summary": "Explore the oceans aboard Captain Nemo’s Nautilus. Both parts of the novel.",
+        "category": "Adventure & Exploration",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-vingt-mille-lieues",
+        "translationCredit": "Complete French original, first published 1870. Jules Verne (author died 1905). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-vingt-mille-lieues",
+        "sources": [
+          {
+            "title": "French source text — ebook 5097",
+            "url": "https://www.gutenberg.org/ebooks/5097"
+          }
+        ]
+      },
+      "sha256": "a44fcb5f1a724f458306ea99df45ff38ea89dd93544b138eaa9ea1f61130ad87",
+      "byteCount": 1248673,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-ile-mysterieuse",
+        "language": "French",
+        "title": "L’Île mystérieuse",
+        "author": "Jules Verne",
+        "summary": "Castaways build a new life on an island whose mysteries gradually unfold. All three parts.",
+        "category": "Adventure & Exploration",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-ile-mysterieuse",
+        "translationCredit": "Complete French original, first published 1875. Jules Verne (author died 1905). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. The source labels both the seventh and eighth chapters of Part III as VIII; the narrative order and both chapters are retained.",
+        "resource": "fr-ile-mysterieuse",
+        "sources": [
+          {
+            "title": "French source text — ebook 14287",
+            "url": "https://www.gutenberg.org/ebooks/14287"
+          }
+        ]
+      },
+      "sha256": "e9ca3a150a75f7e45d514b35d03232d8a903a825a9aa3a0b0774749f6dea31bb",
+      "byteCount": 1775355,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-michel-strogoff",
+        "language": "French",
+        "title": "Michel Strogoff",
+        "author": "Jules Verne",
+        "summary": "An imperial courier crosses Russia on a dangerous mission. Both parts.",
+        "category": "Adventure & Exploration",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-michel-strogoff",
+        "translationCredit": "Complete French original, first published 1876. Jules Verne (author died 1905). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-michel-strogoff",
+        "sources": [
+          {
+            "title": "French source text — ebook 7442",
+            "url": "https://www.gutenberg.org/ebooks/7442"
+          }
+        ]
+      },
+      "sha256": "69632cfeac4882fe81b050a130aae4bda0b4eb615d38155f3c9fadf245ffe783",
+      "byteCount": 966362,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-miserables",
+        "language": "French",
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "summary": "Jean Valjean’s story of justice, compassion, and redemption. All five volumes.",
+        "category": "Historical Fiction",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-miserables",
+        "translationCredit": "Complete French original, first published 1862. Victor Hugo (author died 1885). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-miserables",
+        "sources": [
+          {
+            "title": "French source text — ebook 17489",
+            "url": "https://www.gutenberg.org/ebooks/17489"
+          },
+          {
+            "title": "French source text — ebook 17493",
+            "url": "https://www.gutenberg.org/ebooks/17493"
+          },
+          {
+            "title": "French source text — ebook 17494",
+            "url": "https://www.gutenberg.org/ebooks/17494"
+          },
+          {
+            "title": "French source text — ebook 17518",
+            "url": "https://www.gutenberg.org/ebooks/17518"
+          },
+          {
+            "title": "French source text — ebook 17519",
+            "url": "https://www.gutenberg.org/ebooks/17519"
+          }
+        ]
+      },
+      "sha256": "12e18cbb1132ee502f6195c5530dc511b0b369382f26a0299e1a80b9277c456c",
+      "byteCount": 4472039,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-notre-dame",
+        "language": "French",
+        "title": "Notre-Dame de Paris",
+        "author": "Victor Hugo",
+        "summary": "The lives of Quasimodo, Esmeralda, and Frollo converge in medieval Paris.",
+        "category": "Historical Fiction",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-notre-dame",
+        "translationCredit": "Complete French original, first published 1831. Victor Hugo (author died 1885). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-notre-dame",
+        "sources": [
+          {
+            "title": "French source text — ebook 19657",
+            "url": "https://www.gutenberg.org/ebooks/19657"
+          }
+        ]
+      },
+      "sha256": "037a24a5da78dc8b98dc0c9d35f78fe73d86ae994d2c9780b6c2a556a7b59c3a",
+      "byteCount": 1436711,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-dernier-jour",
+        "language": "French",
+        "title": "Le Dernier Jour d’un condamné",
+        "author": "Victor Hugo",
+        "summary": "A condemned man records his final days. Complete narrative in 49 chapters.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-dernier-jour",
+        "translationCredit": "Complete French original, first published 1829. Victor Hugo (author died 1885). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. All 49 narrative chapters are included; prefatory essays, the separate prefatory play, and editorial notes are excluded.",
+        "resource": "fr-dernier-jour",
+        "sources": [
+          {
+            "title": "French source text — ebook 6838",
+            "url": "https://www.gutenberg.org/ebooks/6838"
+          }
+        ]
+      },
+      "sha256": "00cdc1c2527672e48f0da93b0db47bb71192330480e753323806e8beae6f0c8b",
+      "byteCount": 212288,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-bovary",
+        "language": "French",
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "summary": "Emma Bovary’s dreams collide with provincial life. All three parts.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-bovary",
+        "translationCredit": "Complete French original, first published 1857. Gustave Flaubert (author died 1880). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-bovary",
+        "sources": [
+          {
+            "title": "French source text — ebook 14155",
+            "url": "https://www.gutenberg.org/ebooks/14155"
+          }
+        ]
+      },
+      "sha256": "fc0a21c49d172452c9f92144332f4feeec0471bc1b10fdbb09d9b40ecd9ac90d",
+      "byteCount": 1011544,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-trois-contes",
+        "language": "French",
+        "title": "Trois Contes",
+        "author": "Gustave Flaubert",
+        "summary": "Un cœur simple, La Légende de saint Julien l’Hospitalier, and Hérodias, complete.",
+        "category": "Short Stories",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-trois-contes",
+        "translationCredit": "Complete French original, first published 1877. Gustave Flaubert (author died 1880). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-trois-contes",
+        "sources": [
+          {
+            "title": "French source text — ebook 12065",
+            "url": "https://www.gutenberg.org/ebooks/12065"
+          }
+        ]
+      },
+      "sha256": "cf6cd494ef25d9f27278306944ef6da98acee7b022bad6be0546dd6b43e0b40e",
+      "byteCount": 268560,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-germinal",
+        "language": "French",
+        "title": "Germinal",
+        "author": "Émile Zola",
+        "summary": "Miners and their families struggle for dignity in industrial northern France.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-germinal",
+        "translationCredit": "Complete French original, first published 1885. Émile Zola (author died 1902). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-germinal",
+        "sources": [
+          {
+            "title": "French source text — ebook 5711",
+            "url": "https://www.gutenberg.org/ebooks/5711"
+          }
+        ]
+      },
+      "sha256": "ee7faffffec0ed729b8e78d9889506066b3bc43587227952d9cdca52a7653a05",
+      "byteCount": 1346914,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-bonheur-dames",
+        "language": "French",
+        "title": "Au Bonheur des Dames",
+        "author": "Émile Zola",
+        "summary": "A young woman finds work in a Paris department store as modern commerce transforms the city.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-bonheur-dames",
+        "translationCredit": "Complete French original, first published 1883. Émile Zola (author died 1902). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-bonheur-dames",
+        "sources": [
+          {
+            "title": "French source text — ebook 16852",
+            "url": "https://www.gutenberg.org/ebooks/16852"
+          }
+        ]
+      },
+      "sha256": "26b7f738ab76673efa863d2e0f26138ff4dfac02fcae8d48746666bde46db2a0",
+      "byteCount": 1228316,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-therese-raquin",
+        "language": "French",
+        "title": "Thérèse Raquin",
+        "author": "Émile Zola",
+        "summary": "A psychological novel of desire, guilt, and consequences.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-therese-raquin",
+        "translationCredit": "Complete French original, first published 1867. Émile Zola (author died 1902). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-therese-raquin",
+        "sources": [
+          {
+            "title": "French source text — ebook 7461",
+            "url": "https://www.gutenberg.org/ebooks/7461"
+          }
+        ]
+      },
+      "sha256": "f4dd945743885de37ec3afd656e2c80abe3e7baa2b1cd1eea1d32f420b76d687",
+      "byteCount": 511956,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-bel-ami",
+        "language": "French",
+        "title": "Bel-Ami",
+        "author": "Guy de Maupassant",
+        "summary": "Georges Duroy rises through journalism and Parisian society. Both parts, all 18 chapters.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-bel-ami",
+        "translationCredit": "Complete French original, first published 1885. Guy de Maupassant (author died 1893). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Louis Conard edition, 1910; Wikisource contributors. Adapted transcription distributed under CC BY-SA 4.0; source links provide attribution and revision history. Both parts and all 18 narrative chapters are included; critical appendices are excluded.",
+        "resource": "fr-bel-ami",
+        "sources": [
+          {
+            "title": "French chapter 1 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/I&oldid=7045668"
+          },
+          {
+            "title": "French chapter 2 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/II&oldid=7041879"
+          },
+          {
+            "title": "French chapter 3 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/III&oldid=7046905"
+          },
+          {
+            "title": "French chapter 4 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/IV&oldid=7047039"
+          },
+          {
+            "title": "French chapter 5 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/V&oldid=7047127"
+          },
+          {
+            "title": "French chapter 6 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/VI&oldid=7048500"
+          },
+          {
+            "title": "French chapter 7 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/VII&oldid=7059495"
+          },
+          {
+            "title": "French chapter 8 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/VIII&oldid=7059625"
+          },
+          {
+            "title": "French chapter 9 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/I&oldid=7060780"
+          },
+          {
+            "title": "French chapter 10 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/II&oldid=7061013"
+          },
+          {
+            "title": "French chapter 11 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/III&oldid=7063410"
+          },
+          {
+            "title": "French chapter 12 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/IV&oldid=7063808"
+          },
+          {
+            "title": "French chapter 13 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/V&oldid=7063874"
+          },
+          {
+            "title": "French chapter 14 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/VI&oldid=7063893"
+          },
+          {
+            "title": "French chapter 15 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/VII&oldid=7064722"
+          },
+          {
+            "title": "French chapter 16 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/VIII&oldid=7064797"
+          },
+          {
+            "title": "French chapter 17 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/IX&oldid=7064866"
+          },
+          {
+            "title": "French chapter 18 — source and contributor history",
+            "url": "https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/X&oldid=7064968"
+          },
+          {
+            "title": "CC BY-SA 4.0 — license for the adapted transcription",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "2aebe81d18ea443f52d84837f9d7d97be828c952e8fb03540770651b09d49b62",
+      "byteCount": 1120224,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-horla",
+        "language": "French",
+        "title": "Le Horla",
+        "author": "Guy de Maupassant",
+        "summary": "The complete 1887 diary-form story of a man haunted by an unseen presence.",
+        "category": "Mystery & Supernatural",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-horla",
+        "translationCredit": "Complete French original, first published 1887. Guy de Maupassant (author died 1893). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. This is the complete 1887 title story, not the other stories in the source collection.",
+        "resource": "fr-horla",
+        "sources": [
+          {
+            "title": "French source text — ebook 10775",
+            "url": "https://www.gutenberg.org/ebooks/10775"
+          }
+        ]
+      },
+      "sha256": "676bb76179989cb634b821e907e61829356f79d13c35041b50676f73139f6773",
+      "byteCount": 76580,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-lettres-moulin",
+        "language": "French",
+        "title": "Lettres de mon moulin",
+        "author": "Alphonse Daudet",
+        "summary": "Stories and sketches of Provence and beyond, in the complete expanded collection.",
+        "category": "Short Stories",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-lettres-moulin",
+        "translationCredit": "Complete French original, first published 1869. Alphonse Daudet (author died 1897). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-lettres-moulin",
+        "sources": [
+          {
+            "title": "French source text — ebook 11770",
+            "url": "https://www.gutenberg.org/ebooks/11770"
+          }
+        ]
+      },
+      "sha256": "227d6a451f42b16bb82909b0911100438822e323402beed406eabf049331892c",
+      "byteCount": 375309,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-tartarin",
+        "language": "French",
+        "title": "Tartarin de Tarascon",
+        "author": "Alphonse Daudet",
+        "summary": "A boastful Provençal adventurer sets out for Algeria. All three episodes.",
+        "category": "Adventure & Exploration",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-tartarin",
+        "translationCredit": "Complete French original, first published 1872. Alphonse Daudet (author died 1897). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. Only Daudet’s French narrative is included; Barry Cerf’s introduction, notes, and exercises are excluded.",
+        "resource": "fr-tartarin",
+        "sources": [
+          {
+            "title": "French source text — ebook 10687",
+            "url": "https://www.gutenberg.org/ebooks/10687"
+          }
+        ]
+      },
+      "sha256": "7bd56ae4ec398d10262de1925d51a3e868dd918bd1e8ce8ec6848973db3b6c56",
+      "byteCount": 252233,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "fr-eugenie-grandet",
+        "language": "French",
+        "title": "Eugénie Grandet",
+        "author": "Honoré de Balzac",
+        "summary": "A story of family, inheritance, generosity, and obsession with wealth.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete French original",
+        "legacyPassageID": "fr-eugenie-grandet",
+        "translationCredit": "Complete French original, first published 1833. Honoré de Balzac (author died 1850). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. ",
+        "resource": "fr-eugenie-grandet",
+        "sources": [
+          {
+            "title": "French source text — ebook 11049",
+            "url": "https://www.gutenberg.org/ebooks/11049"
+          }
+        ]
+      },
+      "sha256": "4cb748cdd5fbdd9014ec8505d9899da4fa787a38247364fbda7611ead4a15449",
+      "byteCount": 516381,
+      "englishCoverage": "none"
     }
   ]
 }

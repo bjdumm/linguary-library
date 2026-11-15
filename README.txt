@@ -321,3 +321,159 @@ Latin: T. Rice Holmes, Oxford Clarendon edition (1914), including Hirtius’s pr
 English: The War in Gaul, W. A. MacDevitt: https://www.gutenberg.org/ebooks/10657
 Latin transcription and adaptation license: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 Latin: Caesar, De bello Gallico — Holmes 1914, Perseus: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0448/phi001/phi0448.phi001.perseus-lat2.xml
+
+ja-ten-nights-of-dreams: 夢十夜 — Ten Nights of Dreams
+夏目漱石 · Natsume Sōseki
+Japanese: Natsume Sōseki (1867–1916), complete 夢十夜 (Ten Nights of Dreams). Aozora Bunko transcription by Eiji Noguchi (野口英司), first released 1997-12-16, revised 2013-07-17. Base edition: 夏目漱石全集10, Chikuma Bunko / Chikuma Shobō, first printing 1988-07-26; transcription used the fifth printing, 1996-07-15; parent edition 筑摩全集類聚版夏目漱石全集, 1971–1972. Aozora Bunko and its volunteer contributors are credited as the digital source. The public-domain original is redistributed under Aozora’s published reuse rules. Ruby annotations and HTML formatting are removed; two image-encoded characters are restored as Unicode (睜 and 戢); paragraph boundaries and all ten nights are retained. Bibliographic data adapted from Aozora Bunko is CC BY 4.0. English: original AI-assisted study translation prepared directly from the Japanese for Linguary (2026), preserving every text block. No third-party English translation was used. No Aozora endorsement is implied.
+Japanese original: Aozora Bunko, complete 夢十夜: https://www.aozora.gr.jp/cards/000148/files/799_14972.html
+Aozora edition and contributor record: https://www.aozora.gr.jp/cards/000148/card799.html
+Aozora reuse rules for public-domain works: https://www.aozora.gr.jp/guide/kijyunn.html
+Bibliographic metadata: CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+ja-takasebune: 高瀬舟 — The Takase Boat
+森鴎外 — Mori Ōgai
+Japanese: complete original short story by Mori Ōgai (1862–1922), from Aozora Bunko's modern-character, modern-kana transcription. Text source: Sanshō Dayū / Takasebune, Iwanami Bunko; first printing 1938-07-01, revised 34th printing 1967-06-16, 77th printing 1998-04-06, as identified in the source file's colophon. First published 1916-01-01 in Chūō Kōron. Input: kompass; proofreading: 土屋隆. Aozora file created 2006-03-08, revised 2011-04-27. Prepared by Aozora Bunko volunteers. Public-domain original; Aozora's file-use rules permit paid or free redistribution and format conversion of public-domain works. Edition adaptation: ruby annotations and HTML presentation removed while preserving their base characters; paragraph indentation and blank lines normalized; section dividers retained. No original prose is abridged. Source spelling is retained. English: original AI-assisted study translation prepared directly from this Japanese text for Linguary (2026), with one corresponding English block for every original block. No third-party English translation was used. Source bibliography metadata: Aozora Bunko, CC BY 4.0; metadata reformatted and summarized for this edition. No endorsement is implied.
+Japanese original: Aozora Bunko source text and full colophon: https://www.aozora.gr.jp/cards/000129/files/45245_22007.html
+Aozora bibliography and author dates: https://www.aozora.gr.jp/cards/000129/card45245.html
+Aozora rules for public-domain file reuse: https://www.aozora.gr.jp/guide/kijyunn.html
+CC BY 4.0 — source bibliography metadata: https://creativecommons.org/licenses/by/4.0/
+
+ja-last-phrase: 最後の一句 — The Last Phrase
+森鴎外 — Mori Ōgai
+Japanese: complete original short story by Mori Ōgai (1862–1922), from Aozora Bunko's modern-character, modern-kana transcription. Text source: Sanshō Dayū / Takasebune, Iwanami Bunko; first printing 1938-07-01, revised 34th printing 1967-06-16, 77th printing 1998-04-06, as identified in the source file's colophon. First published 1915-10-01 in Chūō Kōron. Input: kompass; proofreading: 土屋隆. Aozora file created 2006-03-21, revised 2011-02-27. Prepared by Aozora Bunko volunteers. Public-domain original; Aozora's file-use rules permit paid or free redistribution and format conversion of public-domain works. Edition adaptation: ruby annotations and HTML presentation removed while preserving their base characters; paragraph indentation and blank lines normalized; section dividers retained. No original prose is abridged. Source spelling is retained. English: original AI-assisted study translation prepared directly from this Japanese text for Linguary (2026), with one corresponding English block for every original block. No third-party English translation was used. Source bibliography metadata: Aozora Bunko, CC BY 4.0; metadata reformatted and summarized for this edition. No endorsement is implied. Dates and ages follow the historical source; lunar-calendar dates are not converted to modern Gregorian dates.
+Japanese original: Aozora Bunko source text and full colophon: https://www.aozora.gr.jp/cards/000129/files/45244_22341.html
+Aozora bibliography and author dates: https://www.aozora.gr.jp/cards/000129/card45244.html
+Aozora rules for public-domain file reuse: https://www.aozora.gr.jp/guide/kijyunn.html
+CC BY 4.0 — source bibliography metadata: https://creativecommons.org/licenses/by/4.0/
+
+pt-um-apologo: Um Apólogo — A Fable
+Machado de Assis
+Portuguese: Machado de Assis (died 1908). Várias Histórias, Rio de Janeiro: Laemmert & C., 1896, pp. 253–257; complete individual short story, not the entire collection. Preserved the Wikisource transcription’s spelling. Separated the needle’s speech from the following narrative paragraph; corrected the joined words “linhaordinária” to “linha ordinária”; normalized whitespace. No prose omitted. Study note: mucamas is a historical term for domestic female attendants, often enslaved women in nineteenth-century Brazil; the English “maids” names their household role without implying free employment. Diana is the Roman goddess of the hunt; the speaking needle and thread are a satire on who does the work and who receives the rewards. English: original AI-assisted study translation prepared directly from this text for Linguary (2026); no third-party English translation was used. Transcription attribution: Portuguese Wikisource contributors (linked source page and revision history). The adapted transcription, editorial notes and Linguary English study translation are made available under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/. Attribution, indication of changes and the same license must accompany reuse of these adaptations. The historical underlying work is public domain; no new restriction is asserted over it. No endorsement by the author or source institution is implied. 
+Portuguese source text: Wikisource, stable revision: https://pt.wikisource.org/w/index.php?title=Um_Ap%C3%B3logo&oldid=518415
+Wikisource contributors and revision history: https://pt.wikisource.org/w/index.php?title=Um_Ap%C3%B3logo&action=history
+1896 edition record: Biblioteca Brasiliana Guita e José Mindlin, USP: https://digital.bbm.usp.br/handle/bbm/5307?locale=en
+Author dates: Academia Brasileira de Letras: https://www.academia.org.br/academicos/machado-de-assis/biografia
+CC BY-SA 4.0: transcription adaptation and English study translation: https://creativecommons.org/licenses/by-sa/4.0/
+
+fr-mousquetaires: Les Trois Mousquetaires
+Alexandre Dumas, with Auguste Maquet
+Complete French original, first published 1844. Alexandre Dumas, with Auguste Maquet (author died 1870; co-author Auguste Maquet died 1888). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 13951: https://www.gutenberg.org/ebooks/13951
+
+fr-vingt-ans-apres: Vingt ans après
+Alexandre Dumas, with Auguste Maquet
+Complete French original, first published 1845. Alexandre Dumas, with Auguste Maquet (author died 1870; co-author Auguste Maquet died 1888). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 13952: https://www.gutenberg.org/ebooks/13952
+
+fr-reine-margot: La Reine Margot
+Alexandre Dumas, with Auguste Maquet
+Complete French original, first published 1845. Alexandre Dumas, with Auguste Maquet (author died 1870; co-author Auguste Maquet died 1888). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. All narrative chapters from both volumes are included. A stray duplicated text fragment following the first volume’s closing marker is omitted.
+French source text — ebook 13856: https://www.gutenberg.org/ebooks/13856
+French source text — ebook 13857: https://www.gutenberg.org/ebooks/13857
+
+fr-centre-terre: Voyage au centre de la Terre
+Jules Verne
+Complete French original, first published 1864. Jules Verne (author died 1905). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. The source transcription’s representation of the runic inscription is retained.
+French source text — ebook 4791: https://www.gutenberg.org/ebooks/4791
+
+fr-vingt-mille-lieues: Vingt mille lieues sous les mers
+Jules Verne
+Complete French original, first published 1870. Jules Verne (author died 1905). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 5097: https://www.gutenberg.org/ebooks/5097
+
+fr-ile-mysterieuse: L’Île mystérieuse
+Jules Verne
+Complete French original, first published 1875. Jules Verne (author died 1905). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. The source labels both the seventh and eighth chapters of Part III as VIII; the narrative order and both chapters are retained.
+French source text — ebook 14287: https://www.gutenberg.org/ebooks/14287
+
+fr-michel-strogoff: Michel Strogoff
+Jules Verne
+Complete French original, first published 1876. Jules Verne (author died 1905). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 7442: https://www.gutenberg.org/ebooks/7442
+
+fr-miserables: Les Misérables
+Victor Hugo
+Complete French original, first published 1862. Victor Hugo (author died 1885). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 17489: https://www.gutenberg.org/ebooks/17489
+French source text — ebook 17493: https://www.gutenberg.org/ebooks/17493
+French source text — ebook 17494: https://www.gutenberg.org/ebooks/17494
+French source text — ebook 17518: https://www.gutenberg.org/ebooks/17518
+French source text — ebook 17519: https://www.gutenberg.org/ebooks/17519
+
+fr-notre-dame: Notre-Dame de Paris
+Victor Hugo
+Complete French original, first published 1831. Victor Hugo (author died 1885). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 19657: https://www.gutenberg.org/ebooks/19657
+
+fr-dernier-jour: Le Dernier Jour d’un condamné
+Victor Hugo
+Complete French original, first published 1829. Victor Hugo (author died 1885). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. All 49 narrative chapters are included; prefatory essays, the separate prefatory play, and editorial notes are excluded.
+French source text — ebook 6838: https://www.gutenberg.org/ebooks/6838
+
+fr-bovary: Madame Bovary
+Gustave Flaubert
+Complete French original, first published 1857. Gustave Flaubert (author died 1880). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 14155: https://www.gutenberg.org/ebooks/14155
+
+fr-trois-contes: Trois Contes
+Gustave Flaubert
+Complete French original, first published 1877. Gustave Flaubert (author died 1880). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 12065: https://www.gutenberg.org/ebooks/12065
+
+fr-germinal: Germinal
+Émile Zola
+Complete French original, first published 1885. Émile Zola (author died 1902). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 5711: https://www.gutenberg.org/ebooks/5711
+
+fr-bonheur-dames: Au Bonheur des Dames
+Émile Zola
+Complete French original, first published 1883. Émile Zola (author died 1902). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 16852: https://www.gutenberg.org/ebooks/16852
+
+fr-therese-raquin: Thérèse Raquin
+Émile Zola
+Complete French original, first published 1867. Émile Zola (author died 1902). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 7461: https://www.gutenberg.org/ebooks/7461
+
+fr-bel-ami: Bel-Ami
+Guy de Maupassant
+Complete French original, first published 1885. Guy de Maupassant (author died 1893). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Louis Conard edition, 1910; Wikisource contributors. Adapted transcription distributed under CC BY-SA 4.0; source links provide attribution and revision history. Both parts and all 18 narrative chapters are included; critical appendices are excluded.
+French chapter 1 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/I&oldid=7045668
+French chapter 2 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/II&oldid=7041879
+French chapter 3 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/III&oldid=7046905
+French chapter 4 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/IV&oldid=7047039
+French chapter 5 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/V&oldid=7047127
+French chapter 6 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/VI&oldid=7048500
+French chapter 7 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/VII&oldid=7059495
+French chapter 8 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Premi%C3%A8re_partie/VIII&oldid=7059625
+French chapter 9 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/I&oldid=7060780
+French chapter 10 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/II&oldid=7061013
+French chapter 11 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/III&oldid=7063410
+French chapter 12 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/IV&oldid=7063808
+French chapter 13 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/V&oldid=7063874
+French chapter 14 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/VI&oldid=7063893
+French chapter 15 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/VII&oldid=7064722
+French chapter 16 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/VIII&oldid=7064797
+French chapter 17 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/IX&oldid=7064866
+French chapter 18 — source and contributor history: https://fr.wikisource.org/w/index.php?title=Bel-Ami/%C3%89dition_Conard,_1910/Bel-Ami/Deuxi%C3%A8me_partie/X&oldid=7064968
+CC BY-SA 4.0 — license for the adapted transcription: https://creativecommons.org/licenses/by-sa/4.0/
+
+fr-horla: Le Horla
+Guy de Maupassant
+Complete French original, first published 1887. Guy de Maupassant (author died 1893). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. This is the complete 1887 title story, not the other stories in the source collection.
+French source text — ebook 10775: https://www.gutenberg.org/ebooks/10775
+
+fr-lettres-moulin: Lettres de mon moulin
+Alphonse Daudet
+Complete French original, first published 1869. Alphonse Daudet (author died 1897). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 11770: https://www.gutenberg.org/ebooks/11770
+
+fr-tartarin: Tartarin de Tarascon
+Alphonse Daudet
+Complete French original, first published 1872. Alphonse Daudet (author died 1897). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. Only Daudet’s French narrative is included; Barry Cerf’s introduction, notes, and exercises are excluded.
+French source text — ebook 10687: https://www.gutenberg.org/ebooks/10687
+
+fr-eugenie-grandet: Eugénie Grandet
+Honoré de Balzac
+Complete French original, first published 1833. Honoré de Balzac (author died 1850). French only; no prepared English edition is included. Original literary text is public domain. Historical spelling is retained; whitespace is normalized. Navigation, publisher matter, illustrations, and editorial notes are omitted. Transcribed from the linked public-domain ebook source(s); source credits are retained through those links. 
+French source text — ebook 11049: https://www.gutenberg.org/ebooks/11049
