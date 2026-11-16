@@ -1362,3 +1362,141 @@ Friedrich Schiller
 Complete German original; no prepared English edition. Friedrich Schiller (died 1805); first published 1804. Historical German text distributed by Project Gutenberg as public domain in the USA. Original author’s text only; no modern translation, illustrations, or editorial commentary. Website boilerplate, page numbers, and publisher advertisements omitted; chapters and verse reformatted for the reader. Based on the 1862 Cotta edition; source transcription corrects obvious errors and regularizes variant character/place names.
 German source: Project Gutenberg 77182: https://www.gutenberg.org/ebooks/77182
 Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+pt-dom-casmurro: Dom Casmurro
+Machado de Assis
+Complete Portuguese original; no prepared English edition. Machado de Assis (died 1908); first published 1899. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections.
+Historical original: Project Gutenberg 55752: https://www.gutenberg.org/ebooks/55752
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+pt-bras-cubas: Memórias Póstumas de Brás Cubas
+Machado de Assis
+Complete Portuguese original; no prepared English edition. Machado de Assis (died 1908); first published 1881. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections.
+Historical original: Project Gutenberg 54829: https://www.gutenberg.org/ebooks/54829
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+pt-quincas-borba: Quincas Borba
+Machado de Assis
+Complete Portuguese original; no prepared English edition. Machado de Assis (died 1908); first published 1891. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections.
+Historical original: Project Gutenberg 55682: https://www.gutenberg.org/ebooks/55682
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+pt-iracema: Iracema
+José de Alencar
+Complete Portuguese original; no prepared English edition. José de Alencar (died 1877); first published 1865. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections. 1890 Companhia Nacional Editora edition. Anonymous biographical introduction omitted; author’s dedication, introductory letter, all 33 chapters, notes and concluding letter retained. The erroneous letter date 1995 in the transcription is corrected to 1865, checked against the first-edition transcription at Portuguese Wikisource.
+Historical original: Project Gutenberg 67740: https://www.gutenberg.org/ebooks/67740
+First-edition letter date cross-check: https://pt.wikisource.org/wiki/Iracema/Posf%C3%A1cio
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+pt-guarani: O Guarani
+José de Alencar
+Complete Portuguese original; no prepared English edition. José de Alencar (died 1877); first published 1857. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections. 1883 fifth edition, both volumes and all four parts, including the author’s preface and notes.
+Historical original: Project Gutenberg 67724: https://www.gutenberg.org/ebooks/67724
+Historical original: Project Gutenberg 67725: https://www.gutenberg.org/ebooks/67725
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+es-novelas-ejemplares: Novelas ejemplares
+Miguel de Cervantes
+Complete Spanish original; no prepared English edition. Miguel de Cervantes (died 1616); first published 1613. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections. 1883 Brockhaus edition: the dedication, author’s prologue and twelve novellas are included. The separately appended La tía fingida, of disputed authorship, and editorial footnotes are excluded.
+Historical original: Project Gutenberg 61202: https://www.gutenberg.org/ebooks/61202
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+es-vida-sueno: La vida es sueño
+Pedro Calderón de la Barca
+Complete Spanish original; no prepared English edition. Pedro Calderón de la Barca (died 1681); first published 1635. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections. Complete play extracted from Teatro selecto, volume 1 (1881), including the cast and all three acts. Unrelated plays, critical introduction and editorial footnotes excluded.
+Historical original: Project Gutenberg 54436: https://www.gutenberg.org/ebooks/54436
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+es-fortunata-jacinta: Fortunata y Jacinta
+Benito Pérez Galdós
+Complete Spanish original; no prepared English edition. Benito Pérez Galdós (died 1920); first published 1887. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections.
+Historical original: Project Gutenberg 17013: https://www.gutenberg.org/ebooks/17013
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+es-regenta: La Regenta
+Leopoldo Alas «Clarín»
+Complete Spanish original; no prepared English edition. Leopoldo Alas «Clarín» (died 1901); first published 1884–1885. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections. 1900 Fernando Fé edition, both volumes. Galdós’s external introductory essay is omitted; the complete thirty-chapter novel is retained.
+Historical original: Project Gutenberg 17073: https://www.gutenberg.org/ebooks/17073
+Project Gutenberg reuse information: https://www.gutenberg.org/policy/permission.html
+
+es-fuenteovejuna: Fuenteovejuna
+Lope de Vega
+Complete Spanish original; no prepared English edition. Lope de Vega (died 1635); first published 1619. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader.
+Wikisource contributors: Fuenteovejuna/Acto I: https://es.wikisource.org/w/index.php?title=Fuenteovejuna/Acto%20I&oldid=1392969
+Wikisource contributors: Fuenteovejuna/Acto II: https://es.wikisource.org/w/index.php?title=Fuenteovejuna/Acto%20II&oldid=1393035
+Wikisource contributors: Fuenteovejuna/Acto III: https://es.wikisource.org/w/index.php?title=Fuenteovejuna/Acto%20III&oldid=1393036
+Transcription and adapted resource: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ru-white-nights: Белые ночи
+Фёдор Достоевский
+Complete Russian original; no prepared English edition. Фёдор Достоевский (died 1881); first published 1848. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader. Original story transcribed from the 1988 Nauka collected works, volume 2; modern critical commentary and annotations excluded. The epigraph by Ivan Turgenev (died 1883) is retained.
+Wikisource contributors: Белые ночи (Достоевский)/1988 (СО): https://ru.wikisource.org/w/index.php?title=%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D0%BD%D0%BE%D1%87%D0%B8%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/1988%20%28%D0%A1%D0%9E%29&oldid=5613256
+Transcription and adapted resource: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ru-underground: Записки из подполья
+Фёдор Достоевский
+Complete Russian original; no prepared English edition. Фёдор Достоевский (died 1881); first published 1864. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader. Author’s prefatory note and both parts retained. The epigraph from Nikolay Nekrasov (died 1877) is retained.
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 1: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%201&oldid=1070196
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 2: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%202&oldid=5643013
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 3: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%203&oldid=5644605
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 4: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%204&oldid=5643014
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 5: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%205&oldid=5642764
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 6: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%206&oldid=5642867
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 7: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%207&oldid=5642721
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 8: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%208&oldid=5642734
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 9: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%209&oldid=1070206
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 10: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2010&oldid=5642516
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 11: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2011&oldid=5645037
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 1: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%201&oldid=5642866
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 2: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%202&oldid=5642878
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 3: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%203&oldid=1070210
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 4: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%204&oldid=1070211
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 5: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%205&oldid=1070212
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 6: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%206&oldid=5642671
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 7: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%207&oldid=5642758
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 8: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%208&oldid=5642773
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 9: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%209&oldid=1070216
+Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 10: https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2010&oldid=5643368
+Transcription and adapted resource: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ru-ivan-ilyich: Смерть Ивана Ильича
+Лев Толстой
+Complete Russian original; no prepared English edition. Лев Толстой (died 1910); first published 1886. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader.
+Wikisource contributors: Смерть Ивана Ильича (Толстой): https://ru.wikisource.org/w/index.php?title=%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C%20%D0%98%D0%B2%D0%B0%D0%BD%D0%B0%20%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B0%20%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29&oldid=5726104
+Transcription and adapted resource: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ru-overcoat: Шинель
+Николай Гоголь
+Complete Russian original; no prepared English edition. Николай Гоголь (died 1852); first published 1842. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader. Author’s original story only, from the 1938 collected-works transcription; modern editorial notes omitted.
+Wikisource contributors: Шинель (Гоголь)/ПСС 1938 (СО): https://ru.wikisource.org/w/index.php?title=%D0%A8%D0%B8%D0%BD%D0%B5%D0%BB%D1%8C%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%9F%D0%A1%D0%A1%201938%20%28%D0%A1%D0%9E%29&oldid=5631032
+Transcription and adapted resource: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ru-nose: Нос
+Николай Гоголь
+Complete Russian original; no prepared English edition. Николай Гоголь (died 1852); first published 1836. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader.
+Wikisource contributors: Нос (Гоголь)/Глава I: https://ru.wikisource.org/w/index.php?title=%D0%9D%D0%BE%D1%81%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20I&oldid=5755946
+Wikisource contributors: Нос (Гоголь)/Глава II: https://ru.wikisource.org/w/index.php?title=%D0%9D%D0%BE%D1%81%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20II&oldid=5756860
+Wikisource contributors: Нос (Гоголь)/Глава III: https://ru.wikisource.org/w/index.php?title=%D0%9D%D0%BE%D1%81%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20III&oldid=5756861
+Transcription and adapted resource: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+ru-dead-souls: Мёртвые души
+Николай Гоголь
+Complete surviving Russian text; no prepared English edition. Николай Гоголь (died 1852); first published 1842; surviving second-volume chapters published 1855. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader. Includes the author’s 1846 address to the reader, all eleven chapters of volume I, and the five surviving chapters of volume II. Volume II was left unfinished by the author: manuscript gaps are preserved, with no invented continuation.
+Wikisource contributors: Мёртвые души (Гоголь)/К читателю от сочинителя: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%9A%20%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8E%20%D0%BE%D1%82%20%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8F&oldid=2618880
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава I: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20I&oldid=5640514
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава II: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20II&oldid=5642718
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава III: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20III&oldid=5640721
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава IV: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20IV&oldid=1342505
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава V: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20V&oldid=607207
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава VI: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20VI&oldid=5640582
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава VII: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20VII&oldid=5640663
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава VIII: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20VIII&oldid=607204
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава IX: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20IX&oldid=5642601
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава X: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20X&oldid=5640813
+Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава XI: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20XI&oldid=5640336
+Wikisource contributors: Мёртвые души (Гоголь)/Том II/Глава I: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20II/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20I&oldid=357534
+Wikisource contributors: Мёртвые души (Гоголь)/Том II/Глава II: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20II/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20II&oldid=357532
+Wikisource contributors: Мёртвые души (Гоголь)/Том II/Глава III: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20II/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20III&oldid=5703094
+Wikisource contributors: Мёртвые души (Гоголь)/Том II/Глава IV: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20II/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20IV&oldid=3572620
+Wikisource contributors: Мёртвые души (Гоголь)/Том II/Одна из последних глав: https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20II/%D0%9E%D0%B4%D0%BD%D0%B0%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D1%85%20%D0%B3%D0%BB%D0%B0%D0%B2&oldid=3575878
+Transcription and adapted resource: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/

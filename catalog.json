@@ -5607,6 +5607,606 @@
       "sha256": "d6bd4261e20c8f7175965a661b8224280a95ddd7b8aa93dbf485ac460a9c5d40",
       "byteCount": 413356,
       "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "pt-dom-casmurro",
+        "language": "Portuguese",
+        "title": "Dom Casmurro",
+        "author": "Machado de Assis",
+        "summary": "Bento Santiago revisits his youth, his love for Capitu, and the jealousy that shapes his memories.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete Portuguese original",
+        "legacyPassageID": "pt-dom-casmurro",
+        "translationCredit": "Complete Portuguese original; no prepared English edition. Machado de Assis (died 1908); first published 1899. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections.",
+        "resource": "pt-dom-casmurro",
+        "sources": [
+          {
+            "title": "Historical original: Project Gutenberg 55752",
+            "url": "https://www.gutenberg.org/ebooks/55752"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "d6c5b3eaffea392e9bd3bdaedca4f49f42573e357b1e0abea49152f43e274ff6",
+      "byteCount": 571703,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "pt-bras-cubas",
+        "language": "Portuguese",
+        "title": "Memórias Póstumas de Brás Cubas",
+        "author": "Machado de Assis",
+        "summary": "A deceased narrator looks back on his life with irony, digression, and social satire.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete Portuguese original",
+        "legacyPassageID": "pt-bras-cubas",
+        "translationCredit": "Complete Portuguese original; no prepared English edition. Machado de Assis (died 1908); first published 1881. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections.",
+        "resource": "pt-bras-cubas",
+        "sources": [
+          {
+            "title": "Historical original: Project Gutenberg 54829",
+            "url": "https://www.gutenberg.org/ebooks/54829"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "338bc6e321e944164461cdd90e00992f66d9027153d1776cb7e778db1571d1bf",
+      "byteCount": 526461,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "pt-quincas-borba",
+        "language": "Portuguese",
+        "title": "Quincas Borba",
+        "author": "Machado de Assis",
+        "summary": "An unexpected inheritance draws Rubião into ambition, manipulation, and an increasingly uncertain reality.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete Portuguese original",
+        "legacyPassageID": "pt-quincas-borba",
+        "translationCredit": "Complete Portuguese original; no prepared English edition. Machado de Assis (died 1908); first published 1891. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections.",
+        "resource": "pt-quincas-borba",
+        "sources": [
+          {
+            "title": "Historical original: Project Gutenberg 55682",
+            "url": "https://www.gutenberg.org/ebooks/55682"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "076915a742991a0ba921511dabc8956fd38d0384e3c958c2821fd42dee2be5f5",
+      "byteCount": 686001,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "pt-iracema",
+        "language": "Portuguese",
+        "title": "Iracema",
+        "author": "José de Alencar",
+        "summary": "A lyrical novel of Iracema and Martim, set amid the early encounters of Indigenous peoples and Portuguese settlers.",
+        "category": "Historical Fiction",
+        "collectionLabel": "Complete Portuguese original",
+        "legacyPassageID": "pt-iracema",
+        "translationCredit": "Complete Portuguese original; no prepared English edition. José de Alencar (died 1877); first published 1865. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections. 1890 Companhia Nacional Editora edition. Anonymous biographical introduction omitted; author’s dedication, introductory letter, all 33 chapters, notes and concluding letter retained. The erroneous letter date 1995 in the transcription is corrected to 1865, checked against the first-edition transcription at Portuguese Wikisource.",
+        "resource": "pt-iracema",
+        "sources": [
+          {
+            "title": "Historical original: Project Gutenberg 67740",
+            "url": "https://www.gutenberg.org/ebooks/67740"
+          },
+          {
+            "title": "First-edition letter date cross-check",
+            "url": "https://pt.wikisource.org/wiki/Iracema/Posf%C3%A1cio"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "28780b5c973c1fbf02cf95dac0957f613abdcc06bc70d2e53c56bf45f5794aa8",
+      "byteCount": 286086,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "pt-guarani",
+        "language": "Portuguese",
+        "title": "O Guarani",
+        "author": "José de Alencar",
+        "summary": "Peri and Cecília face danger and conflicting loyalties in colonial Brazil. All four parts, with the author’s notes.",
+        "category": "Historical Fiction",
+        "collectionLabel": "Complete Portuguese original",
+        "legacyPassageID": "pt-guarani",
+        "translationCredit": "Complete Portuguese original; no prepared English edition. José de Alencar (died 1877); first published 1857. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections. 1883 fifth edition, both volumes and all four parts, including the author’s preface and notes.",
+        "resource": "pt-guarani",
+        "sources": [
+          {
+            "title": "Historical original: Project Gutenberg 67724",
+            "url": "https://www.gutenberg.org/ebooks/67724"
+          },
+          {
+            "title": "Historical original: Project Gutenberg 67725",
+            "url": "https://www.gutenberg.org/ebooks/67725"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "6e863f3c40902fc89e4146fef4ec6ef4329c9e07150218da0aecd0df8bb633d0",
+      "byteCount": 1120775,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "es-novelas-ejemplares",
+        "language": "Spanish",
+        "title": "Novelas ejemplares",
+        "author": "Miguel de Cervantes",
+        "summary": "All twelve exemplary novellas, ranging from romance and adventure to satire and conversations between dogs.",
+        "category": "Short Stories",
+        "collectionLabel": "Complete Spanish original",
+        "legacyPassageID": "es-novelas-ejemplares",
+        "translationCredit": "Complete Spanish original; no prepared English edition. Miguel de Cervantes (died 1616); first published 1613. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections. 1883 Brockhaus edition: the dedication, author’s prologue and twelve novellas are included. The separately appended La tía fingida, of disputed authorship, and editorial footnotes are excluded.",
+        "resource": "es-novelas-ejemplares",
+        "sources": [
+          {
+            "title": "Historical original: Project Gutenberg 61202",
+            "url": "https://www.gutenberg.org/ebooks/61202"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "dddb5eadffd3fd8cac3509382ccc3f3fc66e8193b826cc5a217e4283fefb1024",
+      "byteCount": 1245255,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "es-vida-sueno",
+        "language": "Spanish",
+        "title": "La vida es sueño",
+        "author": "Pedro Calderón de la Barca",
+        "summary": "Prince Segismundo confronts freedom, fate, and the uncertain boundary between waking life and dreams. All three acts.",
+        "category": "Plays",
+        "collectionLabel": "Complete Spanish original",
+        "legacyPassageID": "es-vida-sueno",
+        "translationCredit": "Complete Spanish original; no prepared English edition. Pedro Calderón de la Barca (died 1681); first published 1635. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections. Complete play extracted from Teatro selecto, volume 1 (1881), including the cast and all three acts. Unrelated plays, critical introduction and editorial footnotes excluded.",
+        "resource": "es-vida-sueno",
+        "sources": [
+          {
+            "title": "Historical original: Project Gutenberg 54436",
+            "url": "https://www.gutenberg.org/ebooks/54436"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "bc9b3429f1d7a6549b0e297dc402e3018579a64181a199e2b5ea1ce005e7a667",
+      "byteCount": 224954,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "es-fortunata-jacinta",
+        "language": "Spanish",
+        "title": "Fortunata y Jacinta",
+        "author": "Benito Pérez Galdós",
+        "summary": "The intertwined lives of two women reveal the passions, class divisions, and everyday world of nineteenth-century Madrid. All four parts.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete Spanish original",
+        "legacyPassageID": "es-fortunata-jacinta",
+        "translationCredit": "Complete Spanish original; no prepared English edition. Benito Pérez Galdós (died 1920); first published 1887. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections.",
+        "resource": "es-fortunata-jacinta",
+        "sources": [
+          {
+            "title": "Historical original: Project Gutenberg 17013",
+            "url": "https://www.gutenberg.org/ebooks/17013"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "4bfee5593c8ef525e04a57bb671d060680bddf41ea8d956c0563c352ff31a768",
+      "byteCount": 2926657,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "es-regenta",
+        "language": "Spanish",
+        "title": "La Regenta",
+        "author": "Leopoldo Alas «Clarín»",
+        "summary": "Ana Ozores searches for meaning amid desire, religious authority, and provincial social ambition. All thirty chapters.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete Spanish original",
+        "legacyPassageID": "es-regenta",
+        "translationCredit": "Complete Spanish original; no prepared English edition. Leopoldo Alas «Clarín» (died 1901); first published 1884–1885. Historical original text distributed by Project Gutenberg as public domain in the USA. No modern translation or illustrations included. Original spelling retained; website boilerplate, page furniture, publisher advertisements and printed contents lists omitted; text reformatted into reading sections. 1900 Fernando Fé edition, both volumes. Galdós’s external introductory essay is omitted; the complete thirty-chapter novel is retained.",
+        "resource": "es-regenta",
+        "sources": [
+          {
+            "title": "Historical original: Project Gutenberg 17073",
+            "url": "https://www.gutenberg.org/ebooks/17073"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "9d7b42c626ee97775bef237d9c768def490df36f4962a3cc49e4467ab8b47d17",
+      "byteCount": 2388375,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "es-fuenteovejuna",
+        "language": "Spanish",
+        "title": "Fuenteovejuna",
+        "author": "Lope de Vega",
+        "summary": "A village unites against an abusive commander in this drama of loyalty, justice, and collective resistance. All three acts.",
+        "category": "Plays",
+        "collectionLabel": "Complete Spanish original",
+        "legacyPassageID": "es-fuenteovejuna",
+        "translationCredit": "Complete Spanish original; no prepared English edition. Lope de Vega (died 1635); first published 1619. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader.",
+        "resource": "es-fuenteovejuna",
+        "sources": [
+          {
+            "title": "Wikisource contributors: Fuenteovejuna/Acto I",
+            "url": "https://es.wikisource.org/w/index.php?title=Fuenteovejuna/Acto%20I&oldid=1392969"
+          },
+          {
+            "title": "Wikisource contributors: Fuenteovejuna/Acto II",
+            "url": "https://es.wikisource.org/w/index.php?title=Fuenteovejuna/Acto%20II&oldid=1393035"
+          },
+          {
+            "title": "Wikisource contributors: Fuenteovejuna/Acto III",
+            "url": "https://es.wikisource.org/w/index.php?title=Fuenteovejuna/Acto%20III&oldid=1393036"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "10a2fcb5b30e6c07ae785e589f67c974993e97d31e0972249beabe917b3e2dbf",
+      "byteCount": 105498,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ru-white-nights",
+        "language": "Russian",
+        "title": "Белые ночи",
+        "author": "Фёдор Достоевский",
+        "summary": "White Nights: a lonely dreamer meets Nastenka during four luminous Petersburg nights.",
+        "category": "Short Stories",
+        "collectionLabel": "Complete Russian original",
+        "legacyPassageID": "ru-white-nights",
+        "translationCredit": "Complete Russian original; no prepared English edition. Фёдор Достоевский (died 1881); first published 1848. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader. Original story transcribed from the 1988 Nauka collected works, volume 2; modern critical commentary and annotations excluded. The epigraph by Ivan Turgenev (died 1883) is retained.",
+        "resource": "ru-white-nights",
+        "sources": [
+          {
+            "title": "Wikisource contributors: Белые ночи (Достоевский)/1988 (СО)",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D0%BD%D0%BE%D1%87%D0%B8%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/1988%20%28%D0%A1%D0%9E%29&oldid=5613256"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "cc92c323bb418e1d09c60477b98cec353afaa11c1d377813329ed77ff72dde11",
+      "byteCount": 220638,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ru-underground",
+        "language": "Russian",
+        "title": "Записки из подполья",
+        "author": "Фёдор Достоевский",
+        "summary": "Notes from Underground: an isolated narrator challenges reason, society, and his own memories. Both parts and all twenty-one chapters.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete Russian original",
+        "legacyPassageID": "ru-underground",
+        "translationCredit": "Complete Russian original; no prepared English edition. Фёдор Достоевский (died 1881); first published 1864. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader. Author’s prefatory note and both parts retained. The epigraph from Nikolay Nekrasov (died 1877) is retained.",
+        "resource": "ru-underground",
+        "sources": [
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 1",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%201&oldid=1070196"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 2",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%202&oldid=5643013"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 3",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%203&oldid=5644605"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 4",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%204&oldid=5643014"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 5",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%205&oldid=5642764"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 6",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%206&oldid=5642867"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 7",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%207&oldid=5642721"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 8",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%208&oldid=5642734"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 9",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%209&oldid=1070206"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 10",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2010&oldid=5642516"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 1/Глава 11",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2011&oldid=5645037"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 1",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%201&oldid=5642866"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 2",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%202&oldid=5642878"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 3",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%203&oldid=1070210"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 4",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%204&oldid=1070211"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 5",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%205&oldid=1070212"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 6",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%206&oldid=5642671"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 7",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%207&oldid=5642758"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 8",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%208&oldid=5642773"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 9",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%209&oldid=1070216"
+          },
+          {
+            "title": "Wikisource contributors: Записки из подполья (Достоевский)/Часть 2/Глава 10",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D1%8F%20%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2010&oldid=5643368"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "f423f6f52ccbc23836bda035d17841f074b50d0200d2353eab1dad31fc77b1ef",
+      "byteCount": 439943,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ru-ivan-ilyich",
+        "language": "Russian",
+        "title": "Смерть Ивана Ильича",
+        "author": "Лев Толстой",
+        "summary": "The Death of Ivan Ilyich: a respected official confronts illness, mortality, and the meaning of his life.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete Russian original",
+        "legacyPassageID": "ru-ivan-ilyich",
+        "translationCredit": "Complete Russian original; no prepared English edition. Лев Толстой (died 1910); first published 1886. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader.",
+        "resource": "ru-ivan-ilyich",
+        "sources": [
+          {
+            "title": "Wikisource contributors: Смерть Ивана Ильича (Толстой)",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C%20%D0%98%D0%B2%D0%B0%D0%BD%D0%B0%20%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B0%20%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29&oldid=5726104"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "4c7fc58f31900f9560084abd71caf22551c232df7f4e2dab0131f0462299efd1",
+      "byteCount": 235636,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ru-overcoat",
+        "language": "Russian",
+        "title": "Шинель",
+        "author": "Николай Гоголь",
+        "summary": "The Overcoat: a humble copying clerk’s new coat becomes the center of a tragic and uncanny story.",
+        "category": "Short Stories",
+        "collectionLabel": "Complete Russian original",
+        "legacyPassageID": "ru-overcoat",
+        "translationCredit": "Complete Russian original; no prepared English edition. Николай Гоголь (died 1852); first published 1842. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader. Author’s original story only, from the 1938 collected-works transcription; modern editorial notes omitted.",
+        "resource": "ru-overcoat",
+        "sources": [
+          {
+            "title": "Wikisource contributors: Шинель (Гоголь)/ПСС 1938 (СО)",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%A8%D0%B8%D0%BD%D0%B5%D0%BB%D1%8C%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%9F%D0%A1%D0%A1%201938%20%28%D0%A1%D0%9E%29&oldid=5631032"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "38ed118e232aa23055aa60327ff0ed9b39c60bd3b3f2c766d78b20a29ed87ea1",
+      "byteCount": 121581,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ru-nose",
+        "language": "Russian",
+        "title": "Нос",
+        "author": "Николай Гоголь",
+        "summary": "The Nose: an official’s missing nose takes on a life and rank of its own in this absurd Petersburg tale.",
+        "category": "Short Stories",
+        "collectionLabel": "Complete Russian original",
+        "legacyPassageID": "ru-nose",
+        "translationCredit": "Complete Russian original; no prepared English edition. Николай Гоголь (died 1852); first published 1836. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader.",
+        "resource": "ru-nose",
+        "sources": [
+          {
+            "title": "Wikisource contributors: Нос (Гоголь)/Глава I",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9D%D0%BE%D1%81%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20I&oldid=5755946"
+          },
+          {
+            "title": "Wikisource contributors: Нос (Гоголь)/Глава II",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9D%D0%BE%D1%81%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20II&oldid=5756860"
+          },
+          {
+            "title": "Wikisource contributors: Нос (Гоголь)/Глава III",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9D%D0%BE%D1%81%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20III&oldid=5756861"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "ba3a5ee69b567ea170b80513c7325042bc80e7285eb07d166fb7f3adc340e726",
+      "byteCount": 106423,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ru-dead-souls",
+        "language": "Russian",
+        "title": "Мёртвые души",
+        "author": "Николай Гоголь",
+        "summary": "Dead Souls: Chichikov’s scheme exposes provincial ambition and social absurdity. Complete first volume and all five surviving second-volume chapters; Gogol left the second volume unfinished.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete surviving Russian text",
+        "legacyPassageID": "ru-dead-souls",
+        "translationCredit": "Complete surviving Russian text; no prepared English edition. Николай Гоголь (died 1852); first published 1842; surviving second-volume chapters published 1855. Historical author’s text, transcribed by Wikisource contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Source revision links identify the contributors and exact transcriptions. Website navigation and editorial commentary omitted; paragraphs, verse and chapter headings reformatted for the reader. Includes the author’s 1846 address to the reader, all eleven chapters of volume I, and the five surviving chapters of volume II. Volume II was left unfinished by the author: manuscript gaps are preserved, with no invented continuation.",
+        "resource": "ru-dead-souls",
+        "sources": [
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/К читателю от сочинителя",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%9A%20%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8E%20%D0%BE%D1%82%20%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8F&oldid=2618880"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава I",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20I&oldid=5640514"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава II",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20II&oldid=5642718"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава III",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20III&oldid=5640721"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава IV",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20IV&oldid=1342505"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава V",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20V&oldid=607207"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава VI",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20VI&oldid=5640582"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава VII",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20VII&oldid=5640663"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава VIII",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20VIII&oldid=607204"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава IX",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20IX&oldid=5642601"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава X",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20X&oldid=5640813"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том I/Глава XI",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20I/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20XI&oldid=5640336"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том II/Глава I",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20II/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20I&oldid=357534"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том II/Глава II",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20II/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20II&oldid=357532"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том II/Глава III",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20II/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20III&oldid=5703094"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том II/Глава IV",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20II/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20IV&oldid=3572620"
+          },
+          {
+            "title": "Wikisource contributors: Мёртвые души (Гоголь)/Том II/Одна из последних глав",
+            "url": "https://ru.wikisource.org/w/index.php?title=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8%20%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29/%D0%A2%D0%BE%D0%BC%20II/%D0%9E%D0%B4%D0%BD%D0%B0%20%D0%B8%D0%B7%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D1%85%20%D0%B3%D0%BB%D0%B0%D0%B2&oldid=3575878"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "e3be4a725dacc1874eb6e6a5356aa840b5ff7bc50b905cf249ef88cf9e83eb05",
+      "byteCount": 1529211,
+      "englishCoverage": "none"
     }
   ]
 }

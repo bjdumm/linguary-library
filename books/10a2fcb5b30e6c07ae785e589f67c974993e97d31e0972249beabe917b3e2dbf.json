@@ -1,0 +1,1232 @@
+{
+  "id": "es-fuenteovejuna",
+  "chapters": [
+    {
+      "title": "Personajes",
+      "part": "",
+      "blocks": [
+        {
+          "kind": "heading",
+          "text": "Personajes",
+          "id": "b00001"
+        },
+        {
+          "kind": "verse",
+          "text": "La reina ISABEL de Castilla\nEl REY Fernando de Aragón\nRodrigo Téllez Girón, MAESTRE de la Orden de Calatrava\nFernán Gómez de Guzmán, COMENDADOR Mayor de la Orden de Calatrava\nDon Gómez MANRIQUE\nUn JUEZ\nDos REGIDORES de Ciudad Real\nORTUÑO, criado del Comendador\nFLORES, criado del Comendador\nESTEBAN, Alcaide de Fuenteovejuna\nALONSO, un regidor de Fuenteovejuna\nOtro REGIDOR de Fuenteovejuna",
+          "id": "b00002"
+        },
+        {
+          "kind": "verse",
+          "text": "LAURENCIA, labradora de Fuenteovejuna, hija de Esteban\nJACINTA, labradora de Fuenteovejuna\nPASCUALA, labradora de Fuenteovejuna\nJUAN ROJO, labrador\nFRONDOSO, labrador\nMENGO, labrador gracioso\nBARRILDO, labrador\nLEONELO, Licenciado en derecho\nCIMBRANO, soldado\nUn MUCHACHO\nLABRADORES y LABRADORAS\nMÚSICOS",
+          "id": "b00003"
+        }
+      ],
+      "english": [],
+      "id": "chapter-001"
+    },
+    {
+      "title": "ACTO PRIMERO",
+      "part": "",
+      "blocks": [
+        {
+          "kind": "heading",
+          "text": "ACTO PRIMERO",
+          "id": "b00001"
+        },
+        {
+          "kind": "verse",
+          "text": "Salen el COMENDADOR, FLORES y ORTUÑO, criados\nCOMENDADOR: — ¿Sabe el maestre que estoy\nen la villa?\nFLORES: — Ya lo sabe.\nORTUÑO: — Está, con la edad, más grave.\nCOMENDADOR: — Y ¿sabe también que soy\nFernán Gómez de Guzmán?\nFLORES: — Es muchacho, no te asombre.\nCOMENDADOR: — Cuando no sepa mi nombre,\n¿no le sobra el que me dan\nde comendador mayor?\nORTUÑO: — No falta quien le aconseje",
+          "id": "b00002"
+        },
+        {
+          "kind": "verse",
+          "text": "que de ser cortés se aleje.\nCOMENDADOR: — Conquistará poco amor.\nEs llave la cortesía\npara abrir la voluntad;\ny para la enemistad\nla necia descortesía.\nORTUÑO: — Si supiese un descortés\ncómo le aborrecen todos\ny querrían de mil modos\nponer la boca a sus pies-,\nantes que serlo ninguno,\nse dejaría morir.",
+          "id": "b00003"
+        },
+        {
+          "kind": "verse",
+          "text": "FLORES: — ¡Qué cansado es de sufrir!\n¡Qué áspero y qué importuno!\nLlaman la descortesía\nnecedad en los iguales,\nporque es entre desiguales\nlinaje de tiranía.\nAquí no te toca nada;\nque un muchacho aún no ha llegado\na saber qué es ser amado.\nCOMENDADOR: — La obligación de la espada\nque se ciñó, el mismo día\nque la cruz de Calatrava",
+          "id": "b00004"
+        },
+        {
+          "kind": "verse",
+          "text": "le cubrió el pecho, bastaba\npara aprender cortesía.\nFLORES: — Si te han puesto mal con él,\npresto lo conocerás.\nORTUÑO: — Vuélvete, si en duda estás.\nCOMENDADOR: — Quiero ver lo que hay en él.\nSale el MAESTRE de Calatrava y acompañamiento\nMAESTRE: — Perdonad, por vida mía,\nFernán Gómez de Guzmán;\nque agora nueva me dan\nque en la villa estáis.\nCOMENDADOR: — Tenía muy justa queja de vos;",
+          "id": "b00005"
+        },
+        {
+          "kind": "verse",
+          "text": "que el amor y la crianza\nme daban más confianza,\npor ser, cual somos los dos,\nvos maestre en Calatrava,\nyo vuestro comendador\ny muy vuestro servidor.\nMAESTRE: — Seguro, Fernando, estaba\nde vuestra buena venida.\nQuiero volveros a dar\nlos brazos.\nCOMENDADOR: — Debéisme honrar;\nque he puesto por vos la vida",
+          "id": "b00006"
+        },
+        {
+          "kind": "verse",
+          "text": "entre diferencias tantas,\nhasta suplir vuestra edad\nel pontífice.\nMAESTRE: — Es verdad.\nY por las señales santas\nque a los dos cruzan el pecho,\nque os lo pago en estimaros\ny como a mi padre honraros.\nCOMENDADOR: — De vos estoy satisfecho.\nMAESTRE: — ¿Qué hay de guerra por allá?\nCOMENDADOR: — Estad atento, y sabréis\nla obligación que tenéis.",
+          "id": "b00007"
+        },
+        {
+          "kind": "verse",
+          "text": "MAESTRE: — Decid que ya lo estoy, ya.\nCOMENDADOR: — Gran maestre, don Rodrigo\nTéllez Girón, que a tan alto\nlugar os trajo el valor\nde aquel vuestro padre claro,\nque, de ocho años, en vos\nrenunció su maestrazgo,\nque después por más seguro\njuraron y confirmaron\nreyes y comendadores,\ndando el pontífice santo\nPío segunda sus bulas",
+          "id": "b00008"
+        },
+        {
+          "kind": "verse",
+          "text": "y después las suyas Paulo\npara que don Juan Pacheco,\ngran maestre de Santiago,\nfuese vuestro coadjutor:\nya que es muerto, y que os han dado\nel gobierno sólo a vos,\naunque de tan pocos años,\nadvertid que es honra vuestra\nseguir en aqueste caso\nla parte de vuestros deudos;\nporque, muerto Enrique cuarto,\nquieren que al rey don Alonso",
+          "id": "b00009"
+        },
+        {
+          "kind": "verse",
+          "text": "de Portugal, que ha heredado,\npor su mujer, a Castilla,\nobedezcan sus vasallos;\nque aunque pretende lo mismo\npor Isabel don Fernando,\ngran príncipe de Aragón,\nno con derecho tan claro\na vuestros deudos, que, en fin,\nno presumen que hay engaño\nen la sucesión de Juana,\na quien vuestro primo hermano\ntiene agora en su poder.",
+          "id": "b00010"
+        },
+        {
+          "kind": "verse",
+          "text": "Y así, vengo a aconsejaros\nque juntéis los caballeros\nde Calatrava en Almagro,\ny a Ciudad Real toméis,\nque divide como paso\na Andalucía y Castilla,\npara mirarlos a entrambos.\nPoca gente es menester,\nporque tienen por soldados\nsolamente sus vecinos\ny algunos pocos hidalgos,\nque defienden a Isabel",
+          "id": "b00011"
+        },
+        {
+          "kind": "verse",
+          "text": "y llaman rey a Fernando.\nSerá bien que deis asombro,\nRodrigo, aunque niño, a cuantos\ndicen que es grande esa cruz\npara vuestros hombros flacos.\nMirad los condes de Urueña,\nde quien venís, que mostrando\nos están desde la fama\nlos laureles que ganaros;\nlos marqueses de Villena,\ny otros capitanes, tantos,\nque las alas de la fama",
+          "id": "b00012"
+        },
+        {
+          "kind": "verse",
+          "text": "apenas pueden llevarlos.\nSacad esa blanca espada;\nque habéis de hacer, peleando,\ntan roja como la cruz;\nporque no podré llamaros\nmaestre de la cruz roja\nque tenéis al pecho, en tanto\nque tenéis la blanca espada;\nque una al pecho y otra al lado,\nentrambas han de ser rojas;\ny vos, Girón soberano,\ncapa del templo inmortal",
+          "id": "b00013"
+        },
+        {
+          "kind": "verse",
+          "text": "de vuestros claros pasados.\nMAESTRE: — Fernán Gómez, estad cierto,\nque en esta parcialidad,\nporque veo que es verdad,\ncon mis deudos me concierto.\nY si importa, como paso\na Ciudad Real mi intento,\nveréis que como violento\nrayo sus muros abraso.\nNo porque es muerto mi tío\npiensen de mis pocos años\nlos propios y los extraños",
+          "id": "b00014"
+        },
+        {
+          "kind": "verse",
+          "text": "que murió con él mi brío.\nSacaré la blanca espada\npara que quede su luz\nde la color de la cruz,\nde roja sangre bañada.\nVos, ¿adónde residís\ntenéis algunos soldados?\nCOMENDADOR: — Pocos, pero mis criados;\nque si de ellos os servís,\npelearán como leones.\nYa veis que en Fuenteovejuna\nhay gente humilde, y alguna",
+          "id": "b00015"
+        },
+        {
+          "kind": "verse",
+          "text": "no enseñada en escuadrones,\nsino en campos y labranzas.\nMAESTRE: — ¿Allí residís?\nCOMENDADOR: — Allí\nde mi encomienda escogí\ncasa entre aquestas mudanzas.\nVuestra gente se registre;\nque no quedará vasallo.\nMAESTRE: — Hoy me veréis a caballo,\nponer la lanza en el ristre.\nVanse. Salen PASCUALA y LAURENCIA\nLAURENCIA: — ¡Mas que nunca acá volviera!",
+          "id": "b00016"
+        },
+        {
+          "kind": "verse",
+          "text": "PASCUALA: — Pues a la hé que pensé\nque cuando te lo conté\nmás pesadumbre te diera.\nLAURENCIA: — ¡Plega al cielo que jamás\nle vea en Fuenteovejuna!\nPASCUALA: — Yo, Laurencia, he visto alguna\ntan brava, y pienso que más;\ny tenía el corazón\nbrando como una manteca.\nLAURENCIA: — Pues ¿hay encina tan seca\ncomo ésta mi condición?\nPASCUALA: — Anda ya; que nadie diga:",
+          "id": "b00017"
+        },
+        {
+          "kind": "verse",
+          "text": "\"de esta agua no beberé.\"\nLAURENCIA: — ¡Voto al sol que lo diré,\naunque el mundo me desdiga!\n¿A qué efecto fuera bueno\nquerer a Fernando yo?\n¿Casaráme con él?\nPASCUALA: — No.\nLAURENCIA: — Luego la infamia condeno.\n¡Cuántas mozas en la villa,\ndel comendador fïadas,\nandan ya descalabradas!\nPASCUALA: — Tendré yo por maravilla",
+          "id": "b00018"
+        },
+        {
+          "kind": "verse",
+          "text": "que te escapes de su mano.\nLAURENCIA: — Pues en vano es lo que ves,\nporque ha que me sigue un mes,\ny todo, Pascuala, en vano.\nAquel Flores, su alcahuete,\ny Ortuño, aquel socarrón,\nme mostraron un jubón,\nuna sarta y un copete.\nDijéronme tantas cosas\nde Fernando, su señor,\nque me pusieron temor;\nmas no serán poderosas",
+          "id": "b00019"
+        },
+        {
+          "kind": "verse",
+          "text": "para contrastar mi pecho.\nPASCUALA: — ¿Dónde te hablaron?\nLAURENCIA: — Allá\nen el arroyo, y habrá\nseis días.\nPASCUALA: — Y yo sospecho\nque te han de engañar, Laurencia.\nLAURENCIA: — ¿A mí?\nPASCUALA: — Que no, sino al cura.\nLAURENCIA: — Soy, aunque polla, muy dura\nyo para su reverencia.\nPardiez, más precio poner,",
+          "id": "b00020"
+        },
+        {
+          "kind": "verse",
+          "text": "Pascuala, de madrugada,\nun pedazo de lunada\nal huego para comer,\ncon tanto zalacotón\nde una rosca que yo amaso,\ny hurtar a mi madre un vaso\ndel pegado cangilón,\ny más precio al mediodía\nver la vaca entre las coles\nhaciendo mil caracoles\ncon espumosa armonía;\ny concertar, si el camino",
+          "id": "b00021"
+        },
+        {
+          "kind": "verse",
+          "text": "me ha llegado a causar pena,\ncasar un berenjena\ncon otro tanto tocino;\ny después un pasatarde,\nmientras la cena se aliña,\nde una cuerda de mi viña,\nque Dios de pedrisco guarde;\ny cenar un salpicón\ncon su aceite y su pimienta,\ne irme a la cama contenta,\ny al \"inducas tentación\"\nrezalle mis devociones,",
+          "id": "b00022"
+        },
+        {
+          "kind": "verse",
+          "text": "que cuantas raposerías,\ncon su amor y sus porfías,\ntienen estos bellacones;\nporque todo su cuidado,\ndespués de darnos disgusto,\nes anochecer con gusto\ny amanecer con enfado.\nPASCUALA: — Tienes, Laurencia, razón;\nque en dejando de querer,\nmás ingratos suelen ser\nque al villano el gorrión.\nEn el invierno, que el frío",
+          "id": "b00023"
+        },
+        {
+          "kind": "verse",
+          "text": "tiene los campos helados,\ndescienden de los tejados,\ndiciéndole: \"tío, tío,\"\nhasta llegar a comer\nlas migajas de la mesa;\nmas luego que el frío cesa,\ny el campo ven florecer,\nno bajan diciendo \"tío,\"\ndel beneficio olvidados,\nmas saltando en los tejados\ndicen: \"judío, judío.\"\nPues tales los hombres son:",
+          "id": "b00024"
+        },
+        {
+          "kind": "verse",
+          "text": "cuando nos han menester,\nsomos su vida, su ser,\nsu alma, su corazón;\npero pasadas las ascuas,\nlas tías somos judías,\ny en vez de llamarnos tías,\nanda el nombre de las pascuas.\nLAURENCIA: — No fïarse de ninguno.\nPASCUALA: — Lo mismo digo, Laurencia.\nSalen MENGO, BARRILDO y FRONDOSO\nFRONDOSO: — En aquesta diferencia\nandas, Barrildo, importuno.",
+          "id": "b00025"
+        },
+        {
+          "kind": "verse",
+          "text": "BARRILDO: — A lo menos aquí está\nquien nos dirá lo más cierto.\nMENGO: — Pues hagamos un concierto\nantes que lleguéis allá,\ny es, que si juzgan por mí,\nme dé cada cual la prenda,\nprecio de aquesta contienda.\nBARRILDO: — Desde aquí digo que sí.\nMas si pierdes, ¿qué darás?\nMENGO: — Daré mi rabel de boj,\nque vale más que una troj,\nporque yo le estimo en más.",
+          "id": "b00026"
+        },
+        {
+          "kind": "verse",
+          "text": "BARRILDO: — Soy contento.\nFRONDOSO: — Pues lleguemos.\nDios os guarde, hermosas damas.\nLAURENCIA: — ¿Damas, Frondoso, nos llamas?\nFRONDOSO: — Andar al uso queremos:\nal bachiller, licenciado;\nal ciego, tuerto; al bisojo,\nbizco; resentido, al cojo;\ny buen hombre, al descuidado.\nAl ignorante, sesudo;\nal mal galán, soldadesca;\na la boca grande, fresca;",
+          "id": "b00027"
+        },
+        {
+          "kind": "verse",
+          "text": "y al ojo pequeño, agudo.\nAl pleitista, diligente;\ngracioso al entremetido;\nal hablador, entendido;\ny al insufrible, valiente.\nAl cobarde, para poco;\nal atrevido, bizarro;\ncompañero al que es un jarro;\ny desenfadado, al loco.\nGravedad, al descontento;\na la calva, autoridad;\ndonaire, a la necedad;",
+          "id": "b00028"
+        },
+        {
+          "kind": "verse",
+          "text": "y al pie grande, buen cimiento.\nAl buboso, resfrïado;\ncomedido al arrogante;\nal ingenioso, constante;\nal corcovado, cargado.\nEsto al llamaros imito,\ndamas, sin pasar de aquí;\nporque fuera hablar así\nproceder en infinito.\nLAURENCIA: — Allá en la ciudad, Frondoso,\nllámase por cortesía\nde esta suerte; y a fe mía,",
+          "id": "b00029"
+        },
+        {
+          "kind": "verse",
+          "text": "que hay otro más riguroso\ny peor vocabulario\nen las lenguas descorteses.\nFRONDOSO: — Querría que lo dijeses.\nLAURENCIA: — Es todo a esotro contrario:\nal hombre grave, enfadoso;\nventuroso al descompuesto;\nmelancólico al compuesto;\ny al que reprehende, odioso.\nImportuno al que aconseja;\nal liberal, moscatel;\nal justiciero, crüel;",
+          "id": "b00030"
+        },
+        {
+          "kind": "verse",
+          "text": "y al que es piadoso, madeja.\nAl que es constante, villano;\nal que es cortés, lisonjero;\nhipócrita al limosnero;\ny pretendiente al cristiano.\nAl justo mérito, dicha;\na la verdad, imprudencia;\ncobardía a la paciencia;\ny culpa a lo que es desdicha.\nNecia a la mujer honesta;\nmal hecha a la hermosa y casta;\ny a la honrada... Pero basta;",
+          "id": "b00031"
+        },
+        {
+          "kind": "verse",
+          "text": "que esto basta por respuesta.\nMENGO: — Digo que eres el dimuño.\nLAURENCIA: — ¡Soncas que lo dice mal!\nMENGO: — Apostaré que la sal\nla echó el cura con el puño.\nLAURENCIA: — ¿Qué contienda os ha traído,\nsi no es que mal lo entendí?\nFRONDOSO: — Oye, por tu vida.\nLAURENCIA: — Di.\nFRONDOSO: — Préstame, Laurencia, oído.\nLAURENCIA: — Como prestado, y aun dado,\ndesde agora os doy el mío.",
+          "id": "b00032"
+        },
+        {
+          "kind": "verse",
+          "text": "FRONDOSO: — En tu discreción confío.\nLAURENCIA: — ¿Qué es lo que habéis apostado?\nFRONDOSO: — Yo y Barrildo contra Mengo.\nLAURENCIA: — ¿Qué dice Mengo?\nBARRILDO: — Una cosa\nque, siendo cierta y forzosa,\nla niega.\nMENGO: — A negarla vengo,\nporque yo sé que es verdad.\nLAURENCIA: — ¿Qué dice?\nBARRILDO: — Que no hay amor.\nLAURENCIA: — Generalmente, es rigor.",
+          "id": "b00033"
+        },
+        {
+          "kind": "verse",
+          "text": "BARRILDO: — Es rigor y es necedad.\nSin amor, no se pudiera\nni aun el mundo conservar.\nMENGO: — Yo no sé filosofar;\nleer, ¡ojalá supiera!\nPero si los elementos\nen discordia eterna viven,\ny de los mismos reciben\nnuestros cuerpos alimentos,\ncólera y melancolía,\nflema y sangre, claro está.\nBARRILDO: — El mundo de acá y de allá,",
+          "id": "b00034"
+        },
+        {
+          "kind": "verse",
+          "text": "Mengo, todo es armonía.\nArmonía es puro amor,\nporque el amor es concierto.\nMENGO: — Del natural os advierto\nque yo no niego el valor.\nAmor hay, y el que entre sí\ngobierna todas las cosas,\ncorrespondencias forzosas\nde cuanto se mira aquí;\ny yo jamás he negado\nque cada cual tiene amor,\ncorrespondiente a su humor,",
+          "id": "b00035"
+        },
+        {
+          "kind": "verse",
+          "text": "que le conserva en su estado.\nMi mano al golpe que viene\nmi cara defenderá;\nmi pie, huyendo, estorbará\nel daño que el cuerpo tiene.\nCerraránse mis pestañas\nsi al ojo le viene mal,\nporque es amor natural.\nPASCUALA: — Pues, ¿de qué nos desengañas?\nMENGO: — De que nadie tiene amor\nmás que a su misma persona.\nPASCUALA: — Tú mientes, Mengo, y perdona;",
+          "id": "b00036"
+        },
+        {
+          "kind": "verse",
+          "text": "porque, ¿es materia el rigor\ncon que un hombre a una mujer\no un animal quiere y ama\nsu semejante?\nMENGO: — Eso llama\namor propio, y no querer.\n¿Qué es amor?\nLAURENCIA: — Es un deseo\nde hermosura.\nMENGO: — Esa hermosura,\n¿por qué el amor la procura?\nLAURENCIA: — Para gozarla.",
+          "id": "b00037"
+        },
+        {
+          "kind": "verse",
+          "text": "MENGO: — Eso creo.\nPues ese gusto que intenta,\n¿no es para él mismo?\nLAURENCIA: — Es así.\nMENGO: — Luego ¿por quererse a sí\nbusca el bien que le contenta?\nLAURENCIA: — Es verdad.\nMENGO: — Pues de ese modo\nno hay amor sino el que digo,\nque por mi gusto le sigo\ny quiero dármele en todo.\nBARRILDO: — Dijo el cura del lugar",
+          "id": "b00038"
+        },
+        {
+          "kind": "verse",
+          "text": "cierto día en el sermón\nque había cierto Platón\nque nos enseñaba a amar;\nque éste amaba el alma sola\ny la virtud de lo amado.\nPASCUALA: — En materia habéis entrado\nque, por ventura, acrisola\nlos caletres de los sabios\nen sus cademias y escuelas.\nLAURENCIA: — Muy bien dice, y no te muelas\nen persuadir sus agravios.\nDa gracias, Mengo, a los cielos,",
+          "id": "b00039"
+        },
+        {
+          "kind": "verse",
+          "text": "que te hicieron sin amor.\nMENGO: — ¿Amas tú?\nLAURENCIA: — Mi propio honor.\nFRONDOSO: — Dios te castigue con celos.\nBARRILDO: — ¿Quién gana?\nPASCUALA: — Con la qüistión\npodéis ir al sacristán,\nporque él o el cura os darán\nbastante satisfacción.\nLaurencia no quiere bien,\nyo tengo poca experiencia.\n¿Cómo daremos sentencia?",
+          "id": "b00040"
+        },
+        {
+          "kind": "verse",
+          "text": "FRONDOSO: — ¿Qué mayor que ese desdén?\nSale FLORES\nFLORES: — Dios guarde a la buena gente.\nFRONDOSO: — Éste es del comendador\ncrïado.\nLAURENCIA: — ¡Gentil azor!\n¿De adónde bueno, pariente?\nFLORES: — ¿No me veis a lo soldado?\nLAURENCIA: — ¿Viene don Fernando acá?\nFLORES: — La guerra se acaba ya,\npuesto que nos ha costado\nalguna sangre y amigos.",
+          "id": "b00041"
+        },
+        {
+          "kind": "verse",
+          "text": "FRONDOSO: — Contadnos cómo pasó.\nFLORES: — ¿Quién lo dirá como yo,\nsiendo mis ojos testigos?\nPara emprender la jornada\nde esta ciudad, que ya tiene\nnombre de Ciudad Real,\njuntó el gallardo maestre\ndos mil lucidos infantes\nde sus vasallos valientes,\ny trescientos de a caballo\nde seglares y de freiles;\nporque la cruz roja obliga",
+          "id": "b00042"
+        },
+        {
+          "kind": "verse",
+          "text": "cuantos al pecho la tienen,\naunque sean de orden sacro;\nmas contra moros, se entiende.\nSalió el muchacho bizarro\ncon una casaca verde,\nbordada de cifras de oro,\nque sólo los brazaletes\npor las mangas descubrían,\nque seis alamares prenden.\nUn corpulento bridón,\nRucio rodado, que al Betis\nbebió el agua, y en su orilla",
+          "id": "b00043"
+        },
+        {
+          "kind": "verse",
+          "text": "despuntó la grama fértil;\nel codón labrado en cintas\nde ante, y el rizo copete\ncogido en blancas lazadas,\nque con las moscas de nieve\nque bañan la blanca piel\niguales labores teje.\nA su lado Fernán Gómez,\nvuestro señor, en un fuerte\nmelado, de negros cabos,\npuesto que con blanco bebe.\nSobre turca jacerina,",
+          "id": "b00044"
+        },
+        {
+          "kind": "verse",
+          "text": "peto y espaldar luciente,\ncon naranjada orla saca,\nque de oro y perlas guarnece.\nEl morrión, que coronado\ncon blancas plumas, parece\nque del color naranjado\naquellos azahares vierte;\nceñida al brazo una liga\nroja y blanca, con que mueve\nun fresno entero por lanza\nque hasta en Granada le temen.\nLa ciudad se puso en arma;",
+          "id": "b00045"
+        },
+        {
+          "kind": "verse",
+          "text": "dicen que salir no quieren\nde la corona real,\ny el patrimonio defienden.\nEntróla bien resistida,\ny el maestre a los rebeldes\ny a los que entonces trataron\nsu honor injuriosamente\nmandó cortar las cabezas,\ny a los de la baja plebe,\ncon mordazas en la boca,\nazotar públicamente.\nQueda en ella tan temido",
+          "id": "b00046"
+        },
+        {
+          "kind": "verse",
+          "text": "y tan amado, que creen\nque quien en tan pocos años\npelea, castiga y vence,\nha de ser en otra edad\nrayo del África fértil,\nque tantas lunas azules\na su roja cruz sujete.\nAl comendador y a todos\nha hecho tantas mercedes,\nque el saco de la ciudad\nel de su hacienda parece.\nMas ya la música suena;",
+          "id": "b00047"
+        },
+        {
+          "kind": "verse",
+          "text": "recibidle alegremente,\nque al triunfo las voluntades\nson los mejores laureles.\nSalen el COMENDADOR y ORTUÑO, MÚSICOS, JUAN ROJO y ESTEBAN, ALONSO, ALCAIDES. Cantan los MÚSICOS\nMUSICOS: — \"Sea bien venido\nel comendadore\nde rendir las tierras\ny matar los hombres.\n¡Vivan los Guzmanes!\n¡Vivan los Girones!\nSi en las paces blando,\ndulce en las razones.",
+          "id": "b00048"
+        },
+        {
+          "kind": "verse",
+          "text": "Venciendo moriscos,\nfuertes como un roble,\nde Ciudad Reale\nviene vencedore;\nque a Fuenteovejuna\ntrae los pendones.\n¡Viva muchos años,\nviva Fernán Gómez!\"\nCOMENDADOR: — Villa, yo os agradezco justamente\nel amor que me habéis aquí mostrado.\nALONSO: — Aun no muestra una parte del que siente.\nPero ¿qué mucho que seáis amado,",
+          "id": "b00049"
+        },
+        {
+          "kind": "verse",
+          "text": "mereciéndolo vos?\nESTEBAN: — Fuenteovejuna\ny el regimiento que hoy habéis honrado,\nque recibáis os ruega e importuna\nun pequeño presente, que esos carros\ntraen, señor, no sin vergüenza alguna,\nde voluntades y árboles bizarros,\nmás que de ricos dones. Lo primero\ntraen dos cestas de polidos barros;\nde gansos viene un ganadillo entero,\nque sacan por las redes las cabezas,\npara cantar vueso valor guerrero.",
+          "id": "b00050"
+        },
+        {
+          "kind": "verse",
+          "text": "Diez cebones en sal, valientes piezas,\nsin otras menudencias y cecinas,\ny más que guantes de ámbar, sus cortezas.\nCien pares de capones y gallinas,\nque han dejado viudos a sus gallos\nen las aldeas que miráis vecinas.\nAcá no tienen armas ni caballos,\nno jaeces bordados de oro puro,\nsi no es oro el amor de los vasallos.\nY porque digo puro, os aseguro\nque vienen doce cueros, que aun en cueros\npor enero podéis guardar un muro,",
+          "id": "b00051"
+        },
+        {
+          "kind": "verse",
+          "text": "si de ellos aforráis vuestros guerreros,\nmejor que de las armas aceradas;\nque el vino suele dar lindos aceros.\nDe quesos y otras cosas no excusadas\nno quiero daros cuenta. Justo pecho\nde voluntades que tenéis ganadas;\ny a vos y a vuestra casa, buen provecho.\nCOMENDADOR: — Estoy muy agradecido.\nId, regimiento, en buen hora.\nALONSO: — Descansad, señor, agora,\ny seáis muy bien venido;\nque esta espadaña que veis",
+          "id": "b00052"
+        },
+        {
+          "kind": "verse",
+          "text": "y juncia a vuestros umbrales\nfueran perlas orientales,\ny mucho más merecéis,\na ser posible a la villa.\nCOMENDADOR: — Así lo creo, señores.\nId con Dios.\nESTEBAN: — Ea, cantores,\nvaya otra vez la letrilla.\nCantan\nMÚSICOS: — \"Sea bien venido\nel comendadore\nde rendir las tierras",
+          "id": "b00053"
+        },
+        {
+          "kind": "verse",
+          "text": "y matar los hombres.\"\nVanse los MÚSICOS y los ALCAIDES\nCOMENDADOR: — Esperad vosotras dos.\nLAURENCIA: — ¿Qué manda su señoría?\nCOMENDADOR: — ¡Desdenes el otro día,\npues, conmigo! ¡Bien, por Dios!\nLAURENCIA: — ¿Habla contigo, Pascuala?\nPASCUALA: — Conmigo no, tirte ahuera.\nCOMENDADOR: — Con vos hablo, hermosa fiera,\ny con esotra zagala.\n¿Mías no sois?\nPASCUALA: — Sí, señor;",
+          "id": "b00054"
+        },
+        {
+          "kind": "verse",
+          "text": "mas no para casos tales.\nCOMENDADOR: — Entrad, pasado los umbrales;\nhombres hay, no hayáis temor.\nLAURENCIA: — Si los alcaldes entraran,\nque de uno soy hija yo,\nbien huera entrar; mas si no...\nCOMENDADOR: — ¡Flores!\nFLORES: — ¿Señor?\nCOMENDADOR: — ¡Que reparan\nen no hacer lo que les digo!\nFLORES: — ¡Entrad, pues!\nLAURENCIA: — No nos agarre.",
+          "id": "b00055"
+        },
+        {
+          "kind": "verse",
+          "text": "FLORES: — Entrad; que sois necias.\nPASCUALA: — Arre;\nque echaréis luego el postigo.\nFLORES: — Entrad; que os quiere enseñar\nlo que trae de la guerra.\nCOMENDADOR: — Si entraren, Ortuño, cierra.\nÉntrase\nLAURENCIA: — Flores, dejadnos pasar.\nORTUÑO: — ¿También venís presentadas\ncon lo demás?\nPASCUALA: — ¡Bien a fe!\nDesvíese, no le dé...",
+          "id": "b00056"
+        },
+        {
+          "kind": "verse",
+          "text": "FLORES: — Basta; que son extremadas.\nLAURENCIA: — ¿No basta a vuestro señor\ntanta carne presentada?\nORTUÑO: — La vuestra es la que le agrada.\nLAURENCIA: — ¡Reviente de mal dolor!\nVanse LAURENCIA y PASCUALA\nFLORES: — ¡Muy buen recado llevamos!\nNo se ha de poder sufrir\nlo que nos ha de decir\ncuando sin ellas nos vamos.\nORTUÑO: — Quien sirve se obliga a esto.\nSi en algo desea medrar,",
+          "id": "b00057"
+        },
+        {
+          "kind": "verse",
+          "text": "o con paciencia ha de estar,\no ha de despedirse presto.\nVanse los dos. Salgan el REY don Fernando, la reina doña ISABEL, MANRIQUE, y acompañamiento\nISABEL: — Digo, señor, que conviene\nel no haber descuido en esto,\npor ver a Alfonso en tal puesto,\ny su ejército previene.\nY es bien ganar por la mano\nantes que el daño veamos;\nque si no lo remediamos,\nel ser muy cierto está llano.\nREY: — De Navarra y de Aragón",
+          "id": "b00058"
+        },
+        {
+          "kind": "verse",
+          "text": "está el socorro seguro,\ny de Castilla procuro\nhacer la reformación\nde modo que el buen suceso\ncon la prevención se vea.\nISABEL: — Pues vuestra majestad crea\nque el buen fin consiste en eso.\nMANRIQUE: — Aguardando tu licencia\ndos regidores están\nde Ciudad Real. ¿Entrarán?\nREY: — No les nieguen mi presencia.\nSalen dos REGIDORES de Ciudad Real",
+          "id": "b00059"
+        },
+        {
+          "kind": "verse",
+          "text": "REGIDOR 1: — Católico rey Fernando,\na quien ha enviado el cielo\ndesde Aragón a Castilla\npara bien y amparo nuestro:\nen nombre de Ciudad Real,\na vuestro valor supremo\nhumildes nos presentamos,\nel real amparo pidiendo.\nA mucha dicha tuvimos\ntener título de vuestros;\npero pudo derribarnos\nde este honor el hado adverso.",
+          "id": "b00060"
+        },
+        {
+          "kind": "verse",
+          "text": "El famoso don Rodrigo\nTéllez Girón, cuyo esfuerzo\nes en valor extremado,\naunque es en la edad tan tierno\nmaestre de Calatrava,\nél, ensanchar pretendiendo\nel honor de la encomienda,\nnos puso apretado cerco.\nCon valor nos prevenimos,\na su fuerza resistiendo,\ntanto, que arroyos corrían\nde la sangre de los muertos.",
+          "id": "b00061"
+        },
+        {
+          "kind": "verse",
+          "text": "Tomó posesión, en fin;\npero no llegara a hacerlo,\na no le dar Fernán Gómez\norden, ayuda y consejo.\nÉl queda en la posesión,\ny sus vasallos seremos,\nsuyos, a nuestro pesar,\na no remediarlo presto.\nREY: — ¿Dónde queda Fernán Gómez?\nREGIDOR 1: — En Fuenteovejuna creo,\npor ser su villa, y tener\nen ella casa y asiento.",
+          "id": "b00062"
+        },
+        {
+          "kind": "verse",
+          "text": "Allí, con más libertad\nde la que decir podemos,\ntiene a los súbditos suyos\nde todo contento ajenos.\nREY: — ¿Tenéis algún capitán?\nREGIDOR 2: — Señor, el no haberle es cierto,\npues no escapó ningún noble\nde preso, herido o de muerto.\nISABEL: — Ese caso no requiere\nser de espacio remediado;\nque es dar al contrario osado\nel mismo valor que adquiere;",
+          "id": "b00063"
+        },
+        {
+          "kind": "verse",
+          "text": "y puede el de Portugal,\nhallando puerta segura,\nentrar por Extremadura\ny causarnos mucho mal\nREY: — Don Manrique, partid luego,\nllevando dos compañías;\nremediad sus demasías\nsin darles ningún sosiego.\nEl conde de Cabra ir puede\ncon vos; que es Córdoba osado,\na quien nombre de soldado\ntodo el mundo le concede;",
+          "id": "b00064"
+        },
+        {
+          "kind": "verse",
+          "text": "que éste es el medio mejor\nque la ocasión nos ofrece.\nMANRIQUE: — El acuerdo me parece\ncomo de tan gran valor.\nPondré límite a su exceso,\nsi el vivir en mí no cesa.\nISABEL: — Partiendo vos a la empresa,\nseguro está el buen suceso.\nVanse todos. Salen LAURENCIA y FRONDOSO\nLAURENCIA: — A medio torcer los paños,\nquise, atrevido Frondoso\npara no dar qué decir,",
+          "id": "b00065"
+        },
+        {
+          "kind": "verse",
+          "text": "desvïarme del arroyo;\ndecir a tus demasías\nque murmura el pueblo todo,\nque me miras y te miro,\ny todos nos traen sobre ojo.\nY como tú eres zagal\nde los que huellan, brioso,\ny excediendo a los demás\nvistes bizarro y costoso,\nen todo lugar no hay moza,\no mozo en el prado o soto,\nque no se afirme diciendo",
+          "id": "b00066"
+        },
+        {
+          "kind": "verse",
+          "text": "que ya para en uno somos;\ny esperan todos el día\nque el sacristán Juan Chamorro\nnos eche de la tribuna\nen dejando los piporros.\nY mejor sus trojes vean\nde rubio trigo en agosto\natestadas y colmadas,\ny sus tinajas de mosto,\nque tal imaginación\nme ha llegado a dar enojo:\nni me desvela ni aflige",
+          "id": "b00067"
+        },
+        {
+          "kind": "verse",
+          "text": "ni en ella el cuidado pongo.\nFRONDOSO: — Tal me tienen tus desdenes,\nbella Laurencia, que tomo,\nen el peligro de verte,\nla vida, cuando te oigo.\nSi sabes que es mi intención\nel desear ser tu esposo,\nmal premio das a mi fe.\nLAURENCIA: — Es que yo no sé dar otro.\nFRONDOSO: — ¿Posible es que no te duelas\nde verme tan cuidadoso\ny que imaginando en ti",
+          "id": "b00068"
+        },
+        {
+          "kind": "verse",
+          "text": "ni bebo, duermo ni como?\n¿Posible es tanto rigor\nen ese angélico rostro?\n¡Viven los cielos, que rabio!\nLAURENCIA: — Pues salúdate, Frondoso.\nFRONDOSO — Ya te pido yo salud,\ny que ambos, como palomos,\nestemos, juntos los picos,\ncon arrullos sonorosos,\ndespués de darnos la iglesia...\nLAURENCIA: — Dilo a mi tío Juan Rojo;\nque aunque no te quiero bien,",
+          "id": "b00069"
+        },
+        {
+          "kind": "verse",
+          "text": "ya tengo algunos asomos.\nFRONDOSO: — ¡Ay de mí! El señor es éste.\nLAURENCIA: — Tirando viene a algún corzo.\nEscóndete en esas ramas.\nFRONDOSO: — Y ¡con qué celos me escondo!\nSale el COMENDADOR\nCOMENDADOR: — No es malo venir siguiendo\nun corcillo temeroso,\ny topar tan bella gama.\nLAURENCIA: — Aquí descansaba un poco\nde haber lavado unos paños;\ny así, al arroyo me torno,",
+          "id": "b00070"
+        },
+        {
+          "kind": "verse",
+          "text": "si manda su señoría.\nCOMENDADOR: — Aquesos desdenes toscos\nafrentan, bella Laurencia,\nlas gracias que el poderoso\ncielo te dio, de tal suerte,\nque vienes a ser un monstruo.\nMas si otras veces pudiste\nhüír mi ruego amoroso,\nagora no quiere el campo,\namigo secreto y solo;\nque tú sola no has de ser\ntan soberbia, que tu rostro",
+          "id": "b00071"
+        },
+        {
+          "kind": "verse",
+          "text": "huyas al señor que tienes,\nteniéndome a mí en tan poco.\n¿No se rindió Sebastiana,\nmujer de Pedro Redondo,\ncon ser casadas entrambas,\ny la de Martín del Pozo,\nhabiendo apenas pasado\ndos días del desposorio?\nLAURENCIA: — Ésas, señor, ya tenían\nde haber andado con otros\nel camino de agradaros;\nporque también muchos mozos",
+          "id": "b00072"
+        },
+        {
+          "kind": "verse",
+          "text": "merecieron sus favores.\nId con Dios, tras vueso corzo;\nque a no veros con la cruz,\nos tuviera por demonio,\npues tanto me perseguís.\nCOMENDADOR: — ¡Qué estilo tan enfadoso!\nPongo la ballesta en tierra\n(puesto que aquí estamos solos),\ny a la práctica de manos\nreduzco melindres.\nLAURENCIA: — ¿Cómo?\n¿Eso hacéis? ¿Estáis en vos?",
+          "id": "b00073"
+        },
+        {
+          "kind": "verse",
+          "text": "Sale FRONDOSO y toma la ballesta\nCOMENDADOR: — No te defiendas.\nFRONDOSO: — Si tomo\nla ballesta ¡vive el cielo\nque no la ponga en el hombro!\nCOMENDADOR: — Acaba, ríndete.\nLAURENCIA: — ¡Cielos, ayúdame agora!\nCOMENDADOR: — Solos estamos; no tengas miedo.\nFRONDOSO: — Comendador generoso,\ndejad la moza, o creed\nque de mi agravio y enojo\nserá blanco vuestro pecho,",
+          "id": "b00074"
+        },
+        {
+          "kind": "verse",
+          "text": "aunque la cruz me da asombro.\nCOMENDADOR: — ¡Perro, villano!...\nFRONDOSO: — No hay perro. Huye, Laurencia.\nLAURENCIA: — Frondoso, mira lo que haces.\nFRONDOSO: — Vete.\nVase LAURENCIA\nCOMENDADOR: — ¡Oh, mal haya el hombre loco,\nque se desciñe la espada!\nQue, de no espantar medroso\nla caza, me la quité.\nFRONDOSO: — Pues, pardiez, señor, si toco\nla nuez, que os he de apiolar.",
+          "id": "b00075"
+        },
+        {
+          "kind": "verse",
+          "text": "COMENDADOR: — Ya es ida. Infame, alevoso,\nsuelta la ballesta luego.\nSuéltala, villano.\nFRONDOSO: — ¿Cómo?\nQue me quitaréis la vida.\nY advertid que Amor es sordo,\ny que no escucha palabras\nel día que está en su trono.\nCOMENDADOR: — Pues, ¿la espalda ha de volver\nun hombre tan valeroso\na un villano? Tira, infame,\ntira, y guárdate; que rompo",
+          "id": "b00076"
+        },
+        {
+          "kind": "verse",
+          "text": "las leyes de caballero.\nFRONDOSO: — Eso, no. Yo me conformo\ncon mi estado, y, pues me es\nguardar la vida forzoso,\ncon la ballesta me voy.\nCOMENDADOR: — ¡Peligro extraño y notorio!\nMas yo tomaré venganza\ndel agravio y del estorbo.\n¡Que no cerrara con él!\n¡Vive el cielo, que me corro!\nFIN DEL ACTO PRIMERO",
+          "id": "b00077"
+        }
+      ],
+      "english": [],
+      "id": "chapter-002"
+    },
+    {
+      "title": "ACTO SEGUNDO",
+      "part": "",
+      "blocks": [
+        {
+          "kind": "heading",
+          "text": "ACTO SEGUNDO",
+          "id": "b00001"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Salen ESTEBAN y otro REGIDOR",
+          "id": "b00002"
+        },
+        {
+          "kind": "verse",
+          "text": "ESTEBAN: Así tenga salud, como parece,\nque no se saque más agora el pósito.\nEl año apunta mal, y el tiempo crece,\ny es mejor que el sustento esté en depósito,\naunque lo contradicen más de trece.\nREGIDOR: Yo siempre he sido, al fin, de este propósito,\nen gobernar en paz esta república.\nESTEBAN: Hagamos de ello a Fernán Gómez súplica.\nNo se puede sufrir que estos astrólogos,\nen las cosas futuras ignorantes,\nnos quieran persuadir con largos prólogos\nlos secretos a Dios sólo importantes.",
+          "id": "b00003"
+        },
+        {
+          "kind": "verse",
+          "text": "¡Bueno es que, presumiendo de teólogos,\nhagan un tiempo en el que después y ante!\nY pidiendo el presente lo importante,\nal más sabio veréis más ignorante.\n¿Tienen ellos las nubes en su casa\ny el proceder de las celestes lumbres?\n¿Por dónde ven los que en el cielo pasa,\npara darnos con ella pesadumbres?\nEllos en el sembrar nos ponen tasa:\ndacá el trigo, cebada y las legumbres,\ncalabazas, pepinos y mostazas...\nEllos son, a la fe, las calabazas.",
+          "id": "b00004"
+        },
+        {
+          "kind": "verse",
+          "text": "Luego cuentan que muere una cabeza,\ny después viene a ser en Transilvania;\nque el vino será poco, y la cerveza\nsobrará por las partes de Alemania;\nque se helará en Gascuña la cereza,\ny que habrá muchos tigres en Hircania.\nY al cabo, que se siembre o no se siembre,\nel año se remata por diciembre.\nSalen el licenciado LEONELO y BARRILDO\nLEONELO: A fe que no ganéis la palmatoria,\nporque ya está ocupado el mentidero.\nBARRILDO: ¿Cómo os fue en Salamanca?",
+          "id": "b00005"
+        },
+        {
+          "kind": "verse",
+          "text": "LEONELO: Es larga historia.\nBARRILDO: Un Bártulo seréis.\nLEONELO: Ni aun un barbero.\nEs, como digo, cosa muy notoria\nen esta facultad lo que os refiero.\nBARRILDO: Sin duda que venís buen estudiante.\nLEONELO: Saber he procurado lo importante.\nBARRILDO: Después que vemos tanto libro impreso,\nno hay nadie que de sabio no presuma.\nLEONELO: Antes que ignoran más siento por eso,\npor no se reducir a breve suma;\nporque la confusión, con el exceso,",
+          "id": "b00006"
+        },
+        {
+          "kind": "verse",
+          "text": "los intentos resuelve en vana espuma;\ny aquel que de leer tiene más uso,\nde ver letreros sólo está confuso.\nNo niego yo que de imprimir el arte\nmil ingenios sacó de entre la jerga,\ny que parece que en sagrada parte\nsus obras guarda y contra el tiempo alberga;\néste las distribuye y las reparte.\nDébese esta invención a Gutemberga,\nun famoso tudesco de Maguncia,\nen quien la fama su valor renuncia.\nMas muchos que opinión tuvieron grave",
+          "id": "b00007"
+        },
+        {
+          "kind": "verse",
+          "text": "por imprimir sus obras la perdieron;\ntras esto, con el nombre del que sabe\nmuchos sus ignorancias imprimieron.\nOtros, en quien la baja envidia cabe,\nsus locos desatinos escribieron,\ny con nombre de aquél que aborrecían\nimpresos por el mundo los envían.\nBARRILDO: No soy de esa opinión.\nLEONELO: El ignorante\nes justo que se vengue del letrado.\nBARRILDO: Leonelo, la impresión es importante.\nLEONELO: Sin ella muchos siglos se han pasado,",
+          "id": "b00008"
+        },
+        {
+          "kind": "verse",
+          "text": "y no vemos que en éste se levante\nun Jerónimo santo, un Agustino.\nBARRILDO: Dejadlo y asentaos, que estáis mohino.",
+          "id": "b00009"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Salen JUAN ROJO y otro LABRADOR",
+          "id": "b00010"
+        },
+        {
+          "kind": "verse",
+          "text": "JUAN ROJO: No hay en cuatro haciendas para un dote,\nsi es que las vistas han de ser al uso;\nque el hombre que es curioso es bien que note\nque en esto el barrio y vulgo anda confuso.\nLABRADOR: ¿Qué hay del comendador? No os alborote.\nJUAN ROJO: ¡Cuál a Laurencia en ese campo puso!\nLABRADOR: ¿Quién fue cual él tan bárbaro y lascivo?\nColgado le vea yo de aquel olivo.\nSalen el COMENDADOR, ORTUÑO y FLORES\nCOMENDADOR: Dios guarde la buena gente.\nREGIDOR: ¡Oh, señor!\nCOMENDADOR: Por vida mía,",
+          "id": "b00011"
+        },
+        {
+          "kind": "verse",
+          "text": "que se estén.\nESTEBAN: Vuseñoría\nadonde suele se siente,\nque en pie estaremos muy bien.\nCOMENDADOR: Digo que se han de sentar.\nESTEBAN: De los buenos es honrar,\nque no es posible que den\nhonra los que no la tienen.\nCOMENDADOR: Siéntense; hablaremos algo.\nESTEBAN: ¿Vio vuseñoría el galgo?\nCOMENDADOR: Alcalde, espantados vienen\nesos criados de ver",
+          "id": "b00012"
+        },
+        {
+          "kind": "verse",
+          "text": "tan notable ligereza.\nESTEBAN: Es una extremada pieza.\nPardiez, que puede correr\nal lado de un delincuente\no de un cobarde en qüistión.\nCOMENDADOR: Quisiera en esta ocasión\nque le hiciérades pariente\na una liebre que por pies\npor momentos se me va.\nESTEBAN: Sí haré, par Dios. ¿Dónde está?\nCOMENDADOR: Allá vuestra hija es.\nESTEBAN: ¡Mi hija!",
+          "id": "b00013"
+        },
+        {
+          "kind": "verse",
+          "text": "COMENDADOR: Sí.\nESTEBAN: Pues, ¿es buena\npara alcanzada de vos?\nCOMENDADOR: Reñidla, alcalde, por Dios.\nESTEBAN: ¿Cómo?\nCOMENDADOR: Ha dado en darme pena.\nmujer hay, y principal,\nde alguno que está en la plaza,\nque dio, a la primera traza,\ntraza de verme.\nESTEBAN: Hizo mal;\ny vos, señor, no andáis bien",
+          "id": "b00014"
+        },
+        {
+          "kind": "verse",
+          "text": "en hablar tan libremente.\nCOMENDADOR: ¡Oh, qué villano elocuente!\n¡Ah, Flores!, haz que le den\nla Política, en que lea\nde Aristóteles.\nESTEBAN: Señor,\ndebajo de vuestro honor\nvivir el pueblo desea.\nMirad que en Fuenteovejuna\nhay gente muy principal.\nLEONELO: ¿Vióse desvergüenza igual?\nCOMENDADOR: Pues, ¿he dicho cosa alguna",
+          "id": "b00015"
+        },
+        {
+          "kind": "verse",
+          "text": "de que os pese, regidor?\nREGIDOR: Lo que decís es injusto;\nno lo digáis, que no es justo\nque nos quitéis el honor.\nCOMENDADOR: ¿Vosotros honor tenéis?\n¡Qué freiles de Calatrava!\nREGIDOR: Alguno acaso se alaba\nde la cruz que le ponéis,\nque no es de sangre tan limpia.\nCOMENDADOR: Y, ¿ensúciola yo juntando\nla mía a la vuestra?\nREGIDOR: Cuando",
+          "id": "b00016"
+        },
+        {
+          "kind": "verse",
+          "text": "que el mal más tiñe que alimpia.\nCOMENDADOR: De cualquier suerte que sea,\nvuestras mujeres se honran.\nESTEBAN: Esas palabras deshonran;\nlas obras no hay quien las crea.\nCOMENDADOR: ¡Qué cansado villanaje!\n¡Ah! Bien hayan las ciudades,\nque a hombres de calidades\nno hay quien sus gustos ataje;\nallá se precian casados\nque visiten sus mujeres.\nESTEBAN: No harán; que con esto quieres",
+          "id": "b00017"
+        },
+        {
+          "kind": "verse",
+          "text": "que vivamos descuidados.\nEn las ciudades hay Dios\ny más presto quien castiga.\nCOMENDADOR: Levantaos de aquí.\nESTEBAN: ¿Qué diga\nlo que escucháis por los dos?\nCOMENDADOR: Salid de la plaza luego;\nno quede ninguno aquí.\nESTEBAN: Ya nos vamos.\nCOMENDADOR: Pues no así.\nFLORES: Que te reportes te ruego.\nCOMENDADOR: Querrían hacer corrillo",
+          "id": "b00018"
+        },
+        {
+          "kind": "verse",
+          "text": "los villanos en mi ausencia.\nORTUÑO: Ten un poco de paciencia.\nCOMENDADOR: De tanta me maravillo.\nCada uno de por sí\nse vayan hasta sus casas.\nLEONELO: ¡Cielo! ¿Qué por esto pasas?\nESTEBAN: Ya yo me voy por aquí.\nVanse los LABRADORES\nCOMENDADOR: ¿Qué os parece de esta gente?\nORTUÑO: No sabes disimular,\nque no quieres escuchar\nel disgusto que se siente.",
+          "id": "b00019"
+        },
+        {
+          "kind": "verse",
+          "text": "COMENDADOR: Éstos ¿se igualan conmigo?\nFLORES: Que no es aqueso igualarse.\nCOMENDADOR: Y el villano, ¿ha de quedarse\ncon ballesta y sin castigo?\nFLORES: Anoche pensé que estaba\na la puerta de Laurencia,\ny a otro, que su presencia\ny su capilla imitaba,\nde oreja a oreja le di\nun beneficio famoso.\nCOMENDADOR: ¿Dónde estará aquel Frondoso?\nFLORES: Dicen que anda por ahí.",
+          "id": "b00020"
+        },
+        {
+          "kind": "verse",
+          "text": "COMENDADOR: ¡Por ahí se atreve a andar\nhombre que matarme quiso!\nFLORES: Como el ave sin aviso,\no como el pez, viene a dar\nal reclamo o al anzuelo.\nCOMENDADOR: ¡Que a un capitán cuya espada\ntiemblan Córdoba y Granada,\nun labrador, un mozuelo\nponga una ballesta al pecho!\nEl mundo se acaba, Flores.\nFLORES: Como eso pueden amores.\nORTUÑO: Y pues que vive, sospecho",
+          "id": "b00021"
+        },
+        {
+          "kind": "verse",
+          "text": "que grande amistad le debes.\nCOMENDADOR: Yo he disimulado, Ortuño;\nque si no, de punta a puño,\nantes de dos horas breves,\npasara todo el lugar;\nque hasta que llegue ocasión\nal freno de la razón\nhago la venganza estar.\n¿Qué hay de Pascuala?\nFLORES: Responde\nque anda agora por casarse.\nCOMENDADOR: ¿Hasta allí quiere fïarse?",
+          "id": "b00022"
+        },
+        {
+          "kind": "verse",
+          "text": "FLORES: En fin, te remite donde\nte pagarán de contado.\nCOMENDADOR: ¿Qué hay de Olalla?\nORTUÑO: Una graciosa\nrespuesta.\nCOMENDADOR: Es moza briosa.\n¿Cómo?\nORTUÑO: Que su desposado\nanda tras ella estos días\nceloso de mis recados\ny de que con tus crïados\na visitarla venías;",
+          "id": "b00023"
+        },
+        {
+          "kind": "verse",
+          "text": "pero que si se descuida\nentrarás como primero.\nCOMENDADOR: ¡Bueno, a fe de caballero!\nPero el villanejo cuida...\nORTUÑO: Cuida, y anda por los aires.\nCOMENDADOR: ¿Qué hay de Inés?\nFLORES: ¿Cuál?\nCOMENDADOR: La de Antón.\nFLORES: Para cualquier ocasión\nya ha ofrecido sus donaires.\nHabléla por el corral,\npor donde has de entrar si quieres.",
+          "id": "b00024"
+        },
+        {
+          "kind": "verse",
+          "text": "COMENDADOR: A las fáciles mujeres\nquiero bien y pago mal.\nSi éstas supiesen, ¡oh, Flores!,\nestimarse en lo que valen...\nFLORES: No hay disgustos que se igualen\na contrastar sus favores.\nRendirse presto desdice\nde la esperanza del bien;\nmas hay mujeres también,\nporque el filósofo dice,\nque apetecen a los hombres\ncomo la forma desea",
+          "id": "b00025"
+        },
+        {
+          "kind": "verse",
+          "text": "la materia; y que esto sea\nasí, no hay de qué te asombres.\nCOMENDADOR: Un hombre de amores loco\nhuélgase que a su accidente\nse le rindan fácilmente,\nmas después las tiene en poco,\ny el camino de olvidar,\nal hombre más obligado\nes haber poco costado\nlo que pudo desear.\nSale CIMBRANOS, soldado\nCIMBRANOS: ¿Está aquí el comendador?",
+          "id": "b00026"
+        },
+        {
+          "kind": "verse",
+          "text": "ORTUÑO: ¿No le ves en tu presencia?\nCIMBRANO: ¡Oh, gallardo Fernán Gómez!\nTrueca la verde montera\nen el blanco morrión\ny el gabán en armas nuevas;\nque el maestre de Santiago\ny el conde de Cabra cercan\na don Rodrigo Girón,\npor la castellana reina,\nen Ciudad Real; de suerte\nque no es mucho que se pierda\nlo que en Calatrava sabes",
+          "id": "b00027"
+        },
+        {
+          "kind": "verse",
+          "text": "que tanta sangre le cuesta.\nYa divisan con las luces,\ndesde las altas almenas\nlos castillo y leones\ny barras aragonesas.\nY aunque el rey de Portugal\nhonrar a Girón quisiera,\nno hará poco en que el maestre\na Almagro con vida vuelva.\nPonte a caballo, señor;\nque sólo con que te vean\nse volverán a Castilla.",
+          "id": "b00028"
+        },
+        {
+          "kind": "verse",
+          "text": "COMENDADOR: No prosigas; tente, espera.\nHaz, Ortuño, que en la plaza\ntoquen luego una trompeta.\n¿Qué soldados tengo aquí?\nORTUÑO: Pienso que tienes cincuenta.\nCOMENDADOR: Pónganse a caballo todos.\nCIMBRANOS: Si no caminas apriesa,\nCiudad Real es del rey.\nCOMENDADOR: No hayas miedo que lo sea.\nVanse TODOS. Salen MENGO, LAURENCIA y PASCUALA, huyendo.\nPASCUALA: No te apartes de nosotras.\nMENGO: Pues, ¿a qué tenéis temor?",
+          "id": "b00029"
+        },
+        {
+          "kind": "verse",
+          "text": "LAURENCIA: Mengo, a la villa es mejor\nque vamos unas con otras,\npues que no hay hombre ninguno,\nporque no demos con él.\nMENGO: ¡Que este demonio crüel\nnos sea tan importuno!\nLAURENCIA: No nos deja a sol ni a sombra.\nMENGO: ¡Oh! Rayo del cielo baje\nque sus locuras ataje.\nLAURENCIA: Sangrienta fiera le nombra;\narsénico y pestilencia\ndel lugar.",
+          "id": "b00030"
+        },
+        {
+          "kind": "verse",
+          "text": "MENGO: Hanme contado\nque Frondoso, aquí en el prado,\npara librarte, Laurencia,\nle puso al pecho una jara.\nLAURENCIA: Los hombres aborrecía,\nMengo; mas desde aquel día\nlos miro con otra cara.\n¡Gran valor tuvo Frondoso!\nPienso que le ha de costar\nla vida.\nMENGO: Que del lugar\nse vaya, será forzoso.",
+          "id": "b00031"
+        },
+        {
+          "kind": "verse",
+          "text": "LAURENCIA: Aunque ya le quiero bien,\neso mismo le aconsejo;\nmas recibe mi consejo\ncon ira, rabia y desdén;\ny jura el comendador\nque le ha de colgar de un pie.\nPASCUALA: ¡Mal garrotillo le dé!\nMENGO: Mala pedrada es mejor!\n¡Voto al sol, si le tirara\ncon la que llevo al apero,\nque al sonar el crujidero\nal casco se la encajara!",
+          "id": "b00032"
+        },
+        {
+          "kind": "verse",
+          "text": "No fue Sábalo, el romano,\ntan vicioso por jamás.\nLAURENCIA: Heliogábalo dirás,\nmás que una fiera inhumano.\nMENGO: Pero Galván, o quien fue,\nque yo no entiendo de historia;\nmas su cativa memoria\nvencida de éste se ve.\n¿Hay hombre en naturaleza\ncomo Fernán Gómez?\nPASCUALA: No;\nque parece que le dio",
+          "id": "b00033"
+        },
+        {
+          "kind": "verse",
+          "text": "de una tigre la aspereza.\nSale JACINTA\nJACINTA: Dadme socorro, por Dios,\nsi la amistad os obliga.\nLAURENCIA: ¿Qué es esto, Jacinta amiga?\nPASCUALA: Tuyas lo somos las dos.\nJACINTA: Del comendador crïados,\nque van a Ciudad Real,\nmás de infamia natural\nque de noble acero armados,\nme quieren llevar a él.\nLAURENCIA: Pues, Jacinta, Dios te libre;",
+          "id": "b00034"
+        },
+        {
+          "kind": "verse",
+          "text": "que cuando contigo es libre,\nconmigo será crüel.\nVase LAURENCIA\nPASCUALA: Jacinta, yo no soy hombre\nque te pueda defender.\nVase PASCUALA\nMENGO: Yo sí lo tengo de ser,\nporque tengo el ser y el nombre.\nLlégate, Jacinta, a mí.\nJACINTA: ¿Tienes armas?\nMENGO: Las primeras\ndel mundo.",
+          "id": "b00035"
+        },
+        {
+          "kind": "verse",
+          "text": "JACINTA: ¡Oh, si las tuvieras!\nMENGO: Piedras hay, Jacinta, aquí.\nSalen FLORES y ORTUÑO\nFLORES: ¿Por los pies pensabas irte?\nJACINTA: ¡Mengo, muerta soy!\nMENGO: Señores...\n¿A estos pobres labradores?...\nORTUÑO: Pues, ¿tú quieres persuadirte\na defender la mujer?\nMENGO: Con los ruegos la defiendo;\nque soy su deudo y pretendo\nguardarla, si puede ser.",
+          "id": "b00036"
+        },
+        {
+          "kind": "verse",
+          "text": "FLORES: Quitadle luego la vida.\nMENGO: ¡Voto al sol, si me emberrincho,\ny el cáñamo me descincho,\nque la llevéis bien vendida!\nSalen el COMENDADOR y CIMBRANOS\nCOMENDADOR: ¿Qué es eso? ¿A cosas tan viles\nme habéis de hacer apear?\nFLORES: Gente de este vil lugar,\nque ya es razón que aniquiles,\npues en nada te da gusto,\na nuestras armas se atreve.\nMENGO: Señor, si piedad os mueve",
+          "id": "b00037"
+        },
+        {
+          "kind": "verse",
+          "text": "de suceso tan injusto,\ncastigad estos soldados,\nque con vuestro nombre agora\nroban una labradora\na esposo y padres honrados;\ny dadme licencia a mí\nque se la pueda llevar.\nCOMENDADOR: Licencia les quiero dar...\npara vengarse de ti.\nSuelta la honda.\nMENGO: Señor!\nCOMENDADOR: Flores, Ortuño, Cimbranos,",
+          "id": "b00038"
+        },
+        {
+          "kind": "verse",
+          "text": "con ella le atad las manos.\nMENGO: ¿Así volvéis por su honor?\nCOMENDADOR: ¿Qué piensan Fuenteovejuna\ny sus villanos de mí?\nMENGO: Señor, ¿en qué os ofendí,\nni el pueblo en cosa ninguna?\nFLORES: ¿Ha de morir?\nCOMENDADOR: No ensuciéis\nlas armas, que habéis de honrar\nen otro mejor lugar.\nORTUÑO: ¿Qué mandas?\nCOMENDADOR: Que lo azotéis.",
+          "id": "b00039"
+        },
+        {
+          "kind": "verse",
+          "text": "Llevadle, y en ese roble\nle atad y le desnudad,\ny con las riendas...\nMENGO: ¡Piedad!\n¡Piedad, pues sois hombre noble!\nCOMENDADOR: Azotadle hasta que salten\nlos hierros de las correas.\nMENGO: ¡Cielos! ¿A hazañas tan feas\nqueréis que castigos falten?\nVanse MENGO, FLORES y ORTUÑO\nCOMENDADOR: Tú, villana, ¿por qué huyes?\n¿Es mejor un labrador",
+          "id": "b00040"
+        },
+        {
+          "kind": "verse",
+          "text": "que un hombre de mi valor?\nJACINTA: ¡Harto bien me restituyes\nel honor que me han quitado\nen llevarme para ti!\nCOMENDADOR: ¿En quererte llevar?\nJACINTA: Sí;\nporque tengo un padre honrado,\nque si en alto nacimiento\nno te iguala, en las costumbres\nte vence.\nCOMENDADOR: Las pesadumbres\ny el villano atrevimiento",
+          "id": "b00041"
+        },
+        {
+          "kind": "verse",
+          "text": "no tiemplan bien un airado.\nTira por ahí.\nJACINTA: ¿Con quién?\nCOMENDADOR: Conmigo.\nJACINTA: Míralo bien.\nCOMENDADOR: Para tu mal lo he mirado.\nYa no mía, del bagaje\ndel ejército has de ser.\nJACINTA: No tiene el mundo poder\npara hacerme, viva, ultraje.\nCOMENDADOR: ¡Ea, villana, camina!\nJACINTA: ¡Piedad, señor!",
+          "id": "b00042"
+        },
+        {
+          "kind": "verse",
+          "text": "COMENDADOR: No hay piedad.\nJACINTA: Apelo de tu crueldad\na la justicia divina.\nLlévanla y vanse. Salen LAURENCIA y FRONDOSO\nLAURENCIA: ¿Cómo así a venir te atreves,\nsin temer tu daño.\nFRONDOSO: Ha sido\ndar testimonio cumplido\nde la afición que me debes.\nDesde aquel recuesto vi\nsalir al comendador,\ny fiado en tu valor",
+          "id": "b00043"
+        },
+        {
+          "kind": "verse",
+          "text": "todo mi temor perdí.\nVaya donde no le vean\nvolver.\nLAURENCIA: Tente en maldecir,\nporque suele más vivir\nal que la muerte desean.\nFRONDOSO: Si es eso, viva mil años,\ny así se hará todo bien\npues deseándole bien,\nestarán ciertos sus daños.\nLaurencia, deseo saber\nsi vive en ti mi cuidado,",
+          "id": "b00044"
+        },
+        {
+          "kind": "verse",
+          "text": "y si mi lealtad ha hallado\nel puerto de merecer.\nMira que toda la villa\nya para en uno nos tiene;\ny de cómo a ser no viene\nla villa se maravilla.\nLos desdeñosos extremos\ndeja, y responde \"no\" o \"sí.\"\nLAURENCIA: Pues a la villa y a ti\nrespondo que lo seremos.\nFRONDOSO: Deja que tus plantas bese\nPor la merced recibida,",
+          "id": "b00045"
+        },
+        {
+          "kind": "verse",
+          "text": "pues el cobrar nueva vida\npor ella es bien que confiese.\nLAURENCIA: De cumplimientos acorta;\ny para que mejor cuadre,\nhabla, Frondoso, a mi padre,\npues es lo que más importa,\nque allí viene con mi tío;\ny fía que ha de tener\nser, Frondoso, tu mujer\nbuen suceso.\nFRONDOSO: En Dios confío.\nEscóndese LAURENCIA. Salen ESTEBAN, alcalde, y el REGIDOR",
+          "id": "b00046"
+        },
+        {
+          "kind": "verse",
+          "text": "ESTEBAN: Fue su término de modo,\nque la plaza alborotó.\nEn efecto, procedió\nmuy descomedido en todo.\nNo hay a quien admiración\nsus demasías no den;\nla pobre Jacinta es quien\npierde por su sinrazón.\nREGIDOR: Ya a los católicos reyes,\nque este nombre les dan ya,\npresto España les dará\nla obediencia de sus leyes.",
+          "id": "b00047"
+        },
+        {
+          "kind": "verse",
+          "text": "Ya sobre Ciudad Real,\ncontra el Girón que la tiene,\nSantiago a caballo viene\npor capitán general.\nPésame; que era Jacinta\ndoncella de buena pro.\nESTEBAN: Luego a Mengo le azotó.\nREGIDOR: No hay negra bayeta o tinta\ncomo sus carnes están.\nESTEBAN: Callad; que me siento arder\nviendo su mal proceder\ny el mal nombre que le dan.",
+          "id": "b00048"
+        },
+        {
+          "kind": "verse",
+          "text": "Yo, ¿para qué traigo aquí\neste palo sin provecho?\nREGIDOR: Si sus criados lo han hecho\n¿de qué os afligís así?\nESTEBAN: ¿Queréis más? Que me contaron\nque a la de Pedro Redondo\nun día, que en lo más hondo\nde este valle la encontraron,\ndespués de sus insolencias,\na sus criados la dio.\nREGIDOR: Aquí hay gente. ¿Quién es?\nFRONDOSO: Yo,",
+          "id": "b00049"
+        },
+        {
+          "kind": "verse",
+          "text": "que espero vuestras licencias.\nESTEBAN: Para mi casa, Frondoso,\nlicencia no es menester;\ndebes a tu padre el ser\ny a mí otro ser amoroso.\nHete criado, y te quiero\ncomo a hijo.\nFRONDOSO: Pues señor,\nfiado en aquese amor,\nde ti una merced espero.\nYa sabes de quién soy hijo.\nESTEBAN: ¿Hate agraviado ese loco",
+          "id": "b00050"
+        },
+        {
+          "kind": "verse",
+          "text": "de Fernán Gómez?\nFRONDOSO: No poco.\nESTEBAN: El corazón me lo dijo.\nFRONDOSO: Pues señor, con el seguro\ndel amor que habéis mostrado,\nde Laurencia enamorado,\nel ser su esposo procuro.\nPerdona si en el pedir\nmi lengua se ha adelantado;\nque he sido en decirlo osado,\ncomo otro lo ha de decir.\nESTEBAN: Vienes, Frondoso, a ocasión",
+          "id": "b00051"
+        },
+        {
+          "kind": "verse",
+          "text": "que me alargarás la vida,\npor la cosa más temida\nque siente mi corazón.\nAgradezco, hijo, al cielo\nque así vuelvas por mi honor\ny agradézcole a tu amor\nla limpieza de tu celo.\nMas como es justo, es razón\ndar cuenta a tu padre de esto,\nsólo digo que estoy presto,\nen sabiendo su intención;\nque yo dichoso me hallo",
+          "id": "b00052"
+        },
+        {
+          "kind": "verse",
+          "text": "en que aqueso llegue a ser.\nREGIDOR: De la moza el parecer\ntomad antes de acetallo.\nESTEBAN: No tengáis de eso cuidado,\nque ya el caso está dispuesto.\nAntes de venir a esto,\nentre ellos se ha concertado.\nEn el dote, si advertís,\nse puede agora tratar;\nque por bien os pienso dar\nalgunos maravedís.\nFRONDOSO: Yo dote no he menester;",
+          "id": "b00053"
+        },
+        {
+          "kind": "verse",
+          "text": "de eso no hay que entristeceros.\nREGIDOR: Pues que no la pide en cueros\nlo podéis agradecer.\nESTEBAN: Tomaré el parecer de ella;\nsi os parece, será bien.\nFRONDOSO: Justo es; que no hace bien\nquien los gustos atropella.\nESTEBAN: ¡Hija! ¡Laurencia!...\nLAURENCIA: ¿Señor?\nESTEBAN: Mirad si digo bien yo.\n¡Ved qué presto respondió!\nHija Laurencia, mi amor",
+          "id": "b00054"
+        },
+        {
+          "kind": "verse",
+          "text": "a preguntarte ha venido\n--apártate aquí-- si es bien\nque a Gila, tu amiga, den\na Frondoso por marido,\nque es un honrado zagal,\nsi le hay en Fuenteovejuna...\nLAURENCIA: ¿Gila se casa?\nESTEBAN: Y si alguna\nle merece y es su igual...\nLAURENCIA: Yo digo, señor, que sí.\nESTEBAN: Sí; mas yo digo que es fea\ny que harto mejor se emplea",
+          "id": "b00055"
+        },
+        {
+          "kind": "verse",
+          "text": "Frondoso, Laurencia en ti.\nLAURENCIA: ¿Aún no se te han olvidado\nlos donaires con la edad?\nESTEBAN: ¿Quiéresle tú?\nLAURENCIA: Voluntad\nle he tenido y le he cobrado;\npero por lo que tú sabes...\nESTEBAN: ¿Quieres tú que diga sí?\nLAURENCIA: Dilo tú, señor, por mí.\nESTEBAN: ¿Yo? Pues tengo yo las llaves.\nHecho está. Ven, buscaremos\na mi compadre en la plaza.",
+          "id": "b00056"
+        },
+        {
+          "kind": "verse",
+          "text": "REGIDOR: Vamos.\nESTEBAN: Hijo, y en la traza\ndel dote, ¿qué le diremos?\nQue yo bien te puedo dar\ncuatro mil maravedís.\nFRONDOSO: Señor, ¿eso me decís?\nMi honor queréis agraviar.\nESTEBAN: Anda, hijo; que eso es\ncosa que pasa en un día;\nque si no hay dote, a fe mía,\nque se echa menos después.\nVanse, y quedan FRONDOSO y LAURENCIA",
+          "id": "b00057"
+        },
+        {
+          "kind": "verse",
+          "text": "LAURENCIA: Di, Frondoso. ¿Estás contento?\nFRONDOSO: ¡Cómo si lo estoy! ¡Es poco,\npues que no me vuelvo loco\nde gozo, del bien que siento!\nRisa vierte el corazón\npor los ojos de alegría\nviéndote, Laurencia mía,\nen tan dulce posesión.\nVanse. Salen el MAESTRE, el COMENDADOR, FLORES y ORTUÑO\nCOMENDADOR: Huye, señor, que no hay otro remedio.\nMAESTRE: La flaqueza del muro lo ha causado,\ny el poderoso ejército enemigo.",
+          "id": "b00058"
+        },
+        {
+          "kind": "verse",
+          "text": "COMENDADOR: Sangre les cuesta e infinitas vidas.\nMAESTRE: Y no se alabarán que en sus despojos\npondrán nuestro pendón de Calatrava,\nque a honrar su empresa y los demás bastaba.\nCOMENDADOR: Tus designios, Girón, quedan perdidos.\nMAESTRE: ¿Qué puedo hacer, si la fortuna ciega\na quien hoy levantó, mañana humilla?\nDentro\nVOCES: ¡Victoria por los reyes de Castilla!\nMAESTRE: Ya coronan de luces las almenas,\ny las ventanas de las torres altas\nentoldan con pendones victoriosos.",
+          "id": "b00059"
+        },
+        {
+          "kind": "verse",
+          "text": "COMENDADOR: Bien pudieran, de sangre que les cuesta.\nA fe que es más tragedia que no fiesta.\nMAESTRE: Yo vuelvo a Calatrava, Fernán Gómez.\nCOMENDADOR: Y yo a Fuenteovejuna, mientras tratas\no seguir esta parte de tus deudos,\no reducir la tuya al rey católico.\nMAESTRE: Yo te diré por cartas lo que intento.\nCOMENDADOR: El tiempo ha de enseñarte.\nMAESTRE: Ah, pocos años,\nsujetos al rigor de sus engaños!\nVanse. Sale la boda, MÚSICOS, MENGO, FRONDOSO, LAURENCIA, PASCUALA, BARRILDO, ESTEBAN y alcalde JUAN ROJO. Cantan\nMUSICOS: \"¡Vivan muchos años",
+          "id": "b00060"
+        },
+        {
+          "kind": "verse",
+          "text": "los desposados!\n¡Vivan muchos años!\"\nMENGO: A fe que no os ha costado\nmucho trabajo el cantar.\nBARRILDO: Supiéraslo tú trovar\nmejor que él está trovado.\nFRONDOSO: Mejor entiende de azotes\nMengo que de versos ya.\nMENGO: Alguno en el valle está,\npara que no te alborotes,\na quien el Comendador...\nBARRILDO: No lo digas, por tu vida;",
+          "id": "b00061"
+        },
+        {
+          "kind": "verse",
+          "text": "que este bárbaro homicida\na todos quita el honor.\nMENGO: Que me azotasen a mí\ncien soldados aquel día...\nsola una honda tenía\n[y así una copla escribí;]\npero que le hayan echado\nuna melecina a un hombre,\nque aunque no diré su nombre\ntodos saben que es honrado,\nllena de tinta y de chinas\n¿cómo se puede sufrir?",
+          "id": "b00062"
+        },
+        {
+          "kind": "verse",
+          "text": "BARRILDO: Haríalo por reír.\nMENGO: No hay risa con melecinas;\nque aunque es cosa saludable...\nyo me quiero morir luego.\nFRONDOSO: Vaya la copla, te ruego,\nsi es la copla razonable.\nMENGO: \"Vivan muchos años juntos\nlos novios, ruego a los cielos,\ny por envidia ni celos\nni riñan ni anden en puntos.\nLlevan a entrambos difuntos,\nde puro vivir cansados.",
+          "id": "b00063"
+        },
+        {
+          "kind": "verse",
+          "text": "¡Vivan muchos años!\"\nFRONDOSO: ¡Maldiga el cielo el poeta,\nque tal coplón arrojó!\nBARRILDO: Fue muy presto.\nMENGO: Pienso yo\nuna cosa de esta seta.\n¿No habéis visto un buñolero\nen el aceite abrasando\npedazos de masa echando\nhasta llenarse el caldero?\n¿Que unos le salen hinchados,\notros tuertos y mal hechos,",
+          "id": "b00064"
+        },
+        {
+          "kind": "verse",
+          "text": "ya zurdos y ya derechos,\nya fritos y ya quemados?\nPues así imagino yo\nun poeta componiendo,\nla materia previniendo,\nque es quien la masa le dio.\nVa arrojando verso aprisa\nal caldero del papel,\nconfiado en que la miel\ncubrirá la burla y risa.\nMas poniéndolo en el pecho,\napenas hay quien los tome;",
+          "id": "b00065"
+        },
+        {
+          "kind": "verse",
+          "text": "tanto que sólo los come\nel mismo que los ha hecho.\nBARRILDO: Déjate ya de locuras;\ndeja los novios hablar.\nLAURENCIA: Las manos nos da a besar.\nJUAN ROJO: Hija, ¿mi mano procuras?\nPídela a tu padre luego\npara ti y para Frondoso.\nESTEBAN: Rojo, a ella y a su esposo\nque se la dé el cielo ruego,\ncon su larga bendición.\nFRONDOSO: Los dos a los dos la echad.",
+          "id": "b00066"
+        },
+        {
+          "kind": "verse",
+          "text": "JUAN ROJO: Ea, tañed y cantad,\npues que para en uno son.\nCantan\nMÚSICOS: \"Al val de Fuenteovejuna\nla niña en cabellos baja;\nel caballero la sigue\nde la cruz de Calatrava.\nEntre las ramas se esconde,\nde vergonzosa y turbada;\nfingiendo que no le ha visto,\npone delante las ramas.\n--¿Para qué te escondes,",
+          "id": "b00067"
+        },
+        {
+          "kind": "verse",
+          "text": "niña gallarda?\nQue mis linces deseos\nparedes pasan.--\nAcercóse el caballero,\ny ella, confusa y turbada,\nhacer quiso celosías\nde las intricadas ramas;\nmas como quien tiene amor\nlos mares y las montañas\natraviesa fácilmente,\nla dice tales palabras:\n-¿Para qué te escondes,",
+          "id": "b00068"
+        },
+        {
+          "kind": "verse",
+          "text": "niña gallarda?\nQue mis linces deseos\nparedes pasan-.\"\nSale el COMENDADOR, FLORES, ORTUÑO y CIMBRANOS\nCOMENDADOR: Estése la boda queda\ny no se alborote nadie.\nJUAN ROJO: No es juego aqueste, señor,\ny basta que tú lo mandes.\n¿Quieres lugar? ¿Cómo vienes\ncon tu belicoso alarde?\n¿Venciste? Mas, ¿qué pregunto?\nFRONDOSO: ¡Muerto soy! ¡Cielos, libradme!",
+          "id": "b00069"
+        },
+        {
+          "kind": "verse",
+          "text": "LAURENCIA: Huye por aquí, Frondoso.\nCOMENDADOR: Eso no; prendedle, atadle.\nJUAN ROJO: Date, muchacho, a prisión.\nFRONDOSO: Pues ¿quieres tú que me maten?\nJUAN ROJO: ¿Por qué?\nCOMENDADOR: No soy hombre yo\nque mato sin culpa a nadie;\nque si lo fuera, le hubieran\npasado de parte a parte\nesos soldados que traigo.\nLlevarlo mando a la cárcel,\ndonde la culpa que tiene",
+          "id": "b00070"
+        },
+        {
+          "kind": "verse",
+          "text": "sentencie su mismo padre.\nPASCUALA: Señor, mirad que se casa.\nCOMENDADOR: ¿Qué me obliga que se case?\n¿No hay otra gente en el pueblo?\nPASCUALA: Si os ofendió, perdonadle,\npor ser vos quien sois.\nCOMENDADOR: No es cosa,\nPascuala, en que yo soy parte.\nEs esto contra el maestre\nTéllez Girón, que Dios guarde;\nes contra toda su orden,\nes su honor, y es importante",
+          "id": "b00071"
+        },
+        {
+          "kind": "verse",
+          "text": "para el ejemplo, el castigo;\nque habrá otro día quien trate\nde alzar pendón contra él,\npues ya sabéis que una tarde\nal comendador mayor,\n--¡qué vasallos tan leales!--\npuso una ballesta al pecho.\nESTEBAN: Supuesto que el disculparle\nya puede tocar a un suegro,\nno es mucho que en causas tales\nse descomponga con vos\nun hombre, en efecto, amante;",
+          "id": "b00072"
+        },
+        {
+          "kind": "verse",
+          "text": "porque si vos pretendéis\nsu propia mujer quitarle,\n¿qué mucho que la defienda?\nCOMENDADOR: Majadero sois, alcalde.\nESTEBAN: Por vuestra virtud, señor,...\nCOMENDADOR: Nunca yo quise quitarle\nsu mujer, pues no lo era.\nESTEBAN: Sí quisistes... Y esto baste;\nque reyes hay en Castilla,\nque nuevas órdenes hacen,\ncon que desórdenes quitan.\nY harán mal, cuando descansen",
+          "id": "b00073"
+        },
+        {
+          "kind": "verse",
+          "text": "de las guerras, en sufrir\nen sus villas y lugares\na hombres tan poderosos\npor traer cruces tan grandes;\npóngasela el rey al pecho,\nque para pechos reales\nes esa insignia y no más.\nCOMENDADOR: ¡Hola!, la vara quitadle.\nESTEBAN: Tomad, señor, norabuena.\nCOMENDADOR: Pues con ella quiero darle\ncomo a caballo brioso.\nESTEBAN: Por señor os sufro. Dadme.",
+          "id": "b00074"
+        },
+        {
+          "kind": "verse",
+          "text": "PASCUALA: ¿A un viejo de palos das?\nLAURENCIA: Si le das porque es mi padre,\n¿qué vengas en él de mí?\nCOMENDADOR: Llevadla, y haced que guarden\nsu persona diez soldados.\nVase el COMENDADOR y los suyos\nESTEBAN: Justicia del cielo baje.\nVase\nPASCUALA: Volvióse en luto la boda.\nVase\nBARRILDO: ¿No hay aquí un hombre que hable?\nMENGO: Yo tengo ya mis azotes,",
+          "id": "b00075"
+        },
+        {
+          "kind": "verse",
+          "text": "que aún se ven los cardenales\nsin que un hombre vaya a Roma.\nPrueben otros a enojarle.\nJUAN ROJO: hablemos todos.\nMENGO: Señores,\naquí todo el mundo calle.\nComo ruedas de salmón\nme puso los atabales.",
+          "id": "b00076"
+        },
+        {
+          "kind": "paragraph",
+          "text": "FIN DEL ACTO SEGUNDO",
+          "id": "b00077"
+        }
+      ],
+      "english": [],
+      "id": "chapter-003"
+    },
+    {
+      "title": "ACTO TERCERO",
+      "part": "",
+      "blocks": [
+        {
+          "kind": "heading",
+          "text": "ACTO TERCERO",
+          "id": "b00001"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Salen ESTEBAN, ALONSO y BARRILDO",
+          "id": "b00002"
+        },
+        {
+          "kind": "verse",
+          "text": "ESTEBAN: ¿No han venido a la junta?\nBARRILDO: No han venido.\nESTEBAN: Pues más a priesa nuestro daño corre.\nBARRILDO: Ya está lo más del pueblo prevenido.\nESTEBAN: Frondoso con prisiones en la torre,\ny mi hija Laurencia en tanto aprieto,\nsi la piedad de Dios no los socorre...\nSalen JUAN ROJO y el REGIDOR\nJUAN ROJO: ¿De qué dais voces, cuando importa tanto\na nuestro bien, Esteban, el secreto?\nESTEBAN: Que doy tan pocas es mayor espanto.\nSale MENGO",
+          "id": "b00003"
+        },
+        {
+          "kind": "verse",
+          "text": "MENGO: También vengo yo a hallarme en esta\njunta.\nESTEBAN: Un hombre cuyas canas baña el llanto,\nlabradores honrados, os pregunta,\n¿qué obsequias debe hacer toda esa gente\na su patria sin honra, ya perdida?\nY si se llaman honras justamente,\n¿cómo se harán, si no hay entre nosotros\nhombre a quien este bárbaro no afrente?\nRespondedme: ¿Hay alguno de vosotros\nque no esté lastimado en honra y vida?\n¿No os lamentáis los unos de los otros?",
+          "id": "b00004"
+        },
+        {
+          "kind": "verse",
+          "text": "Pues si ya la tenéis todos perdida,\n¿a qué aguardáis? ¿Qué desventura es ésta?\nJUAN ROJO: La mayor que en el mundo fue sufrida.\nMas pues ya se publica y manifiesta\nque en paz tienen los reyes a Castilla\ny su venida a Córdoba se apresta,\nvayan dos regidores a la villa\ny echándose a sus pies pidan remedio.\nBARRILDO: En tanto que Fernando, aquél que humilla\na tantos enemigos, otro medio\nserá mejor, pues no podrá, ocupado\nhacernos bien, con tanta guerra en medio.",
+          "id": "b00005"
+        },
+        {
+          "kind": "verse",
+          "text": "REGIDOR: Si mi voto de vos fuera escuchado,\ndesamparar la villa doy por voto.\nJUAN ROJO: ¿Cómo es posible en tiempo limitado?\nMENGO: A la fe, que si entiende el alboroto,\nque ha de costar la junta alguna vida.\nREGIDOR: Ya, todo el árbol de paciencia roto,\ncorre la nave de temor perdida.\nLa hija quitan con tan gran fiereza\na un hombre honrado, de quien es regida\nla patria en que vivís, y en la cabeza\nla vara quiebran tan injustamente.\n¿Qué esclavo se trató con más bajeza?",
+          "id": "b00006"
+        },
+        {
+          "kind": "verse",
+          "text": "JUAN ROJO: ¿Qué es lo que quieres tú que el pueblo intente?\nREGIDOR: Morir, o dar la muerte a los tiranos,\npues somos muchos, y ellos poca gente.\nBARRILDO: ¡Contra el señor las armas en las manos!\nESTEBAN: El rey sólo es señor después del cielo,\ny no bárbaros hombres inhumanos.\nSi Dios ayuda nuestro justo celo,\n¿qué nos ha de costar?\nMENGO: Mirad, señores,\nque vais en estas cosas con recelo.\nPuesto que por los simples labradores\nestoy aquí que más injurias pasan,",
+          "id": "b00007"
+        },
+        {
+          "kind": "verse",
+          "text": "más cuerdo represento sus temores.\nJUAN ROJO: Si nuestras desventuras se compasan,\npara perder las vidas, ¿qué aguardamos?\nLas casas y las viñas nos abrasan,\n¡tiranos son! ¡A la venganza vamos!\nSale LAURENCIA, desmelenada\nLAURENCIA: Dejadme entrar, que bien puedo,\nen consejo de los hombres;\nque bien puede una mujer,\nsi no a dar voto, a dar voces.\n¿Conocéisme?\nESTEBAN: ¡Santo cielo!",
+          "id": "b00008"
+        },
+        {
+          "kind": "verse",
+          "text": "¿No es mi hija?\nJUAN ROJO: ¿No conoces\na Laurencia?\nLAURENCIA: Vengo tal,\nque mi diferencia os pone\nen contingencia quién soy.\nESTEBAN: ¡Hija mía!\nLAURENCIA: No me nombres\ntu hija.\nESTEBAN: ¿Por qué, mis ojos?\n¿Por qué?\nLAURENCIA: Por muchas razones,",
+          "id": "b00009"
+        },
+        {
+          "kind": "verse",
+          "text": "y sean las principales:\nporque dejas que me roben\ntiranos sin que me vengues,\ntraidores sin que me cobres.\nAún no era yo de Frondoso,\npara que digas que tome,\ncomo marido, venganza;\nque aquí por tu cuenta corre;\nque en tanto que de las bodas\nno haya llegado la noche,\ndel padre, y no del marido,\nla obligación presupone;",
+          "id": "b00010"
+        },
+        {
+          "kind": "verse",
+          "text": "que en tanto que no me entregan\nuna joya, aunque la compren,\nno ha de correr por mi cuenta\nlas guardas ni los ladrones.\nLlevóme de vuestros ojos\na su casa Fernán Gómez;\nla oveja al lobo dejáis\ncomo cobardes pastores.\n¿Qué dagas no vi en mi pecho?\n¿Qué desatinos enormes,\nqué palabras, qué amenazas,\ny qué delitos atroces,",
+          "id": "b00011"
+        },
+        {
+          "kind": "verse",
+          "text": "por rendir mi castidad\na sus apetitos torpes?\nMis cabellos ¿no lo dicen?\n¿No se ven aquí los golpes\nde la sangre y las señales?\n¿Vosotros sois hombres nobles?\n¿Vosotros padres y deudos?\n¿Vosotros, que no se os rompen\nlas entrañas de dolor,\nde verme en tantos dolores?\nOvejas sois, bien lo dice\nde Fuenteovejuna el hombre.",
+          "id": "b00012"
+        },
+        {
+          "kind": "verse",
+          "text": "Dadme unas armas a mí\npues sois piedras, pues sois tigres...\n-Tigres no, porque feroces\nsiguen quien roba sus hijos,\nmatando los cazadores\nantes que entren por el mar\ny pos sus ondas se arrojen.\nLiebres cobardes nacisteis;\nbárbaros sois, no españoles.\nGallinas, ¡vuestras mujeres\nsufrís que otros hombres gocen!\nPoneos ruecas en la cinta.",
+          "id": "b00013"
+        },
+        {
+          "kind": "verse",
+          "text": "¿Para qué os ceñís estoques?\n¡Vive Dios, que he de trazar\nque solas mujeres cobren\nla honra de estos tiranos,\nla sangre de estos traidores,\ny que os han de tirar piedras,\nhilanderas, maricones,\namujerados, cobardes,\ny que mañana os adornen\nnuestras tocas y basquiñas,\nsolimanes y colores!\nA Frondoso quiere ya,",
+          "id": "b00014"
+        },
+        {
+          "kind": "verse",
+          "text": "sin sentencia, sin pregones,\ncolgar el comendador\ndel almena de una torre;\nde todos hará lo mismo;\ny yo me huelgo, medio-hombres,\npor que quede sin mujeres\nesta villa honrada, y torne\naquel siglo de amazonas,\neterno espanto del orbe.\nESTEBAN: Yo, hija, no soy de aquellos\nque permiten que los nombres\ncon esos títulos viles.",
+          "id": "b00015"
+        },
+        {
+          "kind": "verse",
+          "text": "Iré solo, si se pone\ntodo el mundo contra mí.\nJUAN ROJO: Y yo, por más que me asombre\nla grandeza del contrario.\nREGIDOR: ¡Muramos todos!\nBARRILDO: Descoge\nun lienzo al viento en un palo,\ny mueran estos enormes.\nJUAN ROJO: ¿Qué orden pensáis tener?\nMENGO: Ir a matarle sin orden.\nJuntad el pueblo a una voz;\nque todos están conformes",
+          "id": "b00016"
+        },
+        {
+          "kind": "verse",
+          "text": "en que los tiranos mueran.\nESTEBAN: Tomad espadas, lanzones,\nballestas, chuzos y palos.\nMENGO: ¡Los reyes nuestros señores\nvivan!\nTODOS: ¡Vivan muchos años!\nMENGO: ¡Mueran tiranos traidores!\nTODOS: ¡Tiranos traidores, mueran!\nVanse todos\nLAURENCIA: Caminad, que el cielo os oye.\n¡Ah, mujeres de la villa!\n¡Acudid, por que se cobre",
+          "id": "b00017"
+        },
+        {
+          "kind": "verse",
+          "text": "vuestro honor, acudid, todas!\nSalen PASCUALA, JACINTA y otras mujeres\nPASCUALA: ¿Qué es esto? ¿De qué das voces?\nLAURENCIA: ¿No veis cómo todos van\na matar a Fernán Gómez,\ny nombres, mozos y muchachos\nfuriosos al hecho corren?\n¿Será bien que solos ellos\nde esta hazaña el honor gocen?\nPues no son de las mujeres\nsus agravios los menores.\nJACINTA: Di, pues, ¿qué es lo que pretendes?",
+          "id": "b00018"
+        },
+        {
+          "kind": "verse",
+          "text": "LAURENCIA: Que puestas todas en orden,\nacometamos a un hecho\nque dé espanto a todo el orbe.\nJacinta, tu grande agravio,\nque sea cabo; responde\nde una escuadra de mujeres.\nJACINTA: No son los tuyos menores.\nLAURENCIA: Pascuala, alférez serás.\nPASCUALA: Pues déjame que enarbole\nen un asta la bandera.\nVerás si merezco el nombre.\nLAURENCIA: No hay espacio para eso,",
+          "id": "b00019"
+        },
+        {
+          "kind": "verse",
+          "text": "pues la dicha nos socorre.\nBien nos basta que llevemos\nnuestras tocas por pendones.\nPASCUALA: Nombremos un capitán.\nLAURENCIA: Eso no.\nPASCUALA: ¿Por qué?\nLAURENCIA: Que adonde\nasiste mi gran valor\nno hay Cides ni Rodamontes.\nVanse todas. Sale FRONDOSO, atadas las manos, FLORES, ORTUÑO, CIMBRANOS y el COMENDADOR\nCOMENDADOR: De ese cordel que de las manos sobra\nquiero que le colguéis, por mayor pena.",
+          "id": "b00020"
+        },
+        {
+          "kind": "verse",
+          "text": "FRONDOSO: ¡Qué nombre, gran señor, tu sangre cobra!\nCOMENDADOR: Colgadle luego en la primera almena.\nFRONDOSO: Nunca fue mi intención poner por obra\ntu muerte entonces.\nFLORES: Grande ruido suena.\nRuido suene dentro\nCOMENDADOR: ¿Ruido?\nFLORES: Y de manera que interrompen\ntu justicia, señor.\nORTUÑO: Las puertas rompen.\nRuido\nCOMENDADOR: ¡La puerta de mi casa, y siendo casa",
+          "id": "b00021"
+        },
+        {
+          "kind": "verse",
+          "text": "de la encomienda!\nFLORES: El pueblo junto viene.\nDentro\nJUAN ROJO: ¡Rompe, derriba, hunde, quema, abrasa!\nORTUNO: Un popular motín mal se detiene.\nCOMENDADOR: ¿El pueblo contra mí?\nFLORES: La furia: pasa\ntan adelante, que las puertas tiene\nechadas por la tierra.\nCOMENDADOR: Desatalde.\nTempla, Frondoso, ese villano alcalde.\nFRONDOSO: Yo voy, señor; que amor les ha movido.",
+          "id": "b00022"
+        },
+        {
+          "kind": "verse",
+          "text": "Vase FRONDOSO. Dentro\nMENGO: ¡Vivan Fernando e Isabel, y mueran\nlos traidores!\nFLORES: Señor, por Dios te pido\nque no te hallen aquí.\nCOMENDADOR: Se perseveran,\neste aposento es fuerte y defendido.\nEllos se volverán.\nFLORES: Cuando se alteran\nlos pueblos agraviados, y resuelven,\nnunca sin sangre o sin venganza vuelven.\nCOMENDADOR: En esta puerta, así como rastrillo",
+          "id": "b00023"
+        },
+        {
+          "kind": "verse",
+          "text": "su furor con las armas defendamos.\nDentro\nFRONDOSO: ¡Viva Fuenteovejuna!\nCOMENDADOR: ¡Qué caudillo!\nEstoy por que a su furia acometamos.\nFLORES: De la tuya, señor, me maravillo.\nESTEBAN: Ya el tirano y los cómplices miramos.\n¡Fuenteovejuna, y los tiranos mueran!\nSalen todos\nCOMENDADOR: Pueblo, esperad.\nTODOS: Agravios nunca esperan.\nCOMENDADOR: Decídmelos a mí, que iré pagando",
+          "id": "b00024"
+        },
+        {
+          "kind": "verse",
+          "text": "a fe de caballero esos errores.\nTODOS: ¡Fuenteovejuna! ¡Viva el rey Fernando!\n¡Mueran malos cristianos y traidores!\nCOMENDADOR: ¿No me queréis oír? Yo estoy hablando,\nyo soy vuestro señor.\nTODOS: Nuestros señores\nson los reyes católicos.\nCOMENDADOR: Espera.\nTODOS: ¡Fuenteovejuna, y Fernán Gómez muera!",
+          "id": "b00025"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Vanse y salen las mujeres armadas",
+          "id": "b00026"
+        },
+        {
+          "kind": "verse",
+          "text": "LAURENCIA: Parad en este puesto de esperanzas,\nsoldados atrevidos, no mujeres.\nPASCUALA: ¿Los que mujeres son en las venganzas,\nen él beban su sangre, es bien que esperes?\nJACINTA: Su cuerpo recojamos en las lanzas.\nPASCUALA: Todas son de esos mismos pareceres.\nDentro\nESTEBAN: ¡Muere, traidor comendador!\nDentro\nCOMENDADOR: Ya muero.\n¡Piedad, Señor, que en tu clemencia espero!\nDentro",
+          "id": "b00027"
+        },
+        {
+          "kind": "verse",
+          "text": "BARRILDO: Aquí está Flores.\nDentro\nMENGO: Dale a ese bellaco;\nque ése fue el que me dio dos mil azotes.\nDentro\nFRONDOSO: No me vengo si el alma no le saco.\nLAURENCIA: No excusamos entrar.\nPASCUALA: No te alborotes.\nBien es guardar la puerta.\nDentro\nBARRILDO: No me aplaco.\n¿Con lágrimas agora, marquesotes?",
+          "id": "b00028"
+        },
+        {
+          "kind": "verse",
+          "text": "LAURENCIA: Pascuala, yo entro dentro; que la espada\nno ha de estar tan sujeta ni envainada.\nVase LAURENCIA. Dentro\nBARRILDO: Aquí está Ortuño.\nDentro\nFRONDOSO: Córtale la cara.\nSale FLORES huyendo, y MENGO tras él\nFLORES: ¡Mengo, piedad, que no soy yo el culpado!\nMENGO: Cuando ser alcahuete no bastara,\nbastaba haberme el pícaro azotado.\nPASCUALA: Dánoslo a las mujeres, Mengo, para...\nAcaba, por tu vida.",
+          "id": "b00029"
+        },
+        {
+          "kind": "verse",
+          "text": "MENGO: Ya está dado;\nque no le quiero yo mayor castigo.\nPASCUALA: Vengaré tus azotes.\nMENGO: Eso digo.\nJACINTA: ¡Ea, muera el traidor!\nFLORES: ¿Entre mujeres?\nJACINTA: ¿No le viene muy ancho?\nPASCUALA: ¿Aqueso lloras?\nJACINTA: Muere, concertador de sus placeres.\nLAURENCIA: ¡Ea, muera el traidor!\nFLORES: ¡Piedad, señoras!\nSale ORTUñO huyendo de LAURENCIA",
+          "id": "b00030"
+        },
+        {
+          "kind": "verse",
+          "text": "ORTUÑO: Mira que no soy yo...\nLAURENCIA: Ya sé quién eres.\nEntrad, teñid las armas vencedoras\nen estos viles.\nPASCUALA: Moriré matando.\nTODAS: ¡Fuenteovejuna, y viva el rey Fernando!\nVanse. Salen el REY don Fernando y la reina ISABEL, y don MANRIQUE, maestre\nMANRIQUE: De modo la prevención\nfue, que el efeto esperado\nllegamos a ver logrado\ncon poca contradicción.\nHubo poca resistencia;",
+          "id": "b00031"
+        },
+        {
+          "kind": "verse",
+          "text": "y supuesto que la hubiera\nsin duda ninguna fuera\nde poca o ninguna esencia.\nQueda el de Cabra ocupado\nen conservación del puesto,\npor si volviere dispuesto\na él el contrario osado.\nREY: Discreto el acuerdo fue,\ny que asista en conveniente,\ny reformando la gente,\nel paso tomado esté.\nQue con eso se asegura",
+          "id": "b00032"
+        },
+        {
+          "kind": "verse",
+          "text": "no poder hacernos mal\nAlfonso, que en Portugal\ntomar la fuerza procura.\nY si de Cabra es bien que esté\nen ese sitio asistente,\ny como tan diligente\nmuestras de su valor dé;\nporque con esto asegura\nel daño que nos recela,\ny como fiel centinela\nel bien del reino procura.\nSale FLORES, herido",
+          "id": "b00033"
+        },
+        {
+          "kind": "verse",
+          "text": "FLORES: Católico rey Fernando,\na quien el cielo concede\nla corona de Castilla,\ncomo a varón excelente:\noye la mayor crueldad\nque se ha visto entre las gentes\ndesde donde nace el sol\nhasta donde se oscurece.\nREY: Repórtate.\nFLORES: Rey supremo,\nmis heridas no consienten\ndilatar el triste caso,",
+          "id": "b00034"
+        },
+        {
+          "kind": "verse",
+          "text": "por ser mi vida tan breve.\nDe Fuenteovejuna vengo,\ndonde, con pecho inclemente,\nlos vecinos de la villa\na su señor dieron muerte,\nMuerto Fernán Gómez queda\npor sus súbditos aleves;\nque vasallos indignados\ncon leve cause se atreven.\nEn título de tirano\nle acumula todo el plebe,\ny a la fuerza de esta voz",
+          "id": "b00035"
+        },
+        {
+          "kind": "verse",
+          "text": "el hecho fiero acometen;\ny quebrantando su casa,\nno atendiendo a que se ofrece\npor la fe de caballero\na que pagará a quien debe,\nno sólo no le escucharon,\npero con furia impaciente\nrompen el cruzado pecho\ncon mil heridas crüeles,\ny por las altas ventanas\nle hacen que al suelo vuele,\nadonde en picas y espadas",
+          "id": "b00036"
+        },
+        {
+          "kind": "verse",
+          "text": "le recogen las mujeres.\nLlévanle a una casa muerto\ny a porfía, quien más puede\nmesa su barba u cabello\ny apriesa su rostro hieren.\nEn efecto fue la furia\ntan grande que en ellos crece,\nque las mayores tajadas\nlas orejas a ser vienen.\nSus armas borran con picas\ny a voces dicen que quieren\ntus reales armas fijar,",
+          "id": "b00037"
+        },
+        {
+          "kind": "verse",
+          "text": "porque aquéllas le ofenden.\nSaqueáronle la casa,\ncual si de enemigos fuese,\ny gozosos entre todos\nhan repartido sus bienes.\nLo dicho he visto escondido,\nporque mi infelice suerte\nen tal trance no permite\nque mi vida se perdiese;\ny así estuve todo el día\nhasta que la noche viene,\ny salir pude escondido",
+          "id": "b00038"
+        },
+        {
+          "kind": "verse",
+          "text": "para que cuenta te diese.\nHaz, señor, pues eres justo\nque la justa pena lleven\nde tan riguroso caso\nlos bárbaros delincuentes;\nmira que su sangre a voces\npide que tu rigor prueben.\nREY: Estar puedes confïado\nque sin castigo no queden.\nEl triste suceso ha sido\ntal, que admirado me tiene,\ny que vaya luego un juez",
+          "id": "b00039"
+        },
+        {
+          "kind": "verse",
+          "text": "que lo averigüe conviene\ny castigue los culpados\npara ejemplo de las gentes.\nVaya un capitán con él\npor que seguridad lleve;\nque tan grande atrevimiento\ncastigo ejemplar requiere;\ny curad a ese soldado\nde las heridas que tiene.\nVanse todos. Salen los labradores y las labradoras con la cabeza de FERNÁN GÓMEZ en una lanza. Cantan\nMÚSICOS: \"¡Muchos años vivan\nIsabel y Fernando,",
+          "id": "b00040"
+        },
+        {
+          "kind": "verse",
+          "text": "y mueran los tiranos!\"\nBARRILDO: Diga su copla Frondoso.\nFRONDOSO: Ya va mi copla, a la fe;\nsi le faltare algún pie,\nenmiéndelos el más curioso.\n\"¡Vivan la bella Isabel,\ny Fernando de Aragón,\npues que para en uno son,\nél con ella, ella con él!\nA los cielos San Miguel\nlleve a los dos de las manos.\n¡Vivan muchos años,",
+          "id": "b00041"
+        },
+        {
+          "kind": "verse",
+          "text": "y mueran los tiranos!\"\nLAURENCIA: Diga Barrildo.\nBARRILDO: Ya va;\nque a fe que la he pensado.\nPASCUALA: Si la dices con cuidado,\nbuena y rebuena será.\nBARRILDO: \"¡Vivan los reyes famosos\nmuchos años, pues que tienen\nla victoria, y a ser vienen\nnuestros dueños venturosos!\nSalgan siempre victoriosos\nde gigantes y de enanos",
+          "id": "b00042"
+        },
+        {
+          "kind": "verse",
+          "text": "y ¡mueran los tiranos!\"\nCantan\nMÚSICOS: \"Muchos años vivan\nIsabel y Fernando,\ny mueran los tiranos!\"\nLAURENCIA: Diga Mengo.\nFRONDOSO: Mengo diga.\nMENGO: Yo soy poeta donado.\nPASCUALA: Mejor dirás lastimado\nel envés de la barriga.\nMENGO: \"Una mañana en domingo\nme mandó azotar aquél,",
+          "id": "b00043"
+        },
+        {
+          "kind": "verse",
+          "text": "de manera que el rabel\ndaba espantoso respingo;\npero agora que los pringo\n¡vivan los reyes cristiánigos,\ny mueran los tiránigos!\"\nMUSICOS: \"¡Vivan muchos años!\nIsabel y Fernando,\ny mueran los tiranos!\"\nESTEBAN: Quita la cabeza allá.\nMENGO: Cara tiene de ahorcado.\nSaca un escudo JUAN ROJO con las armas reales\nREGIDOR: Ya las armas han llegado",
+          "id": "b00044"
+        },
+        {
+          "kind": "verse",
+          "text": "ESTEBAN: Mostrad las armas acá.\nJUAN ROJO: ¿Adónde se han de poner?\nREGIDOR: Aquí, en el ayuntamiento.\nESTEBAN: ¡Bravo escudo!\nBARRILDO: ¡Qué contento!\nFRONDOSO: Ya comienza a amanecer,\ncon este sol, nuestro día.\nESTEBAN: ¡Vivan Castilla y León,\ny las barras de Aragón,\ny muera la tiranía!\nAdvertid, Fuenteovejuna,\na las palabras de un viejo;",
+          "id": "b00045"
+        },
+        {
+          "kind": "verse",
+          "text": "que el admitir su consejo\nno ha dañado vez ninguna.\nLos reyes han de querer\naveriguar este caso,\ny más tan cerca del paso\ny jornada que han de hacer.\nConcertaos todos a una\nen lo que habéis de decir.\nFRONDOSO: ¿Qué es tu consejo?\nESTEBAN: Morir\ndiciendo \"Fuenteovejuna,\"\ny a nadie saquen de aquí.",
+          "id": "b00046"
+        },
+        {
+          "kind": "verse",
+          "text": "FRONDOSO: Es el camino derecho.\nFuenteovejuna lo ha hecho.\nESTEBAN: ¿Queréis responder así?\nTODOS: Sí.\nESTEBAN: Agora pues, yo quiero ser\nagora el pesquisidor,\npara ensayarnos mejor\nen lo que habemos de hacer.\nSea Mengo el que esté puesto\nen el tormento.\nMENGO: ¿No hallaste\notro más flaco?",
+          "id": "b00047"
+        },
+        {
+          "kind": "verse",
+          "text": "ESTEBAN: ¿Pensaste\nque era de veras?\nMENGO: Di presto.\nESTEBAN: ¿Quién mató al comendador?\nMENGO: Fuenteovejuna lo hizo.\nESTEBAN: Perro, ¿si te martirizo?\nMENGO: Aunque me matéis, señor.\nESTEBAN: Confiesa, ladrón.\nMENGO: Confieso.\nESTEBAN: Pues, ¿quién fue?\nMENGO: Fuenteovejuna.\nESTEBAN: Dadle otra vuelta.",
+          "id": "b00048"
+        },
+        {
+          "kind": "verse",
+          "text": "MENGO: ¡Es ninguna!\nESTEBAN: ¡Cagajón para el proceso!\nSale el REGIDOR\nREGIDOR: ¿Qué hacéis de esta suerte aquí?\nFRONDOSO: ¿Qué ha sucedido, Cuadrado?\nREGIDOR Pesquisidor ha llegado.\nESTEBAN: Echad todos por ahí.\nREGIDOR: Con él viene un capitán.\nESTEBAN: ¡Venga el diablo! Ya sabéis\nlo que responder tenéis.\nREGIDOR: El pueblo prendiendo van,\nsin dejar alma ninguna.",
+          "id": "b00049"
+        },
+        {
+          "kind": "verse",
+          "text": "ESTEBAN: Que no hay que tener temor.\n¿Quién mató al comendador,\nMengo?\nMENGO: ¿Quién? Fuenteovejuna.\nVanse. Salen el MAESTRE y un SOLDADO\nMAESTRE: ¡Que tal caso ha sucedido!\nInfelice fue su suerte.\nEstoy por darte la muerte\npor la nueva que has traído.\nSOLDADO: Yo, señor, soy mensajero,\ny enojarte no es mi intento.\nMAESTRE: ¡Que a tal tuvo atrevimiento",
+          "id": "b00050"
+        },
+        {
+          "kind": "verse",
+          "text": "un pueblo enojado y fiero!\nIré con quinientos hombres\ny la villa he de asolar;\nen ella no ha de quedar\nni aun memoria de los nombres.\nSOLDADO: Señor, tu enojo reporta;\nporque ellos al rey se han dado,\ny no tener enojado\nal rey es lo que te importa.\nMAESTRE: ¿Cómo al rey se pueden dar,\nsi de la encomienda son?\nSOLDADO: Con él, sobre esa razón,",
+          "id": "b00051"
+        },
+        {
+          "kind": "verse",
+          "text": "podrás luego pleitear.\nMAESTRE: Por pleito, ¿cuándo salió\nlo que él le entregó en sus manos?\nSon señores soberanos,\ny tal reconozco yo.\nPor saber que al rey se han dado\nse reportará mi enojo,\ny ver su presencia escojo\npor lo más bien acertado;\nque puesto que tenga culpa\nen casos de gravedad,\nen todo mi poca edad",
+          "id": "b00052"
+        },
+        {
+          "kind": "verse",
+          "text": "viene a ser quien me disculpa.\nCon vergüenza voy; mas es\nhonor quien puede obligarme,\ne importa no descuidarme\nen tan honrado interés.\nVanse. Sale LAURENCIA sola\nLAURENCIA: Amando, recelar daño en lo amado\nnueva pena de amor se considera;\nque quien en lo que ama daño espera\naumenta en el temor nuevo cuidado.\nEl firme pensamiento desvelado,\nsi le aflige el temor, fácil se altera;",
+          "id": "b00053"
+        },
+        {
+          "kind": "verse",
+          "text": "que no es a firme fe pena ligera\nver llevar el temor el bien robado.\nMi esposo adoro; la ocasión que veo\nal temor de su daño me condena,\nsi no le ayuda la felice suerte.\nAl bien suyo se inclina mi deseo:\nsi está presenta, está cierta mi pena;\nsi está en ausencia, está cierta mi muerte.\nSale FRONDOSO\nFRONDOSO: ¡Mi Laurencia!\nLAURENCIA: ¡Esposo amado!\n¿Cómo a estar aquí te atreves?",
+          "id": "b00054"
+        },
+        {
+          "kind": "verse",
+          "text": "FRONDOSO: Esas resistencias debes\na mi amoroso cuidado.\nLAURENCIA: Mi bien, procura guardarte,\nporque tu daño recelo.\nFRONDOSO: No quiera, Laurencia, el cielo\nque tal llegue a disgustarte.\nLAURENCIA: ¿No temes ver el rigor\nque por los demás sucede,\ny el furor con que procede\naqueste pesquisidor?\nProcura guardar la vida.\nHuye, tu daño no esperes.",
+          "id": "b00055"
+        },
+        {
+          "kind": "verse",
+          "text": "FRONDOSO: ¿Cómo que procure quieres\ncosa tan mal recibida?\n¿Es bien que los demás deje\nen el peligro presente\ny de tu vista me ausente?\nNo me mandes que me aleje;\nporque no es puesto en razón\nque por evitar mi daño\nsea con mi sangre extraño\nen tan terrible ocasión.\nVoces dentro\nVoces parece que he oído,",
+          "id": "b00056"
+        },
+        {
+          "kind": "verse",
+          "text": "y son, si yo mal no siento,\nde alguno que dan tormento.\nOye con atento oído.\nDice dentro el JUEZ y responden\nJUEZ: Decid la verdad, buen viejo.\nFRONDOSO: Un viejo, Laurencia mía,\natormentan.\nLAURENCIA: ¡Qué porfía!\nESTEBAN: Déjenme un poco.\nJUEZ: Ya os dejo.\nDecid: ¿quién mató a Fernando?\nESTEBAN: Fuenteovejuna lo hizo.",
+          "id": "b00057"
+        },
+        {
+          "kind": "verse",
+          "text": "LAURENCIA: Tu nombre, padre, eternizo;\n[a todos vas animando].\nFRONDOSO: ¡Bravo caso!\nJUEZ: Ese muchacho\naprieta. Perro, yo sé\nque lo sabes. Di quién fue.\n¿Callas? Aprieta, borracho.\nNIÑO: Fuenteovejuna, señor.\nJUEZ: ¡Por vida del rey, villanos,\nque os ahorque con mis manos!\n¿Quién mató al comendador?\nFRONDOSO: ¡Que a un niño le den tormento",
+          "id": "b00058"
+        },
+        {
+          "kind": "verse",
+          "text": "y niegue de aquesta suerte!\nLAURENCIA: ¡Bravo pueblo!\nFRONDOSO: Bravo y fuerte.\nJUEZ: Esa mujer al momento\nen ese potro tened.\nDale esa mancuerda luego.\nLAURENCIA: Ya está de cólera ciego.\nJUEZ: Que os he de matar, creed,\nen este potro, villanos.\n¿Quién mató al comendador?\nPASCUALA: Fuenteovejuna, señor.\nJUEZ: ¡Dale!",
+          "id": "b00059"
+        },
+        {
+          "kind": "verse",
+          "text": "FRONDOSO: Pensamientos vanos.\nLAURENCIA: Pascuala niega, Frondoso.\nFRONDOSO: Niegan niños. ¿Qué te espanta?\nJUEZ: Parece que los encantas.\n¡Aprieta!\nPASCUALA: ¡Ay, cielo piadoso!\nJUEZ: ¡Aprieta, infame! ¿Estás sordo?\nPASCUALA: Fuenteovejuna lo hizo.\nJUEZ: Traedme aquel más rollizo,\nese desnudo, ese gordo.\nLAURENCIA: ¡Pobre Mengo! Él es, sin duda.\nFRONDOSO: Temo que ha de confesar.",
+          "id": "b00060"
+        },
+        {
+          "kind": "verse",
+          "text": "MENGO: ¡Ay, ay!\nJUEZ: Comienza a apretar.\nMENGO: ¡Ay!\nJUEZ: ¿Es menester ayuda?\nMENGO: ¡Ay, ay!\nJUEZ: ¿Quién mató, villano,\nal señor comendador?\nMENGO: ¡Ay, yo lo diré, señor!\nJUEZ: Afloja un poco la mano.\nFRONDOSO: Él confiesa.\nJUEZ: Al palo aplica\nla espalda.",
+          "id": "b00061"
+        },
+        {
+          "kind": "verse",
+          "text": "MENGO: Quedo; que yo\nlo diré.\nJUEZ: ¿Quién lo mató?\nMENGO: Señor, ¡Fuenteovejunica!\nJUEZ: ¿Hay tan gran bellaquería?\nDel dolor se están burlando.\nEn quien estaba esperando,\nniego con mayor porfía.\nDejadlos; que estoy cansado.\nFRONDOSO: ¡Oh, Mengo, bien te haga Dios!\nTemor que tuve de dos,\nel tuyo me le ha quitado.",
+          "id": "b00062"
+        },
+        {
+          "kind": "verse",
+          "text": "Salen con MENGO, BARRILDO y el REGIDOR\nBARRILDO: ¡Víctor, Mengo!\nREGIDOR: ¡Y con razón!\nBARRILDO: ¡Mengo, víctor!\nFRONDOSO: Eso digo.\nMENGO: ¡Ay, ay!\nBARRILDO: Toma, bebe, amigo.\nCome.\nMENGO: ¡Ay, ay! ¿Qué es?\nBARRILDO: Diacitrón.\nMENGO: ¡Ay, ay!\nFRONDOSO: Echa de beber.",
+          "id": "b00063"
+        },
+        {
+          "kind": "verse",
+          "text": "BARRILDO: [Es lo mejor que hay]. ¡Ya va!\nFRONDOSO: Bien lo cuelo. Bueno está.\nLAURENCIA: Dale otra vez de comer.\nMENGO: ¡Ay, ay!\nBARRILDO: Ésta va por mí.\nLAURENCIA: Solemnemente lo embebe.\nFRONDOSO: El que bien niega, bien bebe.\nREGIDOR: ¿Quieres otra?\nMENGO: ¡Ay, ay!! ¡Sí, sí!\nFRONDOSO: Bebe; que bien lo mereces.\nLAURENCIA: ¡A vez por vuelta las cuela!\nFRONDOSO: Arrópale, que se hiela.",
+          "id": "b00064"
+        },
+        {
+          "kind": "verse",
+          "text": "BARRILDO: ¿Quieres más?\nMENGO: Sí, otras tres veces.\n¡Ay, ay!\nFRONDOSO: Si hay vino pregunta.\nBARRILDO: Sí, hay. Bebe a tu placer;\nque quien niega ha de beber.\n¿Qué tiene?\nMENGO: Una cierta punta.\nVamos; que me arromadizo.\nFRONDOSO: Que beba, que éste es mejor.\n¿Quién mató al comendador?\nMENGO: Fuenteovejuna lo hizo.",
+          "id": "b00065"
+        },
+        {
+          "kind": "verse",
+          "text": "Vanse MENGO, BARRILDO, y el REGIDOR\nFRONDOSO: Justo es que honores le den.\nPero decidme, mi amor,\n¿quién mató al comendador?\nLAURENCIA: Fuenteovejunica, mi bien.\nFRONDOSO: ¿Quién le mató?\nLAURENCIA: Dasme espanto.\nPues, Fuenteovejuna fue.\nFRONDOSO: Y yo, ¿con qué te maté?\nLAURENCIA: ¿Con qué? Con quererte tanto.\nVanse. Salen el REY y la reina ISABEL y luego MANRIQUE\nISABEL: No entendí, señor, hallaros",
+          "id": "b00066"
+        },
+        {
+          "kind": "verse",
+          "text": "aquí, y es buena mi suerte.\nREY: En nueva gloria convierte\nmi vista el bien de miraros.\nIba a Portugal de paso\ny llegar aquí fue fuerza.\nISABEL: Vuestra majestad le tuerza,\nsiendo conveniente el caso.\nREY: ¿Cómo dejáis a Castilla?\nISABEL: En paz queda, quieta y llana.\nREY: Siendo vos la que la allana,\nno lo tengo a maravilla.\nSale don MANRIQUE",
+          "id": "b00067"
+        },
+        {
+          "kind": "verse",
+          "text": "MANRIQUE: Para ver vuestra presencia\nel maestre de Calatrava,\nque aquí de llegar acaba,\npide que le deis licencia.\nISABEL: Verle tenía deseado.\nMANRIQUE: Mi fe, señora, os empeño,\nque aunque es en edad pequeño,\nes valeroso soldado.\nVase, y sale el MAESTRE\nMAESTRE: Rodrigo Téllez Girón,\nque de loaros no acaba,\nmaestre de Calatrava,",
+          "id": "b00068"
+        },
+        {
+          "kind": "verse",
+          "text": "os pide humilde perdón.\nConfieso que fui engañado,\ny que excedí de lo justo\nen cosas de vuestro gusto,\ncomo mal aconsejado.\nEl consejo de Fernando\ny el interés me engañó,\ninjusto fiel; y así, yo\nperdón humilde os demando.\nY si recibir merezco\nesta merced que suplico\ndesde aquí me certifico",
+          "id": "b00069"
+        },
+        {
+          "kind": "verse",
+          "text": "en que a serviros me ofrezco,\ny que en aquesta jornada\nde Granada, adonde vais,\nos prometo que veáis\nel valor que hay en mi espada;\ndonde sacándola apenas,\ndándoles fieras congojas,\nplantaré mis cruces rojas\nsobre sus altas almenas;\nY más, quinientos soldados\nen serviros emplearé,\njunto con la firme y fe",
+          "id": "b00070"
+        },
+        {
+          "kind": "verse",
+          "text": "de en mi vida disgustaros.\nREY: Alzad, maestre, del suelo;\nque siempre que hayáis venido,\nseréis muy bien recibido.\nMAESTRE: Sois de afligidos consuelo.\nISABEL: Vos con valor peregrino\nsabéis bien decir y hacer.\nMAESTRE: Vos sois una bella Ester\ny vos un Xerxes divino.",
+          "id": "b00071"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Sale MANRIQUE",
+          "id": "b00072"
+        },
+        {
+          "kind": "verse",
+          "text": "MANRIQUE: Señor, el pesquisidor\nque a Fuenteovejuna ha ido\ncon el despacho ha venido\na verse ante tu valor.\nREY: Sed juez de estos agresores.\nMAESTRE: Si a vos, señor, no mirara,\nsin duda les enseñara\na matar comendadores.\nREY: Eso ya no os toca a vos.\nISABEL: Yo confieso que he de ver\nel cargo en vuestro poder,\nsi me lo concede Dios.",
+          "id": "b00073"
+        },
+        {
+          "kind": "verse",
+          "text": "Sale el JUEZ\nJUEZ: A Fuenteovejuna fui\nde la suerte que has mandado\ny con especial cuidado\ny diligencia asistí.\nHaciendo averiguación\ndel cometido delito,\nuna hoja no se ha escrito\nque sea en comprobación;\nporque conformes a una,\ncon un valeroso pecho,\nen pidiendo quién lo ha hecho,",
+          "id": "b00074"
+        },
+        {
+          "kind": "verse",
+          "text": "responden: \"Fuenteovejuna.\"\nTrescientos he atormentado\ncon no pequeño rigor,\ny te prometo, señor,\nque más que esto no he sacado.\nHasta niños de diez años\nal potro arrimé, y no ha sido\nposible haberlo inquirido\nni por halagos ni engaños.\nY pues tan mal se acomoda\nel poderlo averiguar,\no los has de perdonar,",
+          "id": "b00075"
+        },
+        {
+          "kind": "verse",
+          "text": "o matar la villa toda.\nTodos vienen ante ti\npara más certificarte;\nde ellos podrás informate.\nREY: Que entren pues viene, les di.\nSalen los dos alcaldes, FRONDOSO, las mujeres y los villanos que quisieren\nLAURENCIA: ¿Aquestos los reyes son?\nFRONDOSO: Y en Castilla poderosos.\nLAURENCIA: Por mi fe, que son hermosos;\n¡bendígalos San Antón!\nISABEL: ¿Los agresores son éstos?\nESTEBAN: Fuenteovejuna, señora,",
+          "id": "b00076"
+        },
+        {
+          "kind": "verse",
+          "text": "que humildes llegan agora\npara serviros dispuestos.\nLa sobrada tiranía\ny el insufrible rigor\ndel muerto comendador,\nque mil insultos hacía\nfue el autor de tanto daño.\nLas haciendas nos robaba\ny las doncellas forzaba,\nsiendo de piedad extraño.\nFRONDOSO: Tanto, que aquesta Zagala,\nque el cielo me ha concedido,",
+          "id": "b00077"
+        },
+        {
+          "kind": "verse",
+          "text": "en que tan dichoso he sido\nque nadie en dicha me iguala,\ncuando conmigo casó,\naquella noche primera,\nmejor que si suya fuera,\na su casa la llevó;\ny a no saberse guardar\nella, que en virtud florece,\nya manifiesto parece\nlo que pudiera pasar.\nMENGO: ¿No es ya tiempo que hable yo?\nSi me dais licencia, entiendo",
+          "id": "b00078"
+        },
+        {
+          "kind": "verse",
+          "text": "que os admiraréis, sabiendo\ndel modo que me trató.\nPorque quise defender\nuna moza de su gente,\nque con término insolente\nfuerza la querían hacer,\naquel perverso Nerón\nde manera me ha tratado\nque el reverso me ha dejado\ncomo rueda de salmón.\nTocaron mis atabales\ntres hombres con tan porfía,",
+          "id": "b00079"
+        },
+        {
+          "kind": "verse",
+          "text": "que aun pienso que todavía\nme duran los cardenales.\nGasté en este mal prolijo,\npor que el cuero se me curta,\npolvos de arrayán y murta\nmás que vale mi cortijo.\nESTEBAN: Señor, tuyos ser queremos.\nRey nuestro eres natural,\ny con título de tal\nya tus armas puesto habemos.\nEsperamos tu clemencia\ny que veas esperamos",
+          "id": "b00080"
+        },
+        {
+          "kind": "verse",
+          "text": "que en este caso te damos\npor abono la inocencia.\nREY: Pues no puede averiguarse\nel suceso por escrito,\naunque fue grave el delito,\npor fuerza ha de perdonarse.\nY la villa es bien se quede\nen mí, pues de mí se vale,\nhasta ver si acaso sale\ncomendador que la herede.\nFRONDOSO: Su majestad habla, en fin,\ncomo quien tanto ha acertado.",
+          "id": "b00081"
+        },
+        {
+          "kind": "verse",
+          "text": "Y aquí, discreto senado,\nFuenteovejuna da fin.",
+          "id": "b00082"
+        }
+      ],
+      "english": [],
+      "id": "chapter-004"
+    }
+  ]
+}
