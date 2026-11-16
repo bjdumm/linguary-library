@@ -6207,6 +6207,647 @@
       "sha256": "e3be4a725dacc1874eb6e6a5356aa840b5ff7bc50b905cf249ef88cf9e83eb05",
       "byteCount": 1529211,
       "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "la-metamorphoses",
+        "language": "Latin",
+        "title": "Metamorphoses",
+        "author": "Ovid",
+        "summary": "Fifteen books of myth and transformation, from the creation of the world to Rome. Complete Latin verse.",
+        "category": "Poetry & Epics",
+        "collectionLabel": "Complete Latin original",
+        "legacyPassageID": "la-metamorphoses",
+        "translationCredit": "Complete Latin original; no prepared English edition. Ovid (died 17/18 CE), edited by Hugo Magnus (died 1924), Gotha, 1892; all fifteen books. Perseus Digital Library / Tufts University and canonical-latinLit contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Critical apparatus and milestones omitted; Latin headings and reading blocks added; original wording retained.",
+        "resource": "la-metamorphoses",
+        "sources": [
+          {
+            "title": "Perseus Digital Library: pinned TEI edition",
+            "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/192fef80a2fd785a389e6584ca2315fd1f80a94e/data/phi0959/phi006/phi0959.phi006.perseus-lat2.xml"
+          },
+          {
+            "title": "Perseus source repository and license",
+            "url": "https://github.com/PerseusDL/canonical-latinLit/tree/192fef80a2fd785a389e6584ca2315fd1f80a94e"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "d1738fbead42bc15f377f30ace8bb056d142d46348daa35a226d2dfc8cef674c",
+      "byteCount": 651011,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "la-amicitia",
+        "language": "Latin",
+        "title": "De amicitia",
+        "author": "Cicero",
+        "summary": "Laelius reflects on friendship, loyalty, virtue, and the duties that bind friends. Complete Latin dialogue.",
+        "category": "Philosophy & Ideas",
+        "collectionLabel": "Complete Latin original",
+        "legacyPassageID": "la-amicitia",
+        "translationCredit": "Complete Latin original; no prepared English edition. Cicero (died 43 BCE), edited by William Armistead Falconer (died 1927), 1923; all 104 numbered sections. Perseus Digital Library / Tufts University and canonical-latinLit contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Critical apparatus and milestones omitted; Latin headings and reading blocks added; original wording retained.",
+        "resource": "la-amicitia",
+        "sources": [
+          {
+            "title": "Perseus Digital Library: pinned TEI edition",
+            "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/192fef80a2fd785a389e6584ca2315fd1f80a94e/data/phi0474/phi052/phi0474.phi052.perseus-lat2.xml"
+          },
+          {
+            "title": "Perseus source repository and license",
+            "url": "https://github.com/PerseusDL/canonical-latinLit/tree/192fef80a2fd785a389e6584ca2315fd1f80a94e"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "da905ca786c9f046f7eb88c0e44a2e9ba8856066979092d2651738b052b4a286",
+      "byteCount": 100453,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "la-senectute",
+        "language": "Latin",
+        "title": "De senectute",
+        "author": "Cicero",
+        "summary": "Cato discusses aging, intellectual activity, pleasure, and mortality. Complete Latin dialogue.",
+        "category": "Philosophy & Ideas",
+        "collectionLabel": "Complete Latin original",
+        "legacyPassageID": "la-senectute",
+        "translationCredit": "Complete Latin original; no prepared English edition. Cicero (died 43 BCE), edited by William Armistead Falconer (died 1927), 1923; all 85 numbered sections. Perseus Digital Library / Tufts University and canonical-latinLit contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Critical apparatus and milestones omitted; Latin headings and reading blocks added; original wording retained.",
+        "resource": "la-senectute",
+        "sources": [
+          {
+            "title": "Perseus Digital Library: pinned TEI edition",
+            "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/192fef80a2fd785a389e6584ca2315fd1f80a94e/data/phi0474/phi051/phi0474.phi051.perseus-lat2.xml"
+          },
+          {
+            "title": "Perseus source repository and license",
+            "url": "https://github.com/PerseusDL/canonical-latinLit/tree/192fef80a2fd785a389e6584ca2315fd1f80a94e"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "1365a5837b4f17325374311473db8ab543d6742a26b616c37538965d9a6b6a7b",
+      "byteCount": 87378,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "la-catilina",
+        "language": "Latin",
+        "title": "Bellum Catilinae",
+        "author": "Sallust",
+        "summary": "The conspiracy of Catiline and the political crisis of the late Roman Republic. All sixty-one chapters.",
+        "category": "History & Memoirs",
+        "collectionLabel": "Complete Latin original",
+        "legacyPassageID": "la-catilina",
+        "translationCredit": "Complete Latin original; no prepared English edition. Sallust (died 35/34 BCE), edited by Axel W. Ahlberg (died 1951), Teubner, Leipzig, 1919; all 61 chapters. Chapter 54, present within chapter 53 in the TEI source, is given its own heading without changing its text. Perseus Digital Library / Tufts University and canonical-latinLit contributors. Transcription and adapted text resource distributed under CC BY-SA 4.0. Critical apparatus and milestones omitted; Latin headings and reading blocks added; original wording retained.",
+        "resource": "la-catilina",
+        "sources": [
+          {
+            "title": "Perseus Digital Library: pinned TEI edition",
+            "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/192fef80a2fd785a389e6584ca2315fd1f80a94e/data/phi0631/phi001/phi0631.phi001.perseus-lat3.xml"
+          },
+          {
+            "title": "Perseus source repository and license",
+            "url": "https://github.com/PerseusDL/canonical-latinLit/tree/192fef80a2fd785a389e6584ca2315fd1f80a94e"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "2c687c703e82dc76b20833515a83d3c02052b4dc9dbaa88eccb189f1e4d9aab5",
+      "byteCount": 99951,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "la-confessiones",
+        "language": "Latin",
+        "title": "Confessiones",
+        "author": "Augustine of Hippo",
+        "summary": "Augustine examines his life, memory, time, and faith. All thirteen books of the Latin original.",
+        "category": "Philosophy & Ideas",
+        "collectionLabel": "Complete Latin original",
+        "legacyPassageID": "la-confessiones",
+        "translationCredit": "Complete Latin original; no prepared English edition. Augustine (died 430), all thirteen books. Latin edition by Edward Bouverie Pusey (died 1882), Oxford: J. H. Parker / London: J. G. and F. Rivington, 1838, following the edition of Philippe Goibaud Du Bois (died 1694). Historical text distributed by Project Gutenberg as public domain in the USA. Editorial introduction, chapter summaries, marginal references, annals, apparatus and index omitted; complete author’s text retained and reformatted.",
+        "resource": "la-confessiones",
+        "sources": [
+          {
+            "title": "1838 Latin edition, Project Gutenberg 33849",
+            "url": "https://www.gutenberg.org/ebooks/33849"
+          },
+          {
+            "title": "Project Gutenberg reuse information",
+            "url": "https://www.gutenberg.org/policy/permission.html"
+          }
+        ]
+      },
+      "sha256": "24e6baab70ee0f651b1bb20f62f628e934e14ffae572ebd0d311d1f141995f8c",
+      "byteCount": 573249,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "he-ahavat-zion",
+        "language": "Hebrew",
+        "title": "אהבת ציון",
+        "author": "אברהם מאפו",
+        "summary": "Ahavat Zion: love, mistaken identity, and intrigue in an imagined biblical Judah. All twenty-nine chapters.",
+        "category": "Historical Fiction",
+        "collectionLabel": "Complete Hebrew original",
+        "legacyPassageID": "he-ahavat-zion",
+        "translationCredit": "Complete Hebrew original; no prepared English edition. Abraham Mapu (1808–1867). Volunteer transcription from Project Ben-Yehuda, explicitly labeled public domain (נחלת הכלל) on the source page. No modern translation or illustrations included. Complete text from the reading pane retained; website navigation and heading-link icons omitted; paragraphs and part/chapter headings reformatted. The source does not specify an edition date.",
+        "resource": "he-ahavat-zion",
+        "sources": [
+          {
+            "title": "Project Ben-Yehuda: complete Hebrew text",
+            "url": "https://benyehuda.org/read/957"
+          },
+          {
+            "title": "Project Ben-Yehuda: public-domain reuse information",
+            "url": "https://benyehuda.org/page/about"
+          }
+        ]
+      },
+      "sha256": "dfe8754e8139a545c57e2771f5895039f5a0d94f5fdbccd7f14d24d10401c215",
+      "byteCount": 670073,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "he-ashmat-shomron",
+        "language": "Hebrew",
+        "title": "אשמת שומרון",
+        "author": "אברהם מאפו",
+        "summary": "Ashmat Shomron: a historical novel of ancient Samaria and Jerusalem. Both parts of the Hebrew original.",
+        "category": "Historical Fiction",
+        "collectionLabel": "Complete Hebrew original",
+        "legacyPassageID": "he-ashmat-shomron",
+        "translationCredit": "Complete Hebrew original; no prepared English edition. Abraham Mapu (1808–1867). Volunteer transcription from Project Ben-Yehuda, explicitly labeled public domain (נחלת הכלל) on the source page. No modern translation or illustrations included. Complete text from the reading pane retained; website navigation and heading-link icons omitted; paragraphs and part/chapter headings reformatted. Ashmat Shomron is identified by the source as Kol Kitvei Avraham Mapu, Dvir, Tel Aviv, 1939; this bibliographic line is retained here rather than as a reading chapter.",
+        "resource": "he-ashmat-shomron",
+        "sources": [
+          {
+            "title": "Project Ben-Yehuda: complete Hebrew text",
+            "url": "https://benyehuda.org/read/2358"
+          },
+          {
+            "title": "Project Ben-Yehuda: public-domain reuse information",
+            "url": "https://benyehuda.org/page/about"
+          }
+        ]
+      },
+      "sha256": "32f89f6256af228aecd9dfbea92da233353ffdd9531e81a303edcfd8d20f2f04",
+      "byteCount": 1318045,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "he-ayit-tzavua",
+        "language": "Hebrew",
+        "title": "עיט צבוע",
+        "author": "אברהם מאפו",
+        "summary": "Ayit Tzavua: a social novel of hypocrisy, education, and Jewish life in nineteenth-century Eastern Europe. All five parts.",
+        "category": "Society & Relationships",
+        "collectionLabel": "Complete Hebrew original",
+        "legacyPassageID": "he-ayit-tzavua",
+        "translationCredit": "Complete Hebrew original; no prepared English edition. Abraham Mapu (1808–1867). Volunteer transcription from Project Ben-Yehuda, explicitly labeled public domain (נחלת הכלל) on the source page. No modern translation or illustrations included. Complete text from the reading pane retained; website navigation and heading-link icons omitted; paragraphs and part/chapter headings reformatted. The source does not specify an edition date.",
+        "resource": "he-ayit-tzavua",
+        "sources": [
+          {
+            "title": "Project Ben-Yehuda: complete Hebrew text",
+            "url": "https://benyehuda.org/read/1432"
+          },
+          {
+            "title": "Project Ben-Yehuda: public-domain reuse information",
+            "url": "https://benyehuda.org/page/about"
+          }
+        ]
+      },
+      "sha256": "59509be680b3e0f4654b2bea5096f240dbb924cd3e1019456e2431a6d51707be",
+      "byteCount": 2251645,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ar-bukhala",
+        "language": "Arabic",
+        "title": "البخلاء",
+        "author": "الجاحظ",
+        "summary": "The Book of Misers: al-Jahiz’s satirical portraits, anecdotes, and arguments about generosity and avarice.",
+        "category": "Short Stories",
+        "collectionLabel": "Complete Arabic original",
+        "legacyPassageID": "ar-bukhala",
+        "translationCredit": "Complete Arabic original; no prepared English edition. Al-Jahiz (died 868/869), ninth-century Arabic original. Historical author’s text transcribed by Wikisource contributors; transcription and adapted text resource distributed under CC BY-SA 4.0. Exact source revision links identify the contributors and transcriptions. Website navigation and contents links omitted; prose, verse and headings reformatted into reading sections.",
+        "resource": "ar-bukhala",
+        "sources": [
+          {
+            "title": "Wikisource contributors: البخلاء",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%A7%D9%84%D8%A8%D8%AE%D9%84%D8%A7%D8%A1&oldid=506357"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "0a33f30d34a294d300b477401f7e57f9be691ccd71a03a26bd4beac58805ac44",
+      "byteCount": 721453,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ar-maqamat-hariri",
+        "language": "Arabic",
+        "title": "مقامات الحريري",
+        "author": "الحريري",
+        "summary": "Al-Hariri’s fifty assemblies blend storytelling, rhymed prose, verse, and verbal ingenuity. Includes the author’s preface.",
+        "category": "Short Stories",
+        "collectionLabel": "Complete Arabic original",
+        "legacyPassageID": "ar-maqamat-hariri",
+        "translationCredit": "Complete Arabic original; no prepared English edition. Al-Hariri of Basra (died 1122), author’s preface and all fifty assemblies in traditional order. Historical author’s text transcribed by Wikisource contributors; transcription and adapted text resource distributed under CC BY-SA 4.0. Exact source revision links identify the contributors and transcriptions. Website navigation and contents links omitted; prose, verse and headings reformatted into reading sections. The author’s preface and assembly 45 (the second Ramliyya, distinct from assembly 31) were independently transcribed from the 1897 edition edited by Francis Joseph Steingass (1825–1903), printed pages 1–7 and 374–377. Only the public-domain Arabic author’s text is used; English editorial notes are omitted. Optional vowel marks, print ornaments and punctuation are normalized in these two supplements.",
+        "resource": "ar-maqamat-hariri",
+        "sources": [
+          {
+            "title": "1897 Steingass edition: independently transcribed Arabic text",
+            "url": "https://archive.org/details/assembliesofalha00hari/page/n32/mode/2up"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الصنعانية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B5%D9%86%D8%B9%D8%A7%D9%86%D9%8A%D8%A9&oldid=271752"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الحلوانية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%AD%D9%84%D9%88%D8%A7%D9%86%D9%8A%D8%A9&oldid=290040"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الدينارية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D8%A9&oldid=82619"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الدمياطية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%AF%D9%85%D9%8A%D8%A7%D8%B7%D9%8A%D8%A9&oldid=225152"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الكوفية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%83%D9%88%D9%81%D9%8A%D8%A9&oldid=288146"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة المراغية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%BA%D9%8A%D8%A9&oldid=82696"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة البرقعيدية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B1%D9%82%D8%B9%D9%8A%D8%AF%D9%8A%D8%A9&oldid=404662"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة المعرية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%8A%D8%A9&oldid=82702"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الإسكندرية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9&oldid=404661"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الرحبية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B1%D8%AD%D8%A8%D9%8A%D8%A9&oldid=82625"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الساوية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%A7%D9%88%D9%8A%D8%A9&oldid=82640"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الدمشقية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%AF%D9%85%D8%B4%D9%82%D9%8A%D8%A9&oldid=82613"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة البغدادية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%D9%8A%D8%A9&oldid=404670"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة المكية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D9%83%D9%8A%D8%A9&oldid=82708"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الفرضية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%81%D8%B1%D8%B6%D9%8A%D8%A9&oldid=82680"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة المغربية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9&oldid=82705"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة القهقرية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%82%D9%87%D9%82%D8%B1%D9%8A%D8%A9&oldid=82687"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة السنجارية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D9%86%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9&oldid=82646"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة النصيبية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D8%A9&oldid=82719"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الفارقية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D9%82%D9%8A%D8%A9&oldid=82674"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الرازية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B1%D8%A7%D8%B2%D9%8A%D8%A9&oldid=301699"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الفراتية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9&oldid=82677"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الشعرية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D9%8A%D8%A9&oldid=82652"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة القطيعية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%82%D8%B7%D9%8A%D8%B9%D9%8A%D8%A9&oldid=82684"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الكرجية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%83%D8%B1%D8%AC%D9%8A%D8%A9&oldid=480807"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الرقطاء",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B1%D9%82%D8%B7%D8%A7%D8%A1&oldid=301607"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الوبرية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%88%D8%A8%D8%B1%D9%8A%D8%A9&oldid=82725"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة السمرقندية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D9%85%D8%B1%D9%82%D9%86%D8%AF%D9%8A%D8%A9&oldid=82643"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الواسطية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%88%D8%A7%D8%B3%D8%B7%D9%8A%D8%A9&oldid=82722"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الصورية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D9%8A%D8%A9&oldid=82665"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الرملية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B1%D9%85%D9%84%D9%8A%D8%A9&oldid=82631"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الطيبية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B7%D9%8A%D8%A8%D9%8A%D8%A9&oldid=82668"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة التفليسية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D9%81%D9%84%D9%8A%D8%B3%D9%8A%D8%A9&oldid=404664"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الزبيدية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%AF%D9%8A%D8%A9&oldid=82634"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الشيرازية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B4%D9%8A%D8%B1%D8%A7%D8%B2%D9%8A%D8%A9&oldid=82655"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الملطية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D9%84%D8%B7%D9%8A%D8%A9&oldid=283130"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الصعدية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B5%D8%B9%D8%AF%D9%8A%D8%A9&oldid=130701"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة المروية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D9%88%D9%8A%D8%A9&oldid=410332"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة العمانية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A%D8%A9&oldid=82671"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة التبريزية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%B2%D9%8A%D8%A9&oldid=404665"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة التنيسية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D9%86%D9%8A%D8%B3%D9%8A%D8%A9&oldid=404663"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة النجرانية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%86%D8%AC%D8%B1%D8%A7%D9%86%D9%8A%D8%A9&oldid=82714"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة البكرية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%B1%D9%8A%D8%A9&oldid=404666"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الشتوية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%8A%D8%A9&oldid=82649"
+          },
+          {
+            "title": "1897 Steingass edition: independently transcribed Arabic text",
+            "url": "https://archive.org/details/assembliesofalha00hari/page/n405/mode/2up"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الحلبية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%8A%D8%A9&oldid=82607"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الحجرية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B1%D9%8A%D8%A9&oldid=82601"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الحرامية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%85%D9%8A%D8%A9&oldid=82604"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة الساسانية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%A7%D8%B3%D8%A7%D9%86%D9%8A%D8%A9&oldid=82637"
+          },
+          {
+            "title": "Wikisource contributors: مقامات الحريري/المقامة البصرية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9&oldid=404669"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "title": "1897 historical edition and bibliographic record",
+            "url": "https://archive.org/details/assembliesofalha00hari"
+          }
+        ]
+      },
+      "sha256": "e7fda14d939661e396c292463d9d9031dd5753687fa149ea7eebc41f09ea330d",
+      "byteCount": 731598,
+      "englishCoverage": "none"
+    },
+    {
+      "info": {
+        "id": "ar-tawq-hamama",
+        "language": "Arabic",
+        "title": "طوق الحمامة",
+        "author": "ابن حزم",
+        "summary": "The Ring of the Dove: reflections, anecdotes, and poems on love. Includes the introduction, plan, and all thirty chapters.",
+        "category": "Philosophy & Ideas",
+        "collectionLabel": "Complete Arabic original",
+        "legacyPassageID": "ar-tawq-hamama",
+        "translationCredit": "Complete Arabic original; no prepared English edition. Ibn Hazm (died 1064), Arabic original, introduction, plan and all thirty chapters. Historical author’s text transcribed by Wikisource contributors; transcription and adapted text resource distributed under CC BY-SA 4.0. Exact source revision links identify the contributors and transcriptions. Website navigation and contents links omitted; prose, verse and headings reformatted into reading sections.",
+        "resource": "ar-tawq-hamama",
+        "sources": [
+          {
+            "title": "Wikisource contributors: طوق الحمامة/المقدمة",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9&oldid=478355"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/تقسيم الرسالة",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%AA%D9%82%D8%B3%D9%8A%D9%85%20%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9&oldid=284309"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الكلام في ماهية الحب",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%83%D9%84%D8%A7%D9%85%20%D9%81%D9%8A%20%D9%85%D8%A7%D9%87%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AD%D8%A8&oldid=478356"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/علامات الحب",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%A8&oldid=478357"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/من أحب في النوم",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D9%85%D9%86%20%D8%A3%D8%AD%D8%A8%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%86%D9%88%D9%85&oldid=478358"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/من أحب بالوصف",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D9%85%D9%86%20%D8%A3%D8%AD%D8%A8%20%D8%A8%D8%A7%D9%84%D9%88%D8%B5%D9%81&oldid=478359"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/من أحب من نظرة واحدة",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D9%85%D9%86%20%D8%A3%D8%AD%D8%A8%20%D9%85%D9%86%20%D9%86%D8%B8%D8%B1%D8%A9%20%D9%88%D8%A7%D8%AD%D8%AF%D8%A9&oldid=478360"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/من لا يحب إلا مع المطاولة",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D9%85%D9%86%20%D9%84%D8%A7%20%D9%8A%D8%AD%D8%A8%20%D8%A5%D9%84%D8%A7%20%D9%85%D8%B9%20%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D9%88%D9%84%D8%A9&oldid=478361"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/من أحب صفة لم يستحسن بعدها غيرها مما يخالفها",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D9%85%D9%86%20%D8%A3%D8%AD%D8%A8%20%D8%B5%D9%81%D8%A9%20%D9%84%D9%85%20%D9%8A%D8%B3%D8%AA%D8%AD%D8%B3%D9%86%20%D8%A8%D8%B9%D8%AF%D9%87%D8%A7%20%D8%BA%D9%8A%D8%B1%D9%87%D8%A7%20%D9%85%D9%85%D8%A7%20%D9%8A%D8%AE%D8%A7%D9%84%D9%81%D9%87%D8%A7&oldid=478362"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/التعريض بالقول",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D8%B6%20%D8%A8%D8%A7%D9%84%D9%82%D9%88%D9%84&oldid=478363"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الإشارة بالعين",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9%20%D8%A8%D8%A7%D9%84%D8%B9%D9%8A%D9%86&oldid=284288"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/المراسلة",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%B3%D9%84%D8%A9&oldid=478364"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/السفير",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1&oldid=478365"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/طي السر",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%B7%D9%8A%20%D8%A7%D9%84%D8%B3%D8%B1&oldid=478366"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الإذاعة",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9&oldid=478367"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الطاعة",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%B7%D8%A7%D8%B9%D8%A9&oldid=491031"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/المخالفة",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A9&oldid=478368"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/العاذل",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%B9%D8%A7%D8%B0%D9%84&oldid=478370"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/المساعد من الإخوان",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%20%D9%85%D9%86%20%D8%A7%D9%84%D8%A5%D8%AE%D9%88%D8%A7%D9%86&oldid=284302"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الرقيب",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%B1%D9%82%D9%8A%D8%A8&oldid=478371"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الوشي",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%88%D8%B4%D9%8A&oldid=478372"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الوصل",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%88%D8%B5%D9%84&oldid=478373"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الهجر",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%87%D8%AC%D8%B1&oldid=478378"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الوفاء",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A1&oldid=478382"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الغدر",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%BA%D8%AF%D8%B1&oldid=478379"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/البين",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%A8%D9%8A%D9%86&oldid=478383"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/القنوع",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%B9&oldid=478384"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الضنى",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%B6%D9%86%D9%89&oldid=478381"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/السلو",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%B3%D9%84%D9%88&oldid=478385"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/الموت",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D9%85%D9%88%D8%AA&oldid=478380"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/قبح المعصية",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D9%82%D8%A8%D8%AD%20%D8%A7%D9%84%D9%85%D8%B9%D8%B5%D9%8A%D8%A9&oldid=478386"
+          },
+          {
+            "title": "Wikisource contributors: طوق الحمامة/فضل التعفف",
+            "url": "https://ar.wikisource.org/w/index.php?title=%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A9/%D9%81%D8%B6%D9%84%20%D8%A7%D9%84%D8%AA%D8%B9%D9%81%D9%81&oldid=478377"
+          },
+          {
+            "title": "Transcription and adapted resource: CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ]
+      },
+      "sha256": "8b1946a5136acd18c63ecb6b29e413d7005425a465b540773c4c2df074445cee",
+      "byteCount": 411169,
+      "englishCoverage": "none"
     }
   ]
 }
